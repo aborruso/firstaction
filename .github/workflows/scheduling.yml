@@ -1,4 +1,4 @@
-name: scarica i dati
+name: scarica e tieni aggiornati i dati openregio
 
 on:
   push:
@@ -17,10 +17,14 @@ jobs:
         sudo apt-get update
         sudo apt-get install miller
         sudo apt-get install jq
-    - name: scarica i dati
+    - name: scarica e tieni aggiornati i dati openregio
       run: |-
-        curl -kL https://github.com/pcm-dpc/COVID-19/raw/master/dati-json/dpc-covid19-ita-province.json >data.json
-        mlr --j2c cat data.json >data.csv
+        curl -kL https://openregio.anbsc.it/statistiche/export/5/immobili/0/0/0/json | jq -c '.[]' >openregio_immobiliDestinati.json
+        curl -kL https://openregio.anbsc.it/statistiche/export/5/aziende/0/0/0/json | jq -c '.[]' >openregio_aziendeDestinate.json
+        curl -kL https://openregio.anbsc.it/statistiche/export_procedure/0/0/0/0/json | jq -c '.[]' >openregio_procedureGestione.json
+        mlr --j2c unsparsify then clean-whitespace openregio_immobiliDestinati.json >openregio_immobiliDestinati.csv
+        mlr --j2c unsparsify then clean-whitespace openregio_aziendeDestinate.json >openregio_aziendeDestinate.csv
+        mlr --j2c unsparsify then clean-whitespace openregio_procedureGestione.json >openregio_procedureGestione.csv
     - name: Committa e pusha se ci sono variazioni nei dati
       run: |-
         git config user.name "Automated"
