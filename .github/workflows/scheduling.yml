@@ -4,7 +4,7 @@ on:
   push:
   repository_dispatch:
   schedule:
-    - cron:  '36 * * * *'
+    - cron:  '38 * * * *'
 
 jobs:
   scheduled:
@@ -12,8 +12,6 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
-    - name: Install utilities
-      run:
     - name: Install utilities
       run: |-
         sudo apt-get install miller
