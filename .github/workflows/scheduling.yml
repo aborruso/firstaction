@@ -37,6 +37,3 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Data e ora aggiornamento: ${timestamp}" || exit 0
         git push
-
-
-https://openregio.anbsc.it/statistiche/export/1/aziende/0/0/0/json
