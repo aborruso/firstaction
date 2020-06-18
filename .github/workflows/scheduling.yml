@@ -4,7 +4,7 @@ on:
   push:
   repository_dispatch:
   schedule:
-    - cron:  '31 * * * *'
+    - cron:  '36 * * * *'
 
 jobs:
   scheduled:
@@ -12,6 +12,12 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
+    - name: Install utilities
+      run:
+    - name: Install utilities
+      run: |-
+        sudo apt-get install miller
+        sudo apt-get install jq
     - name: Fetch latest data
       run: |-
         curl -kL https://c19downloads.azureedge.net/downloads/data/data_latest.json >data.json
