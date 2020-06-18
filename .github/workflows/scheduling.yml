@@ -1,4 +1,4 @@
-name: Fetch latest data
+name: scarica i dati
 
 on:
   push:
@@ -12,16 +12,16 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
-    - name: Install utilities
+    - name: Installa le utility
       run: |-
         sudo apt-get update
         sudo apt-get install miller
         sudo apt-get install jq
-    - name: Fetch latest data
+    - name: scarica i dati
       run: |-
-        curl -kL https://c19downloads.azureedge.net/downloads/data/data_latest.json >data.json
+        curl -kL https://github.com/pcm-dpc/COVID-19/raw/master/dati-json/dpc-covid19-ita-province.json >data.json
         mlr --j2c cat data.json >data.csv
-    - name: Commit and push if it changed
+    - name: Committa e pusha se ci sono variazioni nei dati
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
