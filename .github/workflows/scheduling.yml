@@ -27,9 +27,9 @@ jobs:
         ./mlr --j2c unsparsify then clean-whitespace then sort -f nome_regione,distretto,ufficio_giudiziario,tipologia_procedura,provvedimento,procedura_rg openregio_procedureGestione.jsonl >openregio_procedureGestione.csv
     - name: Committa e pusha se ci sono variazioni nei dati
       run: |-
-        git config user.name "Automated"
+        git config user.name "automatico"
         git config user.email "actions@users.noreply.github.com"
         git add -A
         timestamp=$(date -u)
-        git commit -m "Latest data: ${timestamp}" || exit 0
+        git commit -m "Data e ora aggiornamento: ${timestamp}" || exit 0
         git push
