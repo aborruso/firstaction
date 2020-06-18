@@ -1,10 +1,10 @@
-name: scarica gli ultimi dati
+name: Fetch latest data
 
 on:
   push:
   repository_dispatch:
   schedule:
-    - cron:  '25 * * * *'
+    - cron:  '25,55 * * * *'
 
 jobs:
   scheduled:
@@ -12,11 +12,9 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
-    - name: Show curl --version
-      run: bin/curl --version
     - name: Fetch latest data
       run: |-
-        curl -kL https://github.com/pcm-dpc/COVID-19/raw/master/dati-regioni/dpc-covid19-ita-regioni-latest.csv > data_latest.csv
+        curl -kL https://c19downloads.azureedge.net/downloads/data/data_latest.json >data.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
