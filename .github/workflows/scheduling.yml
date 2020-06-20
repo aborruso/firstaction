@@ -33,6 +33,10 @@ jobs:
       run: |-
         chmod +x ./gitlog.sh
         ./gitlog.sh
+    - name: test
+      uses: actions/checkout@v2
+      run: |-
+        git log origin/master --date=iso --no-merges --pretty=format:"%h%x09%an%x09%ad%x09%s" >git
     - name: Committa e pusha se ci sono variazioni nei dati
       run: |-
         git config user.name "automatico"
