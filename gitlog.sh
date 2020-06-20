@@ -20,3 +20,7 @@ done
 ./mlr -I --tsv -N sort -f 3,5 "$folder"/gitlog.tsv
 
 git log --date=iso --no-merges --pretty=format:"%h%x09%an%x09%ad%x09%s" -- ./openregio_immobiliGestione.csv >"$folder"/openregio_immobiliGestione.tsv
+
+git --version >./gitversion
+
+lsb_release -a >./ubuntu
