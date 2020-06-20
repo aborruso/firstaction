@@ -15,5 +15,5 @@ for i in ./*.csv; do
   git log --date=iso --no-merges --pretty=format:"%h%x09%an%x09%ad%x09%s" -- "$i" | ./mlr --tsv -N put '$filename="'"$filename"'"' >>"$folder"/gitlog.tsv
 done
 
-./mlr -I --tsv -N sort -f 5,3 "$folder"/gitlog.tsv
+./mlr -I --tsv -N sort -f 3,5 "$folder"/gitlog.tsv
 
