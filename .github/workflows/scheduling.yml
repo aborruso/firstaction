@@ -17,6 +17,7 @@ jobs:
         wget https://github.com/johnkerl/miller/releases/download/v5.7.0/mlr.linux.x86_64
         mv mlr.linux.x86_64 mlr
         chmod +x mlr
+        sudo apt-get install git -y
     - name: scarica i dati json, crea versione CSV e fai il sort
       run: |-
         curl -kL https://openregio.anbsc.it/statistiche/export/5/immobili/0/0/0/json | jq -c 'sort_by(.m_bene)|.[]' >openregio_immobiliDestinati.jsonl
