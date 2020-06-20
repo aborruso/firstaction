@@ -3,7 +3,6 @@
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 rm "$folder"/gitlog.tsv
-rm "$folder"/gitlogt.tsv
 
 for i in ./*.csv; do
   #crea una variabile da usare per estrarre nome e estensione
@@ -13,14 +12,8 @@ for i in ./*.csv; do
   #estrai nome file
   filename="${filename%.*}"
   echo "$filename.$extension"
-  git log --date=iso --no-merges --pretty=format:"%h%x09%an%x09%ad%x09%s" -- "$i" | ./mlr --tsv -N put '$filename="'"$filename"'"' >>"$folder"/gitlog.tsv
-  git log --date=iso --no-merges --pretty=format:"%h%x09%an%x09%ad%x09%s" -- "$i" >>"$folder"/gitlogt.tsv
+  git log --all --date=iso --no-merges --pretty=format:"%h%x09%an%x09%ad%x09%s" -- "$i" | ./mlr --tsv -N put '$filename="'"$filename"'"' >>"$folder"/gitlog.tsv
 done
 
 ./mlr -I --tsv -N sort -f 3,5 "$folder"/gitlog.tsv
 
-git log --date=iso --no-merges --pretty=format:"%h%x09%an%x09%ad%x09%s" -- ./openregio_immobiliGestione.csv >"$folder"/openregio_immobiliGestione.tsv
-
-git --version >./gitversion
-
-lsb_release -a >./ubuntu
