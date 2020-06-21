@@ -22,3 +22,5 @@ if [[ "$response" == 200 ]]; then
   mlr --j2c unsparsify then clean-whitespace then sort -f s_bene openregio_aziendeGestione.jsonl >openregio_aziendeGestione.csv
   mlr --j2c unsparsify then clean-whitespace then sort -f nome_regione,distretto,ufficio_giudiziario,tipologia_procedura,provvedimento,procedura_rg openregio_procedureGestione.jsonl >openregio_procedureGestione.csv
 fi
+
+curl -X POST -H "Content-Type: application/json" -d '{"value1":"aggiornamento"}' https://maker.ifttt.com/trigger/alert/with/key/"$SUPER_SECRET"
