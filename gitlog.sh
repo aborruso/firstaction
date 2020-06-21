@@ -7,6 +7,8 @@ folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
 
+### crea log git per i file CSV, in formato JSON ###
+
 git log --since="2020-06-21T13:03:51 +0000" --date=iso --all --no-merges \
   --pretty=format:'{%n  "commit": "%H",%n  "author": "%aN <%aE>",%n  "date": "%ad",%n  "message": "%f"%n},' \
   -- '*.csv' |
@@ -33,6 +35,9 @@ git log --since="2020-06-21T13:03:51 +0000" --date=iso --all --no-merges \
 jq --slurp '.[1] as $logstat | .[0] | map(.paths = $logstat[.commit])' "$folder"/rawdata/gitlog.json "$folder"/rawdata/gitlogstat.json >"$folder"/processing/tmplog.json
 
 jq <"$folder"/processing/tmplog.json -c '.[]' >"$folder"/processing/log.json
+
+
+### converti il log JSON in formato CSV ###
 
 mlr <"$folder"/processing/log.json --j2c unsparsify >"$folder"/processing/tmplog.csv
 
