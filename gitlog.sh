@@ -31,6 +31,7 @@ mlr --c2t sort -r date then put '$URL="https://github.com/aborruso/firstaction/c
 # altrà modalità di creazione log, in formato json
 
 mkdir -p "$folder"/rawdata
+mkdir -p "$folder"/processing
 
 git log --since="2020-06-21T13:03:51 +0000" --date=iso --all --no-merges \
   --pretty=format:'{%n  "commit": "%H",%n  "author": "%aN <%aE>",%n  "date": "%ad",%n  "message": "%f"%n},' \
@@ -55,9 +56,10 @@ git log --since="2020-06-21T13:03:51 +0000" --date=iso --all --no-merges \
   perl -wpe 's#(]|}),\s*(]|})#$1$2#g' |
   perl -wpe 's#,\s*?}$#}#' | jq . >"$folder"/rawdata/gitlogstat.json
 
-jq --slurp '.[1] as $logstat | .[0] | map(.paths = $logstat[.commit])' "$folder"/rawdata/gitlog.json "$folder"/rawdata/gitlogstat.json >"$folder"/tmplog.json
-jq <"$folder"/tmplog.json -c '.[]' >"$folder"/log.json
+jq --slurp '.[1] as $logstat | .[0] | map(.paths = $logstat[.commit])' "$folder"/rawdata/gitlog.json "$folder"/rawdata/gitlogstat.json >"$folder"/processing/tmplog.json
 
-mlr <"$folder"/log.json --j2c unsparsify >"$folder"/tmplog.csv
+jq <"$folder"/processing/tmplog.json -c '.[]' >"$folder"/processing/log.json
 
-mlr <"$folder"/tmplog.csv --csv cat -n then reshape -r ":" -o item,value then filter -x '$value==""' then put '$item=sub($item,"paths:","")' then nest --explode --values --across-fields --nested-fs ":"  -f item then reshape -s item_2,value then cut -x -f n,item_1 then sort -r date then filter '$author=~"actions"' >"$folder"/tmp2.csv
+mlr <"$folder"/processing/log.json --j2c unsparsify >"$folder"/processing/tmplog.csv
+
+mlr <"$folder"/processing/tmplog.csv --csv cat -n then reshape -r ":" -o item,value then filter -x '$value==""' then put '$item=sub($item,"paths:","")' then nest --explode --values --across-fields --nested-fs ":"  -f item then reshape -s item_2,value then cut -x -f n,item_1 then sort -r date then filter '$author=~"actions"' >"$folder"/processing/tmp2.csv
