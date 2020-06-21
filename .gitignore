@@ -3,3 +3,4 @@ tmp*
 rawdata/*
 gitlog.tsv
 res.csv
+log.json

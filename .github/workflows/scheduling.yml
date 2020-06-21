@@ -24,7 +24,6 @@ jobs:
       run: |-
         export PATH=$PATH:~/bin
         ./download.sh
-        ./log.sh
     - name: Committa e pusha se ci sono variazioni nei dati
       run: |-
         git config user.name "automatico"
