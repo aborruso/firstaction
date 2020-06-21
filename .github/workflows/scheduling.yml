@@ -21,7 +21,7 @@ jobs:
         mv mlr.linux.x86_64 mlr
         chmod +x mlr
         export PATH=$PATH:~/bin
-        cd ~/runner/work/firstaction/firstaction
+        cd ~/work/firstaction/firstaction
         mlr --tsv head testEnv.tsv
     - name: scarica i dati json, crea versione CSV e fai il sort
       run: |-
