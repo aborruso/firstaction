@@ -22,5 +22,7 @@ Le colonne sono, `hash, nome utente, data ISO del commit, e messaggio di commit`
 
 ## Esportare come tsv/csv il log git di un file - modo 2
 
-Ho preso spunto da questa modalità <https://stackoverflow.com/questions/21137477/how-to-get-git-log-with-short-stat-in-one-line>
+Ho preso spunto da questa modalità <https://stackoverflow.com/questions/21137477/how-to-get-git-log-with-short-stat-in-one-line>.
+
+L'output però non è corretto per numero di righe cancellate e aggiunte.
 
