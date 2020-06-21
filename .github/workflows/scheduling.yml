@@ -1,7 +1,7 @@
 name: scarica e tieni aggiornati i dati openregio
 
 on:
-#  push:
+  push:
   repository_dispatch:
   schedule:
     - cron:  '52 */3 * * *'
@@ -16,9 +16,8 @@ jobs:
       run: |-
         pwd
         mkdir -p ~/bin
+        cp bin/mlr ~/bin
         cd ~/bin
-        wget https://github.com/johnkerl/miller/releases/download/v5.7.0/mlr.linux.x86_64
-        mv mlr.linux.x86_64 mlr
         chmod +x mlr
     - name: scarica i dati json, crea versione CSV e fai il sort, e se ci sono aggiornamenti avvisami
       env:
