@@ -32,13 +32,13 @@ mlr --c2t sort -r date then put '$URL="https://github.com/aborruso/firstaction/c
 
 mkdir -p "$folder"/rawdata
 
-git log --since="2020-06-18T21:35:51 +0000" --date=iso --all --no-merges  \
+git log --since="2020-06-21T14:04:51 +0000" --date=iso --all --no-merges  \
   --pretty=format:'{%n  "commit": "%H",%n  "author": "%aN <%aE>",%n  "date": "%ad",%n  "message": "%f"%n},' \
   -- '*.csv' |
   perl -pe 'BEGIN{print "["}; END{print "]\n"}' |
   perl -pe 's/},]/}]/' | jq . >"$folder"/rawdata/gitlog.json
 
-git log --since="2020-06-18T21:35:51 +0000" --date=iso --all --no-merges  \
+git log --since="2020-06-21T14:04:51 +0000" --date=iso --all --no-merges  \
   --numstat \
   --format='%H' \
   -- '*.csv' |
@@ -56,3 +56,6 @@ git log --since="2020-06-18T21:35:51 +0000" --date=iso --all --no-merges  \
   perl -wpe 's#,\s*?}$#}#' | jq . >"$folder"/rawdata/gitlogstat.json
 
 jq --slurp '.[1] as $logstat | .[0] | map(.paths = $logstat[.commit])' "$folder"/rawdata/gitlog.json "$folder"/rawdata/gitlogstat.json | jq -c '.[]' >"$folder"/log.json
+
+
+
