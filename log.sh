@@ -31,4 +31,4 @@ git log --since="2020-06-18T21:35:51 +0000" --date=iso --all --no-merges  \
   perl -wpe 's#(]|}),\s*(]|})#$1$2#g' |
   perl -wpe 's#,\s*?}$#}#' | jq . >"$folder"/rawdata/gitlogstat.json
 
-jq --slurp '.[1] as $logstat | .[0] | map(.paths = $logstat[.commit])' "$folder"/rawdata/gitlog.json "$folder"/rawdata/gitlogstat.json | jq -c '.[]' >"$folder"/rawdata/log.json
+jq --slurp '.[1] as $logstat | .[0] | map(.paths = $logstat[.commit])' "$folder"/rawdata/gitlog.json "$folder"/rawdata/gitlogstat.json | jq -c '.[]' >"$folder"/log.json

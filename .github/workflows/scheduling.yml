@@ -1,7 +1,7 @@
 name: scarica e tieni aggiornati i dati openregio
 
 on:
-#  push:
+  push:
   repository_dispatch:
   schedule:
     - cron:  '52 */3 * * *'
@@ -18,12 +18,13 @@ jobs:
         cp bin/mlr ~/bin
         cd ~/bin
         chmod +x mlr
-    - name: scarica i dati json, crea versione CSV e fai il sort, e se ci sono aggiornamenti avvisami
+    - name: scarica i dati json, crea versione CSV, crea log e se ci sono aggiornamenti avvisami
       env:
         SUPER_SECRET: ${{ secrets.IFTTT }}
       run: |-
         export PATH=$PATH:~/bin
         ./download.sh
+        ./log.sh
     - name: Committa e pusha se ci sono variazioni nei dati
       run: |-
         git config user.name "automatico"
