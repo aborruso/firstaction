@@ -1,7 +1,7 @@
 name: scarica e tieni aggiornati i dati openregio
 
 on:
-  push:
+#  push:
   repository_dispatch:
   schedule:
     - cron:  '52 */3 * * *'
