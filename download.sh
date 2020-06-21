@@ -9,7 +9,6 @@ mkdir -p "$folder"/rawdata
 response=$(curl -k --connect-timeout 5 --write-out %{http_code} --silent --output /dev/null https://openregio.anbsc.it/statistiche/export/5/immobili/0/0/0/json)
 
 if [[ "$response" == 200 ]]; then
-
   curl -kL https://openregio.anbsc.it/statistiche/export/5/immobili/0/0/0/json | jq -c 'sort_by(.m_bene)|.[]' >openregio_immobiliDestinati.jsonl
   curl -kL https://openregio.anbsc.it/statistiche/export/1/immobili/0/0/0/json | jq -c 'sort_by(.s_bene)|.[]' >openregio_immobiliGestione.jsonl
   curl -kL https://openregio.anbsc.it/statistiche/export/5/aziende/0/0/0/json | jq -c 'sort_by(.m_bene)|.[]' >openregio_aziendeDestinate.jsonl
