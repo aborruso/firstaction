@@ -23,7 +23,7 @@ jobs:
         export PATH=$PATH:~/bin
         cd ~/work/firstaction/firstaction
         mlr --tsv head testEnv.tsv
-    - name: scarica i dati json, crea versione CSV e fai il sort
+    - name: scarica i dati json, crea versione CSV e fai il sort, e se ci sono aggiornamenti avvisami
       env:
         SUPER_SECRET: ${{ secrets.IFTTT }}
       run: |-

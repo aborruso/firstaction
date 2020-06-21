@@ -23,6 +23,7 @@ if [[ "$response" == 200 ]]; then
   mlr --j2c unsparsify then clean-whitespace then sort -f nome_regione,distretto,ufficio_giudiziario,tipologia_procedura,provvedimento,procedura_rg openregio_procedureGestione.jsonl >openregio_procedureGestione.csv
 fi
 
+# se ci sono novità sul repo, avvisami
 if [ $(git status --porcelain | wc -l) -eq "0" ]; then
   echo "  🟢 Git repo is clean."
 else
