@@ -23,4 +23,9 @@ if [[ "$response" == 200 ]]; then
   mlr --j2c unsparsify then clean-whitespace then sort -f nome_regione,distretto,ufficio_giudiziario,tipologia_procedura,provvedimento,procedura_rg openregio_procedureGestione.jsonl >openregio_procedureGestione.csv
 fi
 
-curl -X POST -H "Content-Type: application/json" -d '{"value1":"aggiornamento"}' https://maker.ifttt.com/trigger/alert/with/key/"$SUPER_SECRET"
+if [ $(git status --porcelain | wc -l) -eq "0" ]; then
+  echo "  🟢 Git repo is clean."
+else
+  echo "  🔴 Git repo dirty. Quit."
+  curl -X POST -H "Content-Type: application/json" -d '{"value1":"novità sul repo openregio"}' https://maker.ifttt.com/trigger/alert/with/key/"$SUPER_SECRET"
+fi
