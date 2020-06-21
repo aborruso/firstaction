@@ -6,7 +6,7 @@ folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 mkdir -p "$folder"/rawdata
 
-# veririca se le API di openregio rispondono
+# verifica se le API di openregio rispondono
 response=$(curl -k --connect-timeout 5 --write-out %{http_code} --silent --output /dev/null https://openregio.anbsc.it/statistiche/export/5/immobili/0/0/0/json)
 
 # se rispondono scarica i dati, fai il sort per m_bene o s_bene e converti in CSV
