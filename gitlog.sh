@@ -36,4 +36,13 @@ jq <"$folder"/processing/tmplog.json -c '.[]' >"$folder"/processing/log.json
 
 mlr <"$folder"/processing/log.json --j2c unsparsify >"$folder"/processing/tmplog.csv
 
-mlr <"$folder"/processing/tmplog.csv --csv cat -n then reshape -r ":" -o item,value then filter -x '$value==""' then put '$item=sub($item,"paths:","")' then nest --explode --values --across-fields --nested-fs ":"  -f item then reshape -s item_2,value then cut -x -f n,item_1 then sort -r date then filter '$author=~"actions"' then put '$URLcommit="https://github.com/aborruso/firstaction/commit/".$commit' >"$folder"/processing/tmp2.csv
+mlr <"$folder"/processing/tmplog.csv --csv cat -n \
+  then reshape -r ":" -o item,value \
+  then filter -x '$value==""' \
+  then put '$item=sub($item,"paths:","")' \
+  then nest --explode --values --across-fields --nested-fs ":" -f item \
+  then reshape -s item_2,value \
+  then cut -x -f n,item_1 \
+  then sort -r date \
+  then filter '$author=~"actions"' \
+  then put '$URLcommit="https://github.com/aborruso/firstaction/commit/".$commit' >"$folder"/processing/tmp2.csv
