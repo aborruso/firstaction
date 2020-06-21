@@ -27,6 +27,7 @@ jobs:
       env:
         SUPER_SECRET: ${{ secrets.IFTTT }}
       run: |-
+        export PATH=$PATH:~/bin
         ./download.sh
     - name: Committa e pusha se ci sono variazioni nei dati
       run: |-
