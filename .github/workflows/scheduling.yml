@@ -14,12 +14,14 @@ jobs:
       uses: actions/checkout@v2
     - name: Installa le utility e assegna path
       run: |-
+        pwd
         mkdir -p ~/bin
         cd ~/bin
         wget https://github.com/johnkerl/miller/releases/download/v5.7.0/mlr.linux.x86_64
         mv mlr.linux.x86_64 mlr
         chmod +x mlr
         export PATH=$PATH:~/bin
+        cd ~/
         mlr --tsv head testEnv.tsv
     - name: scarica i dati json, crea versione CSV e fai il sort
       run: |-
