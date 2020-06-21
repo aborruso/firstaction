@@ -4,32 +4,6 @@ set -x
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
-mkdir -p "$folder"/rawdata/gitlog
-
-for i in ./*.csv; do
-  #crea una variabile da usare per estrarre nome e estensione
-  filename=$(basename "$i")
-  #estrai estensione
-  extension="${filename##*.}"
-  #estrai nome file
-  filename="${filename%.*}"
-  echo "$filename.$extension"
-  echo "commitId,author,date,comment,changedFiles,linesAdded,linesDeleted" >"$folder"/rawdata/gitlog/"$filename".csv
-  git log --since="2020-06-18T21:35:51 +0000" --date=iso --all --no-merges --pretty="%x40%h%x2C%an%x2C%ad%x2C%x22%s%x22%x2C" --shortstat -- "$i" | tr "\n" " " | tr "@" "\n" >>"$folder"/rawdata/gitlog/"$filename".csv
-  sed -i 's/ files changed//g' "$folder"/rawdata/gitlog/"$filename".csv
-  sed -i 's/ file changed//g' "$folder"/rawdata/gitlog/"$filename".csv
-  sed -i 's/ insertions(+)//g' "$folder"/rawdata/gitlog/"$filename".csv
-  sed -i 's/ insertion(+)//g' "$folder"/rawdata/gitlog/"$filename".csv
-  sed -i 's/ deletions(-)//g' "$folder"/rawdata/gitlog/"$filename".csv
-  sed -i 's/ deletion(-)//g' "$folder"/rawdata/gitlog/"$filename".csv
-  sed -i '/^$/d' "$folder"/rawdata/gitlog/"$filename".csv
-  mlr -I --csv --allow-ragged-csv-input clean-whitespace then put '$fileName="'"$filename"'"' "$folder"/rawdata/gitlog/"$filename".csv
-done
-
-mlr --c2t sort -r date then put '$URL="https://github.com/aborruso/firstaction/commit/".$commitId' "$folder"/rawdata/gitlog/*.csv >"$folder"/gitlog.tsv
-
-# altrà modalità di creazione log, in formato json
-
 mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
 
@@ -62,4 +36,4 @@ jq <"$folder"/processing/tmplog.json -c '.[]' >"$folder"/processing/log.json
 
 mlr <"$folder"/processing/log.json --j2c unsparsify >"$folder"/processing/tmplog.csv
 
-mlr <"$folder"/processing/tmplog.csv --csv cat -n then reshape -r ":" -o item,value then filter -x '$value==""' then put '$item=sub($item,"paths:","")' then nest --explode --values --across-fields --nested-fs ":"  -f item then reshape -s item_2,value then cut -x -f n,item_1 then sort -r date then filter '$author=~"actions"' >"$folder"/processing/tmp2.csv
+mlr <"$folder"/processing/tmplog.csv --csv cat -n then reshape -r ":" -o item,value then filter -x '$value==""' then put '$item=sub($item,"paths:","")' then nest --explode --values --across-fields --nested-fs ":"  -f item then reshape -s item_2,value then cut -x -f n,item_1 then sort -r date then filter '$author=~"actions"' then put '$URLcommit="https://github.com/aborruso/firstaction/commit/".$commit' >"$folder"/processing/tmp2.csv
