@@ -12,9 +12,8 @@ jobs:
     steps:
     - name: Utilizza l'action github checkout@v2, per automatizzare il check-out
       uses: actions/checkout@v2
-    - name: Installa le utility e assegna path
+    - name: crea cartella utente bin, e copia dentro l'eseguibile di miller
       run: |-
-        pwd
         mkdir -p ~/bin
         cp bin/mlr ~/bin
         cd ~/bin
