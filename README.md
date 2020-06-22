@@ -10,3 +10,11 @@ Realizzato nel file `gitlog.sh` in cui il codice è preso da <https://github.com
 Questa modalità crea il log in formato JSON.
 
 È stata aggiunta la conversione da JSON a CSV, tramite miller.
+
+## fare tutorial
+
+Come dati, questi <https://www.mise.gov.it/index.php/it/open-data/elenco-dataset/2032336-carburanti-prezzi-praticati-e-anagrafica-degli-impianti>
+
+## Un motore per attivare la webarchiazione di una lista di URL e figli
+
+
