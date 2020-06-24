@@ -586,7 +586,7 @@ I-AQ-86023-S,immobili,Abruzzo,L'Aquila,Tagliacozzo,Unità immobiliare per uso di
 I-AQ-86037-S,immobili,Abruzzo,L'Aquila,Tagliacozzo,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Revoca Sequ. parziale,0%,Tribunale,Roma,Misure di Prevenzione
 I-AQ-86038-S,immobili,Abruzzo,L'Aquila,Tagliacozzo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Sequ. parziale,100%,Tribunale,Roma,Misure di Prevenzione
 I-AQ-86044-S,immobili,Abruzzo,L'Aquila,Tagliacozzo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Sequ. parziale,100%,Tribunale,Roma,Misure di Prevenzione
-I-AQ-86638-S,immobili,Abruzzo,L'Aquila,Canistro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-AQ-86638-S,immobili,Abruzzo,L'Aquila,Canistro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
 I-AR-78663-S,immobili,Toscana,Arezzo,Castiglion Fibocchi,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Arezzo,Procedimento Penale
 I-AR-78958-S,immobili,Toscana,Arezzo,Marciano della Chiana,Unità immobiliare per uso di abitazione e assimilabile,Villa,Sequestro,100%,Procura della Repubblica,Arezzo,Procedimento Penale
 I-AR-78959-S,immobili,Toscana,Arezzo,Marciano della Chiana,Altra unità immobiliare,Altra unità  immobil. - non definito,Sequestro,100%,Procura della Repubblica,Arezzo,Procedimento Penale
@@ -5850,6 +5850,7 @@ I-LT-87075-S,immobili,Lazio,Latina,San Felice Circeo,Unità immobiliare per uso 
 I-LT-87076-S,immobili,Lazio,Latina,San Felice Circeo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
 I-LT-87511-S,immobili,Lazio,Latina,San Felice Circeo,Terreno,Terreno - non definito,,0%,Tribunale,Roma,Misure di Prevenzione
 I-LT-87593-S,immobili,Lazio,Latina,San Felice Circeo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Roma,Misure di Prevenzione
+I-LT-87674-S,immobili,Lazio,Latina,Formia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Latina,Misure di Prevenzione
 I-LT-8790-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Latina,Misure di Prevenzione
 I-LT-8791-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Latina,Misure di Prevenzione
 I-LU-36226-S,immobili,Toscana,Lucca,Viareggio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
@@ -14140,8 +14141,8 @@ I-RM-86034-S,immobili,Lazio,Roma,Sacrofano,Unità immobiliare per uso di abitazi
 I-RM-86035-S,immobili,Lazio,Roma,Sacrofano,Altra unità immobiliare,Altra unità  immobil. - non definito,Revoca Sequ. parziale,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-86036-S,immobili,Lazio,Roma,Sacrofano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Sequ. parziale,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-86040-S,immobili,Lazio,Roma,Sacrofano,Unità immobiliare per uso di abitazione e assimilabile,Villa,Revoca Sequ. parziale,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86041-S,immobili,Lazio,Roma,Sacrofano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86042-S,immobili,Lazio,Roma,Sacrofano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86041-S,immobili,Lazio,Roma,Sacrofano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86042-S,immobili,Lazio,Roma,Sacrofano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-86045-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Sequ. parziale,50%,Tribunale,Roma,Misure di Prevenzione
 I-RM-86046-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Sequ. parziale,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-86047-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Revoca Sequ. parziale,100%,Tribunale,Roma,Misure di Prevenzione
@@ -14168,10 +14169,10 @@ I-RM-86315-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e
 I-RM-86316-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,0%,Tribunale,Roma,Misure di Prevenzione
 I-RM-86615-S,immobili,Lazio,Roma,Formello,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-86616-S,immobili,Lazio,Roma,Formello,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86639-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86640-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86641-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86642-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86639-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86640-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Altro,Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86641-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86642-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-86643-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-86644-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-86645-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
@@ -14315,6 +14316,8 @@ I-SA-3691-S,immobili,Campania,Salerno,Agropoli,Unità immobiliare per uso di abi
 I-SA-37747-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-SA-37755-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-SA-38124-S,immobili,Campania,Salerno,Pontecagnano Faiano,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-4085-S,immobili,Campania,Salerno,Pontecagnano Faiano,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Salerno,Procedimento Penale
+I-SA-41116-S,immobili,Campania,Salerno,Pontecagnano Faiano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Procura della Repubblica,Salerno,Procedimento Penale
 I-SA-41284-S,immobili,Campania,Salerno,Postiglione,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-41354-S,immobili,Campania,Salerno,Postiglione,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-41355-S,immobili,Campania,Salerno,Postiglione,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
@@ -17129,9 +17132,9 @@ I-VT-80783-S,immobili,Lazio,Viterbo,Monte Romano,Terreno,Terreno agricolo,Confis
 I-VT-80784-S,immobili,Lazio,Viterbo,Tarquinia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-VT-84156-S,immobili,Lazio,Viterbo,Gradoli,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-VT-84157-S,immobili,Lazio,Viterbo,Gradoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
-I-VT-86617-S,immobili,Lazio,Viterbo,Fabrica di Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-VT-86620-S,immobili,Lazio,Viterbo,Fabrica di Roma,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-VT-86621-S,immobili,Lazio,Viterbo,Fabrica di Roma,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-VT-86617-S,immobili,Lazio,Viterbo,Fabrica di Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
+I-VT-86620-S,immobili,Lazio,Viterbo,Fabrica di Roma,Terreno,Terreno agricolo,Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
+I-VT-86621-S,immobili,Lazio,Viterbo,Fabrica di Roma,Terreno,Terreno agricolo,Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
 I-VT-87247-S,immobili,Lazio,Viterbo,Corchiano,Terreno,Terreno agricolo,,100%,Tribunale,Napoli,Misure di Prevenzione
 I-VV-12804-S,immobili,Calabria,Vibo Valentia,Zambrone,Terreno,Terreno agricolo,Confisca def.,20%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-VV-17286-S,immobili,Calabria,Vibo Valentia,Vibo Valentia,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
