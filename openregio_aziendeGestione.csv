@@ -627,6 +627,7 @@ A-CT-8522-S,aziende,Sicilia,Catania,Militello in Val di Catania,Consorzio,"Altri
 A-CT-8523-S,aziende,Sicilia,Catania,Militello in Val di Catania,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-86303-S,aziende,Sicilia,Catania,Fiumefreddo di Sicilia,Società a responsabilità limitata,"Pesca, piscicoltura e servizi connessi",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-86305-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+A-CT-87675-S,aziende,Sicilia,Catania,Gravina di Catania,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-CZ-13987-S,aziende,Calabria,Catanzaro,Catanzaro,Impresa individuale,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 A-CZ-13988-S,aziende,Calabria,Catanzaro,Catanzaro,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 A-CZ-39340-S,aziende,Calabria,Catanzaro,Guardavalle,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -1189,7 +1190,6 @@ A-NA-38630-S,aziende,Campania,Napoli,Napoli,Impresa individuale,"Commercio ingro
 A-NA-387-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-388-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-38987-S,aziende,Campania,Napoli,Torre del Greco,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-A-NA-38989-S,aziende,Campania,Napoli,Torre del Greco,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-391-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-39283-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-41329-S,aziende,Campania,Napoli,Somma Vesuviana,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -1971,7 +1971,7 @@ A-RC-79925-S,aziende,Calabria,Reggio Calabria,Bianco,Società in accomandita sem
 A-RC-79940-S,aziende,Calabria,Reggio Calabria,Cittanova,Associazione,Amministrazione pubblica,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-79952-S,aziende,Calabria,Reggio Calabria,Palmi,Impresa individuale,Costruzioni,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RC-79953-S,aziende,Calabria,Reggio Calabria,Palmi,Impresa individuale,Costruzioni,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
-A-RC-79954-S,aziende,Calabria,Reggio Calabria,Palmi,Impresa individuale,Costruzioni,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
+A-RC-79954-S,aziende,Calabria,Reggio Calabria,Palmi,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RC-80097-S,aziende,Calabria,Reggio Calabria,Cittanova,Associazione,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RC-80257-S,aziende,Calabria,Reggio Calabria,Bagnara Calabra,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-80775-S,aziende,Calabria,Reggio Calabria,San Lorenzo,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -2361,7 +2361,7 @@ A-RM-87009-S,aziende,Lazio,Roma,Roma,Impresa individuale,"Altri servizi pubblici
 A-RM-87585-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,,,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-87591-S,aziende,Lazio,Roma,Roma,Società per azioni,,,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-87592-S,aziende,Lazio,Roma,Roma,Società per azioni,,,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-87600-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,,,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-87600-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-87601-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,,,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-8775-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-RM-8777-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Attività finanziarie,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
