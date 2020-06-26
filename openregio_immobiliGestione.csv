@@ -13356,9 +13356,9 @@ I-RE-50405-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Unità immobiliare 
 I-RE-50407-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-50409-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-50414-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-RE-50463-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-RE-50463-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-50466-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
-I-RE-50473-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Terreno,Terreno - non definito,Confisca def.,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-RE-50473-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-50474-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-50537-S,immobili,Emilia Romagna,Reggio Emilia,Reggio nell'Emilia,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-50538-S,immobili,Emilia Romagna,Reggio Emilia,Reggio nell'Emilia,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
@@ -14173,29 +14173,29 @@ I-RM-86639-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e
 I-RM-86640-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Altro,Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-86641-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-86642-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86643-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86644-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86645-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86646-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86647-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86643-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86644-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86645-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86646-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86647-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-86648-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86649-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86650-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86651-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,50%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86652-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86653-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,50%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86654-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,50%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86656-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86657-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86658-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86649-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86650-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86651-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Conf. parziale,50%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86652-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86653-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Conf. parziale,50%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86654-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Conf. parziale,50%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86656-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86657-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86658-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-86659-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-86660-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-86661-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86662-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86663-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86664-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86662-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86663-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86664-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-86696-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-86697-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-86697-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-86698-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-86702-S,immobili,Lazio,Roma,Sacrofano,Terreno,Terreno agricolo,Revoca Sequ. parziale,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-86703-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per alloggio e usi collettivi,Fabbricato annesso a speciali esigenze commerciali,Revoca Sequ. parziale,100%,Tribunale,Roma,Misure di Prevenzione
@@ -14867,7 +14867,7 @@ I-TA-20430-S,immobili,Puglia,Taranto,Lizzano,Terreno,Terreno agricolo,Confisca d
 I-TA-20431-S,immobili,Puglia,Taranto,Lizzano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 I-TA-20439-S,immobili,Puglia,Taranto,Lizzano,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 I-TA-20443-S,immobili,Puglia,Taranto,Lizzano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
-I-TA-20742-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-20742-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 I-TA-20762-S,immobili,Puglia,Taranto,Massafra,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 I-TA-21056-S,immobili,Puglia,Taranto,Martina Franca,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Taranto,Misure di Prevenzione
 I-TA-22460-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,20%,Tribunale,Taranto,Misure di Prevenzione
