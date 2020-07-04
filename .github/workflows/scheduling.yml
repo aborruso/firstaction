@@ -28,8 +28,8 @@ jobs:
         export PATH=$PATH:~/bin
         chmod +x ./download.sh
         ./download.sh
-        chmod +x ./gitlog_test.sh
-        ./gitlog_test.sh
+        chmod +x ./gitlog.sh
+        ./gitlog.sh
     - name: Committa e pusha se ci sono variazioni nei dati
       run: |-
         git config user.name "automatico"
