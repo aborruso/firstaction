@@ -50,4 +50,5 @@ mlr <"$folder"/processing/tmplog.csv --csv cat -n \
   then cut -x -f n,item_1 \
   then sort -r date \
   then filter '$author=~"actions"' \
+  then filter -x '$path=~"log"' \
   then put '$URLcommit="https://github.com/aborruso/firstaction/commit/".$commit' >"$folder"/processing/log.csv
