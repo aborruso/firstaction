@@ -4340,7 +4340,7 @@ I-CZ-83251-S,immobili,Calabria,Catanzaro,Soverato,Terreno,Terreno agricolo,,100%
 I-CZ-83252-S,immobili,Calabria,Catanzaro,Soverato,Terreno,Terreno agricolo,,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CZ-83253-S,immobili,Calabria,Catanzaro,Soverato,Terreno,Terreno agricolo,,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CZ-83254-S,immobili,Calabria,Catanzaro,Soverato,Terreno,Terreno agricolo,,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
-I-CZ-84224-S,immobili,Calabria,Catanzaro,San Sostene,Terreno,Terreno - non definito,,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-CZ-84224-S,immobili,Calabria,Catanzaro,San Sostene,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CZ-84225-S,immobili,Calabria,Catanzaro,San Sostene,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CZ-85049-S,immobili,Calabria,Catanzaro,Lamezia Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-85063-S,immobili,Calabria,Catanzaro,Lamezia Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
@@ -6281,8 +6281,8 @@ I-MB-73927-S,immobili,Lombardia,Monza e Brianza,Cesano Maderno,Unità immobiliar
 I-MB-74003-S,immobili,Lombardia,Monza e Brianza,Limbiate,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Cremona,Misure di Prevenzione
 I-MB-74185-S,immobili,Lombardia,Monza e Brianza,Bovisio-Masciago,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-74317-S,immobili,Lombardia,Monza e Brianza,Cesano Maderno,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-75875-S,immobili,Lombardia,Monza e Brianza,Cogliate,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,100%,Tribunale,Monza,Misure di Prevenzione
-I-MB-75886-S,immobili,Lombardia,Monza e Brianza,Cogliate,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca I,100%,Tribunale,Monza,Misure di Prevenzione
+I-MB-75875-S,immobili,Lombardia,Monza e Brianza,Cogliate,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
+I-MB-75886-S,immobili,Lombardia,Monza e Brianza,Cogliate,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
 I-MB-76289-S,immobili,Lombardia,Monza e Brianza,Seregno,Unità immobiliare per alloggio e usi collettivi,"Casa di Cura, Ospedale",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-76290-S,immobili,Lombardia,Monza e Brianza,Desio,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-76294-S,immobili,Lombardia,Monza e Brianza,Misinto,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -10710,10 +10710,10 @@ I-PA-72924-S,immobili,Sicilia,Palermo,Cinisi,Terreno,Terreno - non definito,Impu
 I-PA-72925-S,immobili,Sicilia,Palermo,Cinisi,Terreno,Terreno - non definito,Impugnazione,100%,Procura della Repubblica,Palermo,Procedimento Penale
 I-PA-72935-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
 I-PA-72938-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
-I-PA-73061-S,immobili,Sicilia,Palermo,Carini,Terreno,Terreno con fabbricato rurale,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-73066-S,immobili,Sicilia,Palermo,Carini,Terreno,Terreno con fabbricato rurale,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-73079-S,immobili,Sicilia,Palermo,Carini,Terreno,Terreno con fabbricato rurale,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-73080-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-73061-S,immobili,Sicilia,Palermo,Carini,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-73066-S,immobili,Sicilia,Palermo,Carini,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-73079-S,immobili,Sicilia,Palermo,Carini,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-73080-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-73591-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-73592-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-73593-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,0%,Tribunale,Palermo,Misure di Prevenzione
@@ -12579,7 +12579,7 @@ I-RC-43162-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terre
 I-RC-43164-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43165-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43259-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43260-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,99%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43260-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43261-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43263-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43265-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
