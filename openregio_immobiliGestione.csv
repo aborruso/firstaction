@@ -1280,7 +1280,7 @@ I-BS-22740-S,immobili,Lombardia,Brescia,Chiari,Unità immobiliare per uso di abi
 I-BS-22741-S,immobili,Lombardia,Brescia,Chiari,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BS-27451-S,immobili,Lombardia,Brescia,Bovegno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-27809-S,immobili,Lombardia,Brescia,Calcinato,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-BS-27833-S,immobili,Lombardia,Brescia,Concesio,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BS-27833-S,immobili,Lombardia,Brescia,Concesio,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-28355-S,immobili,Lombardia,Brescia,Calcinato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-29589-S,immobili,Lombardia,Brescia,Torbole Casaglia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-30111-S,immobili,Lombardia,Brescia,Caino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,21%,Corte di Appello,Brescia,Procedimento Penale
@@ -1412,8 +1412,8 @@ I-BS-81980-S,immobili,Lombardia,Brescia,Corte Franca,Unità immobiliare per uso 
 I-BS-81983-S,immobili,Lombardia,Brescia,Passirano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-81984-S,immobili,Lombardia,Brescia,Passirano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-82983-S,immobili,Lombardia,Brescia,Marone,Altra unità immobiliare,Altro,,0%,Tribunale,Cremona,Misure di Prevenzione
-I-BS-87133-S,immobili,Lombardia,Brescia,Concesio,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-BS-87134-S,immobili,Lombardia,Brescia,Concesio,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BS-87133-S,immobili,Lombardia,Brescia,Concesio,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BS-87134-S,immobili,Lombardia,Brescia,Concesio,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-87424-S,immobili,Lombardia,Brescia,Villa Carcina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,0%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-87425-S,immobili,Lombardia,Brescia,Villa Carcina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,0%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-87426-S,immobili,Lombardia,Brescia,Lumezzane,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,0%,Procura della Repubblica,Brescia,Procedimento Penale
@@ -3843,7 +3843,7 @@ I-CT-69718-S,immobili,Sicilia,Catania,Mineo,Terreno,Terreno con fabbricato rural
 I-CT-69727-S,immobili,Sicilia,Catania,Mineo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 I-CT-69730-S,immobili,Sicilia,Catania,Mineo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 I-CT-70661-S,immobili,Sicilia,Catania,Catania,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,33%,Tribunale,Catania,Misure di Prevenzione
-I-CT-70745-S,immobili,Sicilia,Catania,Ramacca,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-70745-S,immobili,Sicilia,Catania,Ramacca,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-71127-S,immobili,Sicilia,Catania,Palagonia,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 I-CT-71128-S,immobili,Sicilia,Catania,Palagonia,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 I-CT-71129-S,immobili,Sicilia,Catania,Palagonia,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
@@ -8179,6 +8179,13 @@ I-NA-37744-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per u
 I-NA-37745-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-3863-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-3864-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-38891-S,immobili,Campania,Napoli,Nola,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-38892-S,immobili,Campania,Napoli,Nola,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-38893-S,immobili,Campania,Napoli,Nola,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-38894-S,immobili,Campania,Napoli,Nola,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-38895-S,immobili,Campania,Napoli,Nola,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-38896-S,immobili,Campania,Napoli,Nola,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-38897-S,immobili,Campania,Napoli,Nola,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-38898-S,immobili,Campania,Napoli,Saviano,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-3913-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,75%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-39249-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,82%,Tribunale,Napoli,Misure di Prevenzione
@@ -8664,6 +8671,8 @@ I-NA-72433-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abita
 I-NA-72748-S,immobili,Campania,Napoli,Portici,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-72749-S,immobili,Campania,Napoli,Portici,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-72750-S,immobili,Campania,Napoli,Portici,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-72905-S,immobili,Campania,Napoli,Nola,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-72906-S,immobili,Campania,Napoli,Nola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-7315-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Corte di Appello,Napoli,Misure di Prevenzione
 I-NA-7316-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Corte di Appello,Napoli,Misure di Prevenzione
 I-NA-7317-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Corte di Appello,Napoli,Misure di Prevenzione
@@ -14534,7 +14543,7 @@ I-SA-79948-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno - non definito,Conf
 I-SA-80471-S,immobili,Campania,Salerno,Nocera Inferiore,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,50%,Procura della Repubblica,Salerno,Procedimento Penale
 I-SA-81735-S,immobili,Campania,Salerno,Scafati,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-SA-81736-S,immobili,Campania,Salerno,Scafati,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-SA-82798-S,immobili,Campania,Salerno,Capaccio,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-82798-S,immobili,Campania,Salerno,Capaccio,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-82799-S,immobili,Campania,Salerno,Capaccio,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-82800-S,immobili,Campania,Salerno,Capaccio,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,0%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-85692-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Rinvio,100%,Tribunale,Salerno,Misure di Prevenzione

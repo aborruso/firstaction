@@ -563,8 +563,8 @@ A-CT-69565-S,aziende,Sicilia,Catania,Bronte,Società in nome collettivo,Estrazio
 A-CT-69566-S,aziende,Sicilia,Catania,Bronte,Società a responsabilità limitata,Estrazione di minerali,Confisca def.,24%,Tribunale,Catania,Misure di Prevenzione
 A-CT-69567-S,aziende,Sicilia,Catania,Bronte,Società a responsabilità limitata,Estrazione di minerali,Confisca def.,80%,Tribunale,Catania,Misure di Prevenzione
 A-CT-69654-S,aziende,Sicilia,Catania,Bronte,Impresa individuale,Estrazione di minerali,Confisca def.,80%,Tribunale,Catania,Misure di Prevenzione
-A-CT-70768-S,aziende,Sicilia,Catania,Ramacca,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca I,100%,Tribunale,Catania,Misure di Prevenzione
-A-CT-70772-S,aziende,Sicilia,Catania,Ramacca,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca I,100%,Tribunale,Catania,Misure di Prevenzione
+A-CT-70768-S,aziende,Sicilia,Catania,Ramacca,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+A-CT-70772-S,aziende,Sicilia,Catania,Ramacca,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-72029-S,aziende,Sicilia,Catania,Bronte,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-72030-S,aziende,Sicilia,Catania,Bronte,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-72033-S,aziende,Sicilia,Catania,Maniace,Società a responsabilità limitata,Costruzioni,Confisca def.,20%,Tribunale,Catania,Misure di Prevenzione
@@ -1607,7 +1607,7 @@ A-PA-60408-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Commercio ingr
 A-PA-60828-S,aziende,Sicilia,Palermo,Cinisi,Società in nome collettivo,Attività manifatturiere,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-60861-S,aziende,Sicilia,Palermo,Carini,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-60862-S,aziende,Sicilia,Palermo,Carini,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-A-PA-60887-S,aziende,Sicilia,Palermo,Partinico,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,25%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-60887-S,aziende,Sicilia,Palermo,Partinico,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,25%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-61807-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-61818-S,aziende,Sicilia,Palermo,Palermo,Società in nome collettivo,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-61932-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,Costruzioni,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
@@ -1721,7 +1721,7 @@ A-PA-72862-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,Alberghi e rist
 A-PA-72863-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-72869-S,aziende,Sicilia,Palermo,Torretta,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-72871-S,aziende,Sicilia,Palermo,Carini,Società a responsabilità limitata,Costruzioni,Confisca def.,33%,Tribunale,Palermo,Misure di Prevenzione
-A-PA-72931-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+A-PA-72931-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
 A-PA-73081-S,aziende,Sicilia,Palermo,Carini,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-75050-S,aziende,Sicilia,Palermo,Villabate,Società a responsabilità limitata,Costruzioni,,100%,Procura della Repubblica,Palermo,Procedimento Penale
 A-PA-75079-S,aziende,Sicilia,Palermo,Misilmeri,Società a responsabilità limitata,Costruzioni,,100%,Procura della Repubblica,Palermo,Procedimento Penale
