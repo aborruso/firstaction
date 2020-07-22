@@ -1788,9 +1788,6 @@ Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,94/2013
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,100/2014
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,105/2018
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,112/2015
-Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,135/2018
-Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,150/2017
-Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,18/2018
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,48/2015
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,79/2014
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,94/2014
@@ -1838,11 +1835,13 @@ Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,131/2002
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,131/2017
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,134/1997
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,134/2007
+Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,135/2018
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,139/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,14/2011
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,140/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,143/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,148/2012
+Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,150/2017
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,151/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,153/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,156/2012
@@ -1864,6 +1863,7 @@ Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,174/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,176/2009
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,176/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,179/2009
+Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,18/2018
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,183/2005
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,185/1999
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,186/2010
@@ -2182,7 +2182,6 @@ Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,73/2015
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca II,117/2015
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca II,38/2017
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca II,51/2014
-Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca II,63/2018
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca II,79/2016
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca II,81/2018
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca II,88/2018
@@ -2298,6 +2297,7 @@ Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,62/2013
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,62/2015
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,62/2018
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,63/2012
+Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,63/2018
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,64/2016
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,66/2013
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,67/2016
@@ -3867,7 +3867,6 @@ Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca I,1/2015
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca I,12/2013
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca I,149/1995
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca I,32/2015
-Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca I,51/2016
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca I,81/2014
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca I,87/2014
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca I,97/2014
@@ -3931,6 +3930,7 @@ Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,49/2001
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,49/2012
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,50/1995
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,51/2011
+Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,51/2016
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,54/1994
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,54/2012
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,56/2008
