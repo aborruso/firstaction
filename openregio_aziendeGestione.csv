@@ -922,6 +922,7 @@ A-ME-86180-S,aziende,Sicilia,Messina,Floresta,Società a responsabilità limitat
 A-ME-86456-S,aziende,Sicilia,Messina,Roccella Valdemone,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 A-ME-87324-S,aziende,Sicilia,Messina,Taormina,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,50%,Procura della Repubblica,Messina,Procedimento Penale
 A-ME-87326-S,aziende,Sicilia,Messina,Messina,Società a responsabilità limitata,Costruzioni,Confisca def.,9%,Procura della Repubblica,Messina,Procedimento Penale
+A-ME-87783-S,aziende,Sicilia,Messina,Caronia,Società a responsabilità limitata,,,100%,Procura della Repubblica,Patti,Procedimento Penale
 A-MI-10097-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,40%,Tribunale,Milano,Misure di Prevenzione
 A-MI-10098-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,55%,Tribunale,Milano,Misure di Prevenzione
 A-MI-10099-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,30%,Tribunale,Milano,Misure di Prevenzione
@@ -1277,7 +1278,6 @@ A-NA-52559-S,aziende,Campania,Napoli,Volla,Società a responsabilità limitata,"
 A-NA-52560-S,aziende,Campania,Napoli,Volla,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca I,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-52562-S,aziende,Campania,Napoli,Marano di Napoli,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-52573-S,aziende,Campania,Napoli,Caivano,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,30%,Procura della Repubblica,Napoli,Procedimento Penale
-A-NA-54173-S,aziende,Campania,Napoli,San Giuseppe Vesuviano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-54509-S,aziende,Campania,Napoli,Nola,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,50%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-54510-S,aziende,Campania,Napoli,Nola,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-59381-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
@@ -1288,7 +1288,6 @@ A-NA-61886-S,aziende,Campania,Napoli,Castellammare di Stabia,Società a responsa
 A-NA-61888-S,aziende,Campania,Napoli,San Gennaro Vesuviano,Impresa individuale,Attività manifatturiere,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-61894-S,aziende,Campania,Napoli,San Gennaro Vesuviano,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-61896-S,aziende,Campania,Napoli,Castellammare di Stabia,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Procura della Repubblica,Napoli,Procedimento Penale
-A-NA-63156-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-63164-S,aziende,Campania,Napoli,Pozzuoli,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,33%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-63236-S,aziende,Campania,Napoli,Sant'Antonio Abate,Società in accomandita semplice,Sanità e assistenza sociale,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 A-NA-6336-S,aziende,Campania,Napoli,Pompei,Società cooperativa,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -2419,7 +2418,6 @@ A-SA-40762-S,aziende,Campania,Salerno,San Marzano sul Sarno,Società a responsab
 A-SA-40807-S,aziende,Campania,Salerno,San Valentino Torio,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,25%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-40818-S,aziende,Campania,Salerno,Salerno,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-40820-S,aziende,Campania,Salerno,Salerno,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Salerno,Misure di Prevenzione
-A-SA-4083-S,aziende,Campania,Salerno,Salerno,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Salerno,Procedimento Penale
 A-SA-4084-S,aziende,Campania,Salerno,Pellezzano,Società cooperativa a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Salerno,Procedimento Penale
 A-SA-4657-S,aziende,Campania,Salerno,Giffoni Valle Piana,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-47981-S,aziende,Campania,Salerno,Castel San Giorgio,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
