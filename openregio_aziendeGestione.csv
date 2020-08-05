@@ -1101,6 +1101,9 @@ A-MI-83718-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata
 A-MI-86505-S,aziende,Lombardia,Milano,Motta Visconti,Società a responsabilità limitata,,,100%,Tribunale,Milano,Misure di Prevenzione
 A-MI-86965-S,aziende,Lombardia,Milano,Sesto San Giovanni,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",,0%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-87957-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Napoli,Misure di Prevenzione
+A-MI-88519-S,aziende,Lombardia,Milano,Milano,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-MI-88524-S,aziende,Lombardia,Milano,Rho,Impresa individuale,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-MI-88526-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-MI-9860-S,aziende,Lombardia,Milano,Cernusco sul Naviglio,Società a responsabilità limitata,Attività finanziarie,Confisca def.,10%,Procura della Repubblica,Napoli,Procedimento Penale
 A-MN-15577-S,aziende,Lombardia,Mantova,Bozzolo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,95%,Tribunale,Bari,Misure di Prevenzione
 A-MN-17077-S,aziende,Lombardia,Mantova,Roverbella,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
@@ -1429,6 +1432,14 @@ A-NA-88015-S,aziende,Campania,Napoli,Giugliano in Campania,Società in accomandi
 A-NA-88179-S,aziende,Campania,Napoli,San Giuseppe Vesuviano,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-88183-S,aziende,Campania,Napoli,San Giuseppe Vesuviano,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,50%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-88187-S,aziende,Campania,Napoli,Somma Vesuviana,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,16%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-88518-S,aziende,Campania,Napoli,Casoria,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-88522-S,aziende,Campania,Napoli,Casoria,Impresa individuale,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-88523-S,aziende,Campania,Napoli,Arzano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-88527-S,aziende,Campania,Napoli,Casoria,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-88564-S,aziende,Campania,Napoli,Torre del Greco,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-88589-S,aziende,Campania,Napoli,San Giuseppe Vesuviano,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-88596-S,aziende,Campania,Napoli,San Vitaliano,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-88669-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-9715-S,aziende,Campania,Napoli,Torre Annunziata,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-9852-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Attività finanziarie,Confisca def.,10%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-9853-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Attività finanziarie,Confisca def.,45%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -2385,11 +2396,44 @@ A-RM-8778-S,aziende,Lazio,Roma,Roma,Società per azioni,Attività finanziarie,Co
 A-RM-8779-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-RM-87893-S,aziende,Lazio,Roma,Fonte Nuova,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
 A-RM-88307-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88381-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88394-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,90%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88397-S,aziende,Lazio,Roma,Roma,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88405-S,aziende,Lazio,Roma,Monterotondo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88406-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,50%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88411-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88684-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Sequestro,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88689-S,aziende,Lazio,Roma,Anzio,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Sequestro,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88699-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Sequestro,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88707-S,aziende,Lazio,Roma,Anzio,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Sequestro,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88708-S,aziende,Lazio,Roma,Nettuno,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Sequestro,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88710-S,aziende,Lazio,Roma,Anzio,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Sequestro,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88711-S,aziende,Lazio,Roma,Nettuno,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Sequestro,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88712-S,aziende,Lazio,Roma,Nettuno,Società a responsabilità limitata,Costruzioni,Sequestro,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88718-S,aziende,Lazio,Roma,Anzio,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Sequestro,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88720-S,aziende,Lazio,Roma,Anzio,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Sequestro,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88723-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Sequestro,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88726-S,aziende,Lazio,Roma,Anzio,Società a responsabilità limitata,Costruzioni,Sequestro,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88776-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88785-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88787-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88799-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Revoca Seq.,66%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88809-S,aziende,Lazio,Roma,Santa Marinella,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88816-S,aziende,Lazio,Roma,Santa Marinella,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88821-S,aziende,Lazio,Roma,Ladispoli,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88829-S,aziende,Lazio,Roma,Cerveteri,Impresa individuale,Attività manifatturiere,Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88837-S,aziende,Lazio,Roma,Cerveteri,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88839-S,aziende,Lazio,Roma,Cerveteri,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88843-S,aziende,Lazio,Roma,Cerveteri,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88847-S,aziende,Lazio,Roma,Cerveteri,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88849-S,aziende,Lazio,Roma,Cerveteri,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-88860-S,aziende,Lazio,Roma,Cerveteri,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-9858-S,aziende,Lazio,Roma,Moricone,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,60%,Procura della Repubblica,Napoli,Procedimento Penale
 A-RN-11498-S,aziende,Emilia Romagna,Rimini,Riccione,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Rimini,Misure di Prevenzione
 A-RN-17770-S,aziende,Emilia Romagna,Rimini,Rimini,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RN-41352-S,aziende,Emilia Romagna,Rimini,Bellaria-Igea Marina,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,50%,Tribunale,Milano,Misure di Prevenzione
 A-RN-4539-S,aziende,Emilia Romagna,Rimini,Riccione,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Rimini,Misure di Prevenzione
+A-RN-88791-S,aziende,Emilia Romagna,Rimini,Rimini,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,22%,Tribunale,Roma,Misure di Prevenzione
 A-RO-40801-S,aziende,Veneto,Rovigo,Polesella,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-1399-S,aziende,Campania,Salerno,Camerota,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-1400-S,aziende,Campania,Salerno,Bellizzi,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,50%,Tribunale,Salerno,Misure di Prevenzione
@@ -2718,6 +2762,7 @@ A-VR-81560-S,aziende,Veneto,Verona,Verona,Società a responsabilità limitata,Co
 A-VT-20692-S,aziende,Lazio,Viterbo,Tarquinia,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-VT-35860-S,aziende,Lazio,Viterbo,Soriano nel Cimino,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,34%,Tribunale,Latina,Misure di Prevenzione
 A-VT-6621-S,aziende,Lazio,Viterbo,Tarquinia,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-VT-88409-S,aziende,Lazio,Viterbo,Castel Sant'Elia,Società in accomandita semplice,Alberghi e ristoranti,Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
 A-VV-15321-S,aziende,Calabria,Vibo Valentia,Tropea,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
 A-VV-15421-S,aziende,Calabria,Vibo Valentia,Vibo Valentia,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,50%,Tribunale,Vibo Valentia,Misure di Prevenzione
 A-VV-27127-S,aziende,Calabria,Vibo Valentia,Vibo Valentia,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
