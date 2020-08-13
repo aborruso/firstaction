@@ -1312,7 +1312,6 @@ I-BS-22740-S,immobili,Lombardia,Brescia,Chiari,Unità immobiliare per uso di abi
 I-BS-22741-S,immobili,Lombardia,Brescia,Chiari,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BS-27451-S,immobili,Lombardia,Brescia,Bovegno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-27809-S,immobili,Lombardia,Brescia,Calcinato,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-BS-27833-S,immobili,Lombardia,Brescia,Concesio,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-28355-S,immobili,Lombardia,Brescia,Calcinato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-29589-S,immobili,Lombardia,Brescia,Torbole Casaglia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-30111-S,immobili,Lombardia,Brescia,Caino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,21%,Corte di Appello,Brescia,Procedimento Penale
@@ -1444,8 +1443,6 @@ I-BS-81980-S,immobili,Lombardia,Brescia,Corte Franca,Unità immobiliare per uso 
 I-BS-81983-S,immobili,Lombardia,Brescia,Passirano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-81984-S,immobili,Lombardia,Brescia,Passirano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-82983-S,immobili,Lombardia,Brescia,Marone,Altra unità immobiliare,Altro,,0%,Tribunale,Cremona,Misure di Prevenzione
-I-BS-87133-S,immobili,Lombardia,Brescia,Concesio,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-BS-87134-S,immobili,Lombardia,Brescia,Concesio,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-87424-S,immobili,Lombardia,Brescia,Villa Carcina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,0%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-87425-S,immobili,Lombardia,Brescia,Villa Carcina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,0%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-87426-S,immobili,Lombardia,Brescia,Lumezzane,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,0%,Procura della Repubblica,Brescia,Procedimento Penale
@@ -6453,7 +6450,7 @@ I-MB-82767-S,immobili,Lombardia,Monza e Brianza,Lentate sul Seveso,Terreno,Terre
 I-MB-84279-S,immobili,Lombardia,Monza e Brianza,Limbiate,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-84280-S,immobili,Lombardia,Monza e Brianza,Limbiate,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-86108-S,immobili,Lombardia,Monza e Brianza,Brugherio,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MB-86521-S,immobili,Lombardia,Monza e Brianza,Seregno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Milano,Misure di Prevenzione
+I-MB-86521-S,immobili,Lombardia,Monza e Brianza,Seregno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MB-87398-S,immobili,Lombardia,Monza e Brianza,Brugherio,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MB-87399-S,immobili,Lombardia,Monza e Brianza,Brugherio,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MB-87400-S,immobili,Lombardia,Monza e Brianza,Brugherio,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -6463,6 +6460,7 @@ I-MB-87403-S,immobili,Lombardia,Monza e Brianza,Brugherio,Terreno,Terreno agrico
 I-MB-87405-S,immobili,Lombardia,Monza e Brianza,Brugherio,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MB-87919-S,immobili,Lombardia,Monza e Brianza,Concorezzo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MB-87920-S,immobili,Lombardia,Monza e Brianza,Concorezzo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MB-90172-S,immobili,Lombardia,Monza e Brianza,Seregno,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MB-9847-S,immobili,Lombardia,Monza e Brianza,Cesano Maderno,Terreno,Terreno - non definito,,100%,Tribunale,Milano,Misure di Prevenzione
 I-MB-9848-S,immobili,Lombardia,Monza e Brianza,Cesano Maderno,Terreno,Terreno - non definito,,20%,Tribunale,Milano,Misure di Prevenzione
 I-MC-75808-S,immobili,Marche,Macerata,Pioraco,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
