@@ -415,6 +415,7 @@ A-CE-89517-S,aziende,Campania,Caserta,Mondragone,Società a responsabilità limi
 A-CE-89519-S,aziende,Campania,Caserta,Mondragone,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-CE-89775-S,aziende,Campania,Caserta,Villa Literno,Società in accomandita semplice,Costruzioni,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-CE-89776-S,aziende,Campania,Caserta,Aversa,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-CE-90293-S,aziende,Campania,Caserta,Caserta,Impresa individuale,Costruzioni,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-CE-967-S,aziende,Campania,Caserta,Castel Volturno,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-CH-1087-S,aziende,Abruzzo,Chieti,Agrigento,Altro,Attività finanziarie,Confisca I,6%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-CH-30034-S,aziende,Abruzzo,Chieti,Agrigento,Altro,Attività finanziarie,Confisca def.,1%,Tribunale,Salerno,Misure di Prevenzione
@@ -849,6 +850,7 @@ A-LT-8774-S,aziende,Lazio,Latina,Fondi,Società a responsabilità limitata,"Comm
 A-LT-8776-S,aziende,Lazio,Latina,Fondi,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-8780-S,aziende,Lazio,Latina,Fondi,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-8784-S,aziende,Lazio,Latina,Fondi,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,2%,Tribunale,Latina,Misure di Prevenzione
+A-LT-90229-S,aziende,Lazio,Latina,Latina,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 A-LU-36202-S,aziende,Toscana,Lucca,Camporgiano,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
 A-LU-36322-S,aziende,Toscana,Lucca,Lucca,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Firenze,Procedimento Penale
 A-LU-49792-S,aziende,Toscana,Lucca,Lucca,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,10%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -1113,7 +1115,7 @@ A-MI-82872-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata
 A-MI-82882-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Attività finanziarie,Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 A-MI-83554-S,aziende,Lombardia,Milano,Milano,Società per azioni,Attività finanziarie,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-83718-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,80%,Procura della Repubblica,Torino,Procedimento Penale
-A-MI-86505-S,aziende,Lombardia,Milano,Motta Visconti,Società a responsabilità limitata,,,100%,Tribunale,Milano,Misure di Prevenzione
+A-MI-86505-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,100%,Tribunale,Milano,Misure di Prevenzione
 A-MI-86965-S,aziende,Lombardia,Milano,Sesto San Giovanni,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",,0%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-87957-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Napoli,Misure di Prevenzione
 A-MI-88519-S,aziende,Lombardia,Milano,Milano,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -1473,6 +1475,17 @@ A-NA-89488-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,
 A-NA-89503-S,aziende,Campania,Napoli,Pozzuoli,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-89507-S,aziende,Campania,Napoli,Pozzuoli,Società in accomandita semplice,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-90123-S,aziende,Campania,Napoli,Marano di Napoli,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-90222-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,50%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-90224-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,50%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-90225-S,aziende,Campania,Napoli,Napoli,Impresa individuale,Alberghi e ristoranti,Revoca Seq.,100%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-90230-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,50%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-90231-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-90233-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Alberghi e ristoranti,Revoca Seq.,50%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-90238-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-90258-S,aziende,Campania,Napoli,Casandrino,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-90259-S,aziende,Campania,Napoli,Sant'Antimo,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-90263-S,aziende,Campania,Napoli,Sant'Antimo,Società a responsabilità limitata,"Produzione e distribuzione di energia elettrica, gas e acqua",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-90264-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-9715-S,aziende,Campania,Napoli,Torre Annunziata,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-9852-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Attività finanziarie,Confisca def.,10%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-9853-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Attività finanziarie,Confisca def.,45%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -2575,6 +2588,9 @@ A-SA-87942-S,aziende,Campania,Salerno,Salerno,Società a responsabilità limitat
 A-SA-87945-S,aziende,Campania,Salerno,Salerno,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-89451-S,aziende,Campania,Salerno,Salerno,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Revoca Seq.,1%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-89580-S,aziende,Campania,Salerno,Campagna,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Conf.,100%,Corte di Appello,Salerno,Misure di Prevenzione
+A-SA-90216-S,aziende,Campania,Salerno,Sarno,Impresa individuale,"Agricoltura, caccia e silvicoltura",Revoca Conf.,100%,Tribunale,Salerno,Misure di Prevenzione
+A-SA-90218-S,aziende,Campania,Salerno,Sarno,Impresa individuale,"Agricoltura, caccia e silvicoltura",Revoca Conf.,100%,Tribunale,Salerno,Misure di Prevenzione
+A-SA-90220-S,aziende,Campania,Salerno,Sarno,Impresa individuale,"Agricoltura, caccia e silvicoltura",Revoca Conf.,100%,Tribunale,Salerno,Misure di Prevenzione
 A-SO-82772-S,aziende,Lombardia,Sondrio,Cosio Valtellino,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,65%,Tribunale,Sondrio,Misure di Prevenzione
 A-SO-82774-S,aziende,Lombardia,Sondrio,Cosio Valtellino,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Sondrio,Misure di Prevenzione
 A-SP-17276-S,aziende,Liguria,La Spezia,La Spezia,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
