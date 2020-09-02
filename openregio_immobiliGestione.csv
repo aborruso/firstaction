@@ -5267,6 +5267,13 @@ I-KR-89656-S,immobili,Calabria,Crotone,Cutro,Unità immobiliare per uso di abita
 I-KR-89658-S,immobili,Calabria,Crotone,Cutro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Brescia,Misure di Prevenzione
 I-KR-89660-S,immobili,Calabria,Crotone,Mesoraca,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Brescia,Misure di Prevenzione
 I-KR-89661-S,immobili,Calabria,Crotone,Cutro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Brescia,Misure di Prevenzione
+I-KR-90320-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Terreno,Terreno con fabbricato rurale,,0%,Tribunale,Crotone,Misure di Prevenzione
+I-KR-90321-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Terreno,Terreno con fabbricato rurale,,0%,Tribunale,Crotone,Misure di Prevenzione
+I-KR-90322-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Crotone,Misure di Prevenzione
+I-KR-90323-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Terreno,Terreno agricolo,,0%,Tribunale,Crotone,Misure di Prevenzione
+I-KR-90324-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Crotone,Misure di Prevenzione
+I-KR-90325-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Crotone,Misure di Prevenzione
+I-KR-90326-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Terreno,Terreno con fabbricato rurale,,0%,Tribunale,Crotone,Misure di Prevenzione
 I-KR-9993-S,immobili,Calabria,Crotone,Belvedere di Spinello,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-LC-30242-S,immobili,Lombardia,Lecco,Galbiate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Corte di Cassazione,Roma,Procedimento Penale
 I-LC-30243-S,immobili,Lombardia,Lecco,Galbiate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Corte di Cassazione,Roma,Procedimento Penale
@@ -9694,6 +9701,11 @@ I-NA-90282-S,immobili,Campania,Napoli,Sant'Antimo,Terreno,Terreno agricolo,Confi
 I-NA-90285-S,immobili,Campania,Napoli,Grumo Nevano,Terreno,Terreno agricolo,Confisca I,50%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-90286-S,immobili,Campania,Napoli,Sant'Antimo,Terreno,Terreno agricolo,Confisca I,33%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-90287-S,immobili,Campania,Napoli,Sant'Antimo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-90302-S,immobili,Campania,Napoli,Torre del Greco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Rinvio,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90303-S,immobili,Campania,Napoli,Torre del Greco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90308-S,immobili,Campania,Napoli,Torre del Greco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Rinvio,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90309-S,immobili,Campania,Napoli,Torre del Greco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Rinvio,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90319-S,immobili,Campania,Napoli,Torre del Greco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-91-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,33%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-92-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,33%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-93-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,33%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -12066,6 +12078,7 @@ I-PA-89787-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abit
 I-PA-89788-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9000-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9001-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-90294-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9138-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9151-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9811-S,immobili,Sicilia,Palermo,Partinico,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -12819,6 +12832,10 @@ I-PV-86957-S,immobili,Lombardia,Pavia,Landriano,Unità immobiliare per uso di ab
 I-PV-86958-S,immobili,Lombardia,Pavia,Landriano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-PV-86959-S,immobili,Lombardia,Pavia,Landriano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-PV-86960-S,immobili,Lombardia,Pavia,Landriano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Milano,Procedimento Penale
+I-PV-90327-S,immobili,Lombardia,Pavia,Suardi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Crotone,Misure di Prevenzione
+I-PV-90328-S,immobili,Lombardia,Pavia,Suardi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Crotone,Misure di Prevenzione
+I-PV-90329-S,immobili,Lombardia,Pavia,Suardi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Crotone,Misure di Prevenzione
+I-PV-90330-S,immobili,Lombardia,Pavia,Suardi,Terreno,Terreno edificabile,,0%,Tribunale,Crotone,Misure di Prevenzione
 I-PZ-11675-S,immobili,Basilicata,Potenza,Trivigno,Terreno,Terreno agricolo,Confisca def.,20%,Procura della Repubblica,Roma,Procedimento Penale
 I-PZ-11676-S,immobili,Basilicata,Potenza,Trivigno,Terreno,Terreno agricolo,Confisca def.,20%,Procura della Repubblica,Roma,Procedimento Penale
 I-PZ-50209-S,immobili,Basilicata,Potenza,Melfi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Potenza,Misure di Prevenzione
