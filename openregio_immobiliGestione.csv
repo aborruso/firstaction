@@ -1159,7 +1159,7 @@ I-BN-77168-S,immobili,Campania,Benevento,Castelvenere,Terreno,Terreno agricolo,C
 I-BN-77170-S,immobili,Campania,Benevento,Telese Terme,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca I,100%,Tribunale,Benevento,Misure di Prevenzione
 I-BN-79524-S,immobili,Campania,Benevento,Benevento,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Benevento,Misure di Prevenzione
 I-BN-79678-S,immobili,Campania,Benevento,San Giorgio del Sannio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Benevento,Misure di Prevenzione
-I-BN-90253-S,immobili,Campania,Benevento,Sant'Agata de' Goti,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Sequestro,100%,Tribunale,Benevento,Misure di Prevenzione
+I-BN-90253-S,immobili,Campania,Benevento,Sant'Agata de' Goti,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Benevento,Misure di Prevenzione
 I-BO-15718-S,immobili,Emilia Romagna,Bologna,Malalbergo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BO-15719-S,immobili,Emilia Romagna,Bologna,Malalbergo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BO-15720-S,immobili,Emilia Romagna,Bologna,Malalbergo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -2576,6 +2576,7 @@ I-CE-90124-S,immobili,Campania,Caserta,Mondragone,Unità immobiliare a destinazi
 I-CE-90132-S,immobili,Campania,Caserta,Mondragone,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-90267-S,immobili,Campania,Caserta,Cesa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-CE-90279-S,immobili,Campania,Caserta,Cesa,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+I-CE-90334-S,immobili,Campania,Caserta,Casal di Principe,Terreno,Terreno con fabbricato rurale,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CH-36419-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-36421-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-42987-S,immobili,Abruzzo,Chieti,San Salvo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Varese,Misure di Prevenzione
@@ -4279,6 +4280,7 @@ I-CT-89735-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abit
 I-CT-89740-S,immobili,Sicilia,Catania,Catania,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-89741-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-89743-S,immobili,Sicilia,Catania,Catania,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-90335-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CZ-15253-S,immobili,Calabria,Catanzaro,Guardavalle,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-15532-S,immobili,Calabria,Catanzaro,Lamezia Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-15533-S,immobili,Calabria,Catanzaro,Lamezia Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Tribunale,Catanzaro,Misure di Prevenzione
@@ -9261,7 +9263,7 @@ I-NA-86103-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abita
 I-NA-86104-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Corte di Appello,Napoli,Procedimento Penale
 I-NA-86105-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Corte di Appello,Napoli,Procedimento Penale
 I-NA-86106-S,immobili,Campania,Napoli,Napoli,Terreno,Terreno agricolo,Confisca I,100%,Corte di Appello,Napoli,Procedimento Penale
-I-NA-87062-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-87062-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-87166-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-87167-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-87168-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Napoli,Misure di Prevenzione
@@ -13989,6 +13991,7 @@ I-RC-90021-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Terreno,Terreno agric
 I-RC-90022-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Terreno,Terreno agricolo,Revoca Conf.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-90024-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Terreno,Terreno agricolo,Revoca Conf.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-90025-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Terreno,Terreno agricolo,Revoca Conf.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-90351-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-9309-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Terreno,Terreno edificabile,Confisca def.,33%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-9342-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,33%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-9505-S,immobili,Calabria,Reggio Calabria,Sant'Eufemia d'Aspromonte,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -14743,7 +14746,7 @@ I-RM-82614-S,immobili,Lazio,Roma,Ciampino,Unità immobiliare per uso di abitazio
 I-RM-82627-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-82640-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-82645-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-82650-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-82650-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-82655-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-82659-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-82672-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -15831,6 +15834,11 @@ I-TA-69773-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare per uso di abita
 I-TA-84335-S,immobili,Puglia,Taranto,Statte,Terreno,Terreno agricolo,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
 I-TA-89675-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 I-TA-89679-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-90476-S,immobili,Puglia,Taranto,Taranto,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-90477-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare per uso di abitazione e assimilabile,Altro,Revoca Seq.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-90479-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-90497-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-90503-S,immobili,Puglia,Taranto,Taranto,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Taranto,Misure di Prevenzione
 I-TE-15765-S,immobili,Abruzzo,Teramo,Martinsicuro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Teramo,Misure di Prevenzione
 I-TE-15921-S,immobili,Abruzzo,Teramo,Civitella del Tronto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Pescara,Misure di Prevenzione
 I-TE-15922-S,immobili,Abruzzo,Teramo,Civitella del Tronto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Pescara,Misure di Prevenzione

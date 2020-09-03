@@ -943,7 +943,7 @@ A-ME-86180-S,aziende,Sicilia,Messina,Floresta,Società a responsabilità limitat
 A-ME-86456-S,aziende,Sicilia,Messina,Roccella Valdemone,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 A-ME-87324-S,aziende,Sicilia,Messina,Taormina,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,50%,Procura della Repubblica,Messina,Procedimento Penale
 A-ME-87326-S,aziende,Sicilia,Messina,Messina,Società a responsabilità limitata,Costruzioni,Confisca def.,9%,Procura della Repubblica,Messina,Procedimento Penale
-A-ME-87783-S,aziende,Sicilia,Messina,Caronia,Società a responsabilità limitata,,,100%,Procura della Repubblica,Patti,Procedimento Penale
+A-ME-87783-S,aziende,Sicilia,Messina,Caronia,Società a responsabilità limitata,,Confisca II,100%,Procura della Repubblica,Patti,Procedimento Penale
 A-MI-10097-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,40%,Tribunale,Milano,Misure di Prevenzione
 A-MI-10098-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,55%,Tribunale,Milano,Misure di Prevenzione
 A-MI-10099-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,30%,Tribunale,Milano,Misure di Prevenzione
@@ -2069,6 +2069,9 @@ A-RC-89756-S,aziende,Calabria,Reggio Calabria,Melito di Porto Salvo,Impresa indi
 A-RC-89757-S,aziende,Calabria,Reggio Calabria,Melito di Porto Salvo,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Reggio Calabria,Procedimento Penale
 A-RC-90020-S,aziende,Calabria,Reggio Calabria,Rosarno,Impresa individuale,"Agricoltura, caccia e silvicoltura",Revoca Conf.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-90174-S,aziende,Calabria,Reggio Calabria,Sant'Agata del Bianco,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
+A-RC-90352-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+A-RC-90353-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+A-RC-90354-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-9813-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,22%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RE-12510-S,aziende,Emilia Romagna,Reggio Emilia,Brescello,Impresa individuale,Costruzioni,Confisca II,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-RE-12511-S,aziende,Emilia Romagna,Reggio Emilia,Brescello,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
