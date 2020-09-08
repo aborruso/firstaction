@@ -2579,6 +2579,14 @@ I-CE-90132-S,immobili,Campania,Caserta,Mondragone,Unità immobiliare per uso di 
 I-CE-90267-S,immobili,Campania,Caserta,Cesa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-CE-90279-S,immobili,Campania,Caserta,Cesa,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-CE-90334-S,immobili,Campania,Caserta,Casal di Principe,Terreno,Terreno con fabbricato rurale,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-90517-S,immobili,Campania,Caserta,Parete,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-90519-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-90524-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-90527-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-90529-S,immobili,Campania,Caserta,Marcianise,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-90530-S,immobili,Campania,Caserta,Castel Volturno,Terreno,Terreno agricolo,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-90531-S,immobili,Campania,Caserta,Marcianise,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-90532-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CH-36419-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-36421-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-42987-S,immobili,Abruzzo,Chieti,San Salvo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Varese,Misure di Prevenzione
@@ -4267,7 +4275,7 @@ I-CT-8517-S,immobili,Sicilia,Catania,Vizzini,Terreno,Terreno con fabbricato rura
 I-CT-8518-S,immobili,Sicilia,Catania,Vizzini,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-85182-S,immobili,Sicilia,Catania,Belpasso,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Procura della Repubblica,Catania,Procedimento Penale
 I-CT-8519-S,immobili,Sicilia,Catania,Vizzini,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
-I-CT-87705-S,immobili,Sicilia,Catania,Aci Sant'Antonio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-87705-S,immobili,Sicilia,Catania,Aci Sant'Antonio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-87771-S,immobili,Sicilia,Catania,Aci Sant'Antonio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-87772-S,immobili,Sicilia,Catania,Aci Sant'Antonio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-87773-S,immobili,Sicilia,Catania,Aci Sant'Antonio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
@@ -6743,7 +6751,7 @@ I-ME-78653-S,immobili,Sicilia,Messina,Furnari,Terreno,Terreno agricolo,Confisca 
 I-ME-78662-S,immobili,Sicilia,Messina,Furnari,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-78675-S,immobili,Sicilia,Messina,Furnari,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-78783-S,immobili,Sicilia,Messina,Furnari,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-79130-S,immobili,Sicilia,Messina,Gallodoro,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
+I-ME-79130-S,immobili,Sicilia,Messina,Gallodoro,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-79154-S,immobili,Sicilia,Messina,Taormina,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Messina,Procedimento Penale
 I-ME-79783-S,immobili,Sicilia,Messina,Gaggi,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,50%,Tribunale,Messina,Misure di Prevenzione
 I-ME-79798-S,immobili,Sicilia,Messina,Gaggi,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,50%,Tribunale,Messina,Misure di Prevenzione
@@ -7249,22 +7257,20 @@ I-ME-85081-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricol
 I-ME-85082-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-85083-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-85084-S,immobili,Sicilia,Messina,Floresta,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-85355-S,immobili,Sicilia,Messina,Messina,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-85356-S,immobili,Sicilia,Messina,Letojanni,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-85367-S,immobili,Sicilia,Messina,Messina,Terreno,Terreno agricolo,Revoca Conf. parziale,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-85376-S,immobili,Sicilia,Messina,Letojanni,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-85377-S,immobili,Sicilia,Messina,Letojanni,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-85382-S,immobili,Sicilia,Messina,Letojanni,Terreno,Terreno agricolo,Revoca Conf. parziale,0%,Tribunale,Messina,Misure di Prevenzione
 I-ME-85383-S,immobili,Sicilia,Messina,Letojanni,Terreno,Terreno agricolo,Revoca Conf. parziale,0%,Tribunale,Messina,Misure di Prevenzione
 I-ME-85384-S,immobili,Sicilia,Messina,Letojanni,Terreno,Terreno agricolo,Revoca Conf. parziale,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-85446-S,immobili,Sicilia,Messina,Letojanni,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
+I-ME-85446-S,immobili,Sicilia,Messina,Letojanni,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-86143-S,immobili,Sicilia,Messina,Capizzi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-86144-S,immobili,Sicilia,Messina,Capizzi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-86178-S,immobili,Sicilia,Messina,Floresta,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-86179-S,immobili,Sicilia,Messina,Floresta,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-86181-S,immobili,Sicilia,Messina,Floresta,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-86182-S,immobili,Sicilia,Messina,Floresta,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca II,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-86183-S,immobili,Sicilia,Messina,Floresta,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca II,100%,Tribunale,Messina,Misure di Prevenzione
+I-ME-86182-S,immobili,Sicilia,Messina,Floresta,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Messina,Misure di Prevenzione
+I-ME-86183-S,immobili,Sicilia,Messina,Floresta,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca II,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-86325-S,immobili,Sicilia,Messina,Furnari,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-86327-S,immobili,Sicilia,Messina,Furnari,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-86328-S,immobili,Sicilia,Messina,Sant'Angelo di Brolo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
@@ -7399,7 +7405,6 @@ I-MI-14015-S,immobili,Lombardia,Milano,Paderno Dugnano,Unità immobiliare per us
 I-MI-14016-S,immobili,Lombardia,Milano,Paderno Dugnano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Corte di Appello,Reggio Calabria,Misure di Prevenzione
 I-MI-14957-S,immobili,Lombardia,Milano,Gorgonzola,Unità immobiliare per uso di abitazione e assimilabile,Villa,,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-14958-S,immobili,Lombardia,Milano,Gorgonzola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Milano,Misure di Prevenzione
-I-MI-14959-S,immobili,Lombardia,Milano,Gorgonzola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-14960-S,immobili,Lombardia,Milano,Gorgonzola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-14961-S,immobili,Lombardia,Milano,Gorgonzola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-14962-S,immobili,Lombardia,Milano,Gorgonzola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Milano,Misure di Prevenzione
@@ -12465,20 +12470,20 @@ I-PO-8664-S,immobili,Toscana,Prato,Montemurlo,Unità immobiliare per uso di abit
 I-PO-86799-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,Altro,,0%,Tribunale,Firenze,Misure di Prevenzione
 I-PO-86800-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,Altro,,0%,Tribunale,Firenze,Misure di Prevenzione
 I-PO-86802-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Firenze,Misure di Prevenzione
-I-PO-89388-S,immobili,Toscana,Prato,Montemurlo,Unità immobiliare a destinazione commerciale e industriale,Altro,,0%,Tribunale,Pistoia,Misure di Prevenzione
-I-PO-89389-S,immobili,Toscana,Prato,Montemurlo,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,,0%,Tribunale,Pistoia,Misure di Prevenzione
-I-PO-89390-S,immobili,Toscana,Prato,Montemurlo,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,,0%,Tribunale,Pistoia,Misure di Prevenzione
-I-PO-89391-S,immobili,Toscana,Prato,Montemurlo,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,,0%,Tribunale,Pistoia,Misure di Prevenzione
-I-PO-89392-S,immobili,Toscana,Prato,Montemurlo,Unità immobiliare a destinazione commerciale e industriale,Fabbricato/Locale per esercizi sportivi,,0%,Tribunale,Pistoia,Misure di Prevenzione
-I-PO-89393-S,immobili,Toscana,Prato,Montemurlo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Pistoia,Misure di Prevenzione
-I-PO-89394-S,immobili,Toscana,Prato,Montemurlo,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,,0%,Tribunale,Pistoia,Misure di Prevenzione
-I-PO-89395-S,immobili,Toscana,Prato,Montemurlo,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,,0%,Tribunale,Pistoia,Misure di Prevenzione
-I-PO-89396-S,immobili,Toscana,Prato,Montemurlo,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,,0%,Tribunale,Pistoia,Misure di Prevenzione
-I-PO-89397-S,immobili,Toscana,Prato,Montemurlo,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,,0%,Tribunale,Pistoia,Misure di Prevenzione
-I-PO-89398-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,"Palazzo di pregio artistico e storico, Castello",,0%,Tribunale,Pistoia,Misure di Prevenzione
-I-PO-89436-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,"Palazzo di pregio artistico e storico, Castello",,0%,Tribunale,Pistoia,Misure di Prevenzione
-I-PO-89439-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,"Palazzo di pregio artistico e storico, Castello",,0%,Tribunale,Pistoia,Misure di Prevenzione
-I-PO-89443-S,immobili,Toscana,Prato,Prato,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,0%,Tribunale,Pistoia,Misure di Prevenzione
+I-PO-89388-S,immobili,Toscana,Prato,Montemurlo,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
+I-PO-89389-S,immobili,Toscana,Prato,Montemurlo,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
+I-PO-89390-S,immobili,Toscana,Prato,Montemurlo,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
+I-PO-89391-S,immobili,Toscana,Prato,Montemurlo,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
+I-PO-89392-S,immobili,Toscana,Prato,Montemurlo,Unità immobiliare a destinazione commerciale e industriale,Fabbricato/Locale per esercizi sportivi,Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
+I-PO-89393-S,immobili,Toscana,Prato,Montemurlo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
+I-PO-89394-S,immobili,Toscana,Prato,Montemurlo,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
+I-PO-89395-S,immobili,Toscana,Prato,Montemurlo,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
+I-PO-89396-S,immobili,Toscana,Prato,Montemurlo,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
+I-PO-89397-S,immobili,Toscana,Prato,Montemurlo,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
+I-PO-89398-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,"Palazzo di pregio artistico e storico, Castello",Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
+I-PO-89436-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,"Palazzo di pregio artistico e storico, Castello",Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
+I-PO-89439-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,"Palazzo di pregio artistico e storico, Castello",Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
+I-PO-89443-S,immobili,Toscana,Prato,Prato,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
 I-PO-89477-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Prato,Misure di Prevenzione
 I-PO-89478-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Prato,Misure di Prevenzione
 I-PR-37889-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
@@ -12713,7 +12718,8 @@ I-PT-86806-S,immobili,Toscana,Pistoia,Pistoia,Unità immobiliare per uso di abit
 I-PT-86808-S,immobili,Toscana,Pistoia,Pistoia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Firenze,Misure di Prevenzione
 I-PT-86810-S,immobili,Toscana,Pistoia,Serravalle Pistoiese,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Firenze,Misure di Prevenzione
 I-PT-86811-S,immobili,Toscana,Pistoia,Serravalle Pistoiese,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,,0%,Tribunale,Firenze,Misure di Prevenzione
-I-PT-88588-S,immobili,Toscana,Pistoia,Montale,Unità immobiliare per uso di abitazione e assimilabile,Villa,,0%,Tribunale,Pistoia,Misure di Prevenzione
+I-PT-88588-S,immobili,Toscana,Pistoia,Montale,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
+I-PT-90534-S,immobili,Toscana,Pistoia,Montale,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
 I-PU-13200-S,immobili,Marche,Pesaro e Urbino,Fano,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Procura della Repubblica,Pesaro,Procedimento Penale
 I-PU-13201-S,immobili,Marche,Pesaro e Urbino,Fano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Pesaro,Procedimento Penale
 I-PU-13202-S,immobili,Marche,Pesaro e Urbino,Cartoceto,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Procura della Repubblica,Pesaro,Procedimento Penale
@@ -15485,10 +15491,10 @@ I-SI-83130-S,immobili,Toscana,Siena,Monteriggioni,Unità immobiliare per uso di 
 I-SI-83131-S,immobili,Toscana,Siena,Monteriggioni,Terreno,Terreno agricolo,Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 I-SI-83132-S,immobili,Toscana,Siena,Monteriggioni,Terreno,Terreno agricolo,Sequestro,46%,Procura della Repubblica,Piacenza,Procedimento Penale
 I-SI-83133-S,immobili,Toscana,Siena,Monteriggioni,Terreno,Terreno agricolo,Sequestro,46%,Procura della Repubblica,Piacenza,Procedimento Penale
-I-SI-89452-S,immobili,Toscana,Siena,Colle di Val d'Elsa,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,,0%,Tribunale,Pistoia,Misure di Prevenzione
-I-SI-89453-S,immobili,Toscana,Siena,Colle di Val d'Elsa,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,,0%,Tribunale,Pistoia,Misure di Prevenzione
-I-SI-89454-S,immobili,Toscana,Siena,Colle di Val d'Elsa,Altra unità immobiliare,Altra unità  immobil. - non definito,,0%,Tribunale,Pistoia,Misure di Prevenzione
-I-SI-89455-S,immobili,Toscana,Siena,Colle di Val d'Elsa,Altra unità immobiliare,Altro,,0%,Tribunale,Pistoia,Misure di Prevenzione
+I-SI-89452-S,immobili,Toscana,Siena,Colle di Val d'Elsa,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
+I-SI-89453-S,immobili,Toscana,Siena,Colle di Val d'Elsa,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
+I-SI-89454-S,immobili,Toscana,Siena,Colle di Val d'Elsa,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
+I-SI-89455-S,immobili,Toscana,Siena,Colle di Val d'Elsa,Altra unità immobiliare,Altro,Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
 I-SO-34881-S,immobili,Lombardia,Sondrio,Traona,Unità immobiliare per alloggio e usi collettivi,Opificio,Confisca def.,22%,Tribunale,Sondrio,Misure di Prevenzione
 I-SO-34882-S,immobili,Lombardia,Sondrio,Traona,Terreno,Terreno agricolo,Confisca def.,28%,Tribunale,Sondrio,Misure di Prevenzione
 I-SO-34883-S,immobili,Lombardia,Sondrio,Traona,Terreno,Terreno agricolo,Confisca def.,28%,Tribunale,Sondrio,Misure di Prevenzione
@@ -15836,11 +15842,11 @@ I-TA-69773-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare per uso di abita
 I-TA-84335-S,immobili,Puglia,Taranto,Statte,Terreno,Terreno agricolo,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
 I-TA-89675-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 I-TA-89679-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
-I-TA-90476-S,immobili,Puglia,Taranto,Taranto,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-90476-S,immobili,Puglia,Taranto,Taranto,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 I-TA-90477-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare per uso di abitazione e assimilabile,Altro,Revoca Seq.,100%,Tribunale,Taranto,Misure di Prevenzione
-I-TA-90479-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Taranto,Misure di Prevenzione
-I-TA-90497-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Taranto,Misure di Prevenzione
-I-TA-90503-S,immobili,Puglia,Taranto,Taranto,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-90479-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-90497-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-90503-S,immobili,Puglia,Taranto,Taranto,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 I-TE-15765-S,immobili,Abruzzo,Teramo,Martinsicuro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Teramo,Misure di Prevenzione
 I-TE-15921-S,immobili,Abruzzo,Teramo,Civitella del Tronto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Pescara,Misure di Prevenzione
 I-TE-15922-S,immobili,Abruzzo,Teramo,Civitella del Tronto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Pescara,Misure di Prevenzione
@@ -16062,7 +16068,7 @@ I-TO-61678-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abita
 I-TO-61803-S,immobili,Piemonte,Torino,Trofarello,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Procura della Repubblica,Torino,Procedimento Penale
 I-TO-62756-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-67111-S,immobili,Piemonte,Torino,San Gillio,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
-I-TO-68810-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-68810-S,immobili,Piemonte,Torino,Torino,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-68965-S,immobili,Piemonte,Torino,Orbassano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-69106-S,immobili,Piemonte,Torino,San Carlo Canavese,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,0%,Tribunale,Torino,Misure di Prevenzione
 I-TO-69653-S,immobili,Piemonte,Torino,Prascorsano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
