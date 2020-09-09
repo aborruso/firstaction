@@ -8073,6 +8073,11 @@ I-MI-90248-S,immobili,Lombardia,Milano,Zelo Surrigone,Unità immobiliare per uso
 I-MI-90249-S,immobili,Lombardia,Milano,Zelo Surrigone,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-90250-S,immobili,Lombardia,Milano,Zelo Surrigone,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-90252-S,immobili,Lombardia,Milano,Trezzano sul Naviglio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-90538-S,immobili,Lombardia,Milano,Opera,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Milano,Misure di Prevenzione
+I-MI-90539-S,immobili,Lombardia,Milano,Opera,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Milano,Misure di Prevenzione
+I-MI-90540-S,immobili,Lombardia,Milano,Bubbiano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-90541-S,immobili,Lombardia,Milano,Bubbiano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-90542-S,immobili,Lombardia,Milano,Bubbiano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MN-16167-S,immobili,Lombardia,Mantova,Mantova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 I-MN-16168-S,immobili,Lombardia,Mantova,Mantova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 I-MN-16169-S,immobili,Lombardia,Mantova,Mantova,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
@@ -9216,8 +9221,8 @@ I-NA-85370-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abita
 I-NA-85371-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-85372-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-85373-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-85374-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-85375-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,0%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-85374-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-85375-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-85643-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-85644-S,immobili,Campania,Napoli,Poggiomarino,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-85646-S,immobili,Campania,Napoli,Ottaviano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -12719,7 +12724,7 @@ I-PT-86808-S,immobili,Toscana,Pistoia,Pistoia,Unità immobiliare per uso di abit
 I-PT-86810-S,immobili,Toscana,Pistoia,Serravalle Pistoiese,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Firenze,Misure di Prevenzione
 I-PT-86811-S,immobili,Toscana,Pistoia,Serravalle Pistoiese,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,,0%,Tribunale,Firenze,Misure di Prevenzione
 I-PT-88588-S,immobili,Toscana,Pistoia,Montale,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
-I-PT-90534-S,immobili,Toscana,Pistoia,Montale,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
+I-PT-90534-S,immobili,Toscana,Pistoia,Montale,Altra unità immobiliare,Altro,Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
 I-PU-13200-S,immobili,Marche,Pesaro e Urbino,Fano,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Procura della Repubblica,Pesaro,Procedimento Penale
 I-PU-13201-S,immobili,Marche,Pesaro e Urbino,Fano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Pesaro,Procedimento Penale
 I-PU-13202-S,immobili,Marche,Pesaro e Urbino,Cartoceto,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Procura della Repubblica,Pesaro,Procedimento Penale
