@@ -526,6 +526,8 @@ I-AL-84152-S,immobili,Piemonte,Alessandria,Alessandria,Unità immobiliare per us
 I-AL-84153-S,immobili,Piemonte,Alessandria,Alessandria,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
 I-AL-84154-S,immobili,Piemonte,Alessandria,Alessandria,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
 I-AL-84155-S,immobili,Piemonte,Alessandria,Alessandria,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
+I-AL-90545-S,immobili,Piemonte,Alessandria,Acqui Terme,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Torino,Misure di Prevenzione
+I-AL-90546-S,immobili,Piemonte,Alessandria,Acqui Terme,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Torino,Misure di Prevenzione
 I-AN-78646-S,immobili,Marche,Ancona,Ancona,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,81%,Tribunale,Ancona,Misure di Prevenzione
 I-AN-78647-S,immobili,Marche,Ancona,Falconara Marittima,Terreno,Terreno - non definito,Confisca def.,0%,Tribunale,Ancona,Misure di Prevenzione
 I-AN-83437-S,immobili,Marche,Ancona,Ancona,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Procura della Repubblica,Ancona,Procedimento Penale
@@ -5110,6 +5112,7 @@ I-GE-76697-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitaz
 I-GE-80550-S,immobili,Liguria,Genova,Santa Margherita Ligure,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
 I-GE-86471-S,immobili,Liguria,Genova,Mignanego,Terreno,Terreno edificabile,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-87670-S,immobili,Liguria,Genova,Lavagna,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,100%,Tribunale,Genova,Misure di Prevenzione
+I-GE-90551-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,50%,Procura della Repubblica,Milano,Procedimento Penale
 I-GO-64141-S,immobili,Friuli Venezia Giulia,Gorizia,Gorizia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Gorizia,Procedimento Penale
 I-GR-32764-S,immobili,Toscana,Grosseto,Sorano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-GR-37035-S,immobili,Toscana,Grosseto,Monte Argentario,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
@@ -8008,9 +8011,9 @@ I-MI-81511-S,immobili,Lombardia,Milano,Baranzate,Unità immobiliare per uso di a
 I-MI-81512-S,immobili,Lombardia,Milano,Baranzate,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-81521-S,immobili,Lombardia,Milano,Pioltello,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Corte di Appello,Milano,Procedimento Penale
 I-MI-81561-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Corte di Appello,Milano,Procedimento Penale
-I-MI-81615-S,immobili,Lombardia,Milano,Garbagnate Milanese,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-81616-S,immobili,Lombardia,Milano,Garbagnate Milanese,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-81617-S,immobili,Lombardia,Milano,Garbagnate Milanese,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-81615-S,immobili,Lombardia,Milano,Garbagnate Milanese,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-81616-S,immobili,Lombardia,Milano,Garbagnate Milanese,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-81617-S,immobili,Lombardia,Milano,Garbagnate Milanese,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-81978-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-82724-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-82725-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
