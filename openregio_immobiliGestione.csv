@@ -2386,7 +2386,7 @@ I-CE-84657-S,immobili,Campania,Caserta,Casal di Principe,Terreno,Terreno con fab
 I-CE-84659-S,immobili,Campania,Caserta,Casal di Principe,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-84669-S,immobili,Campania,Caserta,Casal di Principe,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-84674-S,immobili,Campania,Caserta,Casal di Principe,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-84677-S,immobili,Campania,Caserta,Giano Vetusto,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-84677-S,immobili,Campania,Caserta,Giano Vetusto,Terreno,Terreno edificabile,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-84930-S,immobili,Campania,Caserta,Capodrise,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-84931-S,immobili,Campania,Caserta,Capodrise,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-85097-S,immobili,Campania,Caserta,Mondragone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -2589,6 +2589,7 @@ I-CE-90529-S,immobili,Campania,Caserta,Marcianise,Unità immobiliare a destinazi
 I-CE-90530-S,immobili,Campania,Caserta,Castel Volturno,Terreno,Terreno agricolo,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-90531-S,immobili,Campania,Caserta,Marcianise,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-90532-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-90559-S,immobili,Campania,Caserta,Sessa Aurunca,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CH-36419-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-36421-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-42987-S,immobili,Abruzzo,Chieti,San Salvo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Varese,Misure di Prevenzione
@@ -5742,7 +5743,6 @@ I-LT-37209-S,immobili,Lazio,Latina,Terracina,Unità immobiliare per uso di abita
 I-LT-37210-S,immobili,Lazio,Latina,Terracina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-LT-37212-S,immobili,Lazio,Latina,Terracina,Altra unità immobiliare,Ex fabbricato rurale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-LT-37218-S,immobili,Lazio,Latina,Terracina,Terreno,Terreno - non definito,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-LT-37377-S,immobili,Lazio,Latina,San Felice Circeo,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
 I-LT-39596-S,immobili,Lazio,Latina,Latina,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-39597-S,immobili,Lazio,Latina,Latina,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-39598-S,immobili,Lazio,Latina,Latina,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
@@ -5977,29 +5977,9 @@ I-LT-86067-S,immobili,Lazio,Latina,Sabaudia,Altra unità immobiliare,Altra unit�
 I-LT-86625-S,immobili,Lazio,Latina,Cisterna di Latina,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-LT-86635-S,immobili,Lazio,Latina,Cisterna di Latina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-LT-86636-S,immobili,Lazio,Latina,Cisterna di Latina,Unità immobiliare per alloggio e usi collettivi,Fabbricato annesso a speciali esigenze commerciali,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-LT-87063-S,immobili,Lazio,Latina,San Felice Circeo,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-LT-87064-S,immobili,Lazio,Latina,San Felice Circeo,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-LT-87065-S,immobili,Lazio,Latina,San Felice Circeo,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-LT-87066-S,immobili,Lazio,Latina,San Felice Circeo,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-LT-87067-S,immobili,Lazio,Latina,San Felice Circeo,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-LT-87068-S,immobili,Lazio,Latina,San Felice Circeo,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-LT-87069-S,immobili,Lazio,Latina,San Felice Circeo,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-LT-87070-S,immobili,Lazio,Latina,San Felice Circeo,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-LT-87071-S,immobili,Lazio,Latina,San Felice Circeo,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-LT-87072-S,immobili,Lazio,Latina,San Felice Circeo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-LT-87073-S,immobili,Lazio,Latina,San Felice Circeo,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-LT-87074-S,immobili,Lazio,Latina,San Felice Circeo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-LT-87075-S,immobili,Lazio,Latina,San Felice Circeo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-LT-87076-S,immobili,Lazio,Latina,San Felice Circeo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
 I-LT-87511-S,immobili,Lazio,Latina,San Felice Circeo,Terreno,Terreno - non definito,,0%,Tribunale,Roma,Misure di Prevenzione
 I-LT-87593-S,immobili,Lazio,Latina,San Felice Circeo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Roma,Misure di Prevenzione
 I-LT-87674-S,immobili,Lazio,Latina,Formia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Latina,Misure di Prevenzione
-I-LT-87697-S,immobili,Lazio,Latina,San Felice Circeo,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-LT-87700-S,immobili,Lazio,Latina,San Felice Circeo,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-LT-87701-S,immobili,Lazio,Latina,San Felice Circeo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-LT-87702-S,immobili,Lazio,Latina,San Felice Circeo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-LT-87703-S,immobili,Lazio,Latina,San Felice Circeo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-LT-87704-S,immobili,Lazio,Latina,San Felice Circeo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
 I-LT-8790-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Latina,Misure di Prevenzione
 I-LT-8791-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Latina,Misure di Prevenzione
 I-LT-88683-S,immobili,Lazio,Latina,Aprilia,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Sequestro,100%,Tribunale,Roma,Misure di Prevenzione
