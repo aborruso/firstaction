@@ -3826,6 +3826,14 @@ I-CS-89191-S,immobili,Calabria,Cosenza,Tortora,Unità immobiliare per uso di abi
 I-CS-89215-S,immobili,Calabria,Cosenza,Tortora,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-CS-89222-S,immobili,Calabria,Cosenza,Tortora,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-CS-89250-S,immobili,Calabria,Cosenza,Tortora,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+I-CS-90560-S,immobili,Calabria,Cosenza,Scalea,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-CS-90561-S,immobili,Calabria,Cosenza,Scalea,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-CS-90562-S,immobili,Calabria,Cosenza,Scalea,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-CS-90575-S,immobili,Calabria,Cosenza,Scalea,Terreno,Terreno - non definito,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-CS-90576-S,immobili,Calabria,Cosenza,Scalea,Terreno,Terreno - non definito,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-CS-90577-S,immobili,Calabria,Cosenza,Scalea,Terreno,Terreno - non definito,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-CS-90578-S,immobili,Calabria,Cosenza,Scalea,Terreno,Terreno - non definito,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-CS-90579-S,immobili,Calabria,Cosenza,Scalea,Terreno,Terreno - non definito,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CT-10831-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Milano,Misure di Prevenzione
 I-CT-20882-S,immobili,Sicilia,Catania,San Pietro Clarenza,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-20893-S,immobili,Sicilia,Catania,Ramacca,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Catania,Misure di Prevenzione
@@ -10902,8 +10910,8 @@ I-PA-65260-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Altro,Con
 I-PA-65269-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Altro,Confisca def.,50%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-65281-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-65300-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-65302-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-65303-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-65302-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-65303-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-65349-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-65353-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-65354-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -14083,7 +14091,7 @@ I-RE-50577-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Unità immobiliare 
 I-RE-50578-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-50918-S,immobili,Emilia Romagna,Reggio Emilia,Cadelbosco di Sopra,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-50919-S,immobili,Emilia Romagna,Reggio Emilia,Cadelbosco di Sopra,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-RE-50924-S,immobili,Emilia Romagna,Reggio Emilia,Cadelbosco di Sopra,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
+I-RE-50924-S,immobili,Emilia Romagna,Reggio Emilia,Cadelbosco di Sopra,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-50928-S,immobili,Emilia Romagna,Reggio Emilia,Cadelbosco di Sopra,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-71059-S,immobili,Emilia Romagna,Reggio Emilia,Reggio nell'Emilia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-RE-71060-S,immobili,Emilia Romagna,Reggio Emilia,Reggio nell'Emilia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
@@ -15092,6 +15100,8 @@ I-RM-90111-S,immobili,Lazio,Roma,San Polo dei Cavalieri,Terreno,Terreno agricolo
 I-RM-90113-S,immobili,Lazio,Roma,San Polo dei Cavalieri,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-90115-S,immobili,Lazio,Roma,San Polo dei Cavalieri,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-9029-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-90571-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-RM-90572-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Altro,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-RM-9130-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-9187-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-9188-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -15125,10 +15135,10 @@ I-SA-18244-S,immobili,Campania,Salerno,Sarno,Unità immobiliare a destinazione c
 I-SA-18248-S,immobili,Campania,Salerno,Sarno,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-18249-S,immobili,Campania,Salerno,Sarno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-18665-S,immobili,Campania,Salerno,Cava de' Tirreni,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
-I-SA-1954-S,immobili,Campania,Salerno,Eboli,Terreno,Terreno edificabile,,100%,Tribunale,Salerno,Misure di Prevenzione
-I-SA-1955-S,immobili,Campania,Salerno,Eboli,Terreno,Terreno edificabile,,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-1954-S,immobili,Campania,Salerno,Eboli,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-1955-S,immobili,Campania,Salerno,Eboli,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-1959-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,51%,Tribunale,Salerno,Misure di Prevenzione
-I-SA-1963-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-1963-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-1965-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-1966-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-1967-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Tribunale,Salerno,Misure di Prevenzione
@@ -15461,6 +15471,10 @@ I-SA-89589-S,immobili,Campania,Salerno,Pontecagnano Faiano,Unità immobiliare a 
 I-SA-90116-S,immobili,Campania,Salerno,Nocera Inferiore,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Sequestro,50%,Procura della Repubblica,Salerno,Procedimento Penale
 I-SA-90217-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno agricolo,Revoca Conf.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-90219-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno agricolo,Revoca Conf.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-90589-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-90590-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-90591-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-90592-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SI-5364-S,immobili,Toscana,Siena,Montepulciano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-SI-5365-S,immobili,Toscana,Siena,Montepulciano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-SI-5366-S,immobili,Toscana,Siena,Montepulciano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -17329,8 +17343,8 @@ I-TP-7054-S,immobili,Sicilia,Trapani,Poggioreale,Altra unità immobiliare,Altro,
 I-TP-71055-S,immobili,Sicilia,Trapani,Trapani,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-73124-S,immobili,Sicilia,Trapani,Castelvetrano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-73125-S,immobili,Sicilia,Trapani,Castelvetrano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-73126-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-73127-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-73126-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-73127-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-73128-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-73129-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-73130-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
@@ -18190,12 +18204,12 @@ I-VV-75642-S,immobili,Calabria,Vibo Valentia,Briatico,Unità immobiliare per uso
 I-VV-75650-S,immobili,Calabria,Vibo Valentia,Briatico,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Sequestro,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-VV-75651-S,immobili,Calabria,Vibo Valentia,Briatico,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-VV-75652-S,immobili,Calabria,Vibo Valentia,Briatico,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Sequestro,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
-I-VV-76196-S,immobili,Calabria,Vibo Valentia,Gerocarne,Terreno,Terreno agricolo,Confisca def.,97%,Tribunale,Vibo Valentia,Misure di Prevenzione
+I-VV-76196-S,immobili,Calabria,Vibo Valentia,Sorianello,Terreno,Terreno agricolo,Confisca def.,97%,Tribunale,Vibo Valentia,Misure di Prevenzione
 I-VV-76197-S,immobili,Calabria,Vibo Valentia,Sorianello,Terreno,Terreno agricolo,Confisca def.,97%,Tribunale,Vibo Valentia,Misure di Prevenzione
 I-VV-76198-S,immobili,Calabria,Vibo Valentia,Sorianello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
 I-VV-76199-S,immobili,Calabria,Vibo Valentia,Sorianello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
 I-VV-76200-S,immobili,Calabria,Vibo Valentia,Sorianello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
-I-VV-76201-S,immobili,Calabria,Vibo Valentia,Sorianello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
+I-VV-76201-S,immobili,Calabria,Vibo Valentia,Sorianello,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
 I-VV-76202-S,immobili,Calabria,Vibo Valentia,Sorianello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
 I-VV-76203-S,immobili,Calabria,Vibo Valentia,Sorianello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
 I-VV-76204-S,immobili,Calabria,Vibo Valentia,Sorianello,Terreno,Terreno agricolo,Confisca def.,97%,Tribunale,Vibo Valentia,Misure di Prevenzione
@@ -18247,3 +18261,9 @@ I-VV-81257-S,immobili,Calabria,Vibo Valentia,Francavilla Angitola,Terreno,Terren
 I-VV-81259-S,immobili,Calabria,Vibo Valentia,Francavilla Angitola,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-VV-81263-S,immobili,Calabria,Vibo Valentia,Francavilla Angitola,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-VV-83546-S,immobili,Calabria,Vibo Valentia,Francavilla Angitola,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-VV-90585-S,immobili,Calabria,Vibo Valentia,Sorianello,Terreno,Terreno agricolo,Confisca def.,97%,Tribunale,Vibo Valentia,Misure di Prevenzione
+I-VV-90586-S,immobili,Calabria,Vibo Valentia,Sorianello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
+I-VV-90587-S,immobili,Calabria,Vibo Valentia,Sorianello,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
+I-VV-90588-S,immobili,Calabria,Vibo Valentia,Sorianello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
+I-VV-90593-S,immobili,Calabria,Vibo Valentia,Sorianello,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
+I-VV-90594-S,immobili,Calabria,Vibo Valentia,Sorianello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
