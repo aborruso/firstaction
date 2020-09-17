@@ -779,13 +779,13 @@ Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca def.,9010/
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca def.,9086/1992
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca def.,959/2013
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Revoca Conf.,41657/2012
+Campania,Procura della Repubblica,Napoli,Procedimento Penale,Revoca Conf.,45232/2010
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Revoca Conf. parziale,9674/2014
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Revoca Seq.,43420/2014
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Revoca Seq.,48710/2014
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Revoca Sequ. parziale,16547/2016
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Revoca Sequ. parziale,17682/2016
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Revoca Sequ. parziale,45702/2012
-Campania,Procura della Repubblica,Napoli,Procedimento Penale,Sequestro,45232/2010
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Sequestro,48244/2014
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,1/2018
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,119/2013
@@ -1753,7 +1753,6 @@ Lombardia,Corte di Appello,Milano,Procedimento Penale,Confisca def.,244/2018
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,,27806/2009
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,1/2012
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,11705/1997
-Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,13495/2016
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,14535/2008
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,17546/2003
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,35026/2006
@@ -1768,6 +1767,7 @@ Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,6473/20
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,860/2013
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,9506/2011
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca II,12772/2000
+Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca II,13495/2016
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca II,193/2012
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca II,35026/2006
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca II,41756/2009
@@ -2219,7 +2219,6 @@ Piemonte,Procura della Repubblica,Torino,Procedimento Penale,Confisca I,23806/20
 Piemonte,Procura della Repubblica,Torino,Procedimento Penale,Confisca I,23946/2013
 Piemonte,Procura della Repubblica,Torino,Procedimento Penale,Confisca I,29052/2010
 Piemonte,Procura della Repubblica,Torino,Procedimento Penale,Confisca I,50367/2014
-Piemonte,Procura della Repubblica,Torino,Procedimento Penale,Confisca I,6604/2018
 Piemonte,Procura della Repubblica,Torino,Procedimento Penale,Confisca I,8995/2013
 Piemonte,Procura della Repubblica,Torino,Procedimento Penale,Confisca def.,100185/2004
 Piemonte,Procura della Repubblica,Torino,Procedimento Penale,Confisca def.,10030/2017
@@ -2268,6 +2267,7 @@ Piemonte,Procura della Repubblica,Torino,Procedimento Penale,Confisca def.,41470
 Piemonte,Procura della Repubblica,Torino,Procedimento Penale,Confisca def.,4742/2018
 Piemonte,Procura della Repubblica,Torino,Procedimento Penale,Confisca def.,6080/1992
 Piemonte,Procura della Repubblica,Torino,Procedimento Penale,Confisca def.,6164/2017
+Piemonte,Procura della Repubblica,Torino,Procedimento Penale,Confisca def.,6604/2018
 Piemonte,Procura della Repubblica,Torino,Procedimento Penale,Confisca def.,690/1997
 Piemonte,Procura della Repubblica,Torino,Procedimento Penale,Confisca def.,699/2017
 Piemonte,Procura della Repubblica,Torino,Procedimento Penale,Confisca def.,7130/2016
@@ -2297,6 +2297,7 @@ Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,59/2016
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,65/2015
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,73/2015
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca II,117/2015
+Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca II,19/2019
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca II,21/2016
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca II,21/2019
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca II,38/2017
@@ -2473,7 +2474,6 @@ Piemonte,Tribunale,Torino,Misure di Prevenzione,Revoca Conf. parziale,82/2014
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Revoca Seq.,20/2015
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Revoca Seq.,27/2015
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Revoca Seq.,35/2014
-Piemonte,Tribunale,Torino,Misure di Prevenzione,Sequestro,19/2019
 Piemonte,Tribunale,Torino,Procedimento Penale,Revoca Conf.,3587/1994
 Piemonte,Tribunale,Torino,Procedimento Penale,Revoca Sequ. parziale,27007/2016
 Piemonte,Procura della Repubblica,Verbania,Procedimento Penale,Confisca I,845/2005

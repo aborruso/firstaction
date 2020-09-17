@@ -3836,6 +3836,7 @@ I-CS-90576-S,immobili,Calabria,Cosenza,Scalea,Terreno,Terreno - non definito,,0%
 I-CS-90577-S,immobili,Calabria,Cosenza,Scalea,Terreno,Terreno - non definito,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CS-90578-S,immobili,Calabria,Cosenza,Scalea,Terreno,Terreno - non definito,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CS-90579-S,immobili,Calabria,Cosenza,Scalea,Terreno,Terreno - non definito,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-CS-90688-S,immobili,Calabria,Cosenza,Falconara Albanese,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CT-10831-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Milano,Misure di Prevenzione
 I-CT-20882-S,immobili,Sicilia,Catania,San Pietro Clarenza,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-20893-S,immobili,Sicilia,Catania,Ramacca,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Catania,Misure di Prevenzione
@@ -5119,7 +5120,7 @@ I-GE-76697-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitaz
 I-GE-80550-S,immobili,Liguria,Genova,Santa Margherita Ligure,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
 I-GE-86471-S,immobili,Liguria,Genova,Mignanego,Terreno,Terreno edificabile,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-87670-S,immobili,Liguria,Genova,Lavagna,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,100%,Tribunale,Genova,Misure di Prevenzione
-I-GE-90551-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,50%,Procura della Repubblica,Milano,Procedimento Penale
+I-GE-90551-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,50%,Procura della Repubblica,Milano,Procedimento Penale
 I-GO-64141-S,immobili,Friuli Venezia Giulia,Gorizia,Gorizia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Gorizia,Procedimento Penale
 I-GR-32764-S,immobili,Toscana,Grosseto,Sorano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-GR-37035-S,immobili,Toscana,Grosseto,Monte Argentario,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
@@ -9712,6 +9713,29 @@ I-NA-90319-S,immobili,Campania,Napoli,Torre del Greco,Unità immobiliare per uso
 I-NA-90651-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-90652-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-90653-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90678-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90679-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90680-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90681-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90682-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90685-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90686-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90689-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90690-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90692-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90693-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90694-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90696-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90697-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90698-S,immobili,Campania,Napoli,Ercolano,Terreno,Terreno agricolo,Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90699-S,immobili,Campania,Napoli,Ercolano,Altra unità immobiliare,Altro,Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90700-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90701-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90702-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90703-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90704-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90716-S,immobili,Campania,Napoli,Marigliano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-90718-S,immobili,Campania,Napoli,Marigliano,Altra unità immobiliare,Altro,,0%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-91-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,33%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-92-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,33%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-93-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,33%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -17623,6 +17647,14 @@ I-TP-87685-S,immobili,Sicilia,Trapani,Valderice,Unità immobiliare per uso di ab
 I-TP-87686-S,immobili,Sicilia,Trapani,Valderice,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-87687-S,immobili,Sicilia,Trapani,Valderice,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-87688-S,immobili,Sicilia,Trapani,Valderice,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-90706-S,immobili,Sicilia,Trapani,Alcamo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-90710-S,immobili,Sicilia,Trapani,Alcamo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-90711-S,immobili,Sicilia,Trapani,Alcamo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-90712-S,immobili,Sicilia,Trapani,Alcamo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-90713-S,immobili,Sicilia,Trapani,Alcamo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-90714-S,immobili,Sicilia,Trapani,Alcamo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-90715-S,immobili,Sicilia,Trapani,Alcamo,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-90717-S,immobili,Sicilia,Trapani,Alcamo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TS-20192-S,immobili,Friuli Venezia Giulia,Trieste,Trieste,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Venezia,Procedimento Penale
 I-TS-30044-S,immobili,Friuli Venezia Giulia,Trieste,Trieste,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Trieste,Procedimento Penale
 I-TS-30045-S,immobili,Friuli Venezia Giulia,Trieste,Trieste,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Trieste,Procedimento Penale
