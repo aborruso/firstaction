@@ -914,13 +914,13 @@ I-BA-85109-S,immobili,Puglia,Bari,Bari,Unità immobiliare per uso di abitazione 
 I-BA-85110-S,immobili,Puglia,Bari,Bari,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Revoca Sequ. parziale,0%,Tribunale,Trani,Misure di Prevenzione
 I-BA-85111-S,immobili,Puglia,Bari,Bari,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Revoca Sequ. parziale,0%,Tribunale,Trani,Misure di Prevenzione
 I-BA-86986-S,immobili,Puglia,Bari,Bari,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Bari,Misure di Prevenzione
-I-BA-87389-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,,100%,Tribunale,Bari,Misure di Prevenzione
-I-BA-87390-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,,100%,Tribunale,Bari,Misure di Prevenzione
-I-BA-87391-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,,0%,Tribunale,Bari,Misure di Prevenzione
-I-BA-87392-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,,0%,Tribunale,Bari,Misure di Prevenzione
-I-BA-87393-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,,0%,Tribunale,Bari,Misure di Prevenzione
-I-BA-87394-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,,0%,Tribunale,Bari,Misure di Prevenzione
-I-BA-87395-S,immobili,Puglia,Bari,Bari,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Bari,Misure di Prevenzione
+I-BA-87389-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
+I-BA-87390-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
+I-BA-87391-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Bari,Misure di Prevenzione
+I-BA-87392-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Bari,Misure di Prevenzione
+I-BA-87393-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Bari,Misure di Prevenzione
+I-BA-87394-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Bari,Misure di Prevenzione
+I-BA-87395-S,immobili,Puglia,Bari,Bari,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Bari,Misure di Prevenzione
 I-BA-87466-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno agricolo,Revoca Conf. parziale,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-87468-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno agricolo,,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-87469-S,immobili,Puglia,Bari,Gioia del Colle,Unità immobiliare per uso di abitazione e assimilabile,Villa,,100%,Tribunale,Bari,Misure di Prevenzione
@@ -9266,10 +9266,10 @@ I-NA-86104-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione c
 I-NA-86105-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Corte di Appello,Napoli,Procedimento Penale
 I-NA-86106-S,immobili,Campania,Napoli,Napoli,Terreno,Terreno agricolo,Confisca I,100%,Corte di Appello,Napoli,Procedimento Penale
 I-NA-87062-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-87166-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-87167-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-87168-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-87169-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-87166-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-87167-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-87168-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-87169-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-87321-S,immobili,Campania,Napoli,Nola,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-87322-S,immobili,Campania,Napoli,Nola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-87422-S,immobili,Campania,Napoli,Torre del Greco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Napoli,Misure di Prevenzione
@@ -9734,8 +9734,8 @@ I-NA-90701-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abi
 I-NA-90702-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-90703-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-90704-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-90716-S,immobili,Campania,Napoli,Marigliano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-90718-S,immobili,Campania,Napoli,Marigliano,Altra unità immobiliare,Altro,,0%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-90716-S,immobili,Campania,Napoli,Marigliano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-90718-S,immobili,Campania,Napoli,Marigliano,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-91-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,33%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-92-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,33%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-93-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,33%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -18077,6 +18077,12 @@ I-VT-86620-S,immobili,Lazio,Viterbo,Fabrica di Roma,Terreno,Terreno agricolo,Rev
 I-VT-86621-S,immobili,Lazio,Viterbo,Fabrica di Roma,Terreno,Terreno agricolo,Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
 I-VT-87247-S,immobili,Lazio,Viterbo,Corchiano,Terreno,Terreno agricolo,,100%,Tribunale,Napoli,Misure di Prevenzione
 I-VT-88400-S,immobili,Lazio,Viterbo,Bolsena,Terreno,Terreno agricolo,Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
+I-VT-90735-S,immobili,Lazio,Viterbo,Vignanello,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-VT-90736-S,immobili,Lazio,Viterbo,Gallese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-VT-90737-S,immobili,Lazio,Viterbo,Gallese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-VT-90738-S,immobili,Lazio,Viterbo,Gallese,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-VT-90739-S,immobili,Lazio,Viterbo,Gallese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-VT-90740-S,immobili,Lazio,Viterbo,Gallese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-VV-12804-S,immobili,Calabria,Vibo Valentia,Zambrone,Terreno,Terreno agricolo,Confisca def.,20%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-VV-17286-S,immobili,Calabria,Vibo Valentia,Vibo Valentia,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
 I-VV-17287-S,immobili,Calabria,Vibo Valentia,Nicotera,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
