@@ -14169,7 +14169,7 @@ I-RE-74881-S,immobili,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Unità immo
 I-RE-74882-S,immobili,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-RE-74883-S,immobili,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-RE-78925-S,immobili,Emilia Romagna,Reggio Emilia,Vezzano sul Crostolo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
-I-RE-83440-S,immobili,Emilia Romagna,Reggio Emilia,Cadelbosco di Sopra,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-83440-S,immobili,Emilia Romagna,Reggio Emilia,Cadelbosco di Sopra,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-RG-32663-S,immobili,Sicilia,Ragusa,Vittoria,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Corte di Appello,Palermo,Procedimento Penale
 I-RG-32664-S,immobili,Sicilia,Ragusa,Ragusa,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Corte di Appello,Palermo,Procedimento Penale
 I-RG-52161-S,immobili,Sicilia,Ragusa,Vittoria,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Ragusa,Misure di Prevenzione
@@ -15190,11 +15190,10 @@ I-SA-1999-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di 
 I-SA-2000-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-2001-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-2002-S,immobili,Campania,Salerno,Battipaglia,Altra unità immobiliare,Altro,,100%,Tribunale,Salerno,Misure di Prevenzione
-I-SA-2003-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-2003-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-2004-S,immobili,Campania,Salerno,Montecorice,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,50%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-2005-S,immobili,Campania,Salerno,Montecorice,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,50%,Tribunale,Salerno,Misure di Prevenzione
-I-SA-2006-S,immobili,Campania,Salerno,Battipaglia,Terreno,Terreno con fabbricato rurale,,100%,Tribunale,Salerno,Misure di Prevenzione
-I-SA-30124-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,Altro,,100%,Corte di Appello,Salerno,Misure di Prevenzione
+I-SA-30124-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Corte di Appello,Salerno,Misure di Prevenzione
 I-SA-30168-S,immobili,Campania,Salerno,Pagani,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-32358-S,immobili,Campania,Salerno,Castel San Giorgio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Corte di Appello,Napoli,Procedimento Penale
 I-SA-32978-S,immobili,Campania,Salerno,Positano,Terreno,Terreno agricolo,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
