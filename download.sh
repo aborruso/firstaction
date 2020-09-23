@@ -25,6 +25,9 @@ fi
 
 # rimuovi a capo nelle celle
 mlr -I --csv put -S 'for (k in $*) { $[k] = gsub($[k], "(\n|\r)", " ")}' then clean-whitespace "$folder"/openregio_immobiliDestinati.csv
+mlr -I --csv put -S 'for (k in $*) { $[k] = gsub($[k], "(\n|\r)", " ")}' then clean-whitespace "$folder"/openregio_immobiliGestione.csv
+mlr -I --csv put -S 'for (k in $*) { $[k] = gsub($[k], "(\n|\r)", " ")}' then clean-whitespace "$folder"/openregio_aziendeDestinate.csv
+mlr -I --csv put -S 'for (k in $*) { $[k] = gsub($[k], "(\n|\r)", " ")}' then clean-whitespace "$folder"/openregio_aziendeGestione.csv
 
 # se ci sono novità sul repo, avvisami
 if [ $(git status --porcelain | wc -l) -eq "0" ]; then
