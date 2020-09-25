@@ -328,7 +328,6 @@ Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca I,82/2015
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca II,104/2015
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca II,109/2016
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca II,121/2013
-Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca II,138/2015
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca II,156/1999
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca II,22/2016
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca II,3/2016
@@ -360,6 +359,7 @@ Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,13/2003
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,133/2011
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,134/2010
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,134/2013
+Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,138/2015
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,138/2016
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,143/2012
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,144/2013
@@ -575,7 +575,7 @@ Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf. parziale,9
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Rinvio,104/2003
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Sequestro,78/2015
 Calabria,Tribunale,Reggio Calabria,Procedimento Penale,,3227/2009
-Calabria,Tribunale,Reggio Calabria,Procedimento Penale,,3273/2012
+Calabria,Tribunale,Reggio Calabria,Procedimento Penale,Confisca def.,3273/2012
 Calabria,Tribunale,Reggio Calabria,Procedimento Penale,Confisca def.,7474/2011
 Calabria,Tribunale,Reggio Calabria,Procedimento Penale,Confisca def.,7734/2010
 Calabria,Tribunale,Reggio Calabria,Procedimento Penale,Confisca def.,8507/2010
@@ -1745,8 +1745,8 @@ Lombardia,Tribunale,Mantova,Misure di Prevenzione,Confisca def.,1/2014
 Lombardia,Tribunale,Mantova,Misure di Prevenzione,Revoca Conf.,5/2015
 Lombardia,Tribunale,Mantova,Misure di Prevenzione,Revoca Conf.,6/2015
 Lombardia,Corte di Appello,Milano,Procedimento Penale,Confisca def.,1/1996
+Lombardia,Corte di Appello,Milano,Procedimento Penale,Confisca def.,1/1998
 Lombardia,Corte di Appello,Milano,Procedimento Penale,Confisca def.,1/2011
-Lombardia,Corte di Appello,Milano,Procedimento Penale,Confisca def.,1/2012
 Lombardia,Corte di Appello,Milano,Procedimento Penale,Confisca def.,12501/1992
 Lombardia,Corte di Appello,Milano,Procedimento Penale,Confisca def.,2/2009
 Lombardia,Corte di Appello,Milano,Procedimento Penale,Confisca def.,244/2018
@@ -3348,7 +3348,7 @@ Sicilia,Procura della Repubblica,Palermo,Procedimento Penale,Confisca def.,9389/
 Sicilia,Procura della Repubblica,Palermo,Procedimento Penale,Confisca def.,94/1990
 Sicilia,Procura della Repubblica,Palermo,Procedimento Penale,Confisca def.,9541/2010
 Sicilia,Procura della Repubblica,Palermo,Procedimento Penale,Confisca def.,9655/2004
-Sicilia,Procura della Repubblica,Palermo,Procedimento Penale,Impugnazione,11808/2009
+Sicilia,Procura della Repubblica,Palermo,Procedimento Penale,Revoca Conf.,11808/2009
 Sicilia,Procura della Repubblica,Palermo,Procedimento Penale,Revoca Conf. parziale,3366/1999
 Sicilia,Procura della Repubblica,Palermo,Procedimento Penale,Revoca Conf. parziale,4369/2010
 Sicilia,Procura della Repubblica,Palermo,Procedimento Penale,Revoca Conf. parziale,5275/1996
