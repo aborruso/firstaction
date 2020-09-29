@@ -8205,8 +8205,8 @@ I-MS-76554-S,immobili,Toscana,Massa-Carrara,Massa,Unità immobiliare per uso di 
 I-MS-78632-S,immobili,Toscana,Massa-Carrara,Montignoso,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,3%,Tribunale,Milano,Procedimento Penale
 I-MS-78633-S,immobili,Toscana,Massa-Carrara,Montignoso,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,3%,Tribunale,Milano,Procedimento Penale
 I-MS-78634-S,immobili,Toscana,Massa-Carrara,Montignoso,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,3%,Tribunale,Milano,Procedimento Penale
-I-MS-90768-S,immobili,Toscana,Massa-Carrara,Carrara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,La Spezia,Misure di Prevenzione
-I-MS-90769-S,immobili,Toscana,Massa-Carrara,Fivizzano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,La Spezia,Misure di Prevenzione
+I-MS-90768-S,immobili,Toscana,Massa-Carrara,Carrara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,La Spezia,Misure di Prevenzione
+I-MS-90769-S,immobili,Toscana,Massa-Carrara,Fivizzano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-MT-14006-S,immobili,Basilicata,Matera,Policoro,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-MT-23431-S,immobili,Basilicata,Matera,Calciano,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,50%,Corte di Appello,Potenza,Misure di Prevenzione
 I-NA-100-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -11170,7 +11170,7 @@ I-PA-68351-S,immobili,Sicilia,Palermo,Monreale,Unità immobiliare per uso di abi
 I-PA-68352-S,immobili,Sicilia,Palermo,Monreale,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-PA-68353-S,immobili,Sicilia,Palermo,Monreale,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-PA-6842-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-68422-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,40%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-68422-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno - non definito,Confisca def.,40%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-6843-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-68448-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-68449-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -11888,7 +11888,7 @@ I-PA-83357-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione 
 I-PA-83358-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-83359-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-83366-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-83369-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-83369-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Revoca Sequ. parziale,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-83371-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-83373-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-83377-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -15559,9 +15559,25 @@ I-SP-72728-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare per uso di 
 I-SP-72729-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,78%,Procura della Repubblica,La Spezia,Procedimento Penale
 I-SP-72741-S,immobili,Liguria,La Spezia,La Spezia,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca I,76%,Procura della Repubblica,La Spezia,Procedimento Penale
 I-SP-83242-S,immobili,Liguria,La Spezia,Ameglia,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
-I-SP-90767-S,immobili,Liguria,La Spezia,Ameglia,Altra unità immobiliare,Altro,,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-SP-90770-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,,0%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90767-S,immobili,Liguria,La Spezia,Ameglia,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90770-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,98%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-90771-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,Altro,,0%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90775-S,immobili,Liguria,La Spezia,Arcola,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,,0%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90777-S,immobili,Liguria,La Spezia,Arcola,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,,0%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90778-S,immobili,Liguria,La Spezia,Arcola,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,,0%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90779-S,immobili,Liguria,La Spezia,Arcola,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,,0%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90780-S,immobili,Liguria,La Spezia,Arcola,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90781-S,immobili,Liguria,La Spezia,Arcola,Altra unità immobiliare,Altro,,0%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90782-S,immobili,Liguria,La Spezia,Arcola,Altra unità immobiliare,Altro,,0%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90783-S,immobili,Liguria,La Spezia,Arcola,Terreno,Terreno agricolo,,0%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90784-S,immobili,Liguria,La Spezia,Arcola,Terreno,Terreno con fabbricato rurale,,0%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90785-S,immobili,Liguria,La Spezia,Arcola,Terreno,Terreno agricolo,,0%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90786-S,immobili,Liguria,La Spezia,Arcola,Terreno,Terreno agricolo,,0%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90787-S,immobili,Liguria,La Spezia,Arcola,Terreno,Terreno agricolo,,0%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90791-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90792-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90793-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90794-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-SR-20757-S,immobili,Sicilia,Siracusa,Siracusa,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Siracusa,Procedimento Penale
 I-SR-20758-S,immobili,Sicilia,Siracusa,Siracusa,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Siracusa,Procedimento Penale
 I-SR-24571-S,immobili,Sicilia,Siracusa,Siracusa,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
@@ -16427,7 +16443,7 @@ I-TP-19322-S,immobili,Sicilia,Trapani,Mazara del Vallo,Terreno,Terreno - non def
 I-TP-19323-S,immobili,Sicilia,Trapani,Mazara del Vallo,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-19325-S,immobili,Sicilia,Trapani,Marsala,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-19326-S,immobili,Sicilia,Trapani,Marsala,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
-I-TP-19327-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
+I-TP-19327-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-19328-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-19329-S,immobili,Sicilia,Trapani,Trapani,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-19330-S,immobili,Sicilia,Trapani,Trapani,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
