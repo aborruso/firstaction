@@ -2588,6 +2588,11 @@ I-CE-90530-S,immobili,Campania,Caserta,Castel Volturno,Terreno,Terreno agricolo,
 I-CE-90531-S,immobili,Campania,Caserta,Marcianise,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-90532-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-90559-S,immobili,Campania,Caserta,Sessa Aurunca,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-90809-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-90811-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-90813-S,immobili,Campania,Caserta,Teverola,Unità immobiliare per alloggio e usi collettivi,Fabbricato annesso a speciali esigenze commerciali,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-90814-S,immobili,Campania,Caserta,Teverola,Unità immobiliare per alloggio e usi collettivi,Fabbricato annesso a speciali esigenze commerciali,Revoca Conf.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-90821-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CH-36419-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-36421-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-42987-S,immobili,Abruzzo,Chieti,San Salvo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Varese,Misure di Prevenzione
@@ -15562,12 +15567,12 @@ I-SP-90767-S,immobili,Liguria,La Spezia,Ameglia,Altra unità immobiliare,Altro,C
 I-SP-90770-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,98%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-90771-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-90775-S,immobili,Liguria,La Spezia,Arcola,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-SP-90777-S,immobili,Liguria,La Spezia,Arcola,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,,0%,Tribunale,La Spezia,Misure di Prevenzione
-I-SP-90778-S,immobili,Liguria,La Spezia,Arcola,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,,0%,Tribunale,La Spezia,Misure di Prevenzione
-I-SP-90779-S,immobili,Liguria,La Spezia,Arcola,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,,0%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90777-S,immobili,Liguria,La Spezia,Arcola,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90778-S,immobili,Liguria,La Spezia,Arcola,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90779-S,immobili,Liguria,La Spezia,Arcola,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,99%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-90780-S,immobili,Liguria,La Spezia,Arcola,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-SP-90781-S,immobili,Liguria,La Spezia,Arcola,Altra unità immobiliare,Altro,,0%,Tribunale,La Spezia,Misure di Prevenzione
-I-SP-90782-S,immobili,Liguria,La Spezia,Arcola,Altra unità immobiliare,Altro,,0%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90781-S,immobili,Liguria,La Spezia,Arcola,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90782-S,immobili,Liguria,La Spezia,Arcola,Altra unità immobiliare,Altro,Confisca def.,0%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-90783-S,immobili,Liguria,La Spezia,Arcola,Terreno,Terreno agricolo,Confisca def.,99%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-90784-S,immobili,Liguria,La Spezia,Arcola,Terreno,Terreno con fabbricato rurale,Confisca def.,99%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-90785-S,immobili,Liguria,La Spezia,Arcola,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
@@ -15577,6 +15582,7 @@ I-SP-90791-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazi
 I-SP-90792-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-90793-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-90794-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90807-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-SR-20757-S,immobili,Sicilia,Siracusa,Siracusa,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Siracusa,Procedimento Penale
 I-SR-20758-S,immobili,Sicilia,Siracusa,Siracusa,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Siracusa,Procedimento Penale
 I-SR-24571-S,immobili,Sicilia,Siracusa,Siracusa,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
