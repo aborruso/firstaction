@@ -2593,6 +2593,7 @@ I-CE-90811-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abit
 I-CE-90813-S,immobili,Campania,Caserta,Teverola,Unità immobiliare per alloggio e usi collettivi,Fabbricato annesso a speciali esigenze commerciali,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-90814-S,immobili,Campania,Caserta,Teverola,Unità immobiliare per alloggio e usi collettivi,Fabbricato annesso a speciali esigenze commerciali,Revoca Conf.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-90821-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-90834-S,immobili,Campania,Caserta,Sessa Aurunca,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Procura della Repubblica,Bologna,Procedimento Penale
 I-CH-36419-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-36421-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-42987-S,immobili,Abruzzo,Chieti,San Salvo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Varese,Misure di Prevenzione
@@ -17907,7 +17908,7 @@ I-VE-6409-S,immobili,Veneto,Venezia,Venezia,Unità immobiliare a destinazione co
 I-VE-6410-S,immobili,Veneto,Venezia,Venezia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VE-6411-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VE-6412-S,immobili,Veneto,Venezia,Venezia,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
-I-VE-79836-S,immobili,Veneto,Venezia,Jesolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-VE-79836-S,immobili,Veneto,Venezia,Jesolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VE-82683-S,immobili,Veneto,Venezia,Cona,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VE-82684-S,immobili,Veneto,Venezia,Cona,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VE-82685-S,immobili,Veneto,Venezia,Cona,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Venezia,Misure di Prevenzione
@@ -17925,6 +17926,7 @@ I-VE-90749-S,immobili,Veneto,Venezia,Portogruaro,Unità immobiliare per uso di a
 I-VE-90750-S,immobili,Veneto,Venezia,Portogruaro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VE-90751-S,immobili,Veneto,Venezia,Portogruaro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VE-90752-S,immobili,Veneto,Venezia,Portogruaro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-VE-90833-S,immobili,Veneto,Venezia,Jesolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VI-11361-S,immobili,Veneto,Vicenza,Altavilla Vicentina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Vicenza,Misure di Prevenzione
 I-VI-11362-S,immobili,Veneto,Vicenza,Altavilla Vicentina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Vicenza,Misure di Prevenzione
 I-VI-11363-S,immobili,Veneto,Vicenza,Altavilla Vicentina,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Vicenza,Misure di Prevenzione
