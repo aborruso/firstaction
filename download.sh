@@ -29,6 +29,16 @@ mlr -I --csv put -S 'for (k in $*) { $[k] = gsub($[k], "(\n|\r)", " ")}' then cl
 mlr -I --csv put -S 'for (k in $*) { $[k] = gsub($[k], "(\n|\r)", " ")}' then clean-whitespace "$folder"/openregio_aziendeDestinate.csv
 mlr -I --csv put -S 'for (k in $*) { $[k] = gsub($[k], "(\n|\r)", " ")}' then clean-whitespace "$folder"/openregio_aziendeGestione.csv
 
+### aziende ###
+
+# verifica se le API di camcom rispondono
+response=$(curl -k --connect-timeout 5 --write-out %{http_code} --silent --output /dev/null https://aziendeconfiscate.camcom.gov.it/odacWeb/opendata/download/aziende-confiscate-anbsc.json)
+
+if [[ "$response" == 200 ]]; then
+  curl "https://aziendeconfiscate.camcom.gov.it/odacWeb/opendata/download/aziende-confiscate-anbsc.json" | jq -c '.["@graph"]|sort_by(.sBene)|.[]' >"$folder"/aziende-confiscate-anbsc.json
+  curl "https://aziendeconfiscate.camcom.gov.it/odacWeb/opendata/download/aziende-confiscate-unioncamere.json" | jq -c '.["@graph"]|sort_by(."@id")|.[]' >"$folder"/aziende-confiscate-unioncamere.json
+fi
+
 # se ci sono novità sul repo, avvisami
 if [ $(git status --porcelain | wc -l) -eq "0" ]; then
   echo "  🟢 nulla di nuovo."
