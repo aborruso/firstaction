@@ -1703,8 +1703,8 @@ I-CA-79363-S,immobili,Sardegna,Cagliari,Quartu Sant'Elena,Unità immobiliare per
 I-CA-80566-S,immobili,Sardegna,Cagliari,Quartu Sant'Elena,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Procura della Repubblica,Cagliari,Procedimento Penale
 I-CA-80614-S,immobili,Sardegna,Cagliari,San Sperate,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Cagliari,Procedimento Penale
 I-CA-80620-S,immobili,Sardegna,Cagliari,San Sperate,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Cagliari,Procedimento Penale
-I-CA-87843-S,immobili,Sardegna,Cagliari,Senorbì,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
-I-CA-87846-S,immobili,Sardegna,Cagliari,Senorbì,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
+I-CA-87843-S,immobili,Sardegna,Cagliari,Senorbì,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Cagliari,Misure di Prevenzione
+I-CA-87846-S,immobili,Sardegna,Cagliari,Senorbì,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Cagliari,Misure di Prevenzione
 I-CB-10842-S,immobili,Molise,Campobasso,Campomarino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-CB-85046-S,immobili,Molise,Campobasso,Tufara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Rimini,Misure di Prevenzione
 I-CB-86864-S,immobili,Molise,Campobasso,Campomarino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Milano,Misure di Prevenzione
@@ -5747,10 +5747,10 @@ I-LT-2905-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione
 I-LT-35434-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-LT-35435-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-LT-37203-S,immobili,Lazio,Latina,Terracina,Unità immobiliare per alloggio e usi collettivi,Altro,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-LT-37204-S,immobili,Lazio,Latina,Terracina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-LT-37208-S,immobili,Lazio,Latina,Terracina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-LT-37209-S,immobili,Lazio,Latina,Terracina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-LT-37210-S,immobili,Lazio,Latina,Terracina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-LT-37204-S,immobili,Lazio,Latina,Terracina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-LT-37208-S,immobili,Lazio,Latina,Terracina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-LT-37209-S,immobili,Lazio,Latina,Terracina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-LT-37210-S,immobili,Lazio,Latina,Terracina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-LT-37212-S,immobili,Lazio,Latina,Terracina,Altra unità immobiliare,Ex fabbricato rurale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-LT-37218-S,immobili,Lazio,Latina,Terracina,Terreno,Terreno - non definito,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-LT-39596-S,immobili,Lazio,Latina,Latina,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
@@ -7812,7 +7812,6 @@ I-MI-69086-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abit
 I-MI-69087-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-69916-S,immobili,Lombardia,Milano,Pieve Emanuele,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,73%,Tribunale,Milano,Misure di Prevenzione
 I-MI-69922-S,immobili,Lombardia,Milano,Opera,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
-I-MI-69925-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-70303-S,immobili,Lombardia,Milano,Pozzo d'Adda,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Monza,Procedimento Penale
 I-MI-70304-S,immobili,Lombardia,Milano,Pozzo d'Adda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Monza,Procedimento Penale
 I-MI-70498-S,immobili,Lombardia,Milano,Rho,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -12544,16 +12543,16 @@ I-PR-38035-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di
 I-PR-38050-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-38051-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-38052-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
-I-PR-38053-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno agricolo,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-PR-38054-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno agricolo,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-PR-38055-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno agricolo,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-PR-38056-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno agricolo,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-PR-38057-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno agricolo,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-PR-38058-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno agricolo,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-PR-38059-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno agricolo,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-PR-38060-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno agricolo,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-PR-38061-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno agricolo,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-PR-38062-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno agricolo,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
+I-PR-38053-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-PR-38054-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-PR-38055-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-PR-38056-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-PR-38057-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-PR-38058-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-PR-38059-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-PR-38060-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-PR-38061-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-PR-38062-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-39883-S,immobili,Emilia Romagna,Parma,Sorbolo,Altra unità immobiliare,Altro,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-39884-S,immobili,Emilia Romagna,Parma,Sorbolo,Altra unità immobiliare,Altro,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-39885-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
