@@ -7399,7 +7399,6 @@ I-MI-13704-S,immobili,Lombardia,Milano,Cornaredo,Unità immobiliare a destinazio
 I-MI-13845-S,immobili,Lombardia,Milano,Pioltello,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-14015-S,immobili,Lombardia,Milano,Paderno Dugnano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Corte di Appello,Reggio Calabria,Misure di Prevenzione
 I-MI-14016-S,immobili,Lombardia,Milano,Paderno Dugnano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Corte di Appello,Reggio Calabria,Misure di Prevenzione
-I-MI-14957-S,immobili,Lombardia,Milano,Gorgonzola,Unità immobiliare per uso di abitazione e assimilabile,Villa,,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-14958-S,immobili,Lombardia,Milano,Gorgonzola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-14960-S,immobili,Lombardia,Milano,Gorgonzola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-14961-S,immobili,Lombardia,Milano,Gorgonzola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Milano,Misure di Prevenzione
@@ -8073,6 +8072,8 @@ I-MI-90539-S,immobili,Lombardia,Milano,Opera,Unità immobiliare per uso di abita
 I-MI-90540-S,immobili,Lombardia,Milano,Bubbiano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-90541-S,immobili,Lombardia,Milano,Bubbiano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-90542-S,immobili,Lombardia,Milano,Bubbiano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-90866-S,immobili,Lombardia,Milano,Vanzago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Busto Arsizio,Procedimento Penale
+I-MI-90868-S,immobili,Lombardia,Milano,Vanzago,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Busto Arsizio,Procedimento Penale
 I-MN-16167-S,immobili,Lombardia,Mantova,Mantova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 I-MN-16168-S,immobili,Lombardia,Mantova,Mantova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 I-MN-16169-S,immobili,Lombardia,Mantova,Mantova,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
@@ -15899,6 +15900,10 @@ I-TE-88775-S,immobili,Abruzzo,Teramo,Alba Adriatica,Unità immobiliare per uso d
 I-TE-88779-S,immobili,Abruzzo,Teramo,Alba Adriatica,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-TE-88781-S,immobili,Abruzzo,Teramo,Alba Adriatica,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-TE-88795-S,immobili,Abruzzo,Teramo,Alba Adriatica,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-TN-90865-S,immobili,Trentino Alto Adige,Trento,Valfloriana,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Procura della Repubblica,Busto Arsizio,Procedimento Penale
+I-TN-90867-S,immobili,Trentino Alto Adige,Trento,Valfloriana,Terreno,Terreno agricolo,Confisca def.,33%,Procura della Repubblica,Busto Arsizio,Procedimento Penale
+I-TN-90870-S,immobili,Trentino Alto Adige,Trento,Valfloriana,Terreno,Terreno agricolo,Confisca def.,33%,Procura della Repubblica,Busto Arsizio,Procedimento Penale
+I-TN-90871-S,immobili,Trentino Alto Adige,Trento,Valfloriana,Terreno,Terreno agricolo,Confisca def.,33%,Procura della Repubblica,Busto Arsizio,Procedimento Penale
 I-TO-10311-S,immobili,Piemonte,Torino,San Giusto Canavese,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Torino,Misure di Prevenzione
 I-TO-10312-S,immobili,Piemonte,Torino,San Giusto Canavese,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Torino,Misure di Prevenzione
 I-TO-10313-S,immobili,Piemonte,Torino,San Giusto Canavese,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Torino,Misure di Prevenzione
