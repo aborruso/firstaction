@@ -5192,8 +5192,8 @@ I-KR-30230-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Unità immobiliare 
 I-KR-30231-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catanzaro,Misure di Prevenzione
 I-KR-36485-S,immobili,Calabria,Crotone,Crotone,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
 I-KR-36488-S,immobili,Calabria,Crotone,Crotone,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-KR-36528-S,immobili,Calabria,Crotone,Crotone,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-KR-36529-S,immobili,Calabria,Crotone,Crotone,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
+I-KR-36528-S,immobili,Calabria,Crotone,Crotone,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-KR-36529-S,immobili,Calabria,Crotone,Crotone,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-KR-36532-S,immobili,Calabria,Crotone,Cutro,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
 I-KR-36534-S,immobili,Calabria,Crotone,Cutro,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
 I-KR-36535-S,immobili,Calabria,Crotone,Cutro,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
@@ -14039,8 +14039,8 @@ I-RE-36490-S,immobili,Emilia Romagna,Reggio Emilia,Gualtieri,Altra unità immobi
 I-RE-36491-S,immobili,Emilia Romagna,Reggio Emilia,Gualtieri,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-36492-S,immobili,Emilia Romagna,Reggio Emilia,Gualtieri,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-36493-S,immobili,Emilia Romagna,Reggio Emilia,Gualtieri,Terreno,Terreno - non definito,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-RE-36530-S,immobili,Emilia Romagna,Reggio Emilia,Gualtieri,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-RE-36531-S,immobili,Emilia Romagna,Reggio Emilia,Gualtieri,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
+I-RE-36530-S,immobili,Emilia Romagna,Reggio Emilia,Gualtieri,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,50%,Procura della Repubblica,Bologna,Procedimento Penale
+I-RE-36531-S,immobili,Emilia Romagna,Reggio Emilia,Gualtieri,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,50%,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-37974-S,immobili,Emilia Romagna,Reggio Emilia,Reggiolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-37975-S,immobili,Emilia Romagna,Reggio Emilia,Reggiolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-37976-S,immobili,Emilia Romagna,Reggio Emilia,Reggiolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
@@ -14274,17 +14274,17 @@ I-RM-3676-S,immobili,Lazio,Roma,Arsoli,Terreno,Terreno agricolo,Confisca def.,50
 I-RM-3677-S,immobili,Lazio,Roma,Arsoli,Terreno,Terreno agricolo,Confisca def.,50%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-36867-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Confisca I,0%,Tribunale,Roma,Misure di Prevenzione
 I-RM-36963-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-36964-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-36965-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-36966-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-36969-S,immobili,Lazio,Roma,Pomezia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-36983-S,immobili,Lazio,Roma,Pomezia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-36984-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-36985-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-36986-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-36987-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-36988-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-36989-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-36964-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-36965-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-36966-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-36969-S,immobili,Lazio,Roma,Pomezia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-36983-S,immobili,Lazio,Roma,Pomezia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-36984-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-36985-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-36986-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-36987-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-36988-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-36989-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-36990-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-36991-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-36992-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -15534,7 +15534,7 @@ I-SO-77356-S,immobili,Lombardia,Sondrio,Samolaco,Altra unità immobiliare,Altro,
 I-SO-77357-S,immobili,Lombardia,Sondrio,Samolaco,Altra unità immobiliare,Altro,Confisca def.,0%,Tribunale,Sondrio,Misure di Prevenzione
 I-SO-77358-S,immobili,Lombardia,Sondrio,Samolaco,Altra unità immobiliare,Altro,Confisca def.,0%,Tribunale,Sondrio,Misure di Prevenzione
 I-SO-77359-S,immobili,Lombardia,Sondrio,Samolaco,Altra unità immobiliare,Altro,Confisca def.,0%,Tribunale,Sondrio,Misure di Prevenzione
-I-SP-36494-S,immobili,Liguria,La Spezia,Borghetto di Vara,Terreno,Terreno - non definito,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
+I-SP-36494-S,immobili,Liguria,La Spezia,Borghetto di Vara,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-SP-71943-S,immobili,Liguria,La Spezia,Bonassola,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-SP-71946-S,immobili,Liguria,La Spezia,Bonassola,Terreno,Terreno - non definito,,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-SP-72711-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Procura della Repubblica,La Spezia,Procedimento Penale
