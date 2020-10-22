@@ -625,7 +625,7 @@ I-AR-8014-S,immobili,Toscana,Arezzo,Arezzo,Unità immobiliare per uso di abitazi
 I-AR-8015-S,immobili,Toscana,Arezzo,Arezzo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-AR-8016-S,immobili,Toscana,Arezzo,Arezzo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-AR-8017-S,immobili,Toscana,Arezzo,Arezzo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
-I-AR-8018-S,immobili,Toscana,Arezzo,Arezzo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Latina,Misure di Prevenzione
+I-AR-8018-S,immobili,Toscana,Arezzo,Arezzo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-AR-8019-S,immobili,Toscana,Arezzo,Arezzo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-AR-8020-S,immobili,Toscana,Arezzo,Arezzo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-AR-8021-S,immobili,Toscana,Arezzo,Arezzo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
@@ -8086,8 +8086,8 @@ I-MN-36513-S,immobili,Lombardia,Mantova,Goito,Terreno,Terreno agricolo,Confisca 
 I-MN-36514-S,immobili,Lombardia,Mantova,Goito,Terreno,Terreno agricolo,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
 I-MN-36515-S,immobili,Lombardia,Mantova,Goito,Terreno,Terreno agricolo,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
 I-MN-36516-S,immobili,Lombardia,Mantova,Goito,Terreno,Terreno agricolo,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-MN-36518-S,immobili,Lombardia,Mantova,Viadana,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-MN-36519-S,immobili,Lombardia,Mantova,Viadana,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
+I-MN-36518-S,immobili,Lombardia,Mantova,Viadana,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-MN-36519-S,immobili,Lombardia,Mantova,Viadana,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-MN-36523-S,immobili,Lombardia,Mantova,Goito,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
 I-MN-36524-S,immobili,Lombardia,Mantova,Goito,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
 I-MN-47819-S,immobili,Lombardia,Mantova,Gonzaga,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Mantova,Misure di Prevenzione
@@ -8194,7 +8194,7 @@ I-MO-25827-S,immobili,Emilia Romagna,Modena,Castelnuovo Rangone,Altra unità imm
 I-MO-25828-S,immobili,Emilia Romagna,Modena,Castelnuovo Rangone,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 I-MO-25829-S,immobili,Emilia Romagna,Modena,Castelnuovo Rangone,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 I-MO-25830-S,immobili,Emilia Romagna,Modena,Castelnuovo Rangone,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
-I-MO-36483-S,immobili,Emilia Romagna,Modena,Modena,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
+I-MO-36483-S,immobili,Emilia Romagna,Modena,Modena,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-MO-41304-S,immobili,Emilia Romagna,Modena,San Felice sul Panaro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-MO-41305-S,immobili,Emilia Romagna,Modena,San Felice sul Panaro,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-MO-50237-S,immobili,Emilia Romagna,Modena,San Felice sul Panaro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -14032,13 +14032,13 @@ I-RE-12506-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Unità immobiliare 
 I-RE-12507-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-RE-12508-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-RE-12509-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
-I-RE-36476-S,immobili,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-RE-36478-S,immobili,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-RE-36479-S,immobili,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-RE-36490-S,immobili,Emilia Romagna,Reggio Emilia,Gualtieri,Altra unità immobiliare,Altro,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-RE-36491-S,immobili,Emilia Romagna,Reggio Emilia,Gualtieri,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-RE-36492-S,immobili,Emilia Romagna,Reggio Emilia,Gualtieri,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-RE-36493-S,immobili,Emilia Romagna,Reggio Emilia,Gualtieri,Terreno,Terreno - non definito,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
+I-RE-36476-S,immobili,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-RE-36478-S,immobili,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-RE-36479-S,immobili,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-RE-36490-S,immobili,Emilia Romagna,Reggio Emilia,Gualtieri,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-RE-36491-S,immobili,Emilia Romagna,Reggio Emilia,Gualtieri,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-RE-36492-S,immobili,Emilia Romagna,Reggio Emilia,Gualtieri,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-RE-36493-S,immobili,Emilia Romagna,Reggio Emilia,Gualtieri,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-36530-S,immobili,Emilia Romagna,Reggio Emilia,Gualtieri,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,50%,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-36531-S,immobili,Emilia Romagna,Reggio Emilia,Gualtieri,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,50%,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-37974-S,immobili,Emilia Romagna,Reggio Emilia,Reggiolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
