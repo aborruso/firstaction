@@ -8083,13 +8083,13 @@ I-MN-36508-S,immobili,Lombardia,Mantova,Goito,Unità immobiliare per uso di abit
 I-MN-36509-S,immobili,Lombardia,Mantova,Goito,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
 I-MN-36511-S,immobili,Lombardia,Mantova,Goito,Altra unità immobiliare,Altro,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
 I-MN-36513-S,immobili,Lombardia,Mantova,Goito,Terreno,Terreno agricolo,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-MN-36514-S,immobili,Lombardia,Mantova,Goito,Terreno,Terreno agricolo,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-MN-36515-S,immobili,Lombardia,Mantova,Goito,Terreno,Terreno agricolo,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-MN-36516-S,immobili,Lombardia,Mantova,Goito,Terreno,Terreno agricolo,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
+I-MN-36514-S,immobili,Lombardia,Mantova,Goito,Terreno,Terreno agricolo,Confisca def.,33%,Procura della Repubblica,Bologna,Procedimento Penale
+I-MN-36515-S,immobili,Lombardia,Mantova,Goito,Terreno,Terreno agricolo,Confisca def.,33%,Procura della Repubblica,Bologna,Procedimento Penale
+I-MN-36516-S,immobili,Lombardia,Mantova,Goito,Terreno,Terreno agricolo,Confisca def.,16%,Procura della Repubblica,Bologna,Procedimento Penale
 I-MN-36518-S,immobili,Lombardia,Mantova,Viadana,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-MN-36519-S,immobili,Lombardia,Mantova,Viadana,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
-I-MN-36523-S,immobili,Lombardia,Mantova,Goito,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-MN-36524-S,immobili,Lombardia,Mantova,Goito,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
+I-MN-36523-S,immobili,Lombardia,Mantova,Goito,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-MN-36524-S,immobili,Lombardia,Mantova,Goito,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-MN-47819-S,immobili,Lombardia,Mantova,Gonzaga,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Mantova,Misure di Prevenzione
 I-MN-47821-S,immobili,Lombardia,Mantova,Gonzaga,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Mantova,Misure di Prevenzione
 I-MN-60609-S,immobili,Lombardia,Mantova,San Giorgio di Mantova,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -8401,6 +8401,7 @@ I-NA-31996-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare a destinazione
 I-NA-31997-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-31998-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-321-S,immobili,Campania,Napoli,Casandrino,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-32241-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Cagliari,Procedimento Penale
 I-NA-32359-S,immobili,Campania,Napoli,Torre Annunziata,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-32842-S,immobili,Campania,Napoli,Mariglianella,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-32980-S,immobili,Campania,Napoli,Castellammare di Stabia,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -9929,7 +9930,6 @@ I-PA-20705-S,immobili,Sicilia,Palermo,Monreale,Unità immobiliare a destinazione
 I-PA-20706-S,immobili,Sicilia,Palermo,Monreale,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-20972-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-21043-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-21167-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-21168-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-21171-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-21172-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -12644,7 +12644,7 @@ I-PR-50449-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di a
 I-PR-50450-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-50452-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-50456-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-PR-50478-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
+I-PR-50478-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-50483-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-50486-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-50491-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno - non definito,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
@@ -16680,7 +16680,6 @@ I-TP-41128-S,immobili,Sicilia,Trapani,Pantelleria,Terreno,Terreno agricolo,Confi
 I-TP-41131-S,immobili,Sicilia,Trapani,Castellammare del Golfo,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-41135-S,immobili,Sicilia,Trapani,Pantelleria,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-41142-S,immobili,Sicilia,Trapani,Alcamo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-41204-S,immobili,Sicilia,Trapani,Alcamo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-41434-S,immobili,Sicilia,Trapani,Paceco,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-41587-S,immobili,Sicilia,Trapani,Paceco,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-41598-S,immobili,Sicilia,Trapani,Castellammare del Golfo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
