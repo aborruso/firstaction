@@ -2593,6 +2593,10 @@ I-CE-90813-S,immobili,Campania,Caserta,Teverola,Unità immobiliare per alloggio 
 I-CE-90814-S,immobili,Campania,Caserta,Teverola,Unità immobiliare per alloggio e usi collettivi,Fabbricato annesso a speciali esigenze commerciali,Revoca Conf.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-90821-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-90834-S,immobili,Campania,Caserta,Sessa Aurunca,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-CE-90884-S,immobili,Campania,Caserta,Sessa Aurunca,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-CE-90893-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-CE-90894-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-CE-90895-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
 I-CH-36419-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-36421-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-42987-S,immobili,Abruzzo,Chieti,San Salvo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Varese,Misure di Prevenzione
@@ -8078,11 +8082,11 @@ I-MI-90877-S,immobili,Lombardia,Milano,Gorgonzola,Unità immobiliare per uso di 
 I-MN-16167-S,immobili,Lombardia,Mantova,Mantova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 I-MN-16168-S,immobili,Lombardia,Mantova,Mantova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 I-MN-16169-S,immobili,Lombardia,Mantova,Mantova,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
-I-MN-36507-S,immobili,Lombardia,Mantova,Goito,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-MN-36508-S,immobili,Lombardia,Mantova,Goito,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-MN-36509-S,immobili,Lombardia,Mantova,Goito,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-MN-36511-S,immobili,Lombardia,Mantova,Goito,Altra unità immobiliare,Altro,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-MN-36513-S,immobili,Lombardia,Mantova,Goito,Terreno,Terreno agricolo,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
+I-MN-36507-S,immobili,Lombardia,Mantova,Goito,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,19%,Procura della Repubblica,Bologna,Procedimento Penale
+I-MN-36508-S,immobili,Lombardia,Mantova,Goito,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Procura della Repubblica,Bologna,Procedimento Penale
+I-MN-36509-S,immobili,Lombardia,Mantova,Goito,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,19%,Procura della Repubblica,Bologna,Procedimento Penale
+I-MN-36511-S,immobili,Lombardia,Mantova,Goito,Altra unità immobiliare,Altro,Confisca def.,58%,Procura della Repubblica,Bologna,Procedimento Penale
+I-MN-36513-S,immobili,Lombardia,Mantova,Goito,Terreno,Terreno agricolo,Confisca def.,33%,Procura della Repubblica,Bologna,Procedimento Penale
 I-MN-36514-S,immobili,Lombardia,Mantova,Goito,Terreno,Terreno agricolo,Confisca def.,33%,Procura della Repubblica,Bologna,Procedimento Penale
 I-MN-36515-S,immobili,Lombardia,Mantova,Goito,Terreno,Terreno agricolo,Confisca def.,33%,Procura della Repubblica,Bologna,Procedimento Penale
 I-MN-36516-S,immobili,Lombardia,Mantova,Goito,Terreno,Terreno agricolo,Confisca def.,16%,Procura della Repubblica,Bologna,Procedimento Penale
@@ -9725,6 +9729,16 @@ I-NA-90703-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abi
 I-NA-90704-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-90716-S,immobili,Campania,Napoli,Marigliano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-90718-S,immobili,Campania,Napoli,Marigliano,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-90887-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-NA-90888-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-NA-90889-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-NA-90890-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-NA-90891-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-NA-90892-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-NA-90901-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-NA-90902-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-NA-90903-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-NA-90904-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Bologna,Procedimento Penale
 I-NA-91-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,33%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-92-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,33%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-93-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,33%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -9930,7 +9944,6 @@ I-PA-20705-S,immobili,Sicilia,Palermo,Monreale,Unità immobiliare a destinazione
 I-PA-20706-S,immobili,Sicilia,Palermo,Monreale,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-20972-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-21043-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-21168-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-21171-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-21172-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-21333-S,immobili,Sicilia,Palermo,Prizzi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -12236,6 +12249,9 @@ I-PD-81707-S,immobili,Veneto,Padova,Abano Terme,Unità immobiliare per uso di ab
 I-PD-81708-S,immobili,Veneto,Padova,Abano Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Padova,Procedimento Penale
 I-PD-81725-S,immobili,Veneto,Padova,Montegrotto Terme,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Padova,Procedimento Penale
 I-PD-81726-S,immobili,Veneto,Padova,Montegrotto Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Padova,Procedimento Penale
+I-PD-90898-S,immobili,Veneto,Padova,Ponte San Nicolò,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-PD-90899-S,immobili,Veneto,Padova,Ponte San Nicolò,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-PD-90900-S,immobili,Veneto,Padova,Bagnoli di Sopra,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,0%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PE-13161-S,immobili,Abruzzo,Pescara,Torre de' Passeri,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Pescara,Misure di Prevenzione
 I-PE-13163-S,immobili,Abruzzo,Pescara,Torre de' Passeri,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,10%,Tribunale,Pescara,Misure di Prevenzione
 I-PE-13164-S,immobili,Abruzzo,Pescara,Torre de' Passeri,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,10%,Tribunale,Pescara,Misure di Prevenzione
@@ -12669,7 +12685,7 @@ I-PR-70670-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Altra unità immo
 I-PR-70671-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PR-70672-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PR-70673-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PR-70674-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,98%,Tribunale,Milano,Misure di Prevenzione
+I-PR-70674-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PR-74499-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-PR-74500-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-PR-74501-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
@@ -14808,7 +14824,7 @@ I-RM-83478-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e
 I-RM-83479-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Roma,Misure di Prevenzione
 I-RM-83765-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RM-83766-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RM-83768-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RM-83768-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RM-83988-S,immobili,Lazio,Roma,Frascati,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-84732-S,immobili,Lazio,Roma,Monterotondo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-84738-S,immobili,Lazio,Roma,Monterotondo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -15554,7 +15570,7 @@ I-SP-90779-S,immobili,Liguria,La Spezia,Arcola,Unità immobiliare a destinazione
 I-SP-90780-S,immobili,Liguria,La Spezia,Arcola,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-90781-S,immobili,Liguria,La Spezia,Arcola,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-90782-S,immobili,Liguria,La Spezia,Arcola,Altra unità immobiliare,Altro,Confisca def.,0%,Tribunale,La Spezia,Misure di Prevenzione
-I-SP-90783-S,immobili,Liguria,La Spezia,Arcola,Terreno,Terreno agricolo,Confisca def.,99%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90783-S,immobili,Liguria,La Spezia,Arcola,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-90784-S,immobili,Liguria,La Spezia,Arcola,Terreno,Terreno con fabbricato rurale,Confisca def.,99%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-90786-S,immobili,Liguria,La Spezia,Arcola,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-90787-S,immobili,Liguria,La Spezia,Arcola,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
@@ -15563,6 +15579,7 @@ I-SP-90792-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazi
 I-SP-90793-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-90794-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-90807-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-90897-S,immobili,Liguria,La Spezia,Arcola,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-SR-20757-S,immobili,Sicilia,Siracusa,Siracusa,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Siracusa,Procedimento Penale
 I-SR-20758-S,immobili,Sicilia,Siracusa,Siracusa,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Siracusa,Procedimento Penale
 I-SR-24571-S,immobili,Sicilia,Siracusa,Siracusa,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
@@ -17910,6 +17927,10 @@ I-VE-90750-S,immobili,Veneto,Venezia,Portogruaro,Unità immobiliare per uso di a
 I-VE-90751-S,immobili,Veneto,Venezia,Portogruaro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VE-90752-S,immobili,Veneto,Venezia,Portogruaro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VE-90833-S,immobili,Veneto,Venezia,Jesolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-VE-90883-S,immobili,Veneto,Venezia,Jesolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-VE-90885-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-VE-90886-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-VE-90896-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare a destinazione commerciale e industriale,Altro,,0%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VI-11361-S,immobili,Veneto,Vicenza,Altavilla Vicentina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Vicenza,Misure di Prevenzione
 I-VI-11362-S,immobili,Veneto,Vicenza,Altavilla Vicentina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Vicenza,Misure di Prevenzione
 I-VI-11363-S,immobili,Veneto,Vicenza,Altavilla Vicentina,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Vicenza,Misure di Prevenzione
