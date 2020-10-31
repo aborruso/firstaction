@@ -4031,7 +4031,7 @@ I-CT-72292-S,immobili,Sicilia,Catania,Catania,Unità immobiliare a destinazione 
 I-CT-73053-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-73054-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-73055-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
-I-CT-73056-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-73056-S,immobili,Sicilia,Catania,Catania,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-73057-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-73058-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-74631-S,immobili,Sicilia,Catania,Maniace,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
@@ -4313,6 +4313,7 @@ I-CT-89740-S,immobili,Sicilia,Catania,Catania,Terreno,Terreno agricolo,Confisca 
 I-CT-89741-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-89743-S,immobili,Sicilia,Catania,Catania,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-90335-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-90964-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Catania,Misure di Prevenzione
 I-CZ-15253-S,immobili,Calabria,Catanzaro,Guardavalle,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-15532-S,immobili,Calabria,Catanzaro,Lamezia Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-15533-S,immobili,Calabria,Catanzaro,Lamezia Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Tribunale,Catanzaro,Misure di Prevenzione
@@ -12621,10 +12622,10 @@ I-PR-50456-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di a
 I-PR-50478-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-50483-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-50486-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
-I-PR-50491-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno - non definito,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-PR-50494-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno - non definito,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-PR-50497-S,immobili,Emilia Romagna,Parma,Parma,Terreno,Terreno - non definito,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-PR-50498-S,immobili,Emilia Romagna,Parma,Parma,Terreno,Terreno - non definito,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
+I-PR-50491-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-PR-50494-S,immobili,Emilia Romagna,Parma,Sorbolo,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-PR-50497-S,immobili,Emilia Romagna,Parma,Parma,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-PR-50498-S,immobili,Emilia Romagna,Parma,Parma,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-50519-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-50524-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-50557-S,immobili,Emilia Romagna,Parma,Busseto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
@@ -14057,9 +14058,9 @@ I-RE-50463-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Unità immobiliare 
 I-RE-50466-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-50473-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-50474-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
-I-RE-50537-S,immobili,Emilia Romagna,Reggio Emilia,Reggio nell'Emilia,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-RE-50538-S,immobili,Emilia Romagna,Reggio Emilia,Reggio nell'Emilia,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
-I-RE-50539-S,immobili,Emilia Romagna,Reggio Emilia,Reggio nell'Emilia,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca I,,Procura della Repubblica,Bologna,Procedimento Penale
+I-RE-50537-S,immobili,Emilia Romagna,Reggio Emilia,Reggio nell'Emilia,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-RE-50538-S,immobili,Emilia Romagna,Reggio Emilia,Reggio nell'Emilia,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-RE-50539-S,immobili,Emilia Romagna,Reggio Emilia,Reggio nell'Emilia,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-50548-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-50552-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-50553-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
