@@ -995,7 +995,7 @@ I-BG-73992-S,immobili,Lombardia,Bergamo,Gandosso,Terreno,Terreno - non definito,
 I-BG-74099-S,immobili,Lombardia,Bergamo,Fornovo San Giovanni,Terreno,Terreno edificabile,Confisca II,100%,Tribunale,Bergamo,Misure di Prevenzione
 I-BG-74100-S,immobili,Lombardia,Bergamo,Fornovo San Giovanni,Terreno,Terreno edificabile,Confisca II,100%,Tribunale,Bergamo,Misure di Prevenzione
 I-BG-74101-S,immobili,Lombardia,Bergamo,Fornovo San Giovanni,Terreno,Terreno edificabile,Confisca II,100%,Tribunale,Bergamo,Misure di Prevenzione
-I-BG-74102-S,immobili,Lombardia,Bergamo,Fornovo San Giovanni,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca II,100%,Tribunale,Bergamo,Misure di Prevenzione
+I-BG-74102-S,immobili,Lombardia,Bergamo,Fornovo San Giovanni,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca II,100%,Tribunale,Bergamo,Misure di Prevenzione
 I-BG-74103-S,immobili,Lombardia,Bergamo,Fornovo San Giovanni,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Bergamo,Misure di Prevenzione
 I-BG-74104-S,immobili,Lombardia,Bergamo,Fornovo San Giovanni,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca II,100%,Tribunale,Bergamo,Misure di Prevenzione
 I-BG-74105-S,immobili,Lombardia,Bergamo,Fornovo San Giovanni,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Bergamo,Misure di Prevenzione
@@ -8039,6 +8039,8 @@ I-MI-90866-S,immobili,Lombardia,Milano,Vanzago,Unità immobiliare per uso di abi
 I-MI-90868-S,immobili,Lombardia,Milano,Vanzago,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Busto Arsizio,Procedimento Penale
 I-MI-90876-S,immobili,Lombardia,Milano,Gorgonzola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-90877-S,immobili,Lombardia,Milano,Gorgonzola,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-91242-S,immobili,Lombardia,Milano,Cambiago,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Milano,Misure di Prevenzione
+I-MI-91243-S,immobili,Lombardia,Milano,Cambiago,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Milano,Misure di Prevenzione
 I-MN-16167-S,immobili,Lombardia,Mantova,Mantova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 I-MN-16168-S,immobili,Lombardia,Mantova,Mantova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 I-MN-16169-S,immobili,Lombardia,Mantova,Mantova,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
@@ -16307,10 +16309,6 @@ I-TO-24561-S,immobili,Piemonte,Torino,Torino,Unità immobiliare a destinazione c
 I-TO-27166-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-27797-S,immobili,Piemonte,Torino,Bruino,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-27798-S,immobili,Piemonte,Torino,Bruino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-I-TO-28386-S,immobili,Piemonte,Torino,Cantalupa,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-TO-28387-S,immobili,Piemonte,Torino,Cantalupa,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-TO-28388-S,immobili,Piemonte,Torino,Cantalupa,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-TO-28389-S,immobili,Piemonte,Torino,Cantalupa,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-TO-29605-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-29670-S,immobili,Piemonte,Torino,Angrogna,Terreno,Terreno edificabile,Confisca def.,50%,Procura della Repubblica,Torino,Procedimento Penale
 I-TO-29671-S,immobili,Piemonte,Torino,Angrogna,Terreno,Terreno agricolo,Confisca def.,50%,Procura della Repubblica,Torino,Procedimento Penale
