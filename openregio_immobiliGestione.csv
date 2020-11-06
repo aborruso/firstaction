@@ -1137,8 +1137,8 @@ I-BN-26176-S,immobili,Campania,Benevento,Benevento,Terreno,Terreno agricolo,Conf
 I-BN-26177-S,immobili,Campania,Benevento,Benevento,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Benevento,Procedimento Penale
 I-BN-38324-S,immobili,Campania,Benevento,Foglianise,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Benevento,Misure di Prevenzione
 I-BN-38327-S,immobili,Campania,Benevento,Foglianise,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Benevento,Misure di Prevenzione
-I-BN-47863-S,immobili,Campania,Benevento,Arpaise,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-BN-47864-S,immobili,Campania,Benevento,Arpaise,Terreno,Terreno agricolo,Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-BN-47863-S,immobili,Campania,Benevento,Arpaise,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-BN-47864-S,immobili,Campania,Benevento,Arpaise,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-BN-61450-S,immobili,Campania,Benevento,San Giorgio del Sannio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-BN-61451-S,immobili,Campania,Benevento,San Giorgio del Sannio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-BN-61452-S,immobili,Campania,Benevento,San Giorgio del Sannio,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -8497,7 +8497,7 @@ I-NA-4775-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare pe
 I-NA-4776-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
 I-NA-4779-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
 I-NA-47888-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-47895-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-47895-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-47903-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-4791-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
 I-NA-4792-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
@@ -15597,9 +15597,6 @@ I-SA-50823-S,immobili,Campania,Salerno,Postiglione,Terreno,Terreno agricolo,Conf
 I-SA-50850-S,immobili,Campania,Salerno,Postiglione,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Salerno,Procedimento Penale
 I-SA-50852-S,immobili,Campania,Salerno,Postiglione,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Salerno,Procedimento Penale
 I-SA-50854-S,immobili,Campania,Salerno,Postiglione,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Salerno,Procedimento Penale
-I-SA-50898-S,immobili,Campania,Salerno,Angri,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Salerno,Misure di Prevenzione
-I-SA-50903-S,immobili,Campania,Salerno,Angri,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Salerno,Misure di Prevenzione
-I-SA-50908-S,immobili,Campania,Salerno,Angri,Terreno,Terreno agricolo,Confisca I,33%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-50931-S,immobili,Campania,Salerno,Agropoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-50934-S,immobili,Campania,Salerno,Agropoli,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-50937-S,immobili,Campania,Salerno,Agropoli,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
