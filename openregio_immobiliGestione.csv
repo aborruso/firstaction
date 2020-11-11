@@ -3508,7 +3508,7 @@ I-CO-74084-S,immobili,Lombardia,Como,Lurate Caccivio,Unità immobiliare per uso 
 I-CO-74086-S,immobili,Lombardia,Como,Lurate Caccivio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Como,Misure di Prevenzione
 I-CO-74087-S,immobili,Lombardia,Como,Lurate Caccivio,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Como,Misure di Prevenzione
 I-CO-74245-S,immobili,Lombardia,Como,Mariano Comense,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-CO-74861-S,immobili,Lombardia,Como,Mariano Comense,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,,0%,Procura della Repubblica,Milano,Procedimento Penale
+I-CO-74861-S,immobili,Lombardia,Como,Mariano Comense,Altra unità immobiliare,Altra unità  immobil. - non definito,Sequestro,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-CO-77360-S,immobili,Lombardia,Como,Sorico,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Sondrio,Misure di Prevenzione
 I-CO-79172-S,immobili,Lombardia,Como,Cantù,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-CO-82756-S,immobili,Lombardia,Como,Cabiate,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Como,Misure di Prevenzione
@@ -5043,7 +5043,7 @@ I-GE-73072-S,immobili,Liguria,Genova,Genova,Terreno,Terreno agricolo,Confisca I,
 I-GE-73154-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Genova,Procedimento Penale
 I-GE-73155-S,immobili,Liguria,Genova,Genova,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Genova,Procedimento Penale
 I-GE-73156-S,immobili,Liguria,Genova,Genova,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Genova,Procedimento Penale
-I-GE-73572-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
+I-GE-73572-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-76555-S,immobili,Liguria,Genova,Serra Riccò,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-76565-S,immobili,Liguria,Genova,Genova,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca II,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-76568-S,immobili,Liguria,Genova,Genova,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Genova,Misure di Prevenzione
@@ -6337,10 +6337,10 @@ I-MB-52462-S,immobili,Lombardia,Monza e Brianza,Seregno,Unità immobiliare per u
 I-MB-52464-S,immobili,Lombardia,Monza e Brianza,Seregno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-52466-S,immobili,Lombardia,Monza e Brianza,Seregno,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-52469-S,immobili,Lombardia,Monza e Brianza,Desio,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-52470-S,immobili,Lombardia,Monza e Brianza,Desio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-MB-52470-S,immobili,Lombardia,Monza e Brianza,Desio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-52471-S,immobili,Lombardia,Monza e Brianza,Desio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-52472-S,immobili,Lombardia,Monza e Brianza,Desio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-52473-S,immobili,Lombardia,Monza e Brianza,Desio,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-MB-52472-S,immobili,Lombardia,Monza e Brianza,Desio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-MB-52473-S,immobili,Lombardia,Monza e Brianza,Desio,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-52506-S,immobili,Lombardia,Monza e Brianza,Cesano Maderno,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-52507-S,immobili,Lombardia,Monza e Brianza,Cesano Maderno,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-52508-S,immobili,Lombardia,Monza e Brianza,Cesano Maderno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -16560,6 +16560,8 @@ I-TO-8969-S,immobili,Piemonte,Torino,Moncalieri,Unità immobiliare per uso di ab
 I-TO-8970-S,immobili,Piemonte,Torino,Moncalieri,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-8971-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Torino,Misure di Prevenzione
 I-TO-90512-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-91248-S,immobili,Piemonte,Torino,San Mauro Torinese,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Torino,Misure di Prevenzione
+I-TO-91249-S,immobili,Piemonte,Torino,San Mauro Torinese,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,0%,Tribunale,Torino,Misure di Prevenzione
 I-TP-19059-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-19060-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-19061-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
