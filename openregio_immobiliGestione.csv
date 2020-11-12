@@ -952,9 +952,9 @@ I-BG-16133-S,immobili,Lombardia,Bergamo,Osio Sotto,Unità immobiliare per uso di
 I-BG-16158-S,immobili,Lombardia,Bergamo,Bonate Sotto,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
 I-BG-16159-S,immobili,Lombardia,Bergamo,Bonate Sotto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
 I-BG-32020-S,immobili,Lombardia,Bergamo,Treviolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-I-BG-32021-S,immobili,Lombardia,Bergamo,Treviolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-BG-32022-S,immobili,Lombardia,Bergamo,Dalmine,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-BG-32023-S,immobili,Lombardia,Bergamo,Dalmine,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
+I-BG-32021-S,immobili,Lombardia,Bergamo,Treviolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-BG-32022-S,immobili,Lombardia,Bergamo,Dalmine,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-BG-32023-S,immobili,Lombardia,Bergamo,Dalmine,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-BG-34278-S,immobili,Lombardia,Bergamo,Dossena,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BG-34279-S,immobili,Lombardia,Bergamo,Dossena,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BG-34280-S,immobili,Lombardia,Bergamo,Dossena,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -1596,7 +1596,6 @@ I-BT-82111-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agrico
 I-BT-82112-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Bari,Procedimento Penale
 I-BT-82113-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Bari,Procedimento Penale
 I-BT-82116-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Procura della Repubblica,Bari,Procedimento Penale
-I-BT-82117-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Bari,Procedimento Penale
 I-BT-82190-S,immobili,Puglia,Barletta-Andria-Trani,Barletta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Trani,Procedimento Penale
 I-BT-82201-S,immobili,Puglia,Barletta-Andria-Trani,Barletta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Trani,Procedimento Penale
 I-BT-82203-S,immobili,Puglia,Barletta-Andria-Trani,Barletta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Trani,Procedimento Penale
@@ -3419,6 +3418,7 @@ I-CL-86136-S,immobili,Sicilia,Caltanissetta,Niscemi,Altra unità immobiliare,Alt
 I-CL-86137-S,immobili,Sicilia,Caltanissetta,Niscemi,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-86138-S,immobili,Sicilia,Caltanissetta,Niscemi,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-86139-S,immobili,Sicilia,Caltanissetta,Niscemi,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-91252-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CN-11434-S,immobili,Piemonte,Cuneo,Sommariva del Bosco,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-CN-11435-S,immobili,Piemonte,Cuneo,Sommariva del Bosco,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-CN-29679-S,immobili,Piemonte,Cuneo,Cervere,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
@@ -4453,11 +4453,11 @@ I-CZ-81413-S,immobili,Calabria,Catanzaro,Montepaone,Terreno,Terreno edificabile,
 I-CZ-82215-S,immobili,Calabria,Catanzaro,Sellia Marina,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Cremona,Misure di Prevenzione
 I-CZ-83156-S,immobili,Calabria,Catanzaro,Soverato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CZ-83157-S,immobili,Calabria,Catanzaro,Soverato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
-I-CZ-83176-S,immobili,Calabria,Catanzaro,Soverato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
-I-CZ-83250-S,immobili,Calabria,Catanzaro,Soverato,Terreno,Terreno agricolo,,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
-I-CZ-83251-S,immobili,Calabria,Catanzaro,Soverato,Terreno,Terreno agricolo,,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
-I-CZ-83252-S,immobili,Calabria,Catanzaro,Soverato,Terreno,Terreno agricolo,,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
-I-CZ-83253-S,immobili,Calabria,Catanzaro,Soverato,Terreno,Terreno agricolo,,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-CZ-83176-S,immobili,Calabria,Catanzaro,Soverato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-CZ-83250-S,immobili,Calabria,Catanzaro,Soverato,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-CZ-83251-S,immobili,Calabria,Catanzaro,Soverato,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-CZ-83252-S,immobili,Calabria,Catanzaro,Soverato,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-CZ-83253-S,immobili,Calabria,Catanzaro,Soverato,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CZ-83254-S,immobili,Calabria,Catanzaro,Soverato,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CZ-84224-S,immobili,Calabria,Catanzaro,San Sostene,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CZ-84225-S,immobili,Calabria,Catanzaro,San Sostene,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
@@ -12741,12 +12741,12 @@ I-PO-89477-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazio
 I-PO-89478-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Prato,Misure di Prevenzione
 I-PR-37889-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-37890-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Bologna,Procedimento Penale
-I-PR-37891-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-PR-37891-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-37892-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-37893-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-37894-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-37895-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
-I-PR-37896-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-PR-37896-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-37897-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-37898-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-37900-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
@@ -12766,7 +12766,7 @@ I-PR-37913-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di
 I-PR-37914-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-37915-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-37916-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
-I-PR-37917-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-PR-37917-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-37918-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-37919-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-37920-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
@@ -16324,11 +16324,11 @@ I-TO-31721-S,immobili,Piemonte,Torino,Volvera,Terreno,Terreno agricolo,Confisca 
 I-TO-31722-S,immobili,Piemonte,Torino,Volvera,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-31723-S,immobili,Piemonte,Torino,Volvera,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-31851-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Torino,Misure di Prevenzione
-I-TO-32015-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-TO-32016-S,immobili,Piemonte,Torino,Rivalta di Torino,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-32015-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-32016-S,immobili,Piemonte,Torino,Rivalta di Torino,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-32017-S,immobili,Piemonte,Torino,Rivalta di Torino,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-I-TO-32018-S,immobili,Piemonte,Torino,Rivalta di Torino,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-TO-32019-S,immobili,Piemonte,Torino,Rivalta di Torino,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-32018-S,immobili,Piemonte,Torino,Rivalta di Torino,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-32019-S,immobili,Piemonte,Torino,Rivalta di Torino,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-32030-S,immobili,Piemonte,Torino,Collegno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-32031-S,immobili,Piemonte,Torino,Collegno,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-33731-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
@@ -18321,8 +18321,6 @@ I-VI-79805-S,immobili,Veneto,Vicenza,Sovizzo,Unità immobiliare per uso di abita
 I-VI-79806-S,immobili,Veneto,Vicenza,Sovizzo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Vicenza,Misure di Prevenzione
 I-VI-81685-S,immobili,Veneto,Vicenza,Caldogno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Padova,Procedimento Penale
 I-VI-81686-S,immobili,Veneto,Vicenza,Caldogno,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Padova,Procedimento Penale
-I-VI-82066-S,immobili,Veneto,Vicenza,Bassano del Grappa,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Vicenza,Procedimento Penale
-I-VI-82076-S,immobili,Veneto,Vicenza,Bassano del Grappa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Vicenza,Procedimento Penale
 I-VR-12608-S,immobili,Veneto,Verona,Selva di Progno,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Brindisi,Misure di Prevenzione
 I-VR-12609-S,immobili,Veneto,Verona,Selva di Progno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Brindisi,Misure di Prevenzione
 I-VR-12610-S,immobili,Veneto,Verona,Selva di Progno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Brindisi,Misure di Prevenzione
