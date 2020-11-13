@@ -1909,7 +1909,6 @@ A-RC-12732-S,aziende,Calabria,Reggio Calabria,Rizziconi,Società a responsabilit
 A-RC-12734-S,aziende,Calabria,Reggio Calabria,Rizziconi,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-12735-S,aziende,Calabria,Reggio Calabria,Gioia Tauro,Consorzio,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,14%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-12870-S,aziende,Calabria,Reggio Calabria,Villa San Giovanni,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-A-RC-12902-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-13291-S,aziende,Calabria,Reggio Calabria,Platì,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 A-RC-14043-S,aziende,Calabria,Reggio Calabria,Gioia Tauro,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,20%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-14067-S,aziende,Calabria,Reggio Calabria,Bovalino,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -2431,10 +2430,10 @@ A-RM-86637-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Produz
 A-RM-86704-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Revoca Sequ. parziale,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-87009-S,aziende,Lazio,Roma,Roma,Impresa individuale,"Altri servizi pubblici, sociali e personali",Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-87585-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,,,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-87591-S,aziende,Lazio,Roma,Roma,Società per azioni,,,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-87592-S,aziende,Lazio,Roma,Roma,Società per azioni,,,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-87591-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-87592-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-87600-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-87601-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,,,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-87601-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-87718-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Revoca Seq.,16%,Tribunale,Roma,Misure di Prevenzione
 A-RM-87733-S,aziende,Lazio,Roma,Roma,Impresa individuale,Attività manifatturiere,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-87734-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Conf.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -2500,6 +2499,15 @@ A-RM-90085-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Albergh
 A-RM-90090-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Attività finanziarie,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-90092-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-90106-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-91267-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-91268-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Attività manifatturiere,,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-91269-S,aziende,Lazio,Roma,Roma,Consorzio,Attività manifatturiere,,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-91270-S,aziende,Lazio,Roma,Roma,Consorzio,Costruzioni,,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-91271-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-91272-S,aziende,Lazio,Roma,Roma,Società per azioni,Attività manifatturiere,,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-91273-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Attività manifatturiere,,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-91275-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-91276-S,aziende,Lazio,Roma,Fiano Romano,Società a responsabilità limitata,Attività finanziarie,,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-9858-S,aziende,Lazio,Roma,Moricone,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,60%,Procura della Repubblica,Napoli,Procedimento Penale
 A-RN-11498-S,aziende,Emilia Romagna,Rimini,Riccione,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Rimini,Misure di Prevenzione
 A-RN-17770-S,aziende,Emilia Romagna,Rimini,Rimini,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
@@ -2808,6 +2816,7 @@ A-TP-87421-S,aziende,Sicilia,Trapani,Erice,Società a responsabilità limitata,,
 A-TR-62300-S,aziende,Umbria,Terni,Terni,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-TR-857-S,aziende,Umbria,Terni,Terni,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,10%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-TV-80094-S,aziende,Veneto,Treviso,Castelfranco Veneto,Società a responsabilità limitata,Costruzioni,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
+A-TV-91274-S,aziende,Veneto,Treviso,Vazzola,Consorzio,Costruzioni,,0%,Tribunale,Roma,Misure di Prevenzione
 A-UD-80096-S,aziende,Friuli Venezia Giulia,Udine,Palmanova,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
 A-VA-34958-S,aziende,Lombardia,Varese,Busto Arsizio,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Varese,Misure di Prevenzione
 A-VA-50926-S,aziende,Lombardia,Varese,Varese,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
