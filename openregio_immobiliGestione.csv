@@ -5091,6 +5091,16 @@ I-GE-80550-S,immobili,Liguria,Genova,Santa Margherita Ligure,Unità immobiliare 
 I-GE-86471-S,immobili,Liguria,Genova,Mignanego,Terreno,Terreno edificabile,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-87670-S,immobili,Liguria,Genova,Lavagna,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-90551-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,50%,Procura della Repubblica,Milano,Procedimento Penale
+I-GE-91277-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
+I-GE-91278-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
+I-GE-91279-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
+I-GE-91280-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
+I-GE-91281-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
+I-GE-91282-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
+I-GE-91283-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Genova,Misure di Prevenzione
+I-GE-91284-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Genova,Misure di Prevenzione
+I-GE-91285-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Genova,Misure di Prevenzione
+I-GE-91286-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Genova,Misure di Prevenzione
 I-GO-64141-S,immobili,Friuli Venezia Giulia,Gorizia,Gorizia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Gorizia,Procedimento Penale
 I-GR-32764-S,immobili,Toscana,Grosseto,Sorano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-GR-37035-S,immobili,Toscana,Grosseto,Monte Argentario,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
@@ -5631,7 +5641,7 @@ I-LO-60505-S,immobili,Lombardia,Lodi,Crespiatica,Unità immobiliare per uso di a
 I-LO-68595-S,immobili,Lombardia,Lodi,Pieve Fissiraga,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-LO-68597-S,immobili,Lombardia,Lodi,Pieve Fissiraga,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-LO-69923-S,immobili,Lombardia,Lodi,Valera Fratta,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-LO-69924-S,immobili,Lombardia,Lodi,Valera Fratta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
+I-LO-69924-S,immobili,Lombardia,Lodi,Valera Fratta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-LO-75950-S,immobili,Lombardia,Lodi,San Rocco al Porto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 I-LO-80043-S,immobili,Lombardia,Lodi,Sant'Angelo Lodigiano,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Lodi,Procedimento Penale
 I-LO-82980-S,immobili,Lombardia,Lodi,San Rocco al Porto,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
@@ -15419,6 +15429,8 @@ I-RM-90957-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare per uso di abitazion
 I-RM-90958-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-90959-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-90960-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-91297-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-91298-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Roma,Misure di Prevenzione
 I-RM-9130-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-9187-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-9188-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
