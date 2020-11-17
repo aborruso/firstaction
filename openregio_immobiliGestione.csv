@@ -3844,6 +3844,7 @@ I-CS-90577-S,immobili,Calabria,Cosenza,Scalea,Terreno,Terreno - non definito,,0%
 I-CS-90578-S,immobili,Calabria,Cosenza,Scalea,Terreno,Terreno - non definito,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CS-90579-S,immobili,Calabria,Cosenza,Scalea,Terreno,Terreno - non definito,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CS-90688-S,immobili,Calabria,Cosenza,Falconara Albanese,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CS-91299-S,immobili,Calabria,Cosenza,Scalea,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CT-10831-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Milano,Misure di Prevenzione
 I-CT-20882-S,immobili,Sicilia,Catania,San Pietro Clarenza,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-20893-S,immobili,Sicilia,Catania,Ramacca,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Catania,Misure di Prevenzione
@@ -5861,7 +5862,7 @@ I-LT-80099-S,immobili,Lazio,Latina,Latina,Unità immobiliare per uso di abitazio
 I-LT-80103-S,immobili,Lazio,Latina,Latina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Latina,Misure di Prevenzione
 I-LT-80104-S,immobili,Lazio,Latina,Latina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Latina,Misure di Prevenzione
 I-LT-80167-S,immobili,Lazio,Latina,Latina,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
-I-LT-80336-S,immobili,Lazio,Latina,Latina,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-80336-S,immobili,Lazio,Latina,Latina,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-8036-S,immobili,Lazio,Latina,Cisterna di Latina,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-8037-S,immobili,Lazio,Latina,Cisterna di Latina,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-8038-S,immobili,Lazio,Latina,Cisterna di Latina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
@@ -18092,9 +18093,9 @@ I-VA-79788-S,immobili,Lombardia,Varese,Sesto Calende,Unità immobiliare per uso 
 I-VA-82218-S,immobili,Lombardia,Varese,Varese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-VA-86299-S,immobili,Lombardia,Varese,Castellanza,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Milano,Misure di Prevenzione
 I-VA-86301-S,immobili,Lombardia,Varese,Castellanza,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Milano,Misure di Prevenzione
-I-VA-86528-S,immobili,Lombardia,Varese,Tradate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
-I-VA-86708-S,immobili,Lombardia,Varese,Tradate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
-I-VA-86709-S,immobili,Lombardia,Varese,Tradate,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
+I-VA-86528-S,immobili,Lombardia,Varese,Tradate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-VA-86708-S,immobili,Lombardia,Varese,Tradate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-VA-86709-S,immobili,Lombardia,Varese,Tradate,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-VA-86737-S,immobili,Lombardia,Varese,Busto Arsizio,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-VA-86738-S,immobili,Lombardia,Varese,Lonate Pozzolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-VA-86739-S,immobili,Lombardia,Varese,Lonate Pozzolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
