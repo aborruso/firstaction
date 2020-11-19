@@ -2595,6 +2595,12 @@ I-CE-90884-S,immobili,Campania,Caserta,Sessa Aurunca,Unità immobiliare per uso 
 I-CE-90893-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Procura della Repubblica,Bologna,Procedimento Penale
 I-CE-90894-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
 I-CE-90895-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-CE-91341-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Corte di Appello,Napoli,Procedimento Penale
+I-CE-91342-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Corte di Appello,Napoli,Procedimento Penale
+I-CE-91343-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Corte di Appello,Napoli,Procedimento Penale
+I-CE-91345-S,immobili,Campania,Caserta,San Marcellino,Terreno,Terreno agricolo,,0%,Corte di Appello,Napoli,Procedimento Penale
+I-CE-91346-S,immobili,Campania,Caserta,San Marcellino,Terreno,Terreno agricolo,,0%,Corte di Appello,Napoli,Procedimento Penale
+I-CE-91347-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare a destinazione commerciale e industriale,Altro,,0%,Corte di Appello,Napoli,Procedimento Penale
 I-CH-36419-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-36421-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-42987-S,immobili,Abruzzo,Chieti,San Salvo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Varese,Misure di Prevenzione
@@ -5106,6 +5112,9 @@ I-GR-32764-S,immobili,Toscana,Grosseto,Sorano,Terreno,Terreno agricolo,Confisca 
 I-GR-37035-S,immobili,Toscana,Grosseto,Monte Argentario,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 I-GR-41813-S,immobili,Toscana,Grosseto,Sorano,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-GR-41814-S,immobili,Toscana,Grosseto,Sorano,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-GR-91337-S,immobili,Toscana,Grosseto,Arcidosso,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Roma,Misure di Prevenzione
+I-GR-91338-S,immobili,Toscana,Grosseto,Arcidosso,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Roma,Misure di Prevenzione
+I-GR-91339-S,immobili,Toscana,Grosseto,Arcidosso,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Roma,Misure di Prevenzione
 I-IM-10618-S,immobili,Liguria,Imperia,Bordighera,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-29726-S,immobili,Liguria,Imperia,Cervo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
 I-IM-29727-S,immobili,Liguria,Imperia,Cervo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
@@ -5289,7 +5298,7 @@ I-LC-63926-S,immobili,Lombardia,Lecco,Costa Masnaga,Terreno,Terreno - non defini
 I-LC-70313-S,immobili,Lombardia,Lecco,Primaluna,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
 I-LC-71046-S,immobili,Lombardia,Lecco,Annone di Brianza,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Lecco,Misure di Prevenzione
 I-LC-71047-S,immobili,Lombardia,Lecco,Annone di Brianza,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Lecco,Misure di Prevenzione
-I-LC-71048-S,immobili,Lombardia,Lecco,Annone di Brianza,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Lecco,Misure di Prevenzione
+I-LC-71048-S,immobili,Lombardia,Lecco,Annone di Brianza,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Lecco,Misure di Prevenzione
 I-LC-71049-S,immobili,Lombardia,Lecco,Annone di Brianza,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Lecco,Misure di Prevenzione
 I-LC-71054-S,immobili,Lombardia,Lecco,Cassina Valsassina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
 I-LC-71930-S,immobili,Lombardia,Lecco,Lecco,Altra unità immobiliare,Altro,,0%,Procura della Repubblica,Milano,Procedimento Penale
@@ -5982,6 +5991,11 @@ I-LT-90270-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Conf
 I-LT-90278-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca I,13%,Tribunale,Napoli,Misure di Prevenzione
 I-LT-90283-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca I,13%,Tribunale,Napoli,Misure di Prevenzione
 I-LT-90966-S,immobili,Lazio,Latina,Formia,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-LT-91330-S,immobili,Lazio,Latina,San Felice Circeo,Unità immobiliare per uso di abitazione e assimilabile,Villa,,0%,Tribunale,Roma,Misure di Prevenzione
+I-LT-91331-S,immobili,Lazio,Latina,San Felice Circeo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Roma,Misure di Prevenzione
+I-LT-91332-S,immobili,Lazio,Latina,San Felice Circeo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Roma,Misure di Prevenzione
+I-LT-91333-S,immobili,Lazio,Latina,San Felice Circeo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Roma,Misure di Prevenzione
+I-LT-91334-S,immobili,Lazio,Latina,San Felice Circeo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Roma,Misure di Prevenzione
 I-LU-36226-S,immobili,Toscana,Lucca,Viareggio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
 I-LU-59078-S,immobili,Toscana,Lucca,Camporgiano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
 I-LU-59079-S,immobili,Toscana,Lucca,Camporgiano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
@@ -12632,6 +12646,9 @@ I-PG-83500-S,immobili,Umbria,Perugia,Perugia,Terreno,Terreno - non definito,Conf
 I-PG-83501-S,immobili,Umbria,Perugia,Perugia,Terreno,Terreno - non definito,Confisca I,0%,Procura della Repubblica,Perugia,Procedimento Penale
 I-PG-91310-S,immobili,Umbria,Perugia,Sant'Anatolia di Narco,Terreno,Terreno - non definito,,0%,Tribunale,Roma,Misure di Prevenzione
 I-PG-91311-S,immobili,Umbria,Perugia,Sant'Anatolia di Narco,Terreno,Terreno - non definito,,0%,Tribunale,Roma,Misure di Prevenzione
+I-PG-91340-S,immobili,Umbria,Perugia,Sant'Anatolia di Narco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Roma,Misure di Prevenzione
+I-PG-91349-S,immobili,Umbria,Perugia,Sant'Anatolia di Narco,Terreno,Terreno - non definito,,0%,Tribunale,Roma,Misure di Prevenzione
+I-PG-91350-S,immobili,Umbria,Perugia,Sant'Anatolia di Narco,Terreno,Terreno agricolo,,0%,Tribunale,Roma,Misure di Prevenzione
 I-PI-2599-S,immobili,Toscana,Pisa,Santa Maria a Monte,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
 I-PI-34862-S,immobili,Toscana,Pisa,Cascina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 I-PI-34863-S,immobili,Toscana,Pisa,Cascina,Terreno,Terreno agricolo,Confisca def.,12%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
@@ -13291,7 +13308,6 @@ I-RC-16665-S,immobili,Calabria,Reggio Calabria,Siderno,Unità immobiliare per us
 I-RC-16729-S,immobili,Calabria,Reggio Calabria,Siderno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,67%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-16730-S,immobili,Calabria,Reggio Calabria,Siderno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,67%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-17337-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-17626-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-18001-S,immobili,Calabria,Reggio Calabria,Gioiosa Ionica,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-RC-18013-S,immobili,Calabria,Reggio Calabria,Marina di Gioiosa Ionica,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-RC-18017-S,immobili,Calabria,Reggio Calabria,Cittanova,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -13586,71 +13602,71 @@ I-RC-43279-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terre
 I-RC-43280-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43281-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43283-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43284-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43284-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43285-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43286-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43289-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43292-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43293-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43295-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43297-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43297-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43298-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43301-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43302-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43304-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43305-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43307-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43307-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43308-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43309-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43310-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43312-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43312-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno con fabbricato rurale,Confisca def.,7%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43316-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43318-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43319-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43318-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43319-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43320-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43322-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43323-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43328-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43329-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43329-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43331-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43332-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43333-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43334-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43332-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43333-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43334-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43335-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43336-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43337-S,immobili,Calabria,Reggio Calabria,Siderno,Altra unità immobiliare,Ex fabbricato rurale,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43341-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43337-S,immobili,Calabria,Reggio Calabria,Siderno,Altra unità immobiliare,Ex fabbricato rurale,Confisca def.,7%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43341-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43344-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43346-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43349-S,immobili,Calabria,Reggio Calabria,Siderno,Altra unità immobiliare,Ex fabbricato rurale,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43351-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43346-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43349-S,immobili,Calabria,Reggio Calabria,Siderno,Altra unità immobiliare,Ex fabbricato rurale,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43351-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43352-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43353-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43355-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43356-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43353-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43355-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43356-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43358-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43360-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43361-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43360-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43361-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43363-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43364-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43366-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43364-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43366-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43368-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43369-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43369-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43373-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43374-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43374-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,7%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43375-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43376-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43376-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,7%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43377-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43379-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43381-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43383-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43384-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43384-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43385-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43387-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43390-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43393-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43397-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43398-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43398-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno con fabbricato rurale,Confisca def.,13%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43399-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43400-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43402-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -14187,7 +14203,7 @@ I-RC-83791-S,immobili,Calabria,Reggio Calabria,Candidoni,Terreno,Terreno agricol
 I-RC-83792-S,immobili,Calabria,Reggio Calabria,Candidoni,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 I-RC-83793-S,immobili,Calabria,Reggio Calabria,Candidoni,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 I-RC-83797-S,immobili,Calabria,Reggio Calabria,Candidoni,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
-I-RC-85518-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca II,10%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-85518-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-85546-S,immobili,Calabria,Reggio Calabria,Cittanova,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 I-RC-85547-S,immobili,Calabria,Reggio Calabria,Cittanova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 I-RC-85548-S,immobili,Calabria,Reggio Calabria,Cittanova,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
@@ -15459,6 +15475,10 @@ I-RM-91323-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerci
 I-RM-91325-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",,0%,Tribunale,Roma,Misure di Prevenzione
 I-RM-91326-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",,0%,Tribunale,Roma,Misure di Prevenzione
 I-RM-91327-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-91329-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-91335-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-91336-S,immobili,Lazio,Roma,Roma,Terreno,Terreno - non definito,,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-91348-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,,0%,Tribunale,Roma,Misure di Prevenzione
 I-RM-9187-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-9188-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-9189-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
