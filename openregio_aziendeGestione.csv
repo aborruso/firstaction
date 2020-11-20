@@ -1406,8 +1406,8 @@ A-NA-83234-S,aziende,Campania,Napoli,Napoli,Impresa individuale,Alberghi e risto
 A-NA-84423-S,aziende,Campania,Napoli,Giugliano in Campania,Impresa individuale,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-84756-S,aziende,Campania,Napoli,Giugliano in Campania,Impresa individuale,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-85520-S,aziende,Campania,Napoli,Giugliano in Campania,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-A-NA-85660-S,aziende,Campania,Napoli,Napoli,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",,100%,Procura della Repubblica,Napoli,Procedimento Penale
-A-NA-85663-S,aziende,Campania,Napoli,Napoli,Impresa individuale,"Produzione e distribuzione di energia elettrica, gas e acqua",,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-85660-S,aziende,Campania,Napoli,Napoli,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-85663-S,aziende,Campania,Napoli,Napoli,Impresa individuale,"Produzione e distribuzione di energia elettrica, gas e acqua",Confisca I,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-8573-S,aziende,Campania,Napoli,Afragola,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-8574-S,aziende,Campania,Napoli,Afragola,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-8575-S,aziende,Campania,Napoli,Afragola,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
@@ -1418,7 +1418,7 @@ A-NA-86509-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,
 A-NA-87188-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-87189-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-87190-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,33%,Tribunale,Napoli,Misure di Prevenzione
-A-NA-87583-S,aziende,Campania,Napoli,Napoli,Altro,,,0%,Tribunale,Roma,Misure di Prevenzione
+A-NA-87583-S,aziende,Campania,Napoli,Napoli,Altro,"Agricoltura, caccia e silvicoltura",,0%,Tribunale,Roma,Misure di Prevenzione
 A-NA-87815-S,aziende,Campania,Napoli,Castellammare di Stabia,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-87887-S,aziende,Campania,Napoli,Giugliano in Campania,Società in accomandita semplice,Costruzioni,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-87983-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,60%,Tribunale,Napoli,Misure di Prevenzione
@@ -2036,9 +2036,9 @@ A-RC-83575-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Impresa individ
 A-RC-83781-S,aziende,Calabria,Reggio Calabria,Antonimina,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca I,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RC-83798-S,aziende,Calabria,Reggio Calabria,Rosarno,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RC-85185-S,aziende,Calabria,Reggio Calabria,Sinopoli,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-A-RC-86297-S,aziende,Calabria,Reggio Calabria,Villa San Giovanni,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,30%,Tribunale,Reggio Calabria,Misure di Prevenzione
-A-RC-86298-S,aziende,Calabria,Reggio Calabria,Villa San Giovanni,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,33%,Tribunale,Reggio Calabria,Misure di Prevenzione
-A-RC-86300-S,aziende,Calabria,Reggio Calabria,Villa San Giovanni,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+A-RC-86297-S,aziende,Calabria,Reggio Calabria,Villa San Giovanni,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,30%,Tribunale,Reggio Calabria,Misure di Prevenzione
+A-RC-86298-S,aziende,Calabria,Reggio Calabria,Villa San Giovanni,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,33%,Tribunale,Reggio Calabria,Misure di Prevenzione
+A-RC-86300-S,aziende,Calabria,Reggio Calabria,Villa San Giovanni,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-86360-S,aziende,Calabria,Reggio Calabria,Polistena,Società in accomandita semplice,Costruzioni,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-86361-S,aziende,Calabria,Reggio Calabria,Cinquefrondi,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-86577-S,aziende,Calabria,Reggio Calabria,San Lorenzo,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -2562,7 +2562,7 @@ A-SA-83079-S,aziende,Campania,Salerno,Scafati,Società in accomandita semplice,A
 A-SA-85739-S,aziende,Campania,Salerno,Battipaglia,Società a responsabilità limitata,Costruzioni,Rinvio,0%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-85743-S,aziende,Campania,Salerno,Eboli,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Rinvio,100%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-85745-S,aziende,Campania,Salerno,Campagna,Società per azioni,Costruzioni,Rinvio,100%,Tribunale,Salerno,Misure di Prevenzione
-A-SA-87584-S,aziende,Campania,Salerno,Sarno,Altro,,,0%,Tribunale,Roma,Misure di Prevenzione
+A-SA-87584-S,aziende,Campania,Salerno,Sarno,Altro,Alberghi e ristoranti,,0%,Tribunale,Roma,Misure di Prevenzione
 A-SA-87822-S,aziende,Campania,Salerno,Campagna,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-87936-S,aziende,Campania,Salerno,Salerno,Impresa individuale,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-87942-S,aziende,Campania,Salerno,Salerno,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
