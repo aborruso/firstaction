@@ -1404,9 +1404,9 @@ I-BS-70686-S,immobili,Lombardia,Brescia,Remedello,Altra unità immobiliare,Altro
 I-BS-70687-S,immobili,Lombardia,Brescia,Remedello,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BS-70688-S,immobili,Lombardia,Brescia,Remedello,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BS-70689-S,immobili,Lombardia,Brescia,Remedello,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-BS-71617-S,immobili,Lombardia,Brescia,Bagnolo Mella,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-BS-71626-S,immobili,Lombardia,Brescia,Leno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-BS-71627-S,immobili,Lombardia,Brescia,Leno,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BS-71617-S,immobili,Lombardia,Brescia,Bagnolo Mella,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BS-71626-S,immobili,Lombardia,Brescia,Leno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BS-71627-S,immobili,Lombardia,Brescia,Leno,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-73973-S,immobili,Lombardia,Brescia,Torbole Casaglia,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca I,100%,Tribunale,Cremona,Misure di Prevenzione
 I-BS-73974-S,immobili,Lombardia,Brescia,Torbole Casaglia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Cremona,Misure di Prevenzione
 I-BS-73975-S,immobili,Lombardia,Brescia,Rudiano,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca I,100%,Tribunale,Cremona,Misure di Prevenzione
@@ -9997,6 +9997,12 @@ I-NA-91237-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per u
 I-NA-91238-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-91239-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-91303-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-91408-S,immobili,Campania,Napoli,Boscoreale,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-91409-S,immobili,Campania,Napoli,Boscoreale,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-91410-S,immobili,Campania,Napoli,Boscoreale,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-91411-S,immobili,Campania,Napoli,Boscoreale,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-91412-S,immobili,Campania,Napoli,Boscoreale,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-91413-S,immobili,Campania,Napoli,Boscoreale,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-92-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,33%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-93-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,33%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-94-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,33%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -15992,6 +15998,7 @@ I-SR-61181-S,immobili,Sicilia,Siracusa,Lentini,Terreno,Terreno agricolo,Confisca
 I-SR-61182-S,immobili,Sicilia,Siracusa,Lentini,Altra unità immobiliare,Ex fabbricato rurale,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
 I-SR-61184-S,immobili,Sicilia,Siracusa,Lentini,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
 I-SR-61185-S,immobili,Sicilia,Siracusa,Lentini,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
+I-SR-61186-S,immobili,Sicilia,Siracusa,Lentini,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
 I-SR-61187-S,immobili,Sicilia,Siracusa,Lentini,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
 I-SR-61188-S,immobili,Sicilia,Siracusa,Lentini,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
 I-SR-61189-S,immobili,Sicilia,Siracusa,Lentini,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
