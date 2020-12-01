@@ -5869,7 +5869,7 @@ I-LT-80063-S,immobili,Lazio,Latina,Latina,Unità immobiliare a destinazione comm
 I-LT-80064-S,immobili,Lazio,Latina,Latina,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-80065-S,immobili,Lazio,Latina,Latina,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Latina,Misure di Prevenzione
 I-LT-80066-S,immobili,Lazio,Latina,Latina,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
-I-LT-80070-S,immobili,Lazio,Latina,Latina,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-80070-S,immobili,Lazio,Latina,Latina,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-80071-S,immobili,Lazio,Latina,Latina,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-80098-S,immobili,Lazio,Latina,Latina,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-80099-S,immobili,Lazio,Latina,Latina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
@@ -7354,10 +7354,10 @@ I-MI-11500-S,immobili,Lombardia,Milano,Milano,Terreno,Terreno - non definito,Con
 I-MI-11501-S,immobili,Lombardia,Milano,Milano,Terreno,Terreno - non definito,Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-11924-S,immobili,Lombardia,Milano,Assago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-11926-S,immobili,Lombardia,Milano,Corsico,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-13168-S,immobili,Lombardia,Milano,Zibido San Giacomo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Milano,Misure di Prevenzione
-I-MI-13169-S,immobili,Lombardia,Milano,Zibido San Giacomo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Milano,Misure di Prevenzione
-I-MI-13170-S,immobili,Lombardia,Milano,Zibido San Giacomo,Terreno,Terreno agricolo,,0%,Tribunale,Milano,Misure di Prevenzione
-I-MI-13171-S,immobili,Lombardia,Milano,Milano,Terreno,Terreno agricolo,,0%,Tribunale,Milano,Misure di Prevenzione
+I-MI-13168-S,immobili,Lombardia,Milano,Zibido San Giacomo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,61%,Tribunale,Milano,Misure di Prevenzione
+I-MI-13169-S,immobili,Lombardia,Milano,Zibido San Giacomo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,61%,Tribunale,Milano,Misure di Prevenzione
+I-MI-13170-S,immobili,Lombardia,Milano,Zibido San Giacomo,Terreno,Terreno agricolo,Confisca def.,61%,Tribunale,Milano,Misure di Prevenzione
+I-MI-13171-S,immobili,Lombardia,Milano,Zibido San Giacomo,Terreno,Terreno agricolo,Confisca def.,61%,Tribunale,Milano,Misure di Prevenzione
 I-MI-1332-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,18%,Tribunale,Milano,Misure di Prevenzione
 I-MI-1333-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,18%,Tribunale,Milano,Misure di Prevenzione
 I-MI-1334-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,18%,Tribunale,Milano,Misure di Prevenzione
@@ -11783,7 +11783,7 @@ I-PA-78919-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno con fabbricato rur
 I-PA-79081-S,immobili,Sicilia,Palermo,Monreale,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-79106-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-79360-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-79397-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-79397-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-79549-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
 I-PA-79781-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-79846-S,immobili,Sicilia,Palermo,Bagheria,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
