@@ -590,7 +590,6 @@ Calabria,Tribunale,Vibo Valentia,Misure di Prevenzione,Confisca def.,17/2005
 Calabria,Tribunale,Vibo Valentia,Misure di Prevenzione,Confisca def.,17/2014
 Calabria,Tribunale,Vibo Valentia,Misure di Prevenzione,Confisca def.,173038/2007
 Calabria,Tribunale,Vibo Valentia,Misure di Prevenzione,Confisca def.,19/2010
-Calabria,Tribunale,Vibo Valentia,Misure di Prevenzione,Confisca def.,2/2011
 Calabria,Tribunale,Vibo Valentia,Misure di Prevenzione,Confisca def.,22/2012
 Calabria,Tribunale,Vibo Valentia,Misure di Prevenzione,Confisca def.,23/2009
 Calabria,Tribunale,Vibo Valentia,Misure di Prevenzione,Confisca def.,298/2008
@@ -610,6 +609,7 @@ Calabria,Tribunale,Vibo Valentia,Misure di Prevenzione,Confisca def.,7/2009
 Calabria,Tribunale,Vibo Valentia,Misure di Prevenzione,Confisca def.,76/2009
 Calabria,Tribunale,Vibo Valentia,Misure di Prevenzione,Confisca def.,9/2014
 Calabria,Tribunale,Vibo Valentia,Misure di Prevenzione,Revoca Conf.,16/2013
+Calabria,Tribunale,Vibo Valentia,Misure di Prevenzione,Revoca Conf. parziale,2/2011
 Campania,Procura della Repubblica,Avellino,Procedimento Penale,Sequestro,3474/2013
 Campania,Tribunale,Avellino,Misure di Prevenzione,Confisca I,1/2005
 Campania,Tribunale,Avellino,Misure di Prevenzione,Confisca def.,33/2007
@@ -1562,7 +1562,6 @@ Liguria,Procura della Repubblica,Genova,Procedimento Penale,Revoca Conf.,718/200
 Liguria,Procura della Repubblica,Genova,Procedimento Penale,Revoca Conf. parziale,16232/2012
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca I,10/2017
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca I,20/2016
-Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca I,22/2019
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca I,25/2016
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca I,5/2017
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca def.,1/2014
@@ -1571,6 +1570,7 @@ Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca def.,14/2014
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca def.,17/2015
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca def.,17/2016
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca def.,21/2016
+Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca def.,22/2019
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca def.,23/2016
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca def.,24/2016
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca def.,27/2016
@@ -2286,7 +2286,6 @@ Piemonte,Procura della Repubblica,Torino,Procedimento Penale,Revoca Conf. parzia
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,10/2017
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,15/2014
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,24/2014
-Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,24/2019
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,26/2017
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,36/2016
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,38/2013
@@ -2301,6 +2300,7 @@ Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,65/2015
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,73/2015
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca II,117/2015
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca II,19/2019
+Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca II,24/2019
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca II,38/2017
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca II,49/2018
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca II,51/2014
@@ -2378,6 +2378,7 @@ Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,33/2009
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,33/2018
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,34/2012
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,34/2017
+Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,35/2009
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,35/2012
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,35/2017
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,36/2012
@@ -2455,7 +2456,6 @@ Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,9/2012
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,9/2015
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,91/2015
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,96/2015
-Piemonte,Tribunale,Torino,Misure di Prevenzione,Impugnazione,35/2009
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Revoca Conf.,1/2017
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Revoca Conf.,12/2010
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Revoca Conf.,12/2012
