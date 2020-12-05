@@ -1481,6 +1481,9 @@ A-NA-91075-S,aziende,Campania,Napoli,Marano di Napoli,Società in accomandita se
 A-NA-91081-S,aziende,Campania,Napoli,Marano di Napoli,Società cooperativa,Costruzioni,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-91110-S,aziende,Campania,Napoli,Marano di Napoli,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-91170-S,aziende,Campania,Napoli,Marano di Napoli,Società in accomandita semplice,Costruzioni,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-91450-S,aziende,Campania,Napoli,Casoria,Impresa individuale,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-91452-S,aziende,Campania,Napoli,Casoria,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-91454-S,aziende,Campania,Napoli,Afragola,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-9715-S,aziende,Campania,Napoli,Torre Annunziata,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-9852-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Attività finanziarie,Confisca def.,10%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-9853-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Attività finanziarie,Confisca def.,45%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -1813,7 +1816,7 @@ A-PA-80008-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Altri servizi 
 A-PA-80251-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,Attività manifatturiere,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-80932-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-80933-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,,Confisca II,0%,Tribunale,Palermo,Misure di Prevenzione
-A-PA-81563-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-81563-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-81852-S,aziende,Sicilia,Palermo,Bagheria,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-81857-S,aziende,Sicilia,Palermo,Bagheria,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-81858-S,aziende,Sicilia,Palermo,Bagheria,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione

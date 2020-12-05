@@ -1018,8 +1018,8 @@ I-BG-76545-S,immobili,Lombardia,Bergamo,Valbondione,Altra unità immobiliare,Alt
 I-BG-78012-S,immobili,Lombardia,Bergamo,Treviglio,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BG-78013-S,immobili,Lombardia,Bergamo,Treviglio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BG-84712-S,immobili,Lombardia,Bergamo,San Giovanni Bianco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Milano,Misure di Prevenzione
-I-BG-86523-S,immobili,Lombardia,Bergamo,Alzano Lombardo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Impugnazione,100%,Tribunale,Milano,Misure di Prevenzione
-I-BG-86712-S,immobili,Lombardia,Bergamo,Alzano Lombardo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Impugnazione,100%,Tribunale,Milano,Misure di Prevenzione
+I-BG-86523-S,immobili,Lombardia,Bergamo,Alzano Lombardo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
+I-BG-86712-S,immobili,Lombardia,Bergamo,Alzano Lombardo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 I-BG-86911-S,immobili,Lombardia,Bergamo,Trescore Balneario,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Padova,Procedimento Penale
 I-BG-86912-S,immobili,Lombardia,Bergamo,Trescore Balneario,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca def.,100%,Procura della Repubblica,Padova,Procedimento Penale
 I-BG-86913-S,immobili,Lombardia,Bergamo,Trescore Balneario,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Padova,Procedimento Penale
@@ -1030,6 +1030,8 @@ I-BG-86917-S,immobili,Lombardia,Bergamo,Cenate Sotto,Unità immobiliare per uso 
 I-BG-86918-S,immobili,Lombardia,Bergamo,Cenate Sotto,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca def.,50%,Procura della Repubblica,Padova,Procedimento Penale
 I-BG-90510-S,immobili,Lombardia,Bergamo,San Paolo d'Argon,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bergamo,Procedimento Penale
 I-BG-90511-S,immobili,Lombardia,Bergamo,San Paolo d'Argon,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Bergamo,Procedimento Penale
+I-BG-91438-S,immobili,Lombardia,Bergamo,Bergamo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
+I-BG-91439-S,immobili,Lombardia,Bergamo,Bergamo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 I-BI-16475-S,immobili,Piemonte,Biella,Valle Mosso,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BI-16476-S,immobili,Piemonte,Biella,Valle Mosso,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BI-16477-S,immobili,Piemonte,Biella,Valle Mosso,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -3858,6 +3860,7 @@ I-CS-90578-S,immobili,Calabria,Cosenza,Scalea,Terreno,Terreno - non definito,,0%
 I-CS-90579-S,immobili,Calabria,Cosenza,Scalea,Terreno,Terreno - non definito,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CS-90688-S,immobili,Calabria,Cosenza,Falconara Albanese,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CS-91299-S,immobili,Calabria,Cosenza,Scalea,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-CS-91449-S,immobili,Calabria,Cosenza,Mandatoriccio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-CT-10831-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Milano,Misure di Prevenzione
 I-CT-20882-S,immobili,Sicilia,Catania,San Pietro Clarenza,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-20893-S,immobili,Sicilia,Catania,Ramacca,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Catania,Misure di Prevenzione
@@ -5101,7 +5104,7 @@ I-GE-76691-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitaz
 I-GE-76693-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-76697-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-80550-S,immobili,Liguria,Genova,Santa Margherita Ligure,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
-I-GE-86471-S,immobili,Liguria,Genova,Mignanego,Terreno,Terreno edificabile,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
+I-GE-86471-S,immobili,Liguria,Genova,Mignanego,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-87670-S,immobili,Liguria,Genova,Lavagna,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-90551-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,50%,Procura della Repubblica,Milano,Procedimento Penale
 I-GE-91277-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
@@ -10008,6 +10011,14 @@ I-NA-91410-S,immobili,Campania,Napoli,Boscoreale,Terreno,Terreno agricolo,Confis
 I-NA-91411-S,immobili,Campania,Napoli,Boscoreale,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-91412-S,immobili,Campania,Napoli,Boscoreale,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-91413-S,immobili,Campania,Napoli,Boscoreale,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-91448-S,immobili,Campania,Napoli,Afragola,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-91451-S,immobili,Campania,Napoli,Afragola,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-91455-S,immobili,Campania,Napoli,Afragola,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-91457-S,immobili,Campania,Napoli,Afragola,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-91458-S,immobili,Campania,Napoli,Afragola,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-91460-S,immobili,Campania,Napoli,Casoria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-91466-S,immobili,Campania,Napoli,Afragola,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-91467-S,immobili,Campania,Napoli,Afragola,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-92-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,33%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-93-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,33%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-94-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,33%,Procura della Repubblica,Napoli,Procedimento Penale
