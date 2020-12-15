@@ -202,7 +202,7 @@ A-BS-82737-S,aziende,Lombardia,Brescia,Rudiano,Impresa individuale,Costruzioni,,
 A-BS-82741-S,aziende,Lombardia,Brescia,Erbusco,Società a responsabilità limitata,Costruzioni,,100%,Procura della Repubblica,Brescia,Procedimento Penale
 A-BS-82847-S,aziende,Lombardia,Brescia,Rovato,Società a responsabilità limitata,Costruzioni,,0%,Procura della Repubblica,Brescia,Procedimento Penale
 A-BS-89674-S,aziende,Lombardia,Brescia,Cologne,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Tribunale,Reggio Calabria,Procedimento Penale
-A-BS-90872-S,aziende,Lombardia,Brescia,Torbole Casaglia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Brescia,Misure di Prevenzione
+A-BS-90872-S,aziende,Lombardia,Brescia,Torbole Casaglia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
 A-BT-10477-S,aziende,Puglia,Barletta-Andria-Trani,Trani,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,10%,Corte di Appello,Bari,Misure di Prevenzione
 A-BT-15121-S,aziende,Puglia,Barletta-Andria-Trani,Barletta,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
 A-BT-15122-S,aziende,Puglia,Barletta-Andria-Trani,Barletta,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
@@ -493,7 +493,6 @@ A-CL-85210-S,aziende,Sicilia,Caltanissetta,Vallelunga Pratameno,Impresa individu
 A-CL-85230-S,aziende,Sicilia,Caltanissetta,Vallelunga Pratameno,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-90963-S,aziende,Sicilia,Caltanissetta,Gela,Società a responsabilità limitata,Costruzioni,,0%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CO-34456-S,aziende,Lombardia,Como,Mariano Comense,Società in nome collettivo,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Como,Misure di Prevenzione
-A-CO-70790-S,aziende,Lombardia,Como,Como,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
 A-CO-71896-S,aziende,Lombardia,Como,Como,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-CO-74082-S,aziende,Lombardia,Como,Olgiate Comasco,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Como,Misure di Prevenzione
 A-CO-85749-S,aziende,Lombardia,Como,Como,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Rinvio,100%,Tribunale,Salerno,Misure di Prevenzione
@@ -824,7 +823,7 @@ A-LT-49255-S,aziende,Lazio,Latina,Latina,Società a responsabilità limitata,"At
 A-LT-49285-S,aziende,Lazio,Latina,Latina,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-53014-S,aziende,Lazio,Latina,Gaeta,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Frosinone,Misure di Prevenzione
 A-LT-53637-S,aziende,Lazio,Latina,Gaeta,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,100%,Tribunale,Frosinone,Misure di Prevenzione
-A-LT-59053-S,aziende,Lazio,Latina,Aprilia,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-LT-59053-S,aziende,Lazio,Latina,Aprilia,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-LT-60082-S,aziende,Lazio,Latina,Latina,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Procura della Repubblica,Latina,Procedimento Penale
 A-LT-60083-S,aziende,Lazio,Latina,Latina,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Procura della Repubblica,Latina,Procedimento Penale
 A-LT-60084-S,aziende,Lazio,Latina,Latina,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Procura della Repubblica,Latina,Procedimento Penale
@@ -865,9 +864,9 @@ A-LU-90638-S,aziende,Toscana,Lucca,Pietrasanta,Società a responsabilità limita
 A-LU-90639-S,aziende,Toscana,Lucca,Seravezza,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,10%,Procura della Repubblica,Lucca,Procedimento Penale
 A-MB-17240-S,aziende,Lombardia,Monza e Brianza,Brugherio,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 A-MB-1885-S,aziende,Lombardia,Monza e Brianza,Lissone,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-A-MB-34701-S,aziende,Lombardia,Monza e Brianza,Lissone,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Procura della Repubblica,Milano,Procedimento Penale
+A-MB-34701-S,aziende,Lombardia,Monza e Brianza,Lissone,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MB-39689-S,aziende,Lombardia,Monza e Brianza,Seregno,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-A-MB-40661-S,aziende,Lombardia,Monza e Brianza,Desio,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Procura della Repubblica,Milano,Procedimento Penale
+A-MB-40661-S,aziende,Lombardia,Monza e Brianza,Desio,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MB-51163-S,aziende,Lombardia,Monza e Brianza,Lissone,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MB-51176-S,aziende,Lombardia,Monza e Brianza,Desio,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MB-51180-S,aziende,Lombardia,Monza e Brianza,Lissone,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -1059,11 +1058,8 @@ A-MI-70763-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata
 A-MI-70769-S,aziende,Lombardia,Milano,Bareggio,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-70770-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-70771-S,aziende,Lombardia,Milano,Bareggio,Società a responsabilità limitata,Costruzioni,Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
-A-MI-70774-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,75%,Procura della Repubblica,Milano,Procedimento Penale
-A-MI-70775-S,aziende,Lombardia,Milano,Cisliano,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-70778-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-70781-S,aziende,Lombardia,Milano,Bareggio,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-A-MI-70782-S,aziende,Lombardia,Milano,Bareggio,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-70783-S,aziende,Lombardia,Milano,Bareggio,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-70784-S,aziende,Lombardia,Milano,Motta Visconti,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-70981-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,68%,Tribunale,Cremona,Misure di Prevenzione
@@ -2214,24 +2210,24 @@ A-RM-55004-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri 
 A-RM-5553-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 A-RM-56330-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca II,95%,Tribunale,Roma,Misure di Prevenzione
 A-RM-56337-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca II,80%,Tribunale,Roma,Misure di Prevenzione
-A-RM-58503-S,aziende,Lazio,Roma,Albano Laziale,Società a responsabilità limitata,Attività finanziarie,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-58503-S,aziende,Lazio,Roma,Albano Laziale,Società a responsabilità limitata,Attività finanziarie,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-58682-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-58899-S,aziende,Lazio,Roma,Albano Laziale,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59037-S,aziende,Lazio,Roma,Albano Laziale,Società cooperativa,"Trasporti, magazzinaggio e comunicazioni",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59039-S,aziende,Lazio,Roma,Albano Laziale,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59048-S,aziende,Lazio,Roma,Albano Laziale,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59049-S,aziende,Lazio,Roma,Albano Laziale,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59050-S,aziende,Lazio,Roma,Albano Laziale,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59051-S,aziende,Lazio,Roma,Albano Laziale,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59052-S,aziende,Lazio,Roma,Vallepietra,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59061-S,aziende,Lazio,Roma,Albano Laziale,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59062-S,aziende,Lazio,Roma,Albano Laziale,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59063-S,aziende,Lazio,Roma,Albano Laziale,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59064-S,aziende,Lazio,Roma,Roma,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59067-S,aziende,Lazio,Roma,Albano Laziale,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59068-S,aziende,Lazio,Roma,Albano Laziale,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59069-S,aziende,Lazio,Roma,Albano Laziale,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59070-S,aziende,Lazio,Roma,Albano Laziale,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-58899-S,aziende,Lazio,Roma,Albano Laziale,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-59037-S,aziende,Lazio,Roma,Albano Laziale,Società cooperativa,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-59039-S,aziende,Lazio,Roma,Albano Laziale,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-59048-S,aziende,Lazio,Roma,Albano Laziale,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-59049-S,aziende,Lazio,Roma,Albano Laziale,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-59050-S,aziende,Lazio,Roma,Albano Laziale,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-59051-S,aziende,Lazio,Roma,Albano Laziale,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-59052-S,aziende,Lazio,Roma,Vallepietra,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-59061-S,aziende,Lazio,Roma,Albano Laziale,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-59062-S,aziende,Lazio,Roma,Albano Laziale,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-59063-S,aziende,Lazio,Roma,Albano Laziale,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-59064-S,aziende,Lazio,Roma,Roma,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-59067-S,aziende,Lazio,Roma,Albano Laziale,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-59068-S,aziende,Lazio,Roma,Albano Laziale,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-59069-S,aziende,Lazio,Roma,Albano Laziale,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-59070-S,aziende,Lazio,Roma,Albano Laziale,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59074-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
 A-RM-59235-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59250-S,aziende,Lazio,Roma,Anzio,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
