@@ -686,7 +686,7 @@ A-CZ-80101-S,aziende,Calabria,Catanzaro,Borgia,Società a responsabilità limita
 A-CZ-82891-S,aziende,Calabria,Catanzaro,Catanzaro,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 A-CZ-83177-S,aziende,Calabria,Catanzaro,Davoli,Società a responsabilità limitata,Attività finanziarie,,50%,Procura della Repubblica,Catanzaro,Procedimento Penale
 A-CZ-83248-S,aziende,Calabria,Catanzaro,Soverato,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
-A-CZ-83255-S,aziende,Calabria,Catanzaro,Satriano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",,61%,Procura della Repubblica,Catanzaro,Procedimento Penale
+A-CZ-83255-S,aziende,Calabria,Catanzaro,Satriano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,61%,Procura della Repubblica,Catanzaro,Procedimento Penale
 A-CZ-83257-S,aziende,Calabria,Catanzaro,Soverato,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 A-CZ-84184-S,aziende,Calabria,Catanzaro,Davoli,Società a responsabilità limitata,Costruzioni,Confisca def.,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
 A-CZ-84234-S,aziende,Calabria,Catanzaro,Davoli,Società a responsabilità limitata,Costruzioni,Confisca def.,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
@@ -982,7 +982,6 @@ A-MI-30332-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata
 A-MI-30345-S,aziende,Lombardia,Milano,Cusano Milanino,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 A-MI-31600-S,aziende,Lombardia,Milano,Milano,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 A-MI-31680-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Varese,Misure di Prevenzione
-A-MI-33916-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 A-MI-35115-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-35432-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-35816-S,aziende,Lombardia,Milano,Gaggiano,Società in nome collettivo,"Altri servizi pubblici, sociali e personali",Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
@@ -1119,6 +1118,7 @@ A-MI-88526-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata
 A-MI-91414-S,aziende,Lombardia,Milano,Milano,Società in nome collettivo,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-91474-S,aziende,Lombardia,Milano,Milano,Società in nome collettivo,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
 A-MI-91475-S,aziende,Lombardia,Milano,Rescaldina,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+A-MI-91524-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 A-MI-9860-S,aziende,Lombardia,Milano,Cernusco sul Naviglio,Società a responsabilità limitata,Attività finanziarie,Confisca def.,10%,Procura della Repubblica,Napoli,Procedimento Penale
 A-MN-15577-S,aziende,Lombardia,Mantova,Bozzolo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,95%,Tribunale,Bari,Misure di Prevenzione
 A-MN-17077-S,aziende,Lombardia,Mantova,Roverbella,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
