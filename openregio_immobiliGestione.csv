@@ -604,6 +604,14 @@ I-AQ-86638-S,immobili,Abruzzo,L'Aquila,Canistro,Unità immobiliare per uso di ab
 I-AQ-87721-S,immobili,Abruzzo,L'Aquila,Lucoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Tribunale,Roma,Misure di Prevenzione
 I-AQ-87723-S,immobili,Abruzzo,L'Aquila,Lucoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-AQ-87753-S,immobili,Abruzzo,L'Aquila,Lucoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-AQ-91576-S,immobili,Abruzzo,L'Aquila,Pescocostanzo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-AQ-91585-S,immobili,Abruzzo,L'Aquila,Roccaraso,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-AQ-91610-S,immobili,Abruzzo,L'Aquila,Pescocostanzo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-AQ-91618-S,immobili,Abruzzo,L'Aquila,Pescocostanzo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-AQ-91674-S,immobili,Abruzzo,L'Aquila,Pescocostanzo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-AQ-91690-S,immobili,Abruzzo,L'Aquila,Roccaraso,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-AQ-91725-S,immobili,Abruzzo,L'Aquila,Pescocostanzo,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-AQ-91726-S,immobili,Abruzzo,L'Aquila,Roccaraso,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-AR-78663-S,immobili,Toscana,Arezzo,Castiglion Fibocchi,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Arezzo,Procedimento Penale
 I-AR-78958-S,immobili,Toscana,Arezzo,Marciano della Chiana,Unità immobiliare per uso di abitazione e assimilabile,Villa,Sequestro,100%,Procura della Repubblica,Arezzo,Procedimento Penale
 I-AR-78959-S,immobili,Toscana,Arezzo,Marciano della Chiana,Altra unità immobiliare,Altra unità  immobil. - non definito,Sequestro,100%,Procura della Repubblica,Arezzo,Procedimento Penale
@@ -2607,6 +2615,113 @@ I-CE-91343-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare per uso
 I-CE-91345-S,immobili,Campania,Caserta,San Marcellino,Terreno,Terreno agricolo,,0%,Corte di Appello,Napoli,Procedimento Penale
 I-CE-91346-S,immobili,Campania,Caserta,San Marcellino,Terreno,Terreno agricolo,,0%,Corte di Appello,Napoli,Procedimento Penale
 I-CE-91347-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare a destinazione commerciale e industriale,Altro,,0%,Corte di Appello,Napoli,Procedimento Penale
+I-CE-91557-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per alloggio e usi collettivi,"Teatro, Cinematografo, Sala per concerti, spettacoli e simili",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91561-S,immobili,Campania,Caserta,Arienzo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91563-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91565-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91566-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Altro,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91567-S,immobili,Campania,Caserta,Arienzo,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91568-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91570-S,immobili,Campania,Caserta,Recale,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91571-S,immobili,Campania,Caserta,Arienzo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91573-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91575-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91577-S,immobili,Campania,Caserta,Caserta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91578-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91579-S,immobili,Campania,Caserta,Recale,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91582-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91584-S,immobili,Campania,Caserta,Recale,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91587-S,immobili,Campania,Caserta,Recale,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91589-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91592-S,immobili,Campania,Caserta,Recale,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91594-S,immobili,Campania,Caserta,Arienzo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91596-S,immobili,Campania,Caserta,Recale,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91597-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91598-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Altro,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91599-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Altro,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91603-S,immobili,Campania,Caserta,Caserta,Terreno,Terreno agricolo,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91604-S,immobili,Campania,Caserta,Recale,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91607-S,immobili,Campania,Caserta,Arienzo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91608-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91612-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91613-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91614-S,immobili,Campania,Caserta,Recale,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91615-S,immobili,Campania,Caserta,Caserta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91616-S,immobili,Campania,Caserta,Recale,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91622-S,immobili,Campania,Caserta,Arienzo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91623-S,immobili,Campania,Caserta,Arienzo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91625-S,immobili,Campania,Caserta,Caserta,Terreno,Terreno agricolo,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91626-S,immobili,Campania,Caserta,Recale,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91627-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91630-S,immobili,Campania,Caserta,Recale,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91631-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Altro,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91632-S,immobili,Campania,Caserta,Arienzo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91633-S,immobili,Campania,Caserta,Recale,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91636-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91637-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91640-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91641-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Altro,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91642-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91644-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91645-S,immobili,Campania,Caserta,Arienzo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91647-S,immobili,Campania,Caserta,Recale,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91649-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91650-S,immobili,Campania,Caserta,Arienzo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91651-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91652-S,immobili,Campania,Caserta,Arienzo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91653-S,immobili,Campania,Caserta,Recale,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91654-S,immobili,Campania,Caserta,Recale,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91655-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91662-S,immobili,Campania,Caserta,Arienzo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91663-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91664-S,immobili,Campania,Caserta,Recale,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91665-S,immobili,Campania,Caserta,Recale,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91667-S,immobili,Campania,Caserta,Caserta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91671-S,immobili,Campania,Caserta,Caserta,Terreno,Terreno agricolo,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91676-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91677-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91678-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91679-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91681-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Altro,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91682-S,immobili,Campania,Caserta,Recale,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91683-S,immobili,Campania,Caserta,Caserta,Terreno,Terreno agricolo,Confisca I,6%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91685-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91686-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91688-S,immobili,Campania,Caserta,Caserta,Terreno,Terreno agricolo,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91694-S,immobili,Campania,Caserta,Recale,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91699-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Altro,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91700-S,immobili,Campania,Caserta,Arienzo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91702-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91704-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91705-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91706-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91707-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Altro,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91708-S,immobili,Campania,Caserta,Recale,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91709-S,immobili,Campania,Caserta,Arienzo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91710-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91711-S,immobili,Campania,Caserta,Arienzo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91716-S,immobili,Campania,Caserta,Recale,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91717-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91718-S,immobili,Campania,Caserta,Arienzo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91719-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91721-S,immobili,Campania,Caserta,Recale,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91723-S,immobili,Campania,Caserta,Arienzo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91727-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91728-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91729-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91730-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91731-S,immobili,Campania,Caserta,Recale,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91732-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Altro,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91734-S,immobili,Campania,Caserta,Pignataro Maggiore,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91736-S,immobili,Campania,Caserta,Recale,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91737-S,immobili,Campania,Caserta,Caserta,Terreno,Terreno agricolo,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91738-S,immobili,Campania,Caserta,Recale,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91739-S,immobili,Campania,Caserta,Recale,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91740-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91743-S,immobili,Campania,Caserta,Recale,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91745-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91746-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-91748-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CH-36419-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-36421-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-42987-S,immobili,Abruzzo,Chieti,San Salvo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Varese,Misure di Prevenzione
@@ -5993,6 +6108,8 @@ I-LT-91331-S,immobili,Lazio,Latina,San Felice Circeo,Unità immobiliare a destin
 I-LT-91332-S,immobili,Lazio,Latina,San Felice Circeo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Roma,Misure di Prevenzione
 I-LT-91333-S,immobili,Lazio,Latina,San Felice Circeo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Roma,Misure di Prevenzione
 I-LT-91334-S,immobili,Lazio,Latina,San Felice Circeo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Roma,Misure di Prevenzione
+I-LT-91620-S,immobili,Lazio,Latina,Gaeta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-LT-91646-S,immobili,Lazio,Latina,Gaeta,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-LU-36226-S,immobili,Toscana,Lucca,Viareggio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
 I-LU-59078-S,immobili,Toscana,Lucca,Camporgiano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
 I-LU-59079-S,immobili,Toscana,Lucca,Camporgiano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
@@ -10011,6 +10128,31 @@ I-NA-91490-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione c
 I-NA-91492-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-91493-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-91494-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-91559-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91562-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91569-S,immobili,Campania,Napoli,Vico Equense,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91572-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91583-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91586-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91591-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91605-S,immobili,Campania,Napoli,Vico Equense,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91609-S,immobili,Campania,Napoli,Vico Equense,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91617-S,immobili,Campania,Napoli,Vico Equense,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91624-S,immobili,Campania,Napoli,Vico Equense,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91629-S,immobili,Campania,Napoli,Vico Equense,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91639-S,immobili,Campania,Napoli,Vico Equense,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91657-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91659-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91660-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per alloggio e usi collettivi,Fabbricato annesso a speciali esigenze commerciali,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91673-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91680-S,immobili,Campania,Napoli,Vico Equense,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91687-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91695-S,immobili,Campania,Napoli,Vico Equense,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91697-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91713-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91720-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91742-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-NA-91744-S,immobili,Campania,Napoli,Vico Equense,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-NA-92-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,33%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-93-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,33%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-94-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,33%,Procura della Repubblica,Napoli,Procedimento Penale
