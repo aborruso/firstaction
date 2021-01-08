@@ -1112,7 +1112,6 @@ A-MI-86505-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata
 A-MI-86965-S,aziende,Lombardia,Milano,Sesto San Giovanni,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",,0%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-87957-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Napoli,Misure di Prevenzione
 A-MI-88519-S,aziende,Lombardia,Milano,Milano,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-A-MI-88524-S,aziende,Lombardia,Milano,Rho,Impresa individuale,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-MI-88526-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-MI-91414-S,aziende,Lombardia,Milano,Milano,Società in nome collettivo,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-91474-S,aziende,Lombardia,Milano,Milano,Società in nome collettivo,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
@@ -2804,6 +2803,10 @@ A-TP-87015-S,aziende,Sicilia,Trapani,Trapani,Società a responsabilità limitata
 A-TP-87212-S,aziende,Sicilia,Trapani,Castelvetrano,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-87420-S,aziende,Sicilia,Trapani,Erice,Società a responsabilità limitata,,,50%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-87421-S,aziende,Sicilia,Trapani,Erice,Società a responsabilità limitata,,,37%,Tribunale,Trapani,Misure di Prevenzione
+A-TP-92064-S,aziende,Sicilia,Trapani,Castelvetrano,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Revoca Conf.,100%,Tribunale,Trapani,Misure di Prevenzione
+A-TP-92066-S,aziende,Sicilia,Trapani,Castelvetrano,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+A-TP-92069-S,aziende,Sicilia,Trapani,Castelvetrano,Associazione,"Altri servizi pubblici, sociali e personali",Revoca Seq.,100%,Tribunale,Trapani,Misure di Prevenzione
+A-TP-92097-S,aziende,Sicilia,Trapani,Castelvetrano,Impresa individuale,"Agricoltura, caccia e silvicoltura",Revoca Conf.,100%,Tribunale,Trapani,Misure di Prevenzione
 A-TR-62300-S,aziende,Umbria,Terni,Terni,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-TR-857-S,aziende,Umbria,Terni,Terni,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,10%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-TV-80094-S,aziende,Veneto,Treviso,Castelfranco Veneto,Società a responsabilità limitata,Costruzioni,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
