@@ -322,12 +322,12 @@ I-AG-61340-S,immobili,Sicilia,Agrigento,Canicattì,Unità immobiliare a destinaz
 I-AG-61341-S,immobili,Sicilia,Agrigento,Canicattì,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,33%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-61342-S,immobili,Sicilia,Agrigento,Canicattì,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,33%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-61419-S,immobili,Sicilia,Agrigento,Cattolica Eraclea,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-61428-S,immobili,Sicilia,Agrigento,Cattolica Eraclea,Terreno,Terreno - non definito,,0%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-61432-S,immobili,Sicilia,Agrigento,Cattolica Eraclea,Terreno,Terreno - non definito,,0%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-61428-S,immobili,Sicilia,Agrigento,Cattolica Eraclea,Terreno,Terreno - non definito,Confisca def.,0%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-61432-S,immobili,Sicilia,Agrigento,Cattolica Eraclea,Terreno,Terreno - non definito,Confisca def.,0%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-61772-S,immobili,Sicilia,Agrigento,Favara,Terreno,Terreno - non definito,Confisca def.,0%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-62399-S,immobili,Sicilia,Agrigento,Campobello di Licata,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
 I-AG-62400-S,immobili,Sicilia,Agrigento,Campobello di Licata,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
-I-AG-62469-S,immobili,Sicilia,Agrigento,Cattolica Eraclea,Terreno,Terreno - non definito,,0%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-62469-S,immobili,Sicilia,Agrigento,Cattolica Eraclea,Terreno,Terreno - non definito,Confisca def.,0%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-64175-S,immobili,Sicilia,Agrigento,Favara,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-AG-65236-S,immobili,Sicilia,Agrigento,Canicattì,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-AG-65237-S,immobili,Sicilia,Agrigento,Canicattì,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -5248,7 +5248,6 @@ I-GE-91281-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitaz
 I-GE-91282-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-91283-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-91284-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Genova,Misure di Prevenzione
-I-GE-91285-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-91286-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-92110-S,immobili,Liguria,Genova,Lavagna,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-92111-S,immobili,Liguria,Genova,Sestri Levante,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
