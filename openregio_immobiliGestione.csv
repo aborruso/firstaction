@@ -8171,13 +8171,13 @@ I-MI-85044-S,immobili,Lombardia,Milano,Cesano Boscone,Unità immobiliare per uso
 I-MI-85045-S,immobili,Lombardia,Milano,Segrate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Rimini,Misure di Prevenzione
 I-MI-85537-S,immobili,Lombardia,Milano,Cormano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,99%,Tribunale,Milano,Procedimento Penale
 I-MI-85877-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-86467-S,immobili,Lombardia,Milano,Zelo Surrigone,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-86467-S,immobili,Lombardia,Milano,Zelo Surrigone,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-86506-S,immobili,Lombardia,Milano,Pogliano Milanese,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-86513-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-86692-S,immobili,Lombardia,Milano,Pogliano Milanese,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-86693-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-86694-S,immobili,Lombardia,Milano,Milano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-86707-S,immobili,Lombardia,Milano,Zelo Surrigone,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-86707-S,immobili,Lombardia,Milano,Zelo Surrigone,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-86724-S,immobili,Lombardia,Milano,Bollate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-86726-S,immobili,Lombardia,Milano,Bollate,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-86865-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Milano,Misure di Prevenzione
@@ -10981,8 +10981,8 @@ I-PA-35141-S,immobili,Sicilia,Palermo,Misilmeri,Terreno,Terreno agricolo,Confisc
 I-PA-35145-S,immobili,Sicilia,Palermo,Misilmeri,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-35396-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-3766-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-37865-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
-I-PA-38142-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
+I-PA-37865-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PA-38142-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PA-38153-S,immobili,Sicilia,Palermo,Bagheria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PA-3821-S,immobili,Sicilia,Palermo,Altofonte,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-3824-S,immobili,Sicilia,Palermo,Altofonte,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -18320,39 +18320,6 @@ I-TP-90713-S,immobili,Sicilia,Trapani,Alcamo,Terreno,Terreno agricolo,Confisca d
 I-TP-90714-S,immobili,Sicilia,Trapani,Alcamo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-90715-S,immobili,Sicilia,Trapani,Alcamo,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-90717-S,immobili,Sicilia,Trapani,Alcamo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92052-S,immobili,Sicilia,Trapani,Partanna,Terreno,Terreno agricolo,Revoca Seq.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92053-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92056-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92057-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Revoca Seq.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92058-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92059-S,immobili,Sicilia,Trapani,Castelvetrano,Altra unità immobiliare,Altro,Revoca Seq.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92060-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92061-S,immobili,Sicilia,Trapani,Castelvetrano,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92062-S,immobili,Sicilia,Trapani,Partanna,Terreno,Terreno agricolo,Revoca Seq.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92063-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92067-S,immobili,Sicilia,Trapani,Castelvetrano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92068-S,immobili,Sicilia,Trapani,Partanna,Terreno,Terreno agricolo,Revoca Seq.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92071-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92072-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92073-S,immobili,Sicilia,Trapani,Pantelleria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92074-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92076-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Revoca Seq.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92077-S,immobili,Sicilia,Trapani,Castelvetrano,Altra unità immobiliare,Altro,Revoca Seq.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92078-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92079-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Revoca Seq.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92080-S,immobili,Sicilia,Trapani,Castelvetrano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92082-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Revoca Seq.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92083-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92085-S,immobili,Sicilia,Trapani,Castelvetrano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92086-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92087-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Revoca Seq.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92091-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92092-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Revoca Seq.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92093-S,immobili,Sicilia,Trapani,Castelvetrano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92094-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92095-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92096-S,immobili,Sicilia,Trapani,Castelvetrano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-92098-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TS-30044-S,immobili,Friuli Venezia Giulia,Trieste,Trieste,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Trieste,Procedimento Penale
 I-TS-30045-S,immobili,Friuli Venezia Giulia,Trieste,Trieste,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Trieste,Procedimento Penale
 I-TS-30046-S,immobili,Friuli Venezia Giulia,Trieste,Sgonico,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trieste,Procedimento Penale
@@ -18494,6 +18461,11 @@ I-VA-92130-S,immobili,Lombardia,Varese,Fagnano Olona,Altra unità immobiliare,Al
 I-VA-92131-S,immobili,Lombardia,Varese,Fagnano Olona,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Varese,Misure di Prevenzione
 I-VA-92132-S,immobili,Lombardia,Varese,Gallarate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Varese,Misure di Prevenzione
 I-VA-92133-S,immobili,Lombardia,Varese,Gallarate,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Varese,Misure di Prevenzione
+I-VA-92183-S,immobili,Lombardia,Varese,Fagnano Olona,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Varese,Misure di Prevenzione
+I-VA-92184-S,immobili,Lombardia,Varese,Fagnano Olona,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Varese,Misure di Prevenzione
+I-VA-92185-S,immobili,Lombardia,Varese,Fagnano Olona,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Varese,Misure di Prevenzione
+I-VA-92186-S,immobili,Lombardia,Varese,Fagnano Olona,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Varese,Misure di Prevenzione
+I-VA-92187-S,immobili,Lombardia,Varese,Fagnano Olona,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Varese,Misure di Prevenzione
 I-VB-61568-S,immobili,Piemonte,Verbano-Cusio-Ossola,Cesara,Terreno,Terreno - non definito,Confisca def.,50%,Procura della Repubblica,Verbania,Procedimento Penale
 I-VB-61569-S,immobili,Piemonte,Verbano-Cusio-Ossola,Cesara,Terreno,Terreno - non definito,Confisca def.,50%,Procura della Repubblica,Verbania,Procedimento Penale
 I-VB-72886-S,immobili,Piemonte,Verbano-Cusio-Ossola,Cesara,Terreno,Terreno - non definito,Confisca def.,0%,Procura della Repubblica,Verbania,Procedimento Penale
