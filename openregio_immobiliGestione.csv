@@ -5753,7 +5753,6 @@ I-LI-40917-S,immobili,Toscana,Livorno,Campiglia Marittima,Unità immobiliare per
 I-LI-40923-S,immobili,Toscana,Livorno,San Vincenzo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Livorno,Misure di Prevenzione
 I-LI-40926-S,immobili,Toscana,Livorno,San Vincenzo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Livorno,Misure di Prevenzione
 I-LI-54875-S,immobili,Toscana,Livorno,Portoferraio,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Firenze,Procedimento Penale
-I-LI-59234-S,immobili,Toscana,Livorno,Rosignano Marittimo,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
 I-LI-67836-S,immobili,Toscana,Livorno,Piombino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Livorno,Misure di Prevenzione
 I-LI-73037-S,immobili,Toscana,Livorno,Rosignano Marittimo,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-LI-74118-S,immobili,Toscana,Livorno,Cecina,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca II,100%,Tribunale,Bergamo,Misure di Prevenzione
@@ -6127,130 +6126,6 @@ I-LT-91334-S,immobili,Lazio,Latina,San Felice Circeo,Unità immobiliare per uso 
 I-LT-91620-S,immobili,Lazio,Latina,Gaeta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-LT-91646-S,immobili,Lazio,Latina,Gaeta,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-LU-36226-S,immobili,Toscana,Lucca,Viareggio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59078-S,immobili,Toscana,Lucca,Camporgiano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59079-S,immobili,Toscana,Lucca,Camporgiano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59080-S,immobili,Toscana,Lucca,Camporgiano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59081-S,immobili,Toscana,Lucca,Camporgiano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59082-S,immobili,Toscana,Lucca,Camporgiano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59083-S,immobili,Toscana,Lucca,Camporgiano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59084-S,immobili,Toscana,Lucca,Camporgiano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59085-S,immobili,Toscana,Lucca,Camporgiano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59086-S,immobili,Toscana,Lucca,Camporgiano,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59087-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59088-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59089-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59090-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59091-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59092-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59093-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59094-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59095-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59096-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59097-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59098-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59099-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59100-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59101-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59102-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59103-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59104-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59105-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59106-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59107-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59108-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59109-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59110-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59111-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59112-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59113-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59114-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59115-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59116-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59117-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59118-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59119-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59120-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59121-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59122-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59123-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59124-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59125-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59126-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59127-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59128-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59129-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59130-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59131-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59132-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59133-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59136-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59137-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59139-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59141-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59142-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59143-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59144-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59145-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59147-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59149-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59150-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59152-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59153-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59154-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59156-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59157-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59158-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59159-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59160-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59161-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59162-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59176-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59177-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59178-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59179-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59180-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59181-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59182-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59183-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59184-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59185-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59188-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59190-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59191-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59192-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59193-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59194-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59195-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59196-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59197-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59198-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59199-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59200-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59202-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59203-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59215-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59216-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59217-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59218-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59219-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59222-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59223-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59224-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59225-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59227-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59228-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59230-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59232-S,immobili,Toscana,Lucca,Viareggio,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59233-S,immobili,Toscana,Lucca,Camporgiano,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59238-S,immobili,Toscana,Lucca,Camporgiano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59239-S,immobili,Toscana,Lucca,Camporgiano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59240-S,immobili,Toscana,Lucca,Camporgiano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59241-S,immobili,Toscana,Lucca,Camporgiano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59245-S,immobili,Toscana,Lucca,Lucca,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59246-S,immobili,Toscana,Lucca,Viareggio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59247-S,immobili,Toscana,Lucca,Camporgiano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59248-S,immobili,Toscana,Lucca,Camporgiano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-59249-S,immobili,Toscana,Lucca,Camporgiano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
 I-LU-59495-S,immobili,Toscana,Lucca,Viareggio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,32%,Tribunale,Lucca,Misure di Prevenzione
 I-LU-59496-S,immobili,Toscana,Lucca,Viareggio,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
 I-LU-59498-S,immobili,Toscana,Lucca,Viareggio,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
@@ -7926,8 +7801,8 @@ I-MI-64018-S,immobili,Lombardia,Milano,Rho,Unità immobiliare per uso di abitazi
 I-MI-64223-S,immobili,Lombardia,Milano,Marcallo con Casone,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-68527-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-68528-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MI-68529-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MI-68530-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-68529-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-68530-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-68531-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-68532-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-68573-S,immobili,Lombardia,Milano,Rho,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -8359,6 +8234,8 @@ I-MS-78633-S,immobili,Toscana,Massa-Carrara,Montignoso,Unità immobiliare per us
 I-MS-78634-S,immobili,Toscana,Massa-Carrara,Montignoso,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,3%,Tribunale,Milano,Procedimento Penale
 I-MS-90768-S,immobili,Toscana,Massa-Carrara,Carrara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,La Spezia,Misure di Prevenzione
 I-MS-90769-S,immobili,Toscana,Massa-Carrara,Fivizzano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-MS-92366-S,immobili,Toscana,Massa-Carrara,Carrara,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Procura della Repubblica,Piacenza,Procedimento Penale
+I-MS-92367-S,immobili,Toscana,Massa-Carrara,Carrara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Piacenza,Procedimento Penale
 I-MT-14006-S,immobili,Basilicata,Matera,Policoro,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-MT-23431-S,immobili,Basilicata,Matera,Calciano,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,50%,Corte di Appello,Potenza,Misure di Prevenzione
 I-NA-100-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -11197,7 +11074,6 @@ I-PA-58944-S,immobili,Sicilia,Palermo,Collesano,Terreno,Terreno agricolo,Confisc
 I-PA-58945-S,immobili,Sicilia,Palermo,Collesano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-58946-S,immobili,Sicilia,Palermo,Collesano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-58947-S,immobili,Sicilia,Palermo,Collesano,Terreno,Terreno agricolo,Confisca def.,25%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-59236-S,immobili,Sicilia,Palermo,Trappeto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
 I-PA-59875-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-59876-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-60224-S,immobili,Sicilia,Palermo,Carini,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -16197,7 +16073,7 @@ I-SR-54492-S,immobili,Sicilia,Siracusa,Noto,Unità immobiliare per uso di abitaz
 I-SR-54550-S,immobili,Sicilia,Siracusa,Siracusa,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-54947-S,immobili,Sicilia,Siracusa,Carlentini,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-54948-S,immobili,Sicilia,Siracusa,Carlentini,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Siracusa,Misure di Prevenzione
-I-SR-54949-S,immobili,Sicilia,Siracusa,Carlentini,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Siracusa,Misure di Prevenzione
+I-SR-54949-S,immobili,Sicilia,Siracusa,Carlentini,Altra unità immobiliare,Altro,Confisca II,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-55781-S,immobili,Sicilia,Siracusa,Augusta,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-SR-57392-S,immobili,Sicilia,Siracusa,Augusta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-SR-57401-S,immobili,Sicilia,Siracusa,Augusta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
@@ -16813,7 +16689,7 @@ I-TO-86460-S,immobili,Piemonte,Torino,Prascorsano,Altra unità immobiliare,Altro
 I-TO-86461-S,immobili,Piemonte,Torino,Prascorsano,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
 I-TO-86462-S,immobili,Piemonte,Torino,Prascorsano,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
 I-TO-86463-S,immobili,Piemonte,Torino,Prascorsano,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
-I-TO-86464-S,immobili,Piemonte,Torino,Pinerolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-86464-S,immobili,Piemonte,Torino,Pinerolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-86511-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,82%,Tribunale,Torino,Misure di Prevenzione
 I-TO-86538-S,immobili,Piemonte,Torino,Cuorgnè,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-86539-S,immobili,Piemonte,Torino,Cuorgnè,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
@@ -16857,6 +16733,7 @@ I-TO-91248-S,immobili,Piemonte,Torino,San Mauro Torinese,Unità immobiliare per 
 I-TO-91249-S,immobili,Piemonte,Torino,San Mauro Torinese,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,0%,Tribunale,Torino,Misure di Prevenzione
 I-TO-92134-S,immobili,Piemonte,Torino,Giaveno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Varese,Misure di Prevenzione
 I-TO-92135-S,immobili,Piemonte,Torino,Giaveno,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Varese,Misure di Prevenzione
+I-TO-92354-S,immobili,Piemonte,Torino,Pinerolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 I-TP-19059-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-19060-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-19061-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
@@ -18502,9 +18379,6 @@ I-VE-57449-S,immobili,Veneto,Venezia,Venezia,Unità immobiliare per uso di abita
 I-VE-57451-S,immobili,Veneto,Venezia,Venezia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Procura della Repubblica,Venezia,Procedimento Penale
 I-VE-57697-S,immobili,Veneto,Venezia,Venezia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Venezia,Procedimento Penale
 I-VE-57698-S,immobili,Veneto,Venezia,Venezia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Venezia,Procedimento Penale
-I-VE-59242-S,immobili,Veneto,Venezia,Venezia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-VE-59243-S,immobili,Veneto,Venezia,Venezia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
-I-VE-59244-S,immobili,Veneto,Venezia,Venezia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Lucca,Misure di Prevenzione
 I-VE-6392-S,immobili,Veneto,Venezia,Venezia,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VE-6393-S,immobili,Veneto,Venezia,Venezia,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VE-6394-S,immobili,Veneto,Venezia,Venezia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
