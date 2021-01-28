@@ -218,7 +218,6 @@ A-BT-69990-S,aziende,Puglia,Barletta-Andria-Trani,Andria,Impresa individuale,"Tr
 A-BT-69991-S,aziende,Puglia,Barletta-Andria-Trani,Andria,Società a responsabilità limitata,"Produzione e distribuzione di energia elettrica, gas e acqua",Confisca I,51%,Tribunale,Trani,Misure di Prevenzione
 A-BT-73023-S,aziende,Puglia,Barletta-Andria-Trani,Andria,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Trani,Misure di Prevenzione
 A-BT-82115-S,aziende,Puglia,Barletta-Andria-Trani,Andria,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Procura della Repubblica,Bari,Procedimento Penale
-A-BT-84062-S,aziende,Puglia,Barletta-Andria-Trani,Barletta,Società in nome collettivo,Alberghi e ristoranti,Confisca def.,50%,Procura della Repubblica,Trani,Procedimento Penale
 A-BT-84063-S,aziende,Puglia,Barletta-Andria-Trani,Barletta,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,25%,Procura della Repubblica,Trani,Procedimento Penale
 A-BT-85095-S,aziende,Puglia,Barletta-Andria-Trani,Andria,Impresa individuale,"Agricoltura, caccia e silvicoltura",Revoca Sequ. parziale,100%,Tribunale,Trani,Misure di Prevenzione
 A-BT-85096-S,aziende,Puglia,Barletta-Andria-Trani,Andria,Impresa individuale,"Agricoltura, caccia e silvicoltura",Revoca Sequ. parziale,100%,Tribunale,Trani,Misure di Prevenzione
@@ -651,6 +650,14 @@ A-CT-86303-S,aziende,Sicilia,Catania,Fiumefreddo di Sicilia,Società a responsab
 A-CT-86305-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-87675-S,aziende,Sicilia,Catania,Gravina di Catania,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-CT-90031-S,aziende,Sicilia,Catania,Mascali,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,30%,Procura della Repubblica,Siracusa,Procedimento Penale
+A-CT-92371-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,16%,Tribunale,Catania,Misure di Prevenzione
+A-CT-92396-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Catania,Misure di Prevenzione
+A-CT-92401-S,aziende,Sicilia,Catania,Catania,Società per azioni,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Catania,Misure di Prevenzione
+A-CT-92415-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,50%,Tribunale,Catania,Misure di Prevenzione
+A-CT-92417-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Catania,Misure di Prevenzione
+A-CT-92419-S,aziende,Sicilia,Catania,Catania,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Catania,Misure di Prevenzione
+A-CT-92421-S,aziende,Sicilia,Catania,Acireale,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Revoca Seq.,100%,Tribunale,Catania,Misure di Prevenzione
+A-CT-92424-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,50%,Tribunale,Catania,Misure di Prevenzione
 A-CZ-13987-S,aziende,Calabria,Catanzaro,Catanzaro,Impresa individuale,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 A-CZ-13988-S,aziende,Calabria,Catanzaro,Catanzaro,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 A-CZ-39340-S,aziende,Calabria,Catanzaro,Guardavalle,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -849,6 +856,8 @@ A-LT-8776-S,aziende,Lazio,Latina,Fondi,Società a responsabilità limitata,"Atti
 A-LT-8784-S,aziende,Lazio,Latina,Fondi,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,2%,Tribunale,Latina,Misure di Prevenzione
 A-LT-90229-S,aziende,Lazio,Latina,Latina,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 A-LT-90808-S,aziende,Lazio,Latina,Santi Cosma e Damiano,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+A-LT-92389-S,aziende,Lazio,Latina,Aprilia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Revoca Seq.,50%,Tribunale,Catania,Misure di Prevenzione
+A-LT-92426-S,aziende,Lazio,Latina,Aprilia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
 A-LU-36322-S,aziende,Toscana,Lucca,Lucca,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Firenze,Procedimento Penale
 A-LU-49792-S,aziende,Toscana,Lucca,Lucca,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,10%,Procura della Repubblica,Napoli,Procedimento Penale
 A-LU-59539-S,aziende,Toscana,Lucca,Viareggio,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,50%,Tribunale,Lucca,Misure di Prevenzione
@@ -937,6 +946,7 @@ A-ME-86456-S,aziende,Sicilia,Messina,Roccella Valdemone,Impresa individuale,"Agr
 A-ME-87324-S,aziende,Sicilia,Messina,Taormina,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,50%,Procura della Repubblica,Messina,Procedimento Penale
 A-ME-87326-S,aziende,Sicilia,Messina,Messina,Società a responsabilità limitata,Costruzioni,Confisca def.,9%,Procura della Repubblica,Messina,Procedimento Penale
 A-ME-87783-S,aziende,Sicilia,Messina,Messina,Società a responsabilità limitata,Costruzioni,Confisca II,100%,Procura della Repubblica,Patti,Procedimento Penale
+A-ME-92413-S,aziende,Sicilia,Messina,Sant'Alessio Siculo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,50%,Tribunale,Catania,Misure di Prevenzione
 A-MI-10097-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,40%,Tribunale,Milano,Misure di Prevenzione
 A-MI-10098-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,55%,Tribunale,Milano,Misure di Prevenzione
 A-MI-10099-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,30%,Tribunale,Milano,Misure di Prevenzione
@@ -1112,6 +1122,8 @@ A-MI-91414-S,aziende,Lombardia,Milano,Milano,Società in nome collettivo,"Commer
 A-MI-91474-S,aziende,Lombardia,Milano,Milano,Società in nome collettivo,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
 A-MI-91475-S,aziende,Lombardia,Milano,Rescaldina,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 A-MI-91524-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+A-MI-92392-S,aziende,Lombardia,Milano,Buccinasco,Società cooperativa a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+A-MI-92422-S,aziende,Lombardia,Milano,Inveruno,Società per azioni,Costruzioni,Revoca Seq.,100%,Tribunale,Catania,Misure di Prevenzione
 A-MI-9860-S,aziende,Lombardia,Milano,Cernusco sul Naviglio,Società a responsabilità limitata,Attività finanziarie,Confisca def.,10%,Procura della Repubblica,Napoli,Procedimento Penale
 A-MN-15577-S,aziende,Lombardia,Mantova,Bozzolo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,95%,Tribunale,Bari,Misure di Prevenzione
 A-MN-17077-S,aziende,Lombardia,Mantova,Roverbella,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
@@ -2109,6 +2121,7 @@ A-RG-35488-S,aziende,Sicilia,Ragusa,Vittoria,Società a responsabilità limitata
 A-RG-77224-S,aziende,Sicilia,Ragusa,Ispica,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 A-RG-77225-S,aziende,Sicilia,Ragusa,Ispica,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 A-RG-80083-S,aziende,Sicilia,Ragusa,Comiso,Società a responsabilità limitata,Costruzioni,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
+A-RG-92368-S,aziende,Sicilia,Ragusa,Comiso,Società a responsabilità limitata,Costruzioni,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
 A-RI-50451-S,aziende,Lazio,Rieti,Scandriglia,Impresa individuale,Attività finanziarie,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-RI-87713-S,aziende,Lazio,Rieti,Rieti,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-10559-S,aziende,Lazio,Roma,Colleferro,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,20%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
@@ -2490,6 +2503,9 @@ A-RM-91273-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Attivit
 A-RM-91275-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-91276-S,aziende,Lazio,Roma,Fiano Romano,Società a responsabilità limitata,Attività finanziarie,,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-91801-S,aziende,Lazio,Roma,San Cesareo,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-RM-92382-S,aziende,Lazio,Roma,Ardea,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,100%,Tribunale,Catania,Misure di Prevenzione
+A-RM-92388-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Catania,Misure di Prevenzione
+A-RM-92425-S,aziende,Lazio,Roma,Roma,Società per azioni,Attività finanziarie,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
 A-RM-9858-S,aziende,Lazio,Roma,Moricone,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,60%,Procura della Repubblica,Napoli,Procedimento Penale
 A-RN-11498-S,aziende,Emilia Romagna,Rimini,Riccione,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Rimini,Misure di Prevenzione
 A-RN-17770-S,aziende,Emilia Romagna,Rimini,Rimini,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
@@ -2617,7 +2633,6 @@ A-TA-49813-S,aziende,Puglia,Taranto,Taranto,Società in accomandita semplice,"Co
 A-TA-49814-S,aziende,Puglia,Taranto,Martina Franca,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Taranto,Misure di Prevenzione
 A-TA-49815-S,aziende,Puglia,Taranto,Taranto,Società in nome collettivo,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,98%,Procura della Repubblica,Lecce,Procedimento Penale
 A-TA-49819-S,aziende,Puglia,Taranto,Martina Franca,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Taranto,Misure di Prevenzione
-A-TA-69044-S,aziende,Puglia,Taranto,Taranto,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 A-TA-89678-S,aziende,Puglia,Taranto,Taranto,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 A-TA-89683-S,aziende,Puglia,Taranto,Taranto,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 A-TE-71482-S,aziende,Abruzzo,Teramo,Mosciano Sant'Angelo,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,50%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -2803,7 +2818,9 @@ A-TR-62300-S,aziende,Umbria,Terni,Terni,Impresa individuale,Alberghi e ristorant
 A-TR-857-S,aziende,Umbria,Terni,Terni,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,10%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-TV-80094-S,aziende,Veneto,Treviso,Castelfranco Veneto,Società a responsabilità limitata,Costruzioni,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
 A-TV-91274-S,aziende,Veneto,Treviso,Vazzola,Consorzio,Costruzioni,,0%,Tribunale,Roma,Misure di Prevenzione
+A-TV-92409-S,aziende,Veneto,Treviso,Castelfranco Veneto,Società a responsabilità limitata,Costruzioni,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
 A-UD-80096-S,aziende,Friuli Venezia Giulia,Udine,Palmanova,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
+A-UD-92397-S,aziende,Friuli Venezia Giulia,Udine,Palmanova,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
 A-VA-34958-S,aziende,Lombardia,Varese,Busto Arsizio,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Varese,Misure di Prevenzione
 A-VA-50926-S,aziende,Lombardia,Varese,Varese,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-VA-56066-S,aziende,Lombardia,Varese,Gerenzano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Varese,Misure di Prevenzione
