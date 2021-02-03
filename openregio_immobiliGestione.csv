@@ -10403,9 +10403,9 @@ I-PA-22835-S,immobili,Sicilia,Palermo,Alimena,Terreno,Terreno - non definito,Con
 I-PA-22999-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-23000-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-23153-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-23163-S,immobili,Sicilia,Palermo,Montelepre,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,50%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-23164-S,immobili,Sicilia,Palermo,Montelepre,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,50%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-23165-S,immobili,Sicilia,Palermo,Montelepre,Terreno,Terreno agricolo,Confisca I,50%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-23163-S,immobili,Sicilia,Palermo,Montelepre,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,50%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-23164-S,immobili,Sicilia,Palermo,Montelepre,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,50%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-23165-S,immobili,Sicilia,Palermo,Montelepre,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-23205-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-23206-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-23207-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -14417,6 +14417,17 @@ I-RC-90758-S,immobili,Calabria,Reggio Calabria,Gioiosa Ionica,Altra unità immob
 I-RC-90759-S,immobili,Calabria,Reggio Calabria,Gioiosa Ionica,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Procedimento Penale
 I-RC-90760-S,immobili,Calabria,Reggio Calabria,Gioiosa Ionica,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Procedimento Penale
 I-RC-91244-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno con fabbricato rurale,Confisca def.,4%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-92458-S,immobili,Calabria,Reggio Calabria,Monasterace,Terreno,Terreno - non definito,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
+I-RC-92459-S,immobili,Calabria,Reggio Calabria,Monasterace,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Milano,Misure di Prevenzione
+I-RC-92460-S,immobili,Calabria,Reggio Calabria,Monasterace,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
+I-RC-92461-S,immobili,Calabria,Reggio Calabria,Monasterace,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
+I-RC-92462-S,immobili,Calabria,Reggio Calabria,Monasterace,Terreno,Terreno - non definito,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
+I-RC-92463-S,immobili,Calabria,Reggio Calabria,Monasterace,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
+I-RC-92466-S,immobili,Calabria,Reggio Calabria,Monasterace,Terreno,Terreno con fabbricato rurale,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
+I-RC-92468-S,immobili,Calabria,Reggio Calabria,Monasterace,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
+I-RC-92469-S,immobili,Calabria,Reggio Calabria,Monasterace,Terreno,Terreno con fabbricato rurale,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
+I-RC-92470-S,immobili,Calabria,Reggio Calabria,Monasterace,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
+I-RC-92471-S,immobili,Calabria,Reggio Calabria,Monasterace,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 I-RC-9309-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Terreno,Terreno edificabile,Confisca def.,33%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-9342-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,33%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-9505-S,immobili,Calabria,Reggio Calabria,Sant'Eufemia d'Aspromonte,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
