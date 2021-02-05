@@ -696,7 +696,8 @@ A-CZ-83255-S,aziende,Calabria,Catanzaro,Satriano,Società a responsabilità limi
 A-CZ-83257-S,aziende,Calabria,Catanzaro,Soverato,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 A-CZ-84184-S,aziende,Calabria,Catanzaro,Davoli,Società a responsabilità limitata,Costruzioni,Confisca def.,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
 A-CZ-84234-S,aziende,Calabria,Catanzaro,Davoli,Società a responsabilità limitata,Costruzioni,Confisca def.,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
-A-CZ-92477-S,aziende,Calabria,Catanzaro,San Sostene,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,0%,Tribunale,Milano,Misure di Prevenzione
+A-CZ-92477-S,aziende,Calabria,Catanzaro,San Sostene,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
+A-CZ-92478-S,aziende,Calabria,Catanzaro,Satriano,Società a responsabilità limitata,Costruzioni,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 A-EN-23317-S,aziende,Sicilia,Enna,Valguarnera Caropepe,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
 A-EN-61556-S,aziende,Sicilia,Enna,Regalbuto,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-EN-61557-S,aziende,Sicilia,Enna,Regalbuto,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
@@ -749,7 +750,6 @@ A-GE-20213-S,aziende,Liguria,Genova,Genova,Società in nome collettivo,Alberghi 
 A-GE-35503-S,aziende,Liguria,Genova,Lavagna,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,50%,Tribunale,Genova,Misure di Prevenzione
 A-GE-60192-S,aziende,Liguria,Genova,Campomorone,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-GE-64839-S,aziende,Liguria,Genova,Genova,Società a responsabilità limitata,Attività finanziarie,Confisca def.,100%,Procura della Repubblica,Genova,Procedimento Penale
-A-GE-64844-S,aziende,Liguria,Genova,Genova,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Genova,Procedimento Penale
 A-GE-72552-S,aziende,Liguria,Genova,Serra Riccò,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 A-GE-83704-S,aziende,Liguria,Genova,Genova,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 A-GO-19389-S,aziende,Friuli Venezia Giulia,Gorizia,Monfalcone,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
@@ -2085,7 +2085,7 @@ A-RC-90757-S,aziende,Calabria,Reggio Calabria,Gioiosa Ionica,Associazione,"Altri
 A-RC-90835-S,aziende,Calabria,Reggio Calabria,Rosarno,Impresa individuale,Costruzioni,Revoca Conf.,100%,Tribunale,Reggio Calabria,Procedimento Penale
 A-RC-90836-S,aziende,Calabria,Reggio Calabria,San Ferdinando,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Tribunale,Reggio Calabria,Procedimento Penale
 A-RC-90837-S,aziende,Calabria,Reggio Calabria,Rosarno,Impresa individuale,Costruzioni,Confisca II,100%,Tribunale,Reggio Calabria,Procedimento Penale
-A-RC-92476-S,aziende,Calabria,Reggio Calabria,Monasterace,Impresa individuale,Costruzioni,Confisca II,0%,Tribunale,Milano,Misure di Prevenzione
+A-RC-92476-S,aziende,Calabria,Reggio Calabria,Monasterace,Impresa individuale,Costruzioni,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 A-RC-9813-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,22%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RE-12510-S,aziende,Emilia Romagna,Reggio Emilia,Brescello,Impresa individuale,Costruzioni,Confisca II,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-RE-12511-S,aziende,Emilia Romagna,Reggio Emilia,Brescello,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
@@ -2618,10 +2618,8 @@ A-SR-60063-S,aziende,Sicilia,Siracusa,Siracusa,Società a responsabilità limita
 A-SR-61510-S,aziende,Sicilia,Siracusa,Augusta,Società in accomandita semplice,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-SR-83983-S,aziende,Sicilia,Siracusa,Siracusa,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-SS-21068-S,aziende,Sardegna,Sassari,Sassari,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
-A-SV-41793-S,aziende,Liguria,Savona,Albenga,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
 A-SV-59912-S,aziende,Liguria,Savona,Ceriale,Società a responsabilità limitata,Costruzioni,Confisca def.,52%,Tribunale,Savona,Misure di Prevenzione
 A-SV-60212-S,aziende,Liguria,Savona,Alassio,Società a responsabilità limitata,Attività finanziarie,Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
-A-SV-68483-S,aziende,Liguria,Savona,Loano,Società in accomandita semplice,Alberghi e ristoranti,Sequestro,50%,Procura della Repubblica,Savona,Procedimento Penale
 A-TA-13848-S,aziende,Puglia,Taranto,Pulsano,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,33%,Tribunale,Taranto,Misure di Prevenzione
 A-TA-19388-S,aziende,Puglia,Taranto,Taranto,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 A-TA-19737-S,aziende,Puglia,Taranto,Massafra,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,90%,Tribunale,Taranto,Misure di Prevenzione
@@ -2669,7 +2667,6 @@ A-TO-60559-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,
 A-TO-67355-S,aziende,Piemonte,Torino,Torino,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-68897-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-71342-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-A-TO-72907-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,50%,Tribunale,Torino,Misure di Prevenzione
 A-TO-76090-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-76091-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-76097-S,aziende,Piemonte,Torino,Torino,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
