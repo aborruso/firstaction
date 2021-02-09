@@ -1308,9 +1308,9 @@ Friuli Venezia Giulia,Procura della Repubblica,Gorizia,Procedimento Penale,Confi
 Friuli Venezia Giulia,Procura della Repubblica,Pordenone,Procedimento Penale,Confisca I,4337/2011
 Friuli Venezia Giulia,Procura della Repubblica,Pordenone,Procedimento Penale,Confisca def.,4531/2007
 Friuli Venezia Giulia,Tribunale,Pordenone,Misure di Prevenzione,Confisca def.,2/2011
-Friuli Venezia Giulia,Corte di Appello,Trieste,Procedimento Penale,Confisca def.,1/1997
 Friuli Venezia Giulia,Procura della Repubblica,Trieste,Procedimento Penale,Confisca def.,3520/2008
 Friuli Venezia Giulia,Tribunale,Trieste,Misure di Prevenzione,Confisca I,2/2015
+Friuli Venezia Giulia,Tribunale,Trieste,Procedimento Penale,Confisca def.,1673/1995
 Friuli Venezia Giulia,Procura della Repubblica,Udine,Procedimento Penale,Confisca I,169/2013
 Friuli Venezia Giulia,Procura della Repubblica,Udine,Procedimento Penale,Confisca def.,1/2008
 Friuli Venezia Giulia,Tribunale,Udine,Misure di Prevenzione,Confisca I,5/2016
@@ -1552,7 +1552,6 @@ Liguria,Corte di Appello,Genova,Procedimento Penale,Confisca def.,1/2006
 Liguria,Corte di Appello,Genova,Procedimento Penale,Confisca def.,1/2008
 Liguria,Corte di Appello,Genova,Procedimento Penale,Confisca def.,1109/1992
 Liguria,Procura della Repubblica,Genova,Procedimento Penale,Confisca def.,1/2006
-Liguria,Procura della Repubblica,Genova,Procedimento Penale,Confisca def.,10639/2015
 Liguria,Procura della Repubblica,Genova,Procedimento Penale,Confisca def.,12073/2013
 Liguria,Procura della Repubblica,Genova,Procedimento Penale,Confisca def.,13541/2007
 Liguria,Procura della Repubblica,Genova,Procedimento Penale,Confisca def.,13725/2004
@@ -1561,6 +1560,7 @@ Liguria,Procura della Repubblica,Genova,Procedimento Penale,Confisca def.,5122/2
 Liguria,Procura della Repubblica,Genova,Procedimento Penale,Confisca def.,5214/2013
 Liguria,Procura della Repubblica,Genova,Procedimento Penale,Confisca def.,6571/2010
 Liguria,Procura della Repubblica,Genova,Procedimento Penale,Confisca def.,8798/2010
+Liguria,Procura della Repubblica,Genova,Procedimento Penale,Revoca Conf.,10639/2015
 Liguria,Procura della Repubblica,Genova,Procedimento Penale,Revoca Conf.,718/2006
 Liguria,Procura della Repubblica,Genova,Procedimento Penale,Revoca Conf. parziale,16232/2012
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca I,20/2016
@@ -1707,7 +1707,7 @@ Lombardia,Tribunale,Brescia,Misure di Prevenzione,Confisca def.,17/2015
 Lombardia,Tribunale,Brescia,Misure di Prevenzione,Confisca def.,8/2017
 Lombardia,Tribunale,Brescia,Misure di Prevenzione,Confisca def.,9/2007
 Lombardia,Tribunale,Brescia,Misure di Prevenzione,Revoca Seq.,22/2014
-Lombardia,Tribunale,Brescia,Procedimento Penale,Confisca I,21/2014
+Lombardia,Tribunale,Brescia,Procedimento Penale,Confisca def.,21/2014
 Lombardia,Tribunale,Brescia,Procedimento Penale,Confisca def.,2388/2005
 Lombardia,Tribunale,Brescia,Procedimento Penale,Confisca def.,345/1998
 Lombardia,Tribunale,Brescia,Procedimento Penale,Confisca def.,3707/2000
@@ -1893,10 +1893,8 @@ Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,100/2014
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,112/2015
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,117/2018
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,127/2018
-Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,20/2018
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,27/2019
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,48/2015
-Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,55/2018
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,67/2019
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,70/2009
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,1/1986
@@ -1992,6 +1990,7 @@ Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,2/2004
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,2/2005
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,20/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,20/2013
+Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,20/2018
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,205/2011
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,21/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,21/2017
@@ -2143,6 +2142,7 @@ Lombardia,Tribunale,Milano,Misure di Prevenzione,Revoca Seq.,17/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Revoca Seq.,43/2015
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Rinvio,120/2017
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Rinvio,18/2013
+Lombardia,Tribunale,Milano,Misure di Prevenzione,Rinvio,55/2018
 Lombardia,Tribunale,Milano,Procedimento Penale,Confisca I,51299/2011
 Lombardia,Tribunale,Milano,Procedimento Penale,Confisca def.,1858/1991
 Lombardia,Tribunale,Milano,Procedimento Penale,Confisca def.,31307/2014
