@@ -1346,8 +1346,8 @@ I-BS-30350-S,immobili,Lombardia,Brescia,Brescia,Unità immobiliare a destinazion
 I-BS-30351-S,immobili,Lombardia,Brescia,Ospitaletto,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Brescia,Misure di Prevenzione
 I-BS-30352-S,immobili,Lombardia,Brescia,Ospitaletto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Brescia,Misure di Prevenzione
 I-BS-30353-S,immobili,Lombardia,Brescia,Rezzato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Brescia,Misure di Prevenzione
-I-BS-30367-S,immobili,Lombardia,Brescia,Brescia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Brescia,Procedimento Penale
-I-BS-30386-S,immobili,Lombardia,Brescia,Brescia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Brescia,Procedimento Penale
+I-BS-30367-S,immobili,Lombardia,Brescia,Brescia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
+I-BS-30386-S,immobili,Lombardia,Brescia,Brescia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
 I-BS-31392-S,immobili,Lombardia,Brescia,Prevalle,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,0%,Tribunale,Milano,Misure di Prevenzione
 I-BS-31393-S,immobili,Lombardia,Brescia,Prevalle,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,0%,Tribunale,Milano,Misure di Prevenzione
 I-BS-31396-S,immobili,Lombardia,Brescia,Rezzato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,0%,Tribunale,Milano,Misure di Prevenzione
@@ -4452,6 +4452,10 @@ I-CT-90335-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abit
 I-CT-90964-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-92387-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-92423-S,immobili,Sicilia,Catania,Catania,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-92656-S,immobili,Sicilia,Catania,Mascali,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-92658-S,immobili,Sicilia,Catania,Mascali,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-92662-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-92663-S,immobili,Sicilia,Catania,Catania,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CZ-15253-S,immobili,Calabria,Catanzaro,Guardavalle,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-15532-S,immobili,Calabria,Catanzaro,Lamezia Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-15533-S,immobili,Calabria,Catanzaro,Lamezia Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Tribunale,Catanzaro,Misure di Prevenzione
@@ -4623,9 +4627,9 @@ I-EN-52723-S,immobili,Sicilia,Enna,Assoro,Unità immobiliare per uso di abitazio
 I-EN-52724-S,immobili,Sicilia,Enna,Assoro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
 I-EN-52725-S,immobili,Sicilia,Enna,Assoro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
 I-EN-52726-S,immobili,Sicilia,Enna,Assoro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
-I-EN-52727-S,immobili,Sicilia,Enna,Assoro,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
-I-EN-52728-S,immobili,Sicilia,Enna,Assoro,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
-I-EN-52729-S,immobili,Sicilia,Enna,Assoro,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
+I-EN-52727-S,immobili,Sicilia,Enna,Assoro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
+I-EN-52728-S,immobili,Sicilia,Enna,Assoro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
+I-EN-52729-S,immobili,Sicilia,Enna,Assoro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
 I-EN-52731-S,immobili,Sicilia,Enna,Assoro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
 I-EN-52740-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
 I-EN-52741-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Enna,Misure di Prevenzione
@@ -5238,6 +5242,16 @@ I-GE-91282-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitaz
 I-GE-91286-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-92110-S,immobili,Liguria,Genova,Lavagna,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-92111-S,immobili,Liguria,Genova,Sestri Levante,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
+I-GE-92625-S,immobili,Liguria,Genova,Lavagna,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,50%,Procura della Repubblica,Genova,Procedimento Penale
+I-GE-92628-S,immobili,Liguria,Genova,Lavagna,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,50%,Procura della Repubblica,Genova,Procedimento Penale
+I-GE-92633-S,immobili,Liguria,Genova,Sestri Levante,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Procura della Repubblica,Genova,Procedimento Penale
+I-GE-92635-S,immobili,Liguria,Genova,Lavagna,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,50%,Procura della Repubblica,Genova,Procedimento Penale
+I-GE-92636-S,immobili,Liguria,Genova,Sestri Levante,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Procura della Repubblica,Genova,Procedimento Penale
+I-GE-92639-S,immobili,Liguria,Genova,Lavagna,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,50%,Procura della Repubblica,Genova,Procedimento Penale
+I-GE-92640-S,immobili,Liguria,Genova,Sestri Levante,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Procura della Repubblica,Genova,Procedimento Penale
+I-GE-92643-S,immobili,Liguria,Genova,Sestri Levante,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Procura della Repubblica,Genova,Procedimento Penale
+I-GE-92645-S,immobili,Liguria,Genova,Lavagna,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,50%,Procura della Repubblica,Genova,Procedimento Penale
+I-GE-92649-S,immobili,Liguria,Genova,Lavagna,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,50%,Procura della Repubblica,Genova,Procedimento Penale
 I-GO-64141-S,immobili,Friuli Venezia Giulia,Gorizia,Gorizia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Gorizia,Procedimento Penale
 I-GR-32764-S,immobili,Toscana,Grosseto,Sorano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-GR-37035-S,immobili,Toscana,Grosseto,Monte Argentario,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
@@ -8102,6 +8116,8 @@ I-MI-92149-S,immobili,Lombardia,Milano,Sesto San Giovanni,Unità immobiliare per
 I-MI-92434-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-92435-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-92436-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-92641-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,50%,Procura della Repubblica,Genova,Procedimento Penale
+I-MI-92642-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,50%,Procura della Repubblica,Genova,Procedimento Penale
 I-MN-16167-S,immobili,Lombardia,Mantova,Mantova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 I-MN-16168-S,immobili,Lombardia,Mantova,Mantova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 I-MN-16169-S,immobili,Lombardia,Mantova,Mantova,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
@@ -14720,7 +14736,7 @@ I-RG-52161-S,immobili,Sicilia,Ragusa,Vittoria,Unità immobiliare per uso di abit
 I-RG-52166-S,immobili,Sicilia,Ragusa,Vittoria,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Ragusa,Misure di Prevenzione
 I-RG-52167-S,immobili,Sicilia,Ragusa,Vittoria,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Ragusa,Misure di Prevenzione
 I-RG-52202-S,immobili,Sicilia,Ragusa,Vittoria,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Ragusa,Misure di Prevenzione
-I-RG-52732-S,immobili,Sicilia,Ragusa,Vittoria,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
+I-RG-52732-S,immobili,Sicilia,Ragusa,Vittoria,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
 I-RG-52733-S,immobili,Sicilia,Ragusa,Vittoria,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
 I-RG-60574-S,immobili,Sicilia,Ragusa,Vittoria,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Catania,Misure di Prevenzione
 I-RG-84737-S,immobili,Sicilia,Ragusa,Modica,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -18624,10 +18640,10 @@ I-VE-90896-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare a des
 I-VE-92112-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
 I-VE-92113-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
 I-VE-92114-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
-I-VE-92115-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
-I-VE-92116-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
-I-VE-92117-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
-I-VE-92118-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
+I-VE-92115-S,immobili,Veneto,Venezia,San Donà di Piave,Altra unità immobiliare,Altro,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
+I-VE-92116-S,immobili,Veneto,Venezia,San Donà di Piave,Altra unità immobiliare,Altro,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
+I-VE-92117-S,immobili,Veneto,Venezia,San Donà di Piave,Altra unità immobiliare,Altro,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
+I-VE-92118-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
 I-VE-92119-S,immobili,Veneto,Venezia,San Donà di Piave,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
 I-VI-11361-S,immobili,Veneto,Vicenza,Altavilla Vicentina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Vicenza,Misure di Prevenzione
 I-VI-11362-S,immobili,Veneto,Vicenza,Altavilla Vicentina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Vicenza,Misure di Prevenzione
