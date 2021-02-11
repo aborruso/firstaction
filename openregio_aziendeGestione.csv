@@ -869,7 +869,7 @@ A-LU-36322-S,aziende,Toscana,Lucca,Lucca,Società a responsabilità limitata,"At
 A-LU-49792-S,aziende,Toscana,Lucca,Lucca,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,10%,Procura della Repubblica,Napoli,Procedimento Penale
 A-LU-59539-S,aziende,Toscana,Lucca,Viareggio,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,50%,Tribunale,Lucca,Misure di Prevenzione
 A-LU-7029-S,aziende,Toscana,Lucca,Viareggio,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-A-LU-86584-S,aziende,Toscana,Lucca,Viareggio,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",,0%,Procura della Repubblica,Napoli,Procedimento Penale
+A-LU-86584-S,aziende,Toscana,Lucca,Viareggio,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,0%,Procura della Repubblica,Napoli,Procedimento Penale
 A-LU-90638-S,aziende,Toscana,Lucca,Pietrasanta,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,50%,Procura della Repubblica,Lucca,Procedimento Penale
 A-LU-90639-S,aziende,Toscana,Lucca,Seravezza,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,10%,Procura della Repubblica,Lucca,Procedimento Penale
 A-MB-17240-S,aziende,Lombardia,Monza e Brianza,Brugherio,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -2513,6 +2513,7 @@ A-RM-91801-S,aziende,Lazio,Roma,San Cesareo,Società in accomandita semplice,Alb
 A-RM-92382-S,aziende,Lazio,Roma,Ardea,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,100%,Tribunale,Catania,Misure di Prevenzione
 A-RM-92388-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Catania,Misure di Prevenzione
 A-RM-92425-S,aziende,Lazio,Roma,Roma,Società per azioni,Attività finanziarie,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
+A-RM-92673-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RM-9858-S,aziende,Lazio,Roma,Moricone,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,60%,Procura della Repubblica,Napoli,Procedimento Penale
 A-RN-11498-S,aziende,Emilia Romagna,Rimini,Riccione,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Rimini,Misure di Prevenzione
 A-RN-17770-S,aziende,Emilia Romagna,Rimini,Rimini,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
