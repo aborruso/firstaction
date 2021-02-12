@@ -1726,8 +1726,8 @@ I-CA-79363-S,immobili,Sardegna,Cagliari,Quartu Sant'Elena,Unità immobiliare per
 I-CA-80566-S,immobili,Sardegna,Cagliari,Quartu Sant'Elena,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Procura della Repubblica,Cagliari,Procedimento Penale
 I-CA-80614-S,immobili,Sardegna,Cagliari,San Sperate,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Cagliari,Procedimento Penale
 I-CA-80620-S,immobili,Sardegna,Cagliari,San Sperate,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Cagliari,Procedimento Penale
-I-CA-87843-S,immobili,Sardegna,Cagliari,Senorbì,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Cagliari,Misure di Prevenzione
-I-CA-87846-S,immobili,Sardegna,Cagliari,Senorbì,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Cagliari,Misure di Prevenzione
+I-CA-87843-S,immobili,Sardegna,Cagliari,Senorbì,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
+I-CA-87846-S,immobili,Sardegna,Cagliari,Senorbì,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
 I-CA-91388-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Rinvio,100%,Tribunale,Cagliari,Misure di Prevenzione
 I-CA-91391-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
 I-CA-91399-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
@@ -3628,12 +3628,12 @@ I-CO-70347-S,immobili,Lombardia,Como,Locate Varesino,Unità immobiliare per uso 
 I-CO-70349-S,immobili,Lombardia,Como,Fenegrò,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Como,Misure di Prevenzione
 I-CO-72216-S,immobili,Lombardia,Como,Eupilio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
 I-CO-72218-S,immobili,Lombardia,Como,Eupilio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
-I-CO-73962-S,immobili,Lombardia,Como,Mariano Comense,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,0%,Tribunale,Monza,Misure di Prevenzione
-I-CO-73964-S,immobili,Lombardia,Como,Mariano Comense,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,0%,Tribunale,Monza,Misure di Prevenzione
-I-CO-73965-S,immobili,Lombardia,Como,Mariano Comense,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,0%,Tribunale,Monza,Misure di Prevenzione
-I-CO-73966-S,immobili,Lombardia,Como,Mariano Comense,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,0%,Tribunale,Monza,Misure di Prevenzione
-I-CO-73967-S,immobili,Lombardia,Como,Mariano Comense,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca I,0%,Tribunale,Monza,Misure di Prevenzione
-I-CO-73968-S,immobili,Lombardia,Como,Mariano Comense,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca I,0%,Tribunale,Monza,Misure di Prevenzione
+I-CO-73962-S,immobili,Lombardia,Como,Mariano Comense,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
+I-CO-73964-S,immobili,Lombardia,Como,Mariano Comense,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Monza,Misure di Prevenzione
+I-CO-73965-S,immobili,Lombardia,Como,Mariano Comense,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
+I-CO-73966-S,immobili,Lombardia,Como,Mariano Comense,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
+I-CO-73967-S,immobili,Lombardia,Como,Mariano Comense,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
+I-CO-73968-S,immobili,Lombardia,Como,Mariano Comense,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
 I-CO-74073-S,immobili,Lombardia,Como,Olgiate Comasco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Como,Misure di Prevenzione
 I-CO-74074-S,immobili,Lombardia,Como,Olgiate Comasco,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Como,Misure di Prevenzione
 I-CO-74075-S,immobili,Lombardia,Como,Olgiate Comasco,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca I,100%,Tribunale,Como,Misure di Prevenzione
@@ -6169,7 +6169,7 @@ I-MB-10574-S,immobili,Lombardia,Monza e Brianza,Agrate Brianza,Unità immobiliar
 I-MB-10575-S,immobili,Lombardia,Monza e Brianza,Agrate Brianza,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
 I-MB-15750-S,immobili,Lombardia,Monza e Brianza,Monza,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MB-15751-S,immobili,Lombardia,Monza e Brianza,Monza,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MB-15752-S,immobili,Lombardia,Monza e Brianza,Monza,Terreno,Terreno edificabile,Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
+I-MB-15752-S,immobili,Lombardia,Monza e Brianza,Monza,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MB-16566-S,immobili,Lombardia,Monza e Brianza,Busnago,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Milano,Misure di Prevenzione
 I-MB-16567-S,immobili,Lombardia,Monza e Brianza,Busnago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Tribunale,Milano,Misure di Prevenzione
 I-MB-1790-S,immobili,Lombardia,Monza e Brianza,Muggiò,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -7443,12 +7443,12 @@ I-MI-15711-S,immobili,Lombardia,Milano,Cusano Milanino,Unità immobiliare per us
 I-MI-15712-S,immobili,Lombardia,Milano,Cusano Milanino,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-15713-S,immobili,Lombardia,Milano,Cusano Milanino,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-15743-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-15744-S,immobili,Lombardia,Milano,Rho,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-15744-S,immobili,Lombardia,Milano,Rho,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-15745-S,immobili,Lombardia,Milano,Rho,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-15746-S,immobili,Lombardia,Milano,Rho,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
+I-MI-15746-S,immobili,Lombardia,Milano,Rho,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-15747-S,immobili,Lombardia,Milano,Rho,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-15748-S,immobili,Lombardia,Milano,Rho,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
-I-MI-15749-S,immobili,Lombardia,Milano,Rho,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
+I-MI-15748-S,immobili,Lombardia,Milano,Rho,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-15749-S,immobili,Lombardia,Milano,Rho,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-15903-S,immobili,Lombardia,Milano,Cinisello Balsamo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-15904-S,immobili,Lombardia,Milano,Cinisello Balsamo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-15905-S,immobili,Lombardia,Milano,Cinisello Balsamo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,0%,Tribunale,Milano,Misure di Prevenzione
