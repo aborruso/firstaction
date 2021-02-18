@@ -4100,10 +4100,10 @@ I-CT-63054-S,immobili,Sicilia,Catania,Motta Sant'Anastasia,Terreno,Terreno agric
 I-CT-63060-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-63299-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,33%,Tribunale,Catania,Misure di Prevenzione
 I-CT-63349-S,immobili,Sicilia,Catania,Aci Sant'Antonio,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-CT-63819-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Catania,Misure di Prevenzione
-I-CT-63820-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Catania,Misure di Prevenzione
-I-CT-63821-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Catania,Misure di Prevenzione
-I-CT-63822-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-63819-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-63820-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-63821-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-63822-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-64162-S,immobili,Sicilia,Catania,Aci Sant'Antonio,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-CT-64163-S,immobili,Sicilia,Catania,Aci Sant'Antonio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-CT-64180-S,immobili,Sicilia,Catania,Aci Sant'Antonio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
@@ -16203,8 +16203,8 @@ I-SR-35540-S,immobili,Sicilia,Siracusa,Augusta,Unità immobiliare per uso di abi
 I-SR-35572-S,immobili,Sicilia,Siracusa,Avola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-35625-S,immobili,Sicilia,Siracusa,Carlentini,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-35642-S,immobili,Sicilia,Siracusa,Augusta,Terreno,Terreno con fabbricato rurale,Confisca def.,50%,Tribunale,Siracusa,Misure di Prevenzione
-I-SR-35961-S,immobili,Sicilia,Siracusa,Augusta,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Siracusa,Misure di Prevenzione
-I-SR-35962-S,immobili,Sicilia,Siracusa,Augusta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Siracusa,Misure di Prevenzione
+I-SR-35961-S,immobili,Sicilia,Siracusa,Augusta,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
+I-SR-35962-S,immobili,Sicilia,Siracusa,Augusta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-36012-S,immobili,Sicilia,Siracusa,Siracusa,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-36420-S,immobili,Sicilia,Siracusa,Siracusa,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 I-SR-38196-S,immobili,Sicilia,Siracusa,Noto,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Catania,Misure di Prevenzione
@@ -17393,8 +17393,8 @@ I-TP-62077-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno agricolo,Confisca 
 I-TP-62401-S,immobili,Sicilia,Trapani,Castelvetrano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,0%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-62402-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno edificabile,Confisca def.,50%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-62403-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno edificabile,Confisca def.,50%,Procura della Repubblica,Marsala,Procedimento Penale
-I-TP-62710-S,immobili,Sicilia,Trapani,Salemi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-62722-S,immobili,Sicilia,Trapani,Salemi,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-62710-S,immobili,Sicilia,Trapani,Salemi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-62722-S,immobili,Sicilia,Trapani,Salemi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-62776-S,immobili,Sicilia,Trapani,Castellammare del Golfo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-62800-S,immobili,Sicilia,Trapani,Castellammare del Golfo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-62801-S,immobili,Sicilia,Trapani,Castellammare del Golfo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
@@ -18315,9 +18315,9 @@ I-TS-30045-S,immobili,Friuli Venezia Giulia,Trieste,Trieste,Unità immobiliare p
 I-TS-30046-S,immobili,Friuli Venezia Giulia,Trieste,Sgonico,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trieste,Procedimento Penale
 I-TS-34221-S,immobili,Friuli Venezia Giulia,Trieste,Trieste,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Trieste,Misure di Prevenzione
 I-TV-6457-S,immobili,Veneto,Treviso,Vedelago,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,2%,Tribunale,Palermo,Misure di Prevenzione
-I-TV-74458-S,immobili,Veneto,Treviso,Paese,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Treviso,Misure di Prevenzione
-I-TV-74459-S,immobili,Veneto,Treviso,Paese,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,100%,Tribunale,Treviso,Misure di Prevenzione
-I-TV-74460-S,immobili,Veneto,Treviso,Paese,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Treviso,Misure di Prevenzione
+I-TV-74458-S,immobili,Veneto,Treviso,Paese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Treviso,Misure di Prevenzione
+I-TV-74459-S,immobili,Veneto,Treviso,Paese,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Treviso,Misure di Prevenzione
+I-TV-74460-S,immobili,Veneto,Treviso,Paese,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Treviso,Misure di Prevenzione
 I-TV-76210-S,immobili,Veneto,Treviso,Treviso,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Treviso,Misure di Prevenzione
 I-TV-83747-S,immobili,Veneto,Treviso,Caerano di San Marco,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,50%,Procura della Repubblica,Treviso,Procedimento Penale
 I-TV-83787-S,immobili,Veneto,Treviso,Caerano di San Marco,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Procura della Repubblica,Treviso,Procedimento Penale
