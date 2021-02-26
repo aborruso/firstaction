@@ -2631,12 +2631,12 @@ I-CE-90884-S,immobili,Campania,Caserta,Sessa Aurunca,Unità immobiliare per uso 
 I-CE-90893-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Procura della Repubblica,Bologna,Procedimento Penale
 I-CE-90894-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
 I-CE-90895-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
-I-CE-91341-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Corte di Appello,Napoli,Procedimento Penale
-I-CE-91342-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Corte di Appello,Napoli,Procedimento Penale
-I-CE-91343-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Corte di Appello,Napoli,Procedimento Penale
-I-CE-91345-S,immobili,Campania,Caserta,San Marcellino,Terreno,Terreno agricolo,,0%,Corte di Appello,Napoli,Procedimento Penale
-I-CE-91346-S,immobili,Campania,Caserta,San Marcellino,Terreno,Terreno agricolo,,0%,Corte di Appello,Napoli,Procedimento Penale
-I-CE-91347-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare a destinazione commerciale e industriale,Altro,,0%,Corte di Appello,Napoli,Procedimento Penale
+I-CE-91341-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Corte di Appello,Napoli,Procedimento Penale
+I-CE-91342-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Corte di Appello,Napoli,Procedimento Penale
+I-CE-91343-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Corte di Appello,Napoli,Procedimento Penale
+I-CE-91345-S,immobili,Campania,Caserta,San Marcellino,Terreno,Terreno agricolo,Confisca def.,100%,Corte di Appello,Napoli,Procedimento Penale
+I-CE-91346-S,immobili,Campania,Caserta,San Marcellino,Terreno,Terreno agricolo,Confisca def.,100%,Corte di Appello,Napoli,Procedimento Penale
+I-CE-91347-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Corte di Appello,Napoli,Procedimento Penale
 I-CE-91557-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per alloggio e usi collettivi,"Teatro, Cinematografo, Sala per concerti, spettacoli e simili",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-91561-S,immobili,Campania,Caserta,Arienzo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-91563-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -2745,6 +2745,7 @@ I-CE-91745-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione
 I-CE-91746-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-91748-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-92447-S,immobili,Campania,Caserta,Portico di Caserta,Terreno,Terreno agricolo,,0%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-93157-S,immobili,Campania,Caserta,San Marcellino,Terreno,Terreno agricolo,Confisca def.,100%,Corte di Appello,Napoli,Procedimento Penale
 I-CH-36419-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-36421-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-42987-S,immobili,Abruzzo,Chieti,San Salvo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Varese,Misure di Prevenzione
@@ -14557,14 +14558,14 @@ I-RC-90022-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Terreno,Terreno agric
 I-RC-90024-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Terreno,Terreno agricolo,Revoca Conf.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-90025-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Terreno,Terreno agricolo,Revoca Conf.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-90351-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-90758-S,immobili,Calabria,Reggio Calabria,Gioiosa Ionica,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Reggio Calabria,Procedimento Penale
-I-RC-90759-S,immobili,Calabria,Reggio Calabria,Gioiosa Ionica,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Procedimento Penale
-I-RC-90760-S,immobili,Calabria,Reggio Calabria,Gioiosa Ionica,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Procedimento Penale
 I-RC-91244-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno con fabbricato rurale,Confisca def.,4%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-92670-S,immobili,Calabria,Reggio Calabria,Palmi,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-92671-S,immobili,Calabria,Reggio Calabria,Palmi,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-92672-S,immobili,Calabria,Reggio Calabria,Palmi,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-9309-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Terreno,Terreno edificabile,Confisca def.,33%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-93173-S,immobili,Calabria,Reggio Calabria,Gioiosa Ionica,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
+I-RC-93174-S,immobili,Calabria,Reggio Calabria,Gioiosa Ionica,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
+I-RC-93175-S,immobili,Calabria,Reggio Calabria,Gioiosa Ionica,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 I-RC-9342-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,33%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-9505-S,immobili,Calabria,Reggio Calabria,Sant'Eufemia d'Aspromonte,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-9676-S,immobili,Calabria,Reggio Calabria,Bovalino,Terreno,Terreno edificabile,Confisca def.,50%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -16254,6 +16255,12 @@ I-SA-90589-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di
 I-SA-90590-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-90591-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-90592-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-93159-S,immobili,Campania,Salerno,Pontecagnano Faiano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-93160-S,immobili,Campania,Salerno,Giffoni Valle Piana,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-93161-S,immobili,Campania,Salerno,Pontecagnano Faiano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-93166-S,immobili,Campania,Salerno,Pontecagnano Faiano,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Revoca Conf.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-93171-S,immobili,Campania,Salerno,Giffoni Valle Piana,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-93172-S,immobili,Campania,Salerno,Pontecagnano Faiano,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SI-83118-S,immobili,Toscana,Siena,San Gimignano,Altra unità immobiliare,Ex fabbricato rurale,Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 I-SI-83119-S,immobili,Toscana,Siena,San Gimignano,Altra unità immobiliare,Ex fabbricato rurale,Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 I-SI-83120-S,immobili,Toscana,Siena,San Gimignano,Altra unità immobiliare,Ex fabbricato rurale,Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale

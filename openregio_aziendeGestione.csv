@@ -301,7 +301,7 @@ A-CE-404-S,aziende,Campania,Caserta,Santa Maria Capua Vetere,Società a responsa
 A-CE-41313-S,aziende,Campania,Caserta,Castel Volturno,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,50%,Procura della Repubblica,Napoli,Procedimento Penale
 A-CE-41331-S,aziende,Campania,Caserta,San Cipriano d'Aversa,Società a responsabilità limitata,Costruzioni,Confisca def.,1%,Procura della Repubblica,Napoli,Procedimento Penale
 A-CE-4760-S,aziende,Campania,Caserta,San Marcellino,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
-A-CE-48274-S,aziende,Campania,Caserta,San Felice a Cancello,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-CE-48274-S,aziende,Campania,Caserta,San Felice a Cancello,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-CE-5023-S,aziende,Campania,Caserta,Orta di Atella,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-CE-50883-S,aziende,Campania,Caserta,Frignano,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca I,20%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-CE-50910-S,aziende,Campania,Caserta,Teverola,Società a responsabilità limitata,Attività finanziarie,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -2092,12 +2092,12 @@ A-RC-90174-S,aziende,Calabria,Reggio Calabria,Sant'Agata del Bianco,Società in 
 A-RC-90352-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-90353-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-90354-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-A-RC-90757-S,aziende,Calabria,Reggio Calabria,Gioiosa Ionica,Associazione,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Reggio Calabria,Procedimento Penale
 A-RC-90835-S,aziende,Calabria,Reggio Calabria,Rosarno,Impresa individuale,Costruzioni,Revoca Conf.,100%,Tribunale,Reggio Calabria,Procedimento Penale
 A-RC-90836-S,aziende,Calabria,Reggio Calabria,San Ferdinando,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Tribunale,Reggio Calabria,Procedimento Penale
 A-RC-90837-S,aziende,Calabria,Reggio Calabria,Rosarno,Impresa individuale,Costruzioni,Confisca II,100%,Tribunale,Reggio Calabria,Procedimento Penale
 A-RC-92476-S,aziende,Calabria,Reggio Calabria,Monasterace,Impresa individuale,Costruzioni,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 A-RC-92939-S,aziende,Calabria,Reggio Calabria,Caulonia,Società a responsabilità limitata,"Produzione e distribuzione di energia elettrica, gas e acqua",Revoca Seq.,35%,Tribunale,Trapani,Misure di Prevenzione
+A-RC-93176-S,aziende,Calabria,Reggio Calabria,Gioiosa Ionica,Associazione,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RC-9813-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,22%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RE-12510-S,aziende,Emilia Romagna,Reggio Emilia,Brescello,Impresa individuale,Costruzioni,Confisca II,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-RE-12511-S,aziende,Emilia Romagna,Reggio Emilia,Brescello,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
@@ -2622,6 +2622,7 @@ A-SA-89580-S,aziende,Campania,Salerno,Campagna,Società a responsabilità limita
 A-SA-90216-S,aziende,Campania,Salerno,Sarno,Impresa individuale,"Agricoltura, caccia e silvicoltura",Revoca Conf.,100%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-90218-S,aziende,Campania,Salerno,Sarno,Impresa individuale,"Agricoltura, caccia e silvicoltura",Revoca Conf.,100%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-90220-S,aziende,Campania,Salerno,Sarno,Impresa individuale,"Agricoltura, caccia e silvicoltura",Revoca Conf.,100%,Tribunale,Salerno,Misure di Prevenzione
+A-SA-93165-S,aziende,Campania,Salerno,Pontecagnano Faiano,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 A-SO-82772-S,aziende,Lombardia,Sondrio,Cosio Valtellino,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,65%,Tribunale,Sondrio,Misure di Prevenzione
 A-SO-82774-S,aziende,Lombardia,Sondrio,Cosio Valtellino,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Sondrio,Misure di Prevenzione
 A-SP-25970-S,aziende,Liguria,La Spezia,Arcola,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca I,100%,Tribunale,La Spezia,Misure di Prevenzione
