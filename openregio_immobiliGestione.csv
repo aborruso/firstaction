@@ -1322,9 +1322,9 @@ I-BR-84643-S,immobili,Puglia,Brindisi,Brindisi,Unità immobiliare per uso di abi
 I-BR-84645-S,immobili,Puglia,Brindisi,Brindisi,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,100%,Tribunale,Brindisi,Misure di Prevenzione
 I-BR-84650-S,immobili,Puglia,Brindisi,Brindisi,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Brindisi,Misure di Prevenzione
 I-BR-84652-S,immobili,Puglia,Brindisi,Brindisi,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Brindisi,Misure di Prevenzione
-I-BR-85342-S,immobili,Puglia,Brindisi,Oria,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Lagonegro,Procedimento Penale
-I-BR-85344-S,immobili,Puglia,Brindisi,Oria,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Lagonegro,Procedimento Penale
-I-BR-85345-S,immobili,Puglia,Brindisi,Oria,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Lagonegro,Procedimento Penale
+I-BR-85342-S,immobili,Puglia,Brindisi,Oria,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Lecce,Procedimento Penale
+I-BR-85344-S,immobili,Puglia,Brindisi,Oria,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Lecce,Procedimento Penale
+I-BR-85345-S,immobili,Puglia,Brindisi,Oria,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Lecce,Procedimento Penale
 I-BR-86347-S,immobili,Puglia,Brindisi,Fasano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-BR-86348-S,immobili,Puglia,Brindisi,Fasano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-BR-86349-S,immobili,Puglia,Brindisi,Fasano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
@@ -4820,6 +4820,22 @@ I-FE-70848-S,immobili,Emilia Romagna,Ferrara,Poggio Renatico,Unità immobiliare 
 I-FE-70849-S,immobili,Emilia Romagna,Ferrara,Poggio Renatico,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Ferrara,Misure di Prevenzione
 I-FE-70850-S,immobili,Emilia Romagna,Ferrara,Ferrara,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Ferrara,Misure di Prevenzione
 I-FE-84433-S,immobili,Emilia Romagna,Ferrara,Argenta,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf. parziale,0%,Tribunale,Bologna,Misure di Prevenzione
+I-FE-93177-S,immobili,Emilia Romagna,Ferrara,Cento,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-FE-93178-S,immobili,Emilia Romagna,Ferrara,Cento,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-FE-93179-S,immobili,Emilia Romagna,Ferrara,Cento,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-FE-93180-S,immobili,Emilia Romagna,Ferrara,Cento,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-FE-93182-S,immobili,Emilia Romagna,Ferrara,Cento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-FE-93184-S,immobili,Emilia Romagna,Ferrara,Cento,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-FE-93185-S,immobili,Emilia Romagna,Ferrara,Cento,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-FE-93186-S,immobili,Emilia Romagna,Ferrara,Cento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-FE-93187-S,immobili,Emilia Romagna,Ferrara,Cento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-FE-93188-S,immobili,Emilia Romagna,Ferrara,Cento,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-FE-93189-S,immobili,Emilia Romagna,Ferrara,Cento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-FE-93190-S,immobili,Emilia Romagna,Ferrara,Cento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-FE-93191-S,immobili,Emilia Romagna,Ferrara,Cento,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-FE-93192-S,immobili,Emilia Romagna,Ferrara,Cento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-FE-93193-S,immobili,Emilia Romagna,Ferrara,Cento,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-FE-93194-S,immobili,Emilia Romagna,Ferrara,Cento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-FG-16922-S,immobili,Puglia,Foggia,San Severo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-17293-S,immobili,Puglia,Foggia,Vieste,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-17294-S,immobili,Puglia,Foggia,Vieste,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
@@ -6191,6 +6207,7 @@ I-LU-8665-S,immobili,Toscana,Lucca,Camaiore,Unità immobiliare per uso di abitaz
 I-LU-91507-S,immobili,Toscana,Lucca,Lucca,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-LU-91508-S,immobili,Toscana,Lucca,Lucca,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-LU-91509-S,immobili,Toscana,Lucca,Lucca,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-LU-93196-S,immobili,Toscana,Lucca,Pietrasanta,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-MB-10571-S,immobili,Lombardia,Monza e Brianza,Agrate Brianza,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,33%,Tribunale,Monza,Misure di Prevenzione
 I-MB-10572-S,immobili,Lombardia,Monza e Brianza,Agrate Brianza,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,33%,Tribunale,Monza,Misure di Prevenzione
 I-MB-10573-S,immobili,Lombardia,Monza e Brianza,Agrate Brianza,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
@@ -12653,6 +12670,10 @@ I-PA-92621-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione 
 I-PA-92622-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-92623-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-92624-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-93199-S,immobili,Sicilia,Palermo,San Cipirello,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-93201-S,immobili,Sicilia,Palermo,San Cipirello,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-93214-S,immobili,Sicilia,Palermo,San Cipirello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-93217-S,immobili,Sicilia,Palermo,San Cipirello,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9811-S,immobili,Sicilia,Palermo,Partinico,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9911-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9912-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
