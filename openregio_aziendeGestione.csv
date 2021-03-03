@@ -512,7 +512,6 @@ A-CS-40811-S,aziende,Calabria,Cosenza,Corigliano Calabro,Impresa individuale,"Al
 A-CS-40822-S,aziende,Calabria,Cosenza,Corigliano Calabro,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Cosenza,Misure di Prevenzione
 A-CS-40982-S,aziende,Calabria,Cosenza,Corigliano Calabro,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,33%,Tribunale,Cosenza,Misure di Prevenzione
 A-CS-4192-S,aziende,Calabria,Cosenza,Rende,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
-A-CS-43037-S,aziende,Calabria,Cosenza,Belvedere Marittimo,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca def.,20%,Tribunale,Cosenza,Misure di Prevenzione
 A-CS-43043-S,aziende,Calabria,Cosenza,Fiumefreddo Bruzio,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,2%,Tribunale,Cosenza,Misure di Prevenzione
 A-CS-43580-S,aziende,Calabria,Cosenza,Belvedere Marittimo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
 A-CS-43659-S,aziende,Calabria,Cosenza,Cosenza,Associazione,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
@@ -945,7 +944,6 @@ A-ME-77113-S,aziende,Sicilia,Messina,Messina,Società a responsabilità limitata
 A-ME-78228-S,aziende,Sicilia,Messina,Rodì Milici,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 A-ME-79114-S,aziende,Sicilia,Messina,Barcellona Pozzo di Gotto,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 A-ME-80111-S,aziende,Sicilia,Messina,Sant'Alessio Siculo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
-A-ME-82594-S,aziende,Sicilia,Messina,Messina,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 A-ME-85402-S,aziende,Sicilia,Messina,Letojanni,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 A-ME-85409-S,aziende,Sicilia,Messina,Letojanni,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 A-ME-86140-S,aziende,Sicilia,Messina,Capizzi,Società in nome collettivo,"Agricoltura, caccia e silvicoltura",Confisca def.,50%,Tribunale,Messina,Misure di Prevenzione
@@ -1926,7 +1924,6 @@ A-PV-72080-S,aziende,Lombardia,Pavia,Pavia,Società a responsabilità limitata,A
 A-PV-72082-S,aziende,Lombardia,Pavia,Pavia,Società a responsabilità limitata,Attività finanziarie,Rinvio,50%,Procura della Repubblica,Milano,Procedimento Penale
 A-PV-72092-S,aziende,Lombardia,Pavia,Pavia,Società a responsabilità limitata,Sanità e assistenza sociale,Rinvio,50%,Procura della Repubblica,Milano,Procedimento Penale
 A-PV-80202-S,aziende,Lombardia,Pavia,Mortara,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-A-RA-43511-S,aziende,Emilia Romagna,Ravenna,Faenza,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,50%,Tribunale,Cosenza,Misure di Prevenzione
 A-RA-70660-S,aziende,Emilia Romagna,Ravenna,Russi,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-RC-10206-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-10207-S,aziende,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -2037,8 +2034,8 @@ A-RC-75252-S,aziende,Calabria,Reggio Calabria,Siderno,Società a responsabilità
 A-RC-75473-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società cooperativa,Sanità e assistenza sociale,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-75867-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Sequestro,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RC-76255-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Impresa individuale,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Sequestro,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
-A-RC-76762-S,aziende,Calabria,Reggio Calabria,Careri,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-A-RC-76763-S,aziende,Calabria,Reggio Calabria,Careri,Impresa individuale,Costruzioni,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
+A-RC-76762-S,aziende,Calabria,Reggio Calabria,Careri,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+A-RC-76763-S,aziende,Calabria,Reggio Calabria,Careri,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-RC-77562-S,aziende,Calabria,Reggio Calabria,Stignano,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-77564-S,aziende,Calabria,Reggio Calabria,Stignano,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-77707-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società in accomandita semplice,Attività manifatturiere,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
@@ -2351,7 +2348,7 @@ A-RM-75597-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Albergh
 A-RM-7563-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Confisca def.,50%,Tribunale,Roma,Misure di Prevenzione
 A-RM-75645-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Sequestro,100%,Procura della Repubblica,Roma,Procedimento Penale
 A-RM-75648-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Sanità e assistenza sociale,Sequestro,100%,Procura della Repubblica,Roma,Procedimento Penale
-A-RM-76764-S,aziende,Lazio,Roma,Roma,Società cooperativa,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
+A-RM-76764-S,aziende,Lazio,Roma,Roma,Società cooperativa,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-RM-77376-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Sequestro,100%,Procura della Repubblica,Roma,Procedimento Penale
 A-RM-78230-S,aziende,Lazio,Roma,Roma,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 A-RM-78239-S,aziende,Lazio,Roma,Roma,Società per azioni,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -2693,7 +2690,7 @@ A-TO-71342-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,
 A-TO-76090-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-76091-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-76097-S,aziende,Piemonte,Torino,Torino,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-A-TO-76761-S,aziende,Piemonte,Torino,Torino,Società cooperativa,"Trasporti, magazzinaggio e comunicazioni",Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
+A-TO-76761-S,aziende,Piemonte,Torino,Torino,Società cooperativa,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-79466-S,aziende,Piemonte,Torino,Torino,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-82173-S,aziende,Piemonte,Torino,Orbassano,Società in nome collettivo,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-83712-S,aziende,Piemonte,Torino,Torino,Impresa individuale,Attività manifatturiere,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
