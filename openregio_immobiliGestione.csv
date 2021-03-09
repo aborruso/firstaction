@@ -929,7 +929,7 @@ I-BA-85111-S,immobili,Puglia,Bari,Bari,Unità immobiliare per uso di abitazione 
 I-BA-86986-S,immobili,Puglia,Bari,Bari,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-87389-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-87390-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
-I-BA-87391-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Bari,Misure di Prevenzione
+I-BA-87391-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-87392-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Bari,Misure di Prevenzione
 I-BA-87393-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Bari,Misure di Prevenzione
 I-BA-87394-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Bari,Misure di Prevenzione
@@ -1768,10 +1768,8 @@ I-CE-18971-S,immobili,Campania,Caserta,Cancello ed Arnone,Terreno,Terreno con fa
 I-CE-18997-S,immobili,Campania,Caserta,Santa Maria a Vico,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Corte di Appello,Napoli,Procedimento Penale
 I-CE-2676-S,immobili,Campania,Caserta,Sessa Aurunca,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-CE-35188-S,immobili,Campania,Caserta,Frignano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,17%,Procura della Repubblica,Napoli,Procedimento Penale
-I-CE-35189-S,immobili,Campania,Caserta,Frignano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-35190-S,immobili,Campania,Caserta,Frignano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,83%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-35191-S,immobili,Campania,Caserta,Frignano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,83%,Procura della Repubblica,Napoli,Procedimento Penale
-I-CE-35192-S,immobili,Campania,Caserta,Frignano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-35225-S,immobili,Campania,Caserta,Casal di Principe,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Corte di Appello,Napoli,Misure di Prevenzione
 I-CE-36300-S,immobili,Campania,Caserta,Valle di Maddaloni,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Frosinone,Misure di Prevenzione
 I-CE-37296-S,immobili,Campania,Caserta,Mondragone,Unità immobiliare per uso di abitazione e assimilabile,Villa,Revoca Conf. parziale,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
@@ -2941,18 +2939,6 @@ I-CL-23371-S,immobili,Sicilia,Caltanissetta,Bompensiere,Unità immobiliare per u
 I-CL-23372-S,immobili,Sicilia,Caltanissetta,Bompensiere,Terreno,Terreno agricolo,Confisca I,50%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-23373-S,immobili,Sicilia,Caltanissetta,Bompensiere,Terreno,Terreno agricolo,Confisca I,50%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-23374-S,immobili,Sicilia,Caltanissetta,Bompensiere,Terreno,Terreno agricolo,Confisca I,50%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-23375-S,immobili,Sicilia,Caltanissetta,Bompensiere,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-23376-S,immobili,Sicilia,Caltanissetta,Bompensiere,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-23377-S,immobili,Sicilia,Caltanissetta,Bompensiere,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-23378-S,immobili,Sicilia,Caltanissetta,Bompensiere,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-23379-S,immobili,Sicilia,Caltanissetta,Bompensiere,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-23380-S,immobili,Sicilia,Caltanissetta,Bompensiere,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-23381-S,immobili,Sicilia,Caltanissetta,Bompensiere,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-23382-S,immobili,Sicilia,Caltanissetta,Bompensiere,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-23383-S,immobili,Sicilia,Caltanissetta,Bompensiere,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-23384-S,immobili,Sicilia,Caltanissetta,Bompensiere,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-23385-S,immobili,Sicilia,Caltanissetta,Bompensiere,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-23386-S,immobili,Sicilia,Caltanissetta,Bompensiere,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-24651-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-24679-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-25410-S,immobili,Sicilia,Caltanissetta,Mussomeli,Terreno,Terreno con fabbricato rurale,Confisca def.,50%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -3440,8 +3426,8 @@ I-CL-72528-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno con fa
 I-CL-72530-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Corte di Appello,Caltanissetta,Procedimento Penale
 I-CL-74584-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Corte di Appello,Caltanissetta,Procedimento Penale
 I-CL-74869-S,immobili,Sicilia,Caltanissetta,Vallelunga Pratameno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-CL-76925-S,immobili,Sicilia,Caltanissetta,Gela,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-76926-S,immobili,Sicilia,Caltanissetta,Gela,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-76925-S,immobili,Sicilia,Caltanissetta,Gela,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Rinvio,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-76926-S,immobili,Sicilia,Caltanissetta,Gela,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Rinvio,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-76934-S,immobili,Sicilia,Caltanissetta,Gela,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-76940-S,immobili,Sicilia,Caltanissetta,Gela,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-77594-S,immobili,Sicilia,Caltanissetta,Vallelunga Pratameno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -9060,7 +9046,6 @@ I-NA-75825-S,immobili,Campania,Napoli,Nola,Terreno,Terreno agricolo,Confisca def
 I-NA-75826-S,immobili,Campania,Napoli,Nola,Altra unità immobiliare,Ex fabbricato rurale,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-75827-S,immobili,Campania,Napoli,Nola,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-75828-S,immobili,Campania,Napoli,Nola,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-75840-S,immobili,Campania,Napoli,Torre Annunziata,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-76738-S,immobili,Campania,Napoli,Sant'Antimo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-76949-S,immobili,Campania,Napoli,Torre Annunziata,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-76950-S,immobili,Campania,Napoli,Torre Annunziata,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -18748,7 +18733,7 @@ I-VA-68592-S,immobili,Lombardia,Varese,Travedona-Monate,Unità immobiliare per u
 I-VA-68593-S,immobili,Lombardia,Varese,Travedona-Monate,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-VA-69928-S,immobili,Lombardia,Varese,Gerenzano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Varese,Misure di Prevenzione
 I-VA-70348-S,immobili,Lombardia,Varese,Cislago,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Como,Misure di Prevenzione
-I-VA-70490-S,immobili,Lombardia,Varese,Castelseprio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-VA-70490-S,immobili,Lombardia,Varese,Castelseprio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-VA-70491-S,immobili,Lombardia,Varese,Castelseprio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-VA-70492-S,immobili,Lombardia,Varese,Castelseprio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-VA-70493-S,immobili,Lombardia,Varese,Castelseprio,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
