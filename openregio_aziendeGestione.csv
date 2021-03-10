@@ -491,7 +491,7 @@ A-CL-78960-S,aziende,Sicilia,Caltanissetta,Montedoro,Impresa individuale,"Agrico
 A-CL-85210-S,aziende,Sicilia,Caltanissetta,Vallelunga Pratameno,Impresa individuale,"Agricoltura, caccia e silvicoltura",Revoca Seq.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-85230-S,aziende,Sicilia,Caltanissetta,Vallelunga Pratameno,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-90963-S,aziende,Sicilia,Caltanissetta,Gela,Società a responsabilità limitata,Costruzioni,,0%,Tribunale,Caltanissetta,Misure di Prevenzione
-A-CL-91544-S,aziende,Sicilia,Caltanissetta,Gela,Impresa individuale,Alberghi e ristoranti,,0%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-CL-91544-S,aziende,Sicilia,Caltanissetta,Gela,Impresa individuale,Alberghi e ristoranti,Confisca def.,0%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CO-34456-S,aziende,Lombardia,Como,Mariano Comense,Società in nome collettivo,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Como,Misure di Prevenzione
 A-CO-71896-S,aziende,Lombardia,Como,Como,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-CO-74082-S,aziende,Lombardia,Como,Olgiate Comasco,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Como,Misure di Prevenzione
@@ -2548,7 +2548,7 @@ A-RO-40801-S,aziende,Veneto,Rovigo,Polesella,Società a responsabilità limitata
 A-SA-1399-S,aziende,Campania,Salerno,Camerota,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-1400-S,aziende,Campania,Salerno,Bellizzi,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,50%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-1401-S,aziende,Campania,Salerno,Bellizzi,Impresa individuale,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
-A-SA-15489-S,aziende,Campania,Salerno,Sapri,Impresa individuale,"Altri servizi pubblici, sociali e personali",Revoca Conf.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
+A-SA-15489-S,aziende,Campania,Salerno,Sapri,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 A-SA-18245-S,aziende,Campania,Salerno,San Valentino Torio,Società in accomandita semplice,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,25%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-18653-S,aziende,Campania,Salerno,Olevano sul Tusciano,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-18662-S,aziende,Campania,Salerno,Salerno,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,35%,Procura della Repubblica,Salerno,Procedimento Penale
@@ -2826,7 +2826,7 @@ A-TP-79271-S,aziende,Sicilia,Trapani,Castelvetrano,Società a responsabilità li
 A-TP-81451-S,aziende,Sicilia,Trapani,Santa Ninfa,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,0%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-83566-S,aziende,Sicilia,Trapani,Partanna,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,0%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-83568-S,aziende,Sicilia,Trapani,Partanna,Società cooperativa,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-A-TP-83836-S,aziende,Sicilia,Trapani,Castelvetrano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,0%,Tribunale,Trapani,Misure di Prevenzione
+A-TP-83836-S,aziende,Sicilia,Trapani,Castelvetrano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-83837-S,aziende,Sicilia,Trapani,Castelvetrano,Società per azioni,,Confisca II,0%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-83838-S,aziende,Sicilia,Trapani,Castelvetrano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Conf. parziale,0%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-83839-S,aziende,Sicilia,Trapani,Castelvetrano,Società a responsabilità limitata,,Confisca II,0%,Tribunale,Trapani,Misure di Prevenzione
