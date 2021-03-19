@@ -997,6 +997,8 @@ A-MI-27969-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata
 A-MI-28547-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Attività finanziarie,Confisca def.,33%,Tribunale,Milano,Misure di Prevenzione
 A-MI-28548-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,20%,Tribunale,Milano,Misure di Prevenzione
 A-MI-28549-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,40%,Tribunale,Milano,Misure di Prevenzione
+A-MI-29719-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+A-MI-29720-S,aziende,Lombardia,Milano,Milano,Società per azioni,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-29721-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-30316-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 A-MI-30322-S,aziende,Lombardia,Milano,Milano,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -2649,8 +2651,8 @@ A-SR-83983-S,aziende,Sicilia,Siracusa,Siracusa,Società a responsabilità limita
 A-SS-21068-S,aziende,Sardegna,Sassari,Sassari,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
 A-SV-59912-S,aziende,Liguria,Savona,Ceriale,Società a responsabilità limitata,Costruzioni,Confisca def.,52%,Tribunale,Savona,Misure di Prevenzione
 A-SV-60212-S,aziende,Liguria,Savona,Alassio,Società a responsabilità limitata,Attività finanziarie,Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
-A-SV-93478-S,aziende,Liguria,Savona,Loano,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",,100%,Tribunale,Savona,Misure di Prevenzione
-A-SV-93479-S,aziende,Liguria,Savona,Loano,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,100%,Tribunale,Savona,Misure di Prevenzione
+A-SV-93478-S,aziende,Liguria,Savona,Loano,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
+A-SV-93479-S,aziende,Liguria,Savona,Loano,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
 A-SV-93482-S,aziende,Liguria,Savona,Albenga,Società semplice,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
 A-SV-93486-S,aziende,Liguria,Savona,Loano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Savona,Misure di Prevenzione
 A-TA-13848-S,aziende,Puglia,Taranto,Pulsano,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,33%,Tribunale,Taranto,Misure di Prevenzione
