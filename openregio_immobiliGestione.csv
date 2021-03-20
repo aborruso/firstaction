@@ -3494,8 +3494,6 @@ I-CL-80375-S,immobili,Sicilia,Caltanissetta,Serradifalco,Terreno,Terreno edifica
 I-CL-80738-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-80739-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-80740-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-80756-S,immobili,Sicilia,Caltanissetta,San Cataldo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-80757-S,immobili,Sicilia,Caltanissetta,San Cataldo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-80759-S,immobili,Sicilia,Caltanissetta,San Cataldo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-80761-S,immobili,Sicilia,Caltanissetta,San Cataldo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-80856-S,immobili,Sicilia,Caltanissetta,San Cataldo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -16381,7 +16379,7 @@ I-SR-52159-S,immobili,Sicilia,Siracusa,Augusta,Terreno,Terreno con fabbricato ru
 I-SR-52160-S,immobili,Sicilia,Siracusa,Augusta,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-52162-S,immobili,Sicilia,Siracusa,Augusta,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-52164-S,immobili,Sicilia,Siracusa,Augusta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
-I-SR-52479-S,immobili,Sicilia,Siracusa,Francofonte,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
+I-SR-52479-S,immobili,Sicilia,Siracusa,Francofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-52481-S,immobili,Sicilia,Siracusa,Francofonte,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-54235-S,immobili,Sicilia,Siracusa,Lentini,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-54353-S,immobili,Sicilia,Siracusa,Avola,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
@@ -18604,6 +18602,9 @@ I-TP-92943-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Con
 I-TP-92944-S,immobili,Sicilia,Trapani,Castelvetrano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,50%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-92947-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno con fabbricato rurale,Confisca def.,67%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-92948-S,immobili,Sicilia,Trapani,Castelvetrano,Altra unità immobiliare,Altro,Revoca Seq.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93491-S,immobili,Sicilia,Trapani,Castellammare del Golfo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93493-S,immobili,Sicilia,Trapani,Castellammare del Golfo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93494-S,immobili,Sicilia,Trapani,Castellammare del Golfo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TS-30044-S,immobili,Friuli Venezia Giulia,Trieste,Trieste,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Trieste,Procedimento Penale
 I-TS-30045-S,immobili,Friuli Venezia Giulia,Trieste,Trieste,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Trieste,Procedimento Penale
 I-TS-30046-S,immobili,Friuli Venezia Giulia,Trieste,Sgonico,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trieste,Procedimento Penale
