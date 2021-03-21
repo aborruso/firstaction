@@ -1125,7 +1125,7 @@ I-BI-83972-S,immobili,Piemonte,Biella,Roppolo,Terreno,Terreno agricolo,Confisca 
 I-BI-83973-S,immobili,Piemonte,Biella,Roppolo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
 I-BI-83974-S,immobili,Piemonte,Biella,Roppolo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
 I-BI-83975-S,immobili,Piemonte,Biella,Roppolo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
-I-BI-86925-S,immobili,Piemonte,Biella,Masserano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Novara,Misure di Prevenzione
+I-BI-86925-S,immobili,Piemonte,Biella,Masserano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,100%,Tribunale,Novara,Misure di Prevenzione
 I-BI-92038-S,immobili,Piemonte,Biella,Piatto,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-BI-92039-S,immobili,Piemonte,Biella,Piatto,Terreno,Terreno agricolo,,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-BI-92040-S,immobili,Piemonte,Biella,Piatto,Terreno,Terreno agricolo,,0%,Procura della Repubblica,Milano,Procedimento Penale
@@ -1140,6 +1140,17 @@ I-BI-92048-S,immobili,Piemonte,Biella,Piatto,Terreno,Terreno agricolo,,0%,Procur
 I-BI-92049-S,immobili,Piemonte,Biella,Piatto,Terreno,Terreno agricolo,,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-BI-92050-S,immobili,Piemonte,Biella,Piatto,Terreno,Terreno agricolo,,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-BI-92051-S,immobili,Piemonte,Biella,Piatto,Terreno,Terreno agricolo,,0%,Procura della Repubblica,Milano,Procedimento Penale
+I-BI-93497-S,immobili,Piemonte,Biella,Masserano,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Tribunale,Novara,Misure di Prevenzione
+I-BI-93498-S,immobili,Piemonte,Biella,Masserano,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Tribunale,Novara,Misure di Prevenzione
+I-BI-93499-S,immobili,Piemonte,Biella,Masserano,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Tribunale,Novara,Misure di Prevenzione
+I-BI-93500-S,immobili,Piemonte,Biella,Masserano,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Tribunale,Novara,Misure di Prevenzione
+I-BI-93501-S,immobili,Piemonte,Biella,Masserano,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Tribunale,Novara,Misure di Prevenzione
+I-BI-93502-S,immobili,Piemonte,Biella,Masserano,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Tribunale,Novara,Misure di Prevenzione
+I-BI-93503-S,immobili,Piemonte,Biella,Masserano,Terreno,Terreno - non definito,,100%,Tribunale,Novara,Misure di Prevenzione
+I-BI-93504-S,immobili,Piemonte,Biella,Masserano,Terreno,Terreno - non definito,,100%,Tribunale,Novara,Misure di Prevenzione
+I-BI-93505-S,immobili,Piemonte,Biella,Masserano,Terreno,Terreno - non definito,,100%,Tribunale,Novara,Misure di Prevenzione
+I-BI-93506-S,immobili,Piemonte,Biella,Masserano,Terreno,Terreno - non definito,,100%,Tribunale,Novara,Misure di Prevenzione
+I-BI-93507-S,immobili,Piemonte,Biella,Masserano,Terreno,Terreno - non definito,,100%,Tribunale,Novara,Misure di Prevenzione
 I-BN-2046-S,immobili,Campania,Benevento,Foglianise,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Benevento,Misure di Prevenzione
 I-BN-2047-S,immobili,Campania,Benevento,Foglianise,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Benevento,Misure di Prevenzione
 I-BN-2048-S,immobili,Campania,Benevento,Foglianise,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Benevento,Misure di Prevenzione
@@ -10201,6 +10212,14 @@ I-NO-68582-S,immobili,Piemonte,Novara,Varallo Pombia,Unità immobiliare per uso 
 I-NO-85672-S,immobili,Piemonte,Novara,Varallo Pombia,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-NO-86961-S,immobili,Piemonte,Novara,Novara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-NO-88520-S,immobili,Piemonte,Novara,Fara Novarese,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NO-93509-S,immobili,Piemonte,Novara,Sillavengo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Novara,Misure di Prevenzione
+I-NO-93510-S,immobili,Piemonte,Novara,Sillavengo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Novara,Misure di Prevenzione
+I-NO-93511-S,immobili,Piemonte,Novara,Borgomanero,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Novara,Misure di Prevenzione
+I-NO-93512-S,immobili,Piemonte,Novara,Borgomanero,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Novara,Misure di Prevenzione
+I-NO-93513-S,immobili,Piemonte,Novara,Borgomanero,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Novara,Misure di Prevenzione
+I-NO-93517-S,immobili,Piemonte,Novara,Novara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Novara,Misure di Prevenzione
+I-NO-93518-S,immobili,Piemonte,Novara,Novara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Novara,Misure di Prevenzione
+I-NO-93519-S,immobili,Piemonte,Novara,Prato Sesia,Unità immobiliare a destinazione commerciale e industriale,Altro,,0%,Tribunale,Novara,Misure di Prevenzione
 I-OG-19996-S,immobili,Sardegna,Ogliastra,Cardedu,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Procura della Repubblica,Cagliari,Procedimento Penale
 I-OG-73578-S,immobili,Sardegna,Ogliastra,Villagrande Strisaili,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Sequestro,100%,Procura della Repubblica,Cagliari,Procedimento Penale
 I-OG-73581-S,immobili,Sardegna,Ogliastra,Cardedu,Unità immobiliare a destinazione commerciale e industriale,Altro,Sequestro,75%,Procura della Repubblica,Cagliari,Procedimento Penale
@@ -18801,6 +18820,7 @@ I-VC-68523-S,immobili,Piemonte,Vercelli,Arborio,Unità immobiliare a destinazion
 I-VC-68524-S,immobili,Piemonte,Vercelli,Arborio,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-VC-71990-S,immobili,Piemonte,Vercelli,Livorno Ferraris,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Torino,Misure di Prevenzione
 I-VC-86129-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,,0%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-93508-S,immobili,Piemonte,Vercelli,Vercelli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Novara,Misure di Prevenzione
 I-VE-16039-S,immobili,Veneto,Venezia,Mira,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VE-16040-S,immobili,Veneto,Venezia,Mira,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VE-16041-S,immobili,Veneto,Venezia,Venezia,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
@@ -18875,6 +18895,9 @@ I-VE-92116-S,immobili,Veneto,Venezia,San Donà di Piave,Altra unità immobiliare
 I-VE-92117-S,immobili,Veneto,Venezia,San Donà di Piave,Altra unità immobiliare,Altro,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
 I-VE-92118-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
 I-VE-92119-S,immobili,Veneto,Venezia,San Donà di Piave,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
+I-VE-93514-S,immobili,Veneto,Venezia,San Michele al Tagliamento,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Novara,Misure di Prevenzione
+I-VE-93515-S,immobili,Veneto,Venezia,San Michele al Tagliamento,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Novara,Misure di Prevenzione
+I-VE-93516-S,immobili,Veneto,Venezia,San Michele al Tagliamento,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Novara,Misure di Prevenzione
 I-VI-11361-S,immobili,Veneto,Vicenza,Altavilla Vicentina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Vicenza,Misure di Prevenzione
 I-VI-11362-S,immobili,Veneto,Vicenza,Altavilla Vicentina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Vicenza,Misure di Prevenzione
 I-VI-11363-S,immobili,Veneto,Vicenza,Altavilla Vicentina,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Vicenza,Misure di Prevenzione
