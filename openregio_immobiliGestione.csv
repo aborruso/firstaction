@@ -6233,7 +6233,7 @@ I-LU-59514-S,immobili,Toscana,Lucca,Viareggio,Unità immobiliare per uso di abit
 I-LU-59518-S,immobili,Toscana,Lucca,Viareggio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Lucca,Misure di Prevenzione
 I-LU-59521-S,immobili,Toscana,Lucca,Viareggio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Lucca,Misure di Prevenzione
 I-LU-59523-S,immobili,Toscana,Lucca,Viareggio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Lucca,Misure di Prevenzione
-I-LU-75793-S,immobili,Toscana,Lucca,Pietrasanta,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,0%,Tribunale,Venezia,Misure di Prevenzione
+I-LU-75793-S,immobili,Toscana,Lucca,Pietrasanta,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Tribunale,Venezia,Misure di Prevenzione
 I-LU-76832-S,immobili,Toscana,Lucca,Altopascio,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Pistoia,Procedimento Penale
 I-LU-79571-S,immobili,Toscana,Lucca,Altopascio,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,0%,Procura della Repubblica,Pistoia,Procedimento Penale
 I-LU-86289-S,immobili,Toscana,Lucca,Viareggio,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,0%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -13041,12 +13041,12 @@ I-PI-62378-S,immobili,Toscana,Pisa,Cascina,Unità immobiliare per uso di abitazi
 I-PI-62379-S,immobili,Toscana,Pisa,Cascina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-PI-72293-S,immobili,Toscana,Pisa,Castelfranco di Sotto,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Genova,Misure di Prevenzione
 I-PI-72584-S,immobili,Toscana,Pisa,Castelfranco di Sotto,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Genova,Misure di Prevenzione
-I-PI-75782-S,immobili,Toscana,Pisa,Santa Croce sull'Arno,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,100%,Tribunale,Venezia,Misure di Prevenzione
-I-PI-75783-S,immobili,Toscana,Pisa,Santa Croce sull'Arno,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca I,100%,Tribunale,Venezia,Misure di Prevenzione
-I-PI-75786-S,immobili,Toscana,Pisa,Santa Croce sull'Arno,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Venezia,Misure di Prevenzione
-I-PI-75787-S,immobili,Toscana,Pisa,Santa Croce sull'Arno,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Venezia,Misure di Prevenzione
-I-PI-75788-S,immobili,Toscana,Pisa,Santa Croce sull'Arno,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Venezia,Misure di Prevenzione
-I-PI-75789-S,immobili,Toscana,Pisa,Santa Croce sull'Arno,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Venezia,Misure di Prevenzione
+I-PI-75782-S,immobili,Toscana,Pisa,Santa Croce sull'Arno,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Tribunale,Venezia,Misure di Prevenzione
+I-PI-75783-S,immobili,Toscana,Pisa,Santa Croce sull'Arno,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca II,100%,Tribunale,Venezia,Misure di Prevenzione
+I-PI-75786-S,immobili,Toscana,Pisa,Santa Croce sull'Arno,Terreno,Terreno - non definito,Confisca II,100%,Tribunale,Venezia,Misure di Prevenzione
+I-PI-75787-S,immobili,Toscana,Pisa,Santa Croce sull'Arno,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Venezia,Misure di Prevenzione
+I-PI-75788-S,immobili,Toscana,Pisa,Santa Croce sull'Arno,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Venezia,Misure di Prevenzione
+I-PI-75789-S,immobili,Toscana,Pisa,Santa Croce sull'Arno,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Venezia,Misure di Prevenzione
 I-PI-76573-S,immobili,Toscana,Pisa,Pisa,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-PI-76577-S,immobili,Toscana,Pisa,Pisa,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-PN-16621-S,immobili,Friuli Venezia Giulia,Pordenone,Spilimbergo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Pordenone,Misure di Prevenzione
