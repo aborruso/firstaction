@@ -299,7 +299,6 @@ A-CE-404-S,aziende,Campania,Caserta,Santa Maria Capua Vetere,Società a responsa
 A-CE-41313-S,aziende,Campania,Caserta,Castel Volturno,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,50%,Procura della Repubblica,Napoli,Procedimento Penale
 A-CE-41331-S,aziende,Campania,Caserta,San Cipriano d'Aversa,Società a responsabilità limitata,Costruzioni,Confisca def.,1%,Procura della Repubblica,Napoli,Procedimento Penale
 A-CE-4760-S,aziende,Campania,Caserta,San Marcellino,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
-A-CE-48274-S,aziende,Campania,Caserta,San Felice a Cancello,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-CE-5023-S,aziende,Campania,Caserta,Orta di Atella,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-CE-50883-S,aziende,Campania,Caserta,Frignano,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca I,20%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-CE-50910-S,aziende,Campania,Caserta,Teverola,Società a responsabilità limitata,Attività finanziarie,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -2643,6 +2642,8 @@ A-SA-94151-S,aziende,Campania,Salerno,Cava de' Tirreni,Società a responsabilit�
 A-SA-94153-S,aziende,Campania,Salerno,Cava de' Tirreni,Società a responsabilità limitata,Costruzioni,Confisca def.,50%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-94156-S,aziende,Campania,Salerno,Cava de' Tirreni,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Revoca Conf.,100%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-94157-S,aziende,Campania,Salerno,Cava de' Tirreni,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+A-SA-94674-S,aziende,Campania,Salerno,Nocera Superiore,Società a responsabilità limitata,Costruzioni,Sequestro,0%,Procura della Repubblica,Salerno,Procedimento Penale
+A-SA-94675-S,aziende,Campania,Salerno,Nocera Superiore,Società a responsabilità limitata,Costruzioni,Sequestro,10%,Procura della Repubblica,Salerno,Procedimento Penale
 A-SO-82772-S,aziende,Lombardia,Sondrio,Cosio Valtellino,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,65%,Tribunale,Sondrio,Misure di Prevenzione
 A-SO-82774-S,aziende,Lombardia,Sondrio,Cosio Valtellino,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Sondrio,Misure di Prevenzione
 A-SP-25970-S,aziende,Liguria,La Spezia,Arcola,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca I,100%,Tribunale,La Spezia,Misure di Prevenzione
