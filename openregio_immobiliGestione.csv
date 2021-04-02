@@ -2739,11 +2739,11 @@ I-CE-91748-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione
 I-CE-92447-S,immobili,Campania,Caserta,Portico di Caserta,Terreno,Terreno agricolo,,0%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-93157-S,immobili,Campania,Caserta,San Marcellino,Terreno,Terreno agricolo,Confisca def.,100%,Corte di Appello,Napoli,Procedimento Penale
 I-CE-93221-S,immobili,Campania,Caserta,Casal di Principe,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-94682-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-94687-S,immobili,Campania,Caserta,Teverola,Unità immobiliare per alloggio e usi collettivi,Fabbricato annesso a speciali esigenze commerciali,Revoca Conf.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-94688-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-94690-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-94692-S,immobili,Campania,Caserta,Teverola,Unità immobiliare per alloggio e usi collettivi,Fabbricato annesso a speciali esigenze commerciali,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-94693-S,immobili,Campania,Caserta,Teverola,Unità immobiliare per alloggio e usi collettivi,Fabbricato annesso a speciali esigenze commerciali,Revoca Conf.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-94695-S,immobili,Campania,Caserta,Teverola,Unità immobiliare per alloggio e usi collettivi,Fabbricato annesso a speciali esigenze commerciali,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-94697-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-94704-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-94706-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CH-36419-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-36421-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-42987-S,immobili,Abruzzo,Chieti,San Salvo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Varese,Misure di Prevenzione
@@ -15486,8 +15486,8 @@ I-RM-36993-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare a destinazione com
 I-RM-37017-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-37021-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-37040-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-37074-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-37075-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-37074-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-37075-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-37129-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-37134-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-37135-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
