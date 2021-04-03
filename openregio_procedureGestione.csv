@@ -624,7 +624,6 @@ Campania,Tribunale,Benevento,Misure di Prevenzione,Confisca I,6/2017
 Campania,Tribunale,Benevento,Misure di Prevenzione,Confisca def.,7/2011
 Campania,Tribunale,Benevento,Misure di Prevenzione,Revoca Conf.,43/2013
 Campania,Corte di Appello,Napoli,Misure di Prevenzione,Confisca def.,1/1999
-Campania,Corte di Appello,Napoli,Misure di Prevenzione,Confisca def.,1/2000
 Campania,Corte di Appello,Napoli,Misure di Prevenzione,Confisca def.,1/2004
 Campania,Corte di Appello,Napoli,Misure di Prevenzione,Confisca def.,160/1992
 Campania,Corte di Appello,Napoli,Misure di Prevenzione,Confisca def.,2/2000
@@ -633,6 +632,7 @@ Campania,Corte di Appello,Napoli,Misure di Prevenzione,Confisca def.,4/1997
 Campania,Corte di Appello,Napoli,Misure di Prevenzione,Confisca def.,4/2003
 Campania,Corte di Appello,Napoli,Misure di Prevenzione,Confisca def.,5/1999
 Campania,Corte di Appello,Napoli,Misure di Prevenzione,Confisca def.,5/2000
+Campania,Corte di Appello,Napoli,Misure di Prevenzione,Confisca def.,56/1997
 Campania,Corte di Appello,Napoli,Misure di Prevenzione,Confisca def.,6/1997
 Campania,Corte di Appello,Napoli,Misure di Prevenzione,Confisca def.,72/1996
 Campania,Corte di Appello,Napoli,Procedimento Penale,Confisca I,1312/2019
@@ -1039,7 +1039,7 @@ Campania,Procura della Repubblica,Nocera Inferiore,Procedimento Penale,Revoca Se
 Campania,Procura della Repubblica,Nola,Procedimento Penale,Confisca II,116570/2007
 Campania,Procura della Repubblica,Nola,Procedimento Penale,Confisca def.,110838/2010
 Campania,Procura della Repubblica,Nola,Procedimento Penale,Confisca def.,111526/2007
-Campania,Procura della Repubblica,Nola,Procedimento Penale,Confisca def.,3615/1993
+Campania,Procura della Repubblica,Nola,Procedimento Penale,Confisca def.,12036/1997
 Campania,Procura della Repubblica,Nola,Procedimento Penale,Confisca def.,5307/2016
 Campania,Procura della Repubblica,Nola,Procedimento Penale,Confisca def.,59436/2000
 Campania,Tribunale,Nola,Procedimento Penale,Confisca def.,7378/2014
@@ -1186,7 +1186,6 @@ Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,
 Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,25/2007
 Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,29/2009
 Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,3/1992
-Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,3/2001
 Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,3/2009
 Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,30/2006
 Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,32/2003
@@ -1199,6 +1198,7 @@ Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,
 Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,38/2014
 Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,4/1997
 Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,4/2009
+Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,41/2000
 Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,47/2007
 Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,49/2006
 Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,51/1995
@@ -2222,8 +2222,8 @@ Piemonte,Tribunale,Asti,Misure di Prevenzione,Confisca def.,3/2017
 Piemonte,Tribunale,Asti,Misure di Prevenzione,Confisca def.,5/2017
 Piemonte,Tribunale,Asti,Misure di Prevenzione,Confisca def.,7/2017
 Piemonte,Procura della Repubblica,Cuneo,Procedimento Penale,Confisca def.,1/2002
-Piemonte,Procura della Repubblica,Cuneo,Procedimento Penale,Confisca def.,1461/2019
 Piemonte,Procura della Repubblica,Cuneo,Procedimento Penale,Confisca def.,1950/2014
+Piemonte,Procura della Repubblica,Cuneo,Procedimento Penale,Revoca Seq.,1461/2019
 Piemonte,Procura della Repubblica,Novara,Procedimento Penale,Confisca def.,3781/2017
 Piemonte,Procura della Repubblica,Novara,Procedimento Penale,Confisca def.,4567/2011
 Piemonte,Procura della Repubblica,Novara,Procedimento Penale,Confisca def.,485/1996
@@ -4058,8 +4058,8 @@ Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca I,1/2015
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca I,149/1995
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca I,32/2015
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca I,81/2014
-Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca I,97/2014
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca II,87/2014
+Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca II,97/2014
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,1/2009
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,10/2006
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,10/2008

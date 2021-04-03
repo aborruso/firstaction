@@ -17165,7 +17165,7 @@ I-SV-82514-S,immobili,Liguria,Savona,Boissano,Terreno,Terreno agricolo,Confisca 
 I-SV-82515-S,immobili,Liguria,Savona,Boissano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
 I-SV-82516-S,immobili,Liguria,Savona,Loano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
 I-SV-82517-S,immobili,Liguria,Savona,Loano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
-I-SV-94276-S,immobili,Liguria,Savona,Savona,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Cuneo,Procedimento Penale
+I-SV-94712-S,immobili,Liguria,Savona,Savona,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Cuneo,Procedimento Penale
 I-TA-13851-S,immobili,Puglia,Taranto,Pulsano,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,33%,Tribunale,Taranto,Misure di Prevenzione
 I-TA-17504-S,immobili,Puglia,Taranto,Pulsano,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Taranto,Procedimento Penale
 I-TA-17506-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Lecce,Procedimento Penale
@@ -18951,9 +18951,9 @@ I-TP-76987-S,immobili,Sicilia,Trapani,Salemi,Terreno,Terreno agricolo,Confisca d
 I-TP-7853-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-79063-S,immobili,Sicilia,Trapani,Salaparuta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-79166-S,immobili,Sicilia,Trapani,Mazara del Vallo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-79242-S,immobili,Sicilia,Trapani,Castelvetrano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-79243-S,immobili,Sicilia,Trapani,Castelvetrano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-79244-S,immobili,Sicilia,Trapani,Castelvetrano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-79242-S,immobili,Sicilia,Trapani,Castelvetrano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-79243-S,immobili,Sicilia,Trapani,Castelvetrano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-79244-S,immobili,Sicilia,Trapani,Castelvetrano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-81308-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno agricolo,Confisca def.,99%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-81309-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno agricolo,Confisca def.,99%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-81310-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno agricolo,Confisca def.,99%,Procura della Repubblica,Marsala,Procedimento Penale
@@ -19498,13 +19498,13 @@ I-VE-90885-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per u
 I-VE-90886-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VE-90896-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VE-92112-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
-I-VE-92113-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
+I-VE-92113-S,immobili,Veneto,Venezia,San Donà di Piave,Altra unità immobiliare,Altro,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
 I-VE-92114-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
 I-VE-92115-S,immobili,Veneto,Venezia,San Donà di Piave,Altra unità immobiliare,Altro,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
 I-VE-92116-S,immobili,Veneto,Venezia,San Donà di Piave,Altra unità immobiliare,Altro,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
 I-VE-92117-S,immobili,Veneto,Venezia,San Donà di Piave,Altra unità immobiliare,Altro,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
 I-VE-92118-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
-I-VE-92119-S,immobili,Veneto,Venezia,San Donà di Piave,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
+I-VE-92119-S,immobili,Veneto,Venezia,San Donà di Piave,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
 I-VE-93514-S,immobili,Veneto,Venezia,San Michele al Tagliamento,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Novara,Misure di Prevenzione
 I-VE-93515-S,immobili,Veneto,Venezia,San Michele al Tagliamento,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Novara,Misure di Prevenzione
 I-VE-93516-S,immobili,Veneto,Venezia,San Michele al Tagliamento,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Novara,Misure di Prevenzione
