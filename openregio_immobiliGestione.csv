@@ -1727,12 +1727,6 @@ I-CA-80614-S,immobili,Sardegna,Cagliari,San Sperate,Unità immobiliare per uso d
 I-CA-80620-S,immobili,Sardegna,Cagliari,San Sperate,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Cagliari,Procedimento Penale
 I-CA-87843-S,immobili,Sardegna,Cagliari,Senorbì,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
 I-CA-87846-S,immobili,Sardegna,Cagliari,Senorbì,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
-I-CA-91388-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Rinvio,100%,Tribunale,Cagliari,Misure di Prevenzione
-I-CA-91391-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
-I-CA-91399-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
-I-CA-91403-S,immobili,Sardegna,Cagliari,Sarroch,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
-I-CA-91404-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
-I-CA-91405-S,immobili,Sardegna,Cagliari,Capoterra,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Rinvio,97%,Tribunale,Cagliari,Misure di Prevenzione
 I-CA-92722-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Nuoro,Misure di Prevenzione
 I-CA-92726-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Nuoro,Misure di Prevenzione
 I-CA-92727-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Nuoro,Misure di Prevenzione
@@ -1741,6 +1735,12 @@ I-CA-92738-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare per uso di a
 I-CA-92743-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Nuoro,Misure di Prevenzione
 I-CA-92745-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Nuoro,Misure di Prevenzione
 I-CA-92746-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Nuoro,Misure di Prevenzione
+I-CA-94733-S,immobili,Sardegna,Cagliari,Sarroch,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
+I-CA-94739-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
+I-CA-94746-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
+I-CA-94753-S,immobili,Sardegna,Cagliari,Capoterra,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Rinvio,97%,Tribunale,Cagliari,Misure di Prevenzione
+I-CA-94754-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Rinvio,100%,Tribunale,Cagliari,Misure di Prevenzione
+I-CA-94755-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
 I-CB-10842-S,immobili,Molise,Campobasso,Campomarino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-CB-85046-S,immobili,Molise,Campobasso,Tufara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Rimini,Misure di Prevenzione
 I-CB-86864-S,immobili,Molise,Campobasso,Campomarino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Milano,Misure di Prevenzione
@@ -3549,6 +3549,7 @@ I-CL-91252-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Unità immobiliare per
 I-CL-91545-S,immobili,Sicilia,Caltanissetta,Gela,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-91546-S,immobili,Sicilia,Caltanissetta,Gela,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-91547-S,immobili,Sicilia,Caltanissetta,Gela,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-94728-S,immobili,Sicilia,Caltanissetta,Gela,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CN-11434-S,immobili,Piemonte,Cuneo,Sommariva del Bosco,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-CN-11435-S,immobili,Piemonte,Cuneo,Sommariva del Bosco,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-CN-29679-S,immobili,Piemonte,Cuneo,Cervere,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
@@ -5926,12 +5927,6 @@ I-LC-30242-S,immobili,Lombardia,Lecco,Galbiate,Unità immobiliare per uso di abi
 I-LC-30243-S,immobili,Lombardia,Lecco,Galbiate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Corte di Cassazione,Roma,Procedimento Penale
 I-LC-57250-S,immobili,Lombardia,Lecco,Bosisio Parini,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-LC-57252-S,immobili,Lombardia,Lecco,Bosisio Parini,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-LC-63921-S,immobili,Lombardia,Lecco,Costa Masnaga,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Milano,Misure di Prevenzione
-I-LC-63922-S,immobili,Lombardia,Lecco,Costa Masnaga,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Milano,Misure di Prevenzione
-I-LC-63923-S,immobili,Lombardia,Lecco,Costa Masnaga,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Milano,Misure di Prevenzione
-I-LC-63924-S,immobili,Lombardia,Lecco,Costa Masnaga,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Milano,Misure di Prevenzione
-I-LC-63925-S,immobili,Lombardia,Lecco,Costa Masnaga,Terreno,Terreno - non definito,,0%,Tribunale,Milano,Misure di Prevenzione
-I-LC-63926-S,immobili,Lombardia,Lecco,Costa Masnaga,Terreno,Terreno - non definito,,0%,Tribunale,Milano,Misure di Prevenzione
 I-LC-70313-S,immobili,Lombardia,Lecco,Primaluna,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
 I-LC-71046-S,immobili,Lombardia,Lecco,Annone di Brianza,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Lecco,Misure di Prevenzione
 I-LC-71047-S,immobili,Lombardia,Lecco,Annone di Brianza,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Lecco,Misure di Prevenzione
@@ -6343,7 +6338,7 @@ I-LT-1261-S,immobili,Lazio,Latina,Sperlonga,Unità immobiliare per uso di abitaz
 I-LT-1262-S,immobili,Lazio,Latina,Sperlonga,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-LT-1264-S,immobili,Lazio,Latina,Formia,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-LT-1265-S,immobili,Lazio,Latina,Formia,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-LT-13348-S,immobili,Lazio,Latina,Aprilia,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Sequestro,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-13348-S,immobili,Lazio,Latina,Aprilia,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-13349-S,immobili,Lazio,Latina,Aprilia,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-13350-S,immobili,Lazio,Latina,Aprilia,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-13362-S,immobili,Lazio,Latina,Aprilia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
@@ -10814,6 +10809,7 @@ I-OT-56329-S,immobili,Sardegna,Olbia-Tempio,Palau,Altra unità immobiliare,Altro
 I-OT-58338-S,immobili,Sardegna,Olbia-Tempio,Olbia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Roma,Misure di Prevenzione
 I-OT-58873-S,immobili,Sardegna,Olbia-Tempio,Golfo Aranci,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Taranto,Procedimento Penale
 I-OT-61753-S,immobili,Sardegna,Olbia-Tempio,Arzachena,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,50%,Procura della Repubblica,Milano,Procedimento Penale
+I-OT-63927-S,immobili,Sardegna,Olbia-Tempio,Olbia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Sequ. parziale,100%,Tribunale,Milano,Misure di Prevenzione
 I-OT-63955-S,immobili,Sardegna,Olbia-Tempio,Olbia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-OT-68613-S,immobili,Sardegna,Olbia-Tempio,Luras,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-OT-68614-S,immobili,Sardegna,Olbia-Tempio,Luras,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,100%,Procura della Repubblica,Milano,Procedimento Penale
