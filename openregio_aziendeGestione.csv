@@ -1040,7 +1040,6 @@ A-MI-54035-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata
 A-MI-54058-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-54086-S,aziende,Lombardia,Milano,Milano,Società cooperativa a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-54094-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,5%,Procura della Repubblica,Milano,Procedimento Penale
-A-MI-54106-S,aziende,Lombardia,Milano,Milano,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-54368-S,aziende,Lombardia,Milano,Rosate,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 A-MI-55941-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,90%,Tribunale,Varese,Misure di Prevenzione
 A-MI-56108-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Caltanissetta,Procedimento Penale
@@ -2539,6 +2538,17 @@ A-RM-93606-S,aziende,Lazio,Roma,Anzio,Società a responsabilità limitata,Costru
 A-RM-93616-S,aziende,Lazio,Roma,Anzio,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-93642-S,aziende,Lazio,Roma,Anzio,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-94283-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,50%,Tribunale,Napoli,Misure di Prevenzione
+A-RM-94767-S,aziende,Lazio,Roma,Ladispoli,Società in nome collettivo,Alberghi e ristoranti,Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-94786-S,aziende,Lazio,Roma,Ladispoli,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Conf.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-94788-S,aziende,Lazio,Roma,Ladispoli,Impresa individuale,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-94789-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Revoca Conf.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-94802-S,aziende,Lazio,Roma,Ladispoli,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-94806-S,aziende,Lazio,Roma,Ladispoli,Società in nome collettivo,Alberghi e ristoranti,Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-94807-S,aziende,Lazio,Roma,Ladispoli,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-94822-S,aziende,Lazio,Roma,Ladispoli,Società a responsabilità limitata,Costruzioni,Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-94838-S,aziende,Lazio,Roma,Ladispoli,Impresa individuale,Alberghi e ristoranti,Revoca Conf.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-94864-S,aziende,Lazio,Roma,Ladispoli,Società a responsabilità limitata,Costruzioni,Revoca Seq.,99%,Tribunale,Roma,Misure di Prevenzione
+A-RM-94867-S,aziende,Lazio,Roma,Ladispoli,Società a responsabilità limitata,Costruzioni,Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-9858-S,aziende,Lazio,Roma,Moricone,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,60%,Procura della Repubblica,Napoli,Procedimento Penale
 A-RN-11498-S,aziende,Emilia Romagna,Rimini,Riccione,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Rimini,Misure di Prevenzione
 A-RN-17770-S,aziende,Emilia Romagna,Rimini,Rimini,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
