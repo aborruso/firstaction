@@ -1623,12 +1623,12 @@ Liguria,Tribunale,La Spezia,Misure di Prevenzione,Confisca def.,13/2016
 Liguria,Tribunale,La Spezia,Misure di Prevenzione,Revoca Conf.,8/2017
 Liguria,Procura della Repubblica,Savona,Procedimento Penale,Confisca def.,4453/2014
 Liguria,Procura della Repubblica,Savona,Procedimento Penale,Confisca def.,5512/2014
-Liguria,Tribunale,Savona,Misure di Prevenzione,Confisca I,9/2014
 Liguria,Tribunale,Savona,Misure di Prevenzione,Confisca def.,1/2006
 Liguria,Tribunale,Savona,Misure di Prevenzione,Confisca def.,10/2013
 Liguria,Tribunale,Savona,Misure di Prevenzione,Confisca def.,13/2013
 Liguria,Tribunale,Savona,Misure di Prevenzione,Confisca def.,5/2015
 Liguria,Tribunale,Savona,Misure di Prevenzione,Confisca def.,8/2012
+Liguria,Tribunale,Savona,Misure di Prevenzione,Confisca def.,9/2014
 Liguria,Tribunale,Savona,Misure di Prevenzione,Revoca Conf.,1/2017
 Liguria,Tribunale,Savona,Misure di Prevenzione,Revoca Conf.,16/2013
 Liguria,Tribunale,Savona,Misure di Prevenzione,Revoca Conf. parziale,3/2012
@@ -1785,6 +1785,7 @@ Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,4712/20
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,55192/2013
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,64/1998
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,6473/2013
+Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,860/2013
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca II,12772/2000
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca II,193/2012
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca II,35026/2006
@@ -1872,7 +1873,6 @@ Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,7167
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,72991/2010
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,73990/2010
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,81671/2015
-Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,860/2013
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,883/2013
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,884/1993
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,889/2007
@@ -2309,7 +2309,6 @@ Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,10/2017
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,15/2014
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,24/2014
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,26/2017
-Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,36/2016
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,4/2018
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,41/2015
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,43/2012
@@ -2403,6 +2402,7 @@ Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,35/2012
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,35/2017
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,36/2012
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,36/2013
+Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,36/2016
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,37/2011
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,37/2012
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,37/2013
@@ -3027,6 +3027,7 @@ Sicilia,Tribunale,Caltanissetta,Misure di Prevenzione,Confisca def.,58/2012
 Sicilia,Tribunale,Caltanissetta,Misure di Prevenzione,Confisca def.,6/1995
 Sicilia,Tribunale,Caltanissetta,Misure di Prevenzione,Confisca def.,6/2016
 Sicilia,Tribunale,Caltanissetta,Misure di Prevenzione,Confisca def.,66/2013
+Sicilia,Tribunale,Caltanissetta,Misure di Prevenzione,Confisca def.,76/2013
 Sicilia,Tribunale,Caltanissetta,Misure di Prevenzione,Confisca def.,8/2011
 Sicilia,Tribunale,Caltanissetta,Misure di Prevenzione,Confisca def.,82/2003
 Sicilia,Tribunale,Caltanissetta,Misure di Prevenzione,Confisca def.,85/1999
@@ -3035,7 +3036,6 @@ Sicilia,Tribunale,Caltanissetta,Misure di Prevenzione,Confisca def.,86/2012
 Sicilia,Tribunale,Caltanissetta,Misure di Prevenzione,Confisca def.,90/2003
 Sicilia,Tribunale,Caltanissetta,Misure di Prevenzione,Confisca def.,90/2008
 Sicilia,Tribunale,Caltanissetta,Misure di Prevenzione,Confisca def.,95/2003
-Sicilia,Tribunale,Caltanissetta,Misure di Prevenzione,Revoca Conf.,76/2013
 Sicilia,Tribunale,Caltanissetta,Misure di Prevenzione,Revoca Conf. parziale,63/2012
 Sicilia,Tribunale,Caltanissetta,Misure di Prevenzione,Rinvio,14/2015
 Sicilia,Tribunale,Caltanissetta,Misure di Prevenzione,Rinvio,75/2013
@@ -3694,7 +3694,6 @@ Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,238/1984
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,238/1995
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,239/1983
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,239/1984
-Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,239/1995
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,239/2014
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,24/2012
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,240/2003
@@ -3981,6 +3980,7 @@ Sicilia,Tribunale,Palermo,Misure di Prevenzione,Revoca Conf. parziale,21/1986
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Revoca Conf. parziale,22/2001
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Revoca Conf. parziale,233/2011
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Revoca Conf. parziale,239/1968
+Sicilia,Tribunale,Palermo,Misure di Prevenzione,Revoca Conf. parziale,239/1995
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Revoca Conf. parziale,246/2005
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Revoca Conf. parziale,270/2002
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Revoca Conf. parziale,272/1992

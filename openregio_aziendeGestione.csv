@@ -470,7 +470,6 @@ A-CL-61997-S,aziende,Sicilia,Caltanissetta,Caltanissetta,Società a responsabili
 A-CL-61999-S,aziende,Sicilia,Caltanissetta,Caltanissetta,Consorzio,Costruzioni,Confisca def.,20%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-62000-S,aziende,Sicilia,Caltanissetta,Caltanissetta,Consorzio,Costruzioni,Confisca def.,50%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-62001-S,aziende,Sicilia,Caltanissetta,Caltanissetta,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-A-CL-63471-S,aziende,Sicilia,Caltanissetta,San Cataldo,Società cooperativa,"Agricoltura, caccia e silvicoltura",Confisca I,34%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-65227-S,aziende,Sicilia,Caltanissetta,Montedoro,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-65228-S,aziende,Sicilia,Caltanissetta,Montedoro,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-67919-S,aziende,Sicilia,Caltanissetta,Gela,Impresa individuale,Costruzioni,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -561,7 +560,6 @@ A-CT-61393-S,aziende,Sicilia,Catania,Catania,Impresa individuale,"Pesca, piscico
 A-CT-61973-S,aziende,Sicilia,Catania,Aci Catena,Società a responsabilità limitata,Costruzioni,Confisca def.,75%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CT-61987-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,40%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CT-63295-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,33%,Tribunale,Catania,Misure di Prevenzione
-A-CT-63394-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,Costruzioni,Confisca I,29%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CT-64301-S,aziende,Sicilia,Catania,Catania,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-64696-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-64697-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
@@ -1724,8 +1722,6 @@ A-PA-63069-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,Attività svolt
 A-PA-63325-S,aziende,Sicilia,Palermo,Palermo,Società cooperativa a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-63589-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,Attività manifatturiere,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-63591-S,aziende,Sicilia,Palermo,Palermo,Società in accomandita semplice,Attività manifatturiere,Revoca Sequ. parziale,100%,Tribunale,Palermo,Misure di Prevenzione
-A-PA-63655-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-A-PA-63657-S,aziende,Sicilia,Palermo,Gangi,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-PA-64179-S,aziende,Sicilia,Palermo,Monreale,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-64184-S,aziende,Sicilia,Palermo,Monreale,Società a responsabilità limitata,Costruzioni,Confisca def.,25%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-64190-S,aziende,Sicilia,Palermo,Monreale,Società a responsabilità limitata,Costruzioni,Confisca def.,60%,Tribunale,Palermo,Misure di Prevenzione
@@ -2674,6 +2670,10 @@ A-SV-93478-S,aziende,Liguria,Savona,Loano,Società in accomandita semplice,"Comm
 A-SV-93479-S,aziende,Liguria,Savona,Loano,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
 A-SV-93482-S,aziende,Liguria,Savona,Albenga,Società semplice,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
 A-SV-93486-S,aziende,Liguria,Savona,Loano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Savona,Misure di Prevenzione
+A-SV-94878-S,aziende,Liguria,Savona,Albenga,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Savona,Misure di Prevenzione
+A-SV-94879-S,aziende,Liguria,Savona,Albenga,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",,0%,Tribunale,Savona,Misure di Prevenzione
+A-SV-94880-S,aziende,Liguria,Savona,Albenga,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",,0%,Tribunale,Savona,Misure di Prevenzione
+A-SV-94881-S,aziende,Liguria,Savona,Albenga,Società in nome collettivo,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",,0%,Tribunale,Savona,Misure di Prevenzione
 A-TA-13848-S,aziende,Puglia,Taranto,Pulsano,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,33%,Tribunale,Taranto,Misure di Prevenzione
 A-TA-19388-S,aziende,Puglia,Taranto,Taranto,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 A-TA-19737-S,aziende,Puglia,Taranto,Massafra,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,90%,Tribunale,Taranto,Misure di Prevenzione
