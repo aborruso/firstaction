@@ -8383,16 +8383,11 @@ I-MI-62407-S,immobili,Lombardia,Milano,Vimodrone,Unità immobiliare per uso di a
 I-MI-62408-S,immobili,Lombardia,Milano,Vimodrone,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63057-S,immobili,Lombardia,Milano,Cisliano,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-63932-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-63933-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,,0%,Tribunale,Milano,Misure di Prevenzione
-I-MI-63934-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,,0%,Tribunale,Milano,Misure di Prevenzione
-I-MI-63935-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
+I-MI-63935-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63936-S,immobili,Lombardia,Milano,Milano,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63937-S,immobili,Lombardia,Milano,Milano,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63938-S,immobili,Lombardia,Milano,Milano,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-63939-S,immobili,Lombardia,Milano,Milano,Terreno,Terreno - non definito,Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
-I-MI-63940-S,immobili,Lombardia,Milano,Milano,Terreno,Terreno - non definito,,0%,Tribunale,Milano,Misure di Prevenzione
-I-MI-63941-S,immobili,Lombardia,Milano,Milano,Terreno,Terreno - non definito,,0%,Tribunale,Milano,Misure di Prevenzione
-I-MI-63942-S,immobili,Lombardia,Milano,Milano,Terreno,Terreno - non definito,,0%,Tribunale,Milano,Misure di Prevenzione
+I-MI-63939-S,immobili,Lombardia,Milano,Milano,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63960-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63961-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63962-S,immobili,Lombardia,Milano,Arese,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -10759,6 +10754,7 @@ I-NO-93513-S,immobili,Piemonte,Novara,Borgomanero,Unità immobiliare per uso di 
 I-NO-93517-S,immobili,Piemonte,Novara,Novara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Novara,Misure di Prevenzione
 I-NO-93518-S,immobili,Piemonte,Novara,Novara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Novara,Misure di Prevenzione
 I-NO-93519-S,immobili,Piemonte,Novara,Prato Sesia,Unità immobiliare a destinazione commerciale e industriale,Altro,,0%,Tribunale,Novara,Misure di Prevenzione
+I-NO-94915-S,immobili,Piemonte,Novara,Fara Novarese,Terreno,Terreno - non definito,,0%,Tribunale,Torino,Misure di Prevenzione
 I-OG-19996-S,immobili,Sardegna,Ogliastra,Cardedu,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Procura della Repubblica,Cagliari,Procedimento Penale
 I-OG-73578-S,immobili,Sardegna,Ogliastra,Villagrande Strisaili,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Sequestro,100%,Procura della Repubblica,Cagliari,Procedimento Penale
 I-OG-73581-S,immobili,Sardegna,Ogliastra,Cardedu,Unità immobiliare a destinazione commerciale e industriale,Altro,Sequestro,75%,Procura della Repubblica,Cagliari,Procedimento Penale
@@ -10814,7 +10810,7 @@ I-OT-56329-S,immobili,Sardegna,Olbia-Tempio,Palau,Altra unità immobiliare,Altro
 I-OT-58338-S,immobili,Sardegna,Olbia-Tempio,Olbia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Roma,Misure di Prevenzione
 I-OT-58873-S,immobili,Sardegna,Olbia-Tempio,Golfo Aranci,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Taranto,Procedimento Penale
 I-OT-61753-S,immobili,Sardegna,Olbia-Tempio,Arzachena,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,50%,Procura della Repubblica,Milano,Procedimento Penale
-I-OT-63927-S,immobili,Sardegna,Olbia-Tempio,Olbia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Sequ. parziale,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-63927-S,immobili,Sardegna,Olbia-Tempio,Olbia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-OT-63955-S,immobili,Sardegna,Olbia-Tempio,Olbia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-OT-68613-S,immobili,Sardegna,Olbia-Tempio,Luras,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-OT-68614-S,immobili,Sardegna,Olbia-Tempio,Luras,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -13656,6 +13652,8 @@ I-PO-89439-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazio
 I-PO-89443-S,immobili,Toscana,Prato,Prato,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
 I-PO-89477-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Prato,Misure di Prevenzione
 I-PO-89478-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Prato,Misure di Prevenzione
+I-PO-94899-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Tribunale,Prato,Misure di Prevenzione
+I-PO-94911-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Prato,Misure di Prevenzione
 I-PR-37889-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-37890-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-37891-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Bologna,Procedimento Penale
@@ -16919,7 +16917,7 @@ I-SA-87827-S,immobili,Campania,Salerno,Campagna,Terreno,Terreno agricolo,Confisc
 I-SA-87830-S,immobili,Campania,Salerno,Campagna,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,75%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-87834-S,immobili,Campania,Salerno,Campagna,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,75%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-87836-S,immobili,Campania,Salerno,Campagna,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,75%,Tribunale,Salerno,Misure di Prevenzione
-I-SA-87840-S,immobili,Campania,Salerno,Campagna,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-87840-S,immobili,Campania,Salerno,Campagna,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-87842-S,immobili,Campania,Salerno,Campagna,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,75%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-87934-S,immobili,Campania,Salerno,Salerno,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-88160-S,immobili,Campania,Salerno,Cava de' Tirreni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
