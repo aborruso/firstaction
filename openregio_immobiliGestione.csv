@@ -931,9 +931,9 @@ I-BA-87389-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,10
 I-BA-87390-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-87391-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-87392-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
-I-BA-87393-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Bari,Misure di Prevenzione
-I-BA-87394-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Bari,Misure di Prevenzione
-I-BA-87395-S,immobili,Puglia,Bari,Bari,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
+I-BA-87393-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
+I-BA-87394-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
+I-BA-87395-S,immobili,Puglia,Bari,Bari,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-87466-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno agricolo,Revoca Conf. parziale,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-87468-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno agricolo,,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-87469-S,immobili,Puglia,Bari,Gioia del Colle,Unità immobiliare per uso di abitazione e assimilabile,Villa,,100%,Tribunale,Bari,Misure di Prevenzione
@@ -1064,6 +1064,7 @@ I-BG-94888-S,immobili,Lombardia,Bergamo,Bergamo,Unità immobiliare per uso di ab
 I-BG-94889-S,immobili,Lombardia,Bergamo,Bergamo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
 I-BG-94890-S,immobili,Lombardia,Bergamo,Ponteranica,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
 I-BG-94891-S,immobili,Lombardia,Bergamo,Bergamo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
+I-BG-94916-S,immobili,Lombardia,Bergamo,Cisano Bergamasco,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BI-16475-S,immobili,Piemonte,Biella,Valle Mosso,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BI-16476-S,immobili,Piemonte,Biella,Valle Mosso,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BI-16477-S,immobili,Piemonte,Biella,Valle Mosso,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -10754,7 +10755,7 @@ I-NO-93513-S,immobili,Piemonte,Novara,Borgomanero,Unità immobiliare per uso di 
 I-NO-93517-S,immobili,Piemonte,Novara,Novara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Novara,Misure di Prevenzione
 I-NO-93518-S,immobili,Piemonte,Novara,Novara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Novara,Misure di Prevenzione
 I-NO-93519-S,immobili,Piemonte,Novara,Prato Sesia,Unità immobiliare a destinazione commerciale e industriale,Altro,,0%,Tribunale,Novara,Misure di Prevenzione
-I-NO-94915-S,immobili,Piemonte,Novara,Fara Novarese,Terreno,Terreno - non definito,,0%,Tribunale,Torino,Misure di Prevenzione
+I-NO-94915-S,immobili,Piemonte,Novara,Fara Novarese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-OG-19996-S,immobili,Sardegna,Ogliastra,Cardedu,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Procura della Repubblica,Cagliari,Procedimento Penale
 I-OG-73578-S,immobili,Sardegna,Ogliastra,Villagrande Strisaili,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Sequestro,100%,Procura della Repubblica,Cagliari,Procedimento Penale
 I-OG-73581-S,immobili,Sardegna,Ogliastra,Cardedu,Unità immobiliare a destinazione commerciale e industriale,Altro,Sequestro,75%,Procura della Repubblica,Cagliari,Procedimento Penale
@@ -11443,7 +11444,7 @@ I-PA-35396-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abit
 I-PA-3766-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-37865-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PA-38142-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PA-38153-S,immobili,Sicilia,Palermo,Bagheria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PA-38153-S,immobili,Sicilia,Palermo,Bagheria,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PA-3821-S,immobili,Sicilia,Palermo,Altofonte,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-3824-S,immobili,Sicilia,Palermo,Altofonte,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-3826-S,immobili,Sicilia,Palermo,Altofonte,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -17028,7 +17029,6 @@ I-SP-90897-S,immobili,Liguria,La Spezia,Arcola,Unità immobiliare a destinazione
 I-SP-94423-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-94445-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-SR-20757-S,immobili,Sicilia,Siracusa,Siracusa,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Siracusa,Procedimento Penale
-I-SR-20758-S,immobili,Sicilia,Siracusa,Siracusa,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Siracusa,Procedimento Penale
 I-SR-24571-S,immobili,Sicilia,Siracusa,Siracusa,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-24822-S,immobili,Sicilia,Siracusa,Siracusa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-24823-S,immobili,Sicilia,Siracusa,Siracusa,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Tribunale,Siracusa,Misure di Prevenzione
