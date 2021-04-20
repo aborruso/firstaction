@@ -88,7 +88,6 @@ A-AG-86517-S,aziende,Sicilia,Agrigento,Licata,Impresa individuale,,,100%,Tribuna
 A-AG-86518-S,aziende,Sicilia,Agrigento,Licata,Società in accomandita semplice,,,100%,Tribunale,Agrigento,Misure di Prevenzione
 A-AL-61955-S,aziende,Piemonte,Alessandria,Tortona,Consorzio,"Produzione e distribuzione di energia elettrica, gas e acqua",Confisca def.,31%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-AL-79215-S,aziende,Piemonte,Alessandria,Alessandria,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Alessandria,Misure di Prevenzione
-A-AN-80198-S,aziende,Marche,Ancona,Jesi,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
 A-AO-74798-S,aziende,Valle d'Aosta,Aosta,Saint-Vincent,Consorzio,Costruzioni,Confisca I,28%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-AP-25234-S,aziende,Marche,Ascoli Piceno,San Benedetto del Tronto,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Teramo,Misure di Prevenzione
 A-AP-30741-S,aziende,Marche,Ascoli Piceno,Grottammare,Società in nome collettivo,Alberghi e ristoranti,Confisca def.,90%,Tribunale,Milano,Misure di Prevenzione
@@ -361,7 +360,6 @@ A-CE-79816-S,aziende,Campania,Caserta,Caserta,Società cooperativa,"Altri serviz
 A-CE-79818-S,aziende,Campania,Caserta,Caserta,Società cooperativa,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-CE-79819-S,aziende,Campania,Caserta,Caserta,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-CE-79820-S,aziende,Campania,Caserta,Caserta,Società cooperativa,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-A-CE-80200-S,aziende,Campania,Caserta,Caserta,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
 A-CE-80203-S,aziende,Campania,Caserta,Caserta,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
 A-CE-80204-S,aziende,Campania,Caserta,Caserta,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
 A-CE-80216-S,aziende,Campania,Caserta,San Cipriano d'Aversa,Società a responsabilità limitata,Costruzioni,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -885,7 +883,7 @@ A-MB-56111-S,aziende,Lombardia,Monza e Brianza,Monza,Impresa individuale,Costruz
 A-MB-58474-S,aziende,Lombardia,Monza e Brianza,Giussano,Associazione,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MB-68921-S,aziende,Lombardia,Monza e Brianza,Bernareggio,Società in nome collettivo,Alberghi e ristoranti,Confisca I,100%,Procura della Repubblica,Monza,Procedimento Penale
 A-MB-70600-S,aziende,Lombardia,Monza e Brianza,Villasanta,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,51%,Procura della Repubblica,Milano,Procedimento Penale
-A-MB-70614-S,aziende,Lombardia,Monza e Brianza,Sovico,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,10%,Procura della Repubblica,Milano,Procedimento Penale
+A-MB-70614-S,aziende,Lombardia,Monza e Brianza,Sovico,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,99%,Procura della Repubblica,Milano,Procedimento Penale
 A-MB-72189-S,aziende,Lombardia,Monza e Brianza,Monza,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MB-74304-S,aziende,Lombardia,Monza e Brianza,Seveso,Società in accomandita semplice,Alberghi e ristoranti,Confisca II,51%,Procura della Repubblica,Monza,Procedimento Penale
 A-MB-74311-S,aziende,Lombardia,Monza e Brianza,Barlassina,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Procura della Repubblica,Monza,Procedimento Penale
