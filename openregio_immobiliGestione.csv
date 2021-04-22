@@ -4817,6 +4817,8 @@ I-CT-94009-S,immobili,Sicilia,Catania,Militello in Val di Catania,Terreno,Terren
 I-CT-94010-S,immobili,Sicilia,Catania,Mineo,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-94058-S,immobili,Sicilia,Catania,Paternò,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-94061-S,immobili,Sicilia,Catania,Paternò,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-94927-S,immobili,Sicilia,Catania,Maniace,Terreno,Terreno edificabile,,0%,Tribunale,Catania,Misure di Prevenzione
+I-CT-94928-S,immobili,Sicilia,Catania,Maniace,Terreno,Terreno agricolo,,0%,Tribunale,Catania,Misure di Prevenzione
 I-CZ-15253-S,immobili,Calabria,Catanzaro,Guardavalle,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-15532-S,immobili,Calabria,Catanzaro,Lamezia Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-15533-S,immobili,Calabria,Catanzaro,Lamezia Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Tribunale,Catanzaro,Misure di Prevenzione
@@ -5664,7 +5666,7 @@ I-GE-91279-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitaz
 I-GE-91280-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-91281-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-91282-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
-I-GE-91286-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Genova,Misure di Prevenzione
+I-GE-91286-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-92110-S,immobili,Liguria,Genova,Lavagna,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-92111-S,immobili,Liguria,Genova,Sestri Levante,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-93143-S,immobili,Liguria,Genova,Lavagna,Terreno,Terreno agricolo,Confisca II,100%,Procura della Repubblica,Genova,Procedimento Penale
@@ -5738,6 +5740,8 @@ I-IM-92101-S,immobili,Liguria,Imperia,Sanremo,Altra unità immobiliare,Altro,,0%
 I-IM-92102-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Procura della Repubblica,Imperia,Procedimento Penale
 I-IM-92103-S,immobili,Liguria,Imperia,Sanremo,Terreno,Terreno agricolo,,0%,Procura della Repubblica,Imperia,Procedimento Penale
 I-IM-92104-S,immobili,Liguria,Imperia,Sanremo,Terreno,Terreno agricolo,,0%,Procura della Repubblica,Imperia,Procedimento Penale
+I-IM-94925-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-IM-94926-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-IS-50785-S,immobili,Molise,Isernia,Isernia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,83%,Procura della Repubblica,Napoli,Procedimento Penale
 I-IS-50787-S,immobili,Molise,Isernia,Isernia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-IS-81900-S,immobili,Molise,Isernia,Venafro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -17209,6 +17213,8 @@ I-SV-94874-S,immobili,Liguria,Savona,Albenga,Unità immobiliare per uso di abita
 I-SV-94875-S,immobili,Liguria,Savona,Albenga,Terreno,Terreno - non definito,,0%,Tribunale,Savona,Misure di Prevenzione
 I-SV-94876-S,immobili,Liguria,Savona,Albenga,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Savona,Misure di Prevenzione
 I-SV-94877-S,immobili,Liguria,Savona,Andora,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,0%,Tribunale,Savona,Misure di Prevenzione
+I-SV-94923-S,immobili,Liguria,Savona,Spotorno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-SV-94924-S,immobili,Liguria,Savona,Spotorno,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TA-13851-S,immobili,Puglia,Taranto,Pulsano,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,33%,Tribunale,Taranto,Misure di Prevenzione
 I-TA-17504-S,immobili,Puglia,Taranto,Pulsano,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Taranto,Procedimento Penale
 I-TA-17506-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Lecce,Procedimento Penale
@@ -19322,7 +19328,6 @@ I-VA-28512-S,immobili,Lombardia,Varese,Varese,Altra unità immobiliare,Altro,Con
 I-VA-28513-S,immobili,Lombardia,Varese,Varese,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Varese,Procedimento Penale
 I-VA-33915-S,immobili,Lombardia,Varese,Busto Arsizio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Varese,Misure di Prevenzione
 I-VA-34021-S,immobili,Lombardia,Varese,Lonate Pozzolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,50%,Tribunale,Varese,Misure di Prevenzione
-I-VA-34636-S,immobili,Lombardia,Varese,Taino,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Varese,Procedimento Penale
 I-VA-34637-S,immobili,Lombardia,Varese,Busto Arsizio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Varese,Misure di Prevenzione
 I-VA-34953-S,immobili,Lombardia,Varese,Olgiate Olona,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Varese,Misure di Prevenzione
 I-VA-34954-S,immobili,Lombardia,Varese,Olgiate Olona,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Varese,Misure di Prevenzione
@@ -19346,7 +19351,6 @@ I-VA-47702-S,immobili,Lombardia,Varese,Busto Arsizio,Unità immobiliare per uso 
 I-VA-48203-S,immobili,Lombardia,Varese,Lonate Pozzolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Tribunale,Varese,Misure di Prevenzione
 I-VA-48204-S,immobili,Lombardia,Varese,Lonate Pozzolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,50%,Tribunale,Varese,Misure di Prevenzione
 I-VA-48207-S,immobili,Lombardia,Varese,Lonate Pozzolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Tribunale,Varese,Misure di Prevenzione
-I-VA-51247-S,immobili,Lombardia,Varese,Taino,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Varese,Procedimento Penale
 I-VA-52427-S,immobili,Lombardia,Varese,Castiglione Olona,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-VA-52428-S,immobili,Lombardia,Varese,Castiglione Olona,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-VA-52532-S,immobili,Lombardia,Varese,Angera,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
