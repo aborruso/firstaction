@@ -673,10 +673,10 @@ I-AT-91527-S,immobili,Piemonte,Asti,Asti,Unità immobiliare per uso di abitazion
 I-AT-92031-S,immobili,Piemonte,Asti,Asti,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 I-AT-92032-S,immobili,Piemonte,Asti,Asti,Terreno,Terreno - non definito,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 I-AV-2019-S,immobili,Campania,Avellino,Pago del Vallo di Lauro,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-AV-2100-S,immobili,Campania,Avellino,Prata di Principato Ultra,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Avellino,Misure di Prevenzione
-I-AV-2101-S,immobili,Campania,Avellino,Prata di Principato Ultra,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Avellino,Misure di Prevenzione
-I-AV-2102-S,immobili,Campania,Avellino,Prata di Principato Ultra,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Avellino,Misure di Prevenzione
-I-AV-2103-S,immobili,Campania,Avellino,Prata di Principato Ultra,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Avellino,Misure di Prevenzione
+I-AV-2100-S,immobili,Campania,Avellino,Prata di Principato Ultra,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Avellino,Misure di Prevenzione
+I-AV-2101-S,immobili,Campania,Avellino,Prata di Principato Ultra,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Avellino,Misure di Prevenzione
+I-AV-2102-S,immobili,Campania,Avellino,Prata di Principato Ultra,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Avellino,Misure di Prevenzione
+I-AV-2103-S,immobili,Campania,Avellino,Prata di Principato Ultra,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Avellino,Misure di Prevenzione
 I-AV-2108-S,immobili,Campania,Avellino,Sirignano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Avellino,Misure di Prevenzione
 I-AV-2109-S,immobili,Campania,Avellino,Sirignano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Avellino,Misure di Prevenzione
 I-AV-2110-S,immobili,Campania,Avellino,Sirignano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,66%,Tribunale,Avellino,Misure di Prevenzione
@@ -8283,8 +8283,8 @@ I-MI-40024-S,immobili,Lombardia,Milano,Settimo Milanese,Unità immobiliare per u
 I-MI-40025-S,immobili,Lombardia,Milano,Settimo Milanese,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,,Tribunale,Milano,Misure di Prevenzione
 I-MI-40080-S,immobili,Lombardia,Milano,Turbigo,Terreno,Terreno agricolo,,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-40081-S,immobili,Lombardia,Milano,Turbigo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Milano,Misure di Prevenzione
-I-MI-40153-S,immobili,Lombardia,Milano,Robecco sul Naviglio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Milano,Misure di Prevenzione
-I-MI-40159-S,immobili,Lombardia,Milano,Robecco sul Naviglio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Milano,Misure di Prevenzione
+I-MI-40153-S,immobili,Lombardia,Milano,Robecco sul Naviglio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-40159-S,immobili,Lombardia,Milano,Robecco sul Naviglio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-40269-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-MI-40759-S,immobili,Lombardia,Milano,Bareggio,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-MI-40788-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -19106,8 +19106,8 @@ I-TP-83932-S,immobili,Sicilia,Trapani,Campobello di Mazara,Altra unità immobili
 I-TP-83933-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-83934-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-83935-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-83936-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno edificabile,Confisca II,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-83937-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno edificabile,Confisca II,0%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-83936-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-83937-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno edificabile,Confisca II,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-83938-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-83939-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-84612-S,immobili,Sicilia,Trapani,Erice,Altra unità immobiliare,Altro,Confisca def.,50%,Tribunale,Trapani,Misure di Prevenzione
@@ -19280,6 +19280,7 @@ I-TP-92943-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Con
 I-TP-92944-S,immobili,Sicilia,Trapani,Castelvetrano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,50%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-92947-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno con fabbricato rurale,Confisca def.,67%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-92948-S,immobili,Sicilia,Trapani,Castelvetrano,Altra unità immobiliare,Altro,Revoca Seq.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93312-S,immobili,Sicilia,Trapani,Campobello di Mazara,Altra unità immobiliare,Altro,Confisca def.,0%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-93491-S,immobili,Sicilia,Trapani,Castellammare del Golfo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-93493-S,immobili,Sicilia,Trapani,Castellammare del Golfo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-93494-S,immobili,Sicilia,Trapani,Castellammare del Golfo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
