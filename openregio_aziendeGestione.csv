@@ -2101,9 +2101,9 @@ A-RE-37888-S,aziende,Emilia Romagna,Reggio Emilia,Reggio nell'Emilia,Società a 
 A-RE-39882-S,aziende,Emilia Romagna,Reggio Emilia,Reggio nell'Emilia,Società a responsabilità limitata,Costruzioni,Confisca def.,50%,Procura della Repubblica,Bologna,Procedimento Penale
 A-RE-4875-S,aziende,Emilia Romagna,Reggio Emilia,Bibbiano,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 A-RE-4876-S,aziende,Emilia Romagna,Reggio Emilia,Bibbiano,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
-A-RE-49478-S,aziende,Emilia Romagna,Reggio Emilia,Brescello,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+A-RE-49478-S,aziende,Emilia Romagna,Reggio Emilia,Brescello,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-RE-49795-S,aziende,Emilia Romagna,Reggio Emilia,Brescello,Società a responsabilità limitata,Costruzioni,Sequestro,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
-A-RE-49802-S,aziende,Emilia Romagna,Reggio Emilia,Brescello,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+A-RE-49802-S,aziende,Emilia Romagna,Reggio Emilia,Brescello,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-RE-49803-S,aziende,Emilia Romagna,Reggio Emilia,Brescello,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,20%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-RE-50051-S,aziende,Emilia Romagna,Reggio Emilia,Reggio nell'Emilia,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 A-RE-50077-S,aziende,Emilia Romagna,Reggio Emilia,Casalgrande,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
@@ -2473,13 +2473,13 @@ A-RM-90085-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Albergh
 A-RM-90090-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Attività finanziarie,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-90092-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-90106-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-91267-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-91267-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-91268-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Attività manifatturiere,,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-91269-S,aziende,Lazio,Roma,Roma,Consorzio,Attività manifatturiere,,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-91270-S,aziende,Lazio,Roma,Roma,Consorzio,Costruzioni,,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-91271-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-91272-S,aziende,Lazio,Roma,Roma,Società per azioni,Attività manifatturiere,,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-91273-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Attività manifatturiere,,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-91273-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-91275-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-91276-S,aziende,Lazio,Roma,Fiano Romano,Società a responsabilità limitata,Attività finanziarie,,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-91801-S,aziende,Lazio,Roma,San Cesareo,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
