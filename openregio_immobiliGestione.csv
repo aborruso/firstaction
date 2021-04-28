@@ -49,6 +49,8 @@ I-AG-21040-S,immobili,Sicilia,Agrigento,Realmonte,Unità immobiliare per uso di 
 I-AG-21041-S,immobili,Sicilia,Agrigento,Realmonte,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-21042-S,immobili,Sicilia,Agrigento,Realmonte,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-21078-S,immobili,Sicilia,Agrigento,Agrigento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-21386-S,immobili,Sicilia,Agrigento,Ribera,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-21388-S,immobili,Sicilia,Agrigento,Ribera,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-21489-S,immobili,Sicilia,Agrigento,Racalmuto,Terreno,Terreno con fabbricato rurale,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-21490-S,immobili,Sicilia,Agrigento,Racalmuto,Terreno,Terreno con fabbricato rurale,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-21520-S,immobili,Sicilia,Agrigento,Santa Margherita di Belice,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
@@ -3435,8 +3437,8 @@ I-CL-74584-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agrico
 I-CL-74869-S,immobili,Sicilia,Caltanissetta,Vallelunga Pratameno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-CL-76925-S,immobili,Sicilia,Caltanissetta,Gela,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Rinvio,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-76926-S,immobili,Sicilia,Caltanissetta,Gela,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Rinvio,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-76934-S,immobili,Sicilia,Caltanissetta,Gela,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-76940-S,immobili,Sicilia,Caltanissetta,Gela,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-76934-S,immobili,Sicilia,Caltanissetta,Gela,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-76940-S,immobili,Sicilia,Caltanissetta,Gela,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-77594-S,immobili,Sicilia,Caltanissetta,Vallelunga Pratameno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-79014-S,immobili,Sicilia,Caltanissetta,Montedoro,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-79015-S,immobili,Sicilia,Caltanissetta,Montedoro,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -8390,7 +8392,7 @@ I-MI-63937-S,immobili,Lombardia,Milano,Milano,Terreno,Terreno - non definito,Con
 I-MI-63938-S,immobili,Lombardia,Milano,Milano,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63939-S,immobili,Lombardia,Milano,Milano,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63960-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-63961-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-63961-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63962-S,immobili,Lombardia,Milano,Arese,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63966-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63967-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
@@ -8407,7 +8409,7 @@ I-MI-63986-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abit
 I-MI-63987-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63991-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63992-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-63993-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-63993-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63994-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63995-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63996-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
@@ -11458,11 +11460,17 @@ I-PA-38990-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno - non definito,Con
 I-PA-39023-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-39026-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-39147-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-39148-S,immobili,Sicilia,Palermo,Trabia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-39149-S,immobili,Sicilia,Palermo,Trabia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-39150-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-39154-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,25%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-39155-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-39156-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-39157-S,immobili,Sicilia,Palermo,Trabia,Unità immobiliare per uso di abitazione e assimilabile,Altro,,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-39158-S,immobili,Sicilia,Palermo,Trabia,Unità immobiliare per uso di abitazione e assimilabile,Altro,,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-39162-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-39169-S,immobili,Sicilia,Palermo,Trabia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-39171-S,immobili,Sicilia,Palermo,Trabia,Unità immobiliare per uso di abitazione e assimilabile,Altro,,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-39180-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-39186-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-39187-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -12474,7 +12482,6 @@ I-PA-75404-S,immobili,Sicilia,Palermo,Borgetto,Altra unità immobiliare,Altra un
 I-PA-75406-S,immobili,Sicilia,Palermo,Borgetto,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-75408-S,immobili,Sicilia,Palermo,Borgetto,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-75410-S,immobili,Sicilia,Palermo,Borgetto,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-75557-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-75772-S,immobili,Sicilia,Palermo,Bolognetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-75776-S,immobili,Sicilia,Palermo,Ciminna,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-75777-S,immobili,Sicilia,Palermo,Ciminna,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -12502,7 +12509,6 @@ I-PA-77269-S,immobili,Sicilia,Palermo,Campofelice di Roccella,Unità immobiliare
 I-PA-77272-S,immobili,Sicilia,Palermo,Campofelice di Roccella,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
 I-PA-77275-S,immobili,Sicilia,Palermo,Campofelice di Roccella,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
 I-PA-77329-S,immobili,Sicilia,Palermo,Campofelice di Roccella,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
-I-PA-78338-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-78443-S,immobili,Sicilia,Palermo,Partinico,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-78918-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,7%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-78919-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno con fabbricato rurale,Confisca def.,33%,Tribunale,Palermo,Misure di Prevenzione
@@ -13015,7 +13021,6 @@ I-PA-84570-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno con fabbricato rur
 I-PA-84571-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-84573-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-84574-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-84577-S,immobili,Sicilia,Palermo,Monreale,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-84689-S,immobili,Sicilia,Palermo,Trabia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-84691-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-84955-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -13262,6 +13267,7 @@ I-PA-9912-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione c
 I-PA-9917-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9919-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9953-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-9957-S,immobili,Sicilia,Palermo,Termini Imerese,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PC-35507-S,immobili,Emilia Romagna,Piacenza,Carpaneto Piacentino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-PC-48090-S,immobili,Emilia Romagna,Piacenza,Carpaneto Piacentino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-PC-48092-S,immobili,Emilia Romagna,Piacenza,Carpaneto Piacentino,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione

@@ -961,8 +961,6 @@ A-MI-13354-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata
 A-MI-13604-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca def.,96%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-15282-S,aziende,Lombardia,Milano,Legnano,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,50%,Tribunale,Catanzaro,Misure di Prevenzione
 A-MI-15753-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,10%,Tribunale,Milano,Misure di Prevenzione
-A-MI-15990-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,62%,Tribunale,Milano,Misure di Prevenzione
-A-MI-15991-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 A-MI-15992-S,aziende,Lombardia,Milano,Milano,Società in accomandita semplice,Attività finanziarie,Confisca def.,65%,Tribunale,Milano,Misure di Prevenzione
 A-MI-16459-S,aziende,Lombardia,Milano,Trezzano sul Naviglio,Società in accomandita semplice,Costruzioni,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 A-MI-16797-S,aziende,Lombardia,Milano,Milano,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -2643,9 +2641,6 @@ A-SR-83983-S,aziende,Sicilia,Siracusa,Siracusa,Società a responsabilità limita
 A-SS-21068-S,aziende,Sardegna,Sassari,Sassari,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
 A-SV-59912-S,aziende,Liguria,Savona,Ceriale,Società a responsabilità limitata,Costruzioni,Confisca def.,52%,Tribunale,Savona,Misure di Prevenzione
 A-SV-60212-S,aziende,Liguria,Savona,Alassio,Società a responsabilità limitata,Attività finanziarie,Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
-A-SV-93478-S,aziende,Liguria,Savona,Loano,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
-A-SV-93479-S,aziende,Liguria,Savona,Loano,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
-A-SV-93482-S,aziende,Liguria,Savona,Albenga,Società semplice,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
 A-SV-93486-S,aziende,Liguria,Savona,Loano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Savona,Misure di Prevenzione
 A-SV-94878-S,aziende,Liguria,Savona,Albenga,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,100%,Tribunale,Savona,Misure di Prevenzione
 A-SV-94879-S,aziende,Liguria,Savona,Albenga,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",,0%,Tribunale,Savona,Misure di Prevenzione
@@ -2883,10 +2878,7 @@ A-VE-6413-S,aziende,Veneto,Venezia,Venezia,Società a responsabilità limitata,"
 A-VE-6414-S,aziende,Veneto,Venezia,Venezia,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 A-VE-6415-S,aziende,Veneto,Venezia,Venezia,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 A-VE-6416-S,aziende,Veneto,Venezia,Venezia,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
-A-VE-6417-S,aziende,Veneto,Venezia,Venezia,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 A-VE-6418-S,aziende,Veneto,Venezia,Venezia,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
-A-VE-6419-S,aziende,Veneto,Venezia,Venezia,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
-A-VE-6420-S,aziende,Veneto,Venezia,Venezia,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 A-VE-6421-S,aziende,Veneto,Venezia,Venezia,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 A-VI-11360-S,aziende,Veneto,Vicenza,Montecchio Maggiore,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Vicenza,Misure di Prevenzione
 A-VR-17076-S,aziende,Veneto,Verona,Verona,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,25%,Tribunale,Brescia,Misure di Prevenzione
