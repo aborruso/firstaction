@@ -3970,7 +3970,7 @@ I-CS-89222-S,immobili,Calabria,Cosenza,Tortora,Unità immobiliare per uso di abi
 I-CS-89250-S,immobili,Calabria,Cosenza,Tortora,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-CS-90560-S,immobili,Calabria,Cosenza,Scalea,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CS-90561-S,immobili,Calabria,Cosenza,Scalea,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
-I-CS-90562-S,immobili,Calabria,Cosenza,Scalea,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-CS-90562-S,immobili,Calabria,Cosenza,Scalea,Unità immobiliare per uso di abitazione e assimilabile,Altro,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CS-90575-S,immobili,Calabria,Cosenza,Scalea,Terreno,Terreno - non definito,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CS-90576-S,immobili,Calabria,Cosenza,Scalea,Terreno,Terreno - non definito,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CS-90577-S,immobili,Calabria,Cosenza,Scalea,Terreno,Terreno - non definito,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
@@ -5540,7 +5540,7 @@ I-FR-93267-S,immobili,Lazio,Frosinone,Ferentino,Unità immobiliare a destinazion
 I-FR-93268-S,immobili,Lazio,Frosinone,Ferentino,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Frosinone,Misure di Prevenzione
 I-GE-16081-S,immobili,Liguria,Genova,Santa Margherita Ligure,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GE-16082-S,immobili,Liguria,Genova,Santa Margherita Ligure,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GE-19497-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
+I-GE-19497-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-20116-S,immobili,Liguria,Genova,Busalla,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,50%,Procura della Repubblica,Genova,Procedimento Penale
 I-GE-20117-S,immobili,Liguria,Genova,Busalla,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,50%,Procura della Repubblica,Genova,Procedimento Penale
 I-GE-20118-S,immobili,Liguria,Genova,Busalla,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,50%,Procura della Repubblica,Genova,Procedimento Penale
@@ -8806,6 +8806,22 @@ I-MN-89652-S,immobili,Lombardia,Mantova,Curtatone,Unità immobiliare per uso di 
 I-MN-89654-S,immobili,Lombardia,Mantova,Curtatone,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Brescia,Misure di Prevenzione
 I-MN-89659-S,immobili,Lombardia,Mantova,Curtatone,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Brescia,Misure di Prevenzione
 I-MN-89662-S,immobili,Lombardia,Mantova,Curtatone,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Brescia,Misure di Prevenzione
+I-MN-94955-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-MN-94956-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-MN-94957-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-MN-94958-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-MN-94959-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-MN-94960-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-MN-94961-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-MN-94962-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-MN-94963-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-MN-94964-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-MN-94965-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-MN-94966-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-MN-94967-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-MN-94968-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-MN-94969-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-MN-94970-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-MO-11592-S,immobili,Emilia Romagna,Modena,Maranello,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-MO-25802-S,immobili,Emilia Romagna,Modena,Castelnuovo Rangone,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 I-MO-25803-S,immobili,Emilia Romagna,Modena,Castelnuovo Rangone,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
@@ -15324,6 +15340,10 @@ I-RE-74882-S,immobili,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Unità immo
 I-RE-74883-S,immobili,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-RE-78925-S,immobili,Emilia Romagna,Reggio Emilia,Vezzano sul Crostolo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-RE-83440-S,immobili,Emilia Romagna,Reggio Emilia,Cadelbosco di Sopra,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-94951-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-94952-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-94953-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-94954-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-RG-32663-S,immobili,Sicilia,Ragusa,Vittoria,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Corte di Appello,Palermo,Procedimento Penale
 I-RG-32664-S,immobili,Sicilia,Ragusa,Ragusa,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Corte di Appello,Palermo,Procedimento Penale
 I-RG-52161-S,immobili,Sicilia,Ragusa,Vittoria,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Ragusa,Misure di Prevenzione
@@ -15879,7 +15899,7 @@ I-RM-80967-S,immobili,Lazio,Roma,Roma,Terreno,Terreno edificabile,Confisca def.,
 I-RM-80971-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80972-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80973-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
-I-RM-80974-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-RM-80974-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80975-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80976-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-8136-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
