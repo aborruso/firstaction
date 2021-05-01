@@ -609,6 +609,8 @@ I-AQ-91674-S,immobili,Abruzzo,L'Aquila,Pescocostanzo,Unità immobiliare per uso 
 I-AQ-91690-S,immobili,Abruzzo,L'Aquila,Roccaraso,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-AQ-91725-S,immobili,Abruzzo,L'Aquila,Pescocostanzo,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-AQ-91726-S,immobili,Abruzzo,L'Aquila,Roccaraso,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-AQ-95238-S,immobili,Abruzzo,L'Aquila,Capistrello,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-AQ-95258-S,immobili,Abruzzo,L'Aquila,Capistrello,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
 I-AR-78663-S,immobili,Toscana,Arezzo,Castiglion Fibocchi,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Arezzo,Procedimento Penale
 I-AR-78958-S,immobili,Toscana,Arezzo,Marciano della Chiana,Unità immobiliare per uso di abitazione e assimilabile,Villa,Sequestro,100%,Procura della Repubblica,Arezzo,Procedimento Penale
 I-AR-78959-S,immobili,Toscana,Arezzo,Marciano della Chiana,Altra unità immobiliare,Altra unità  immobil. - non definito,Sequestro,100%,Procura della Repubblica,Arezzo,Procedimento Penale
@@ -957,7 +959,10 @@ I-BA-94117-S,immobili,Puglia,Bari,Molfetta,Terreno,Terreno agricolo,Confisca def
 I-BA-94120-S,immobili,Puglia,Bari,Bitonto,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-94121-S,immobili,Puglia,Bari,Molfetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-94122-S,immobili,Puglia,Bari,Molfetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
+I-BA-94978-S,immobili,Puglia,Bari,Palo del Colle,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-9506-S,immobili,Puglia,Bari,Polignano a Mare,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
+I-BA-95702-S,immobili,Puglia,Bari,Bari,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
+I-BA-95705-S,immobili,Puglia,Bari,Bari,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-9627-S,immobili,Puglia,Bari,Bari,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,53%,Tribunale,Bari,Misure di Prevenzione
 I-BA-9833-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-9834-S,immobili,Puglia,Bari,Bari,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
@@ -1684,6 +1689,11 @@ I-BT-9477-S,immobili,Puglia,Barletta-Andria-Trani,Trani,Unità immobiliare per a
 I-BT-9480-S,immobili,Puglia,Barletta-Andria-Trani,Trani,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-9481-S,immobili,Puglia,Barletta-Andria-Trani,Trani,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-9482-S,immobili,Puglia,Barletta-Andria-Trani,Trani,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Trani,Misure di Prevenzione
+I-BT-95270-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per alloggio e usi collettivi,Fabbricato annesso a speciali esigenze commerciali,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
+I-BT-95271-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
+I-BT-95272-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per alloggio e usi collettivi,Opificio,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
+I-BT-95273-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
+I-BT-95274-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-9820-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-9821-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-9985-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
@@ -2753,6 +2763,10 @@ I-CE-94695-S,immobili,Campania,Caserta,Teverola,Unità immobiliare per alloggio 
 I-CE-94697-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-94704-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-94706-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-95277-S,immobili,Campania,Caserta,Pontelatone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-95281-S,immobili,Campania,Caserta,Pontelatone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-95283-S,immobili,Campania,Caserta,Pontelatone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-95285-S,immobili,Campania,Caserta,Pontelatone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CH-36419-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-36421-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-42987-S,immobili,Abruzzo,Chieti,San Salvo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Varese,Misure di Prevenzione
@@ -3580,6 +3594,10 @@ I-CN-71336-S,immobili,Piemonte,Cuneo,Cervere,Terreno,Terreno - non definito,Conf
 I-CN-76705-S,immobili,Piemonte,Cuneo,Ceva,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-CN-76707-S,immobili,Piemonte,Cuneo,Ceva,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-CN-77764-S,immobili,Piemonte,Cuneo,Frabosa Sottana,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
+I-CN-95843-S,immobili,Piemonte,Cuneo,Sommariva del Bosco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-95844-S,immobili,Piemonte,Cuneo,Sommariva del Bosco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-95848-S,immobili,Piemonte,Cuneo,Sommariva del Bosco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-95871-S,immobili,Piemonte,Cuneo,Sommariva del Bosco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 I-CO-11108-S,immobili,Lombardia,Como,Cadorago,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-CO-11109-S,immobili,Lombardia,Como,Cadorago,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-CO-11110-S,immobili,Lombardia,Como,Cadorago,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
@@ -4821,6 +4839,90 @@ I-CT-94058-S,immobili,Sicilia,Catania,Paternò,Unità immobiliare per uso di abi
 I-CT-94061-S,immobili,Sicilia,Catania,Paternò,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-94927-S,immobili,Sicilia,Catania,Maniace,Terreno,Terreno edificabile,,0%,Tribunale,Catania,Misure di Prevenzione
 I-CT-94928-S,immobili,Sicilia,Catania,Maniace,Terreno,Terreno agricolo,,0%,Tribunale,Catania,Misure di Prevenzione
+I-CT-94980-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-94981-S,immobili,Sicilia,Catania,Paternò,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-94982-S,immobili,Sicilia,Catania,Ramacca,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-94984-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-94986-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-94987-S,immobili,Sicilia,Catania,Ramacca,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-94988-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-94989-S,immobili,Sicilia,Catania,Ramacca,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-94990-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-94994-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-94995-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95000-S,immobili,Sicilia,Catania,Paternò,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95001-S,immobili,Sicilia,Catania,Biancavilla,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95003-S,immobili,Sicilia,Catania,Belpasso,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95004-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95005-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95007-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95010-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95012-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95014-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95015-S,immobili,Sicilia,Catania,Ramacca,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95016-S,immobili,Sicilia,Catania,Ramacca,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95018-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95023-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95024-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95025-S,immobili,Sicilia,Catania,Ramacca,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95027-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95028-S,immobili,Sicilia,Catania,Biancavilla,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95030-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95031-S,immobili,Sicilia,Catania,Ramacca,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95032-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95034-S,immobili,Sicilia,Catania,Paternò,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95039-S,immobili,Sicilia,Catania,Paternò,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95040-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95041-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95044-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95045-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95048-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95049-S,immobili,Sicilia,Catania,Ramacca,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95051-S,immobili,Sicilia,Catania,Ramacca,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95054-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95055-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95056-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95058-S,immobili,Sicilia,Catania,Paternò,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95059-S,immobili,Sicilia,Catania,Ramacca,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95062-S,immobili,Sicilia,Catania,Paternò,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95063-S,immobili,Sicilia,Catania,Belpasso,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95065-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95066-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95068-S,immobili,Sicilia,Catania,Paternò,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95069-S,immobili,Sicilia,Catania,Paternò,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95072-S,immobili,Sicilia,Catania,Ramacca,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95077-S,immobili,Sicilia,Catania,Paternò,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95079-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95081-S,immobili,Sicilia,Catania,Paternò,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95084-S,immobili,Sicilia,Catania,Ramacca,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95085-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95087-S,immobili,Sicilia,Catania,Ramacca,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95090-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95093-S,immobili,Sicilia,Catania,Ramacca,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95095-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95096-S,immobili,Sicilia,Catania,Ramacca,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95100-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95101-S,immobili,Sicilia,Catania,Belpasso,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95102-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95104-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95106-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95107-S,immobili,Sicilia,Catania,Belpasso,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95108-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95109-S,immobili,Sicilia,Catania,Paternò,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95201-S,immobili,Sicilia,Catania,Viagrande,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95202-S,immobili,Sicilia,Catania,Viagrande,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95204-S,immobili,Sicilia,Catania,Aci Bonaccorsi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95205-S,immobili,Sicilia,Catania,Viagrande,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95207-S,immobili,Sicilia,Catania,Viagrande,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95208-S,immobili,Sicilia,Catania,Aci Bonaccorsi,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95210-S,immobili,Sicilia,Catania,Viagrande,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95211-S,immobili,Sicilia,Catania,Aci Bonaccorsi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95212-S,immobili,Sicilia,Catania,Aci Bonaccorsi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95213-S,immobili,Sicilia,Catania,Aci Bonaccorsi,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95214-S,immobili,Sicilia,Catania,Aci Bonaccorsi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95215-S,immobili,Sicilia,Catania,Viagrande,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95216-S,immobili,Sicilia,Catania,Viagrande,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-95286-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CZ-15253-S,immobili,Calabria,Catanzaro,Guardavalle,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-15532-S,immobili,Calabria,Catanzaro,Lamezia Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-15533-S,immobili,Calabria,Catanzaro,Lamezia Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Tribunale,Catanzaro,Misure di Prevenzione
@@ -5370,6 +5472,13 @@ I-FG-94668-S,immobili,Puglia,Foggia,Orta Nova,Unità immobiliare per uso di abit
 I-FG-94669-S,immobili,Puglia,Foggia,Orta Nova,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-94671-S,immobili,Puglia,Foggia,Orta Nova,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-94672-S,immobili,Puglia,Foggia,Orta Nova,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
+I-FG-95609-S,immobili,Puglia,Foggia,Vico del Gargano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
+I-FG-95610-S,immobili,Puglia,Foggia,Foggia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
+I-FG-95611-S,immobili,Puglia,Foggia,Foggia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
+I-FG-95615-S,immobili,Puglia,Foggia,Foggia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
+I-FG-95616-S,immobili,Puglia,Foggia,Foggia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
+I-FG-95617-S,immobili,Puglia,Foggia,Vico del Gargano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
+I-FG-95618-S,immobili,Puglia,Foggia,Foggia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FI-23139-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 I-FI-23140-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 I-FI-23141-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
@@ -6757,6 +6866,47 @@ I-LT-94257-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Revoca Seq.,10
 I-LT-94258-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-94757-S,immobili,Lazio,Latina,Formia,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-LT-94758-S,immobili,Lazio,Latina,Formia,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-LT-95165-S,immobili,Lazio,Latina,Aprilia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95171-S,immobili,Lazio,Latina,Aprilia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95174-S,immobili,Lazio,Latina,Aprilia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95175-S,immobili,Lazio,Latina,Aprilia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95176-S,immobili,Lazio,Latina,Aprilia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95177-S,immobili,Lazio,Latina,Aprilia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95180-S,immobili,Lazio,Latina,Aprilia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95182-S,immobili,Lazio,Latina,Aprilia,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95183-S,immobili,Lazio,Latina,Aprilia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95185-S,immobili,Lazio,Latina,Aprilia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95186-S,immobili,Lazio,Latina,Aprilia,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95187-S,immobili,Lazio,Latina,Aprilia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95188-S,immobili,Lazio,Latina,Aprilia,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,50%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95190-S,immobili,Lazio,Latina,Aprilia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95192-S,immobili,Lazio,Latina,Aprilia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95719-S,immobili,Lazio,Latina,Fondi,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95723-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95727-S,immobili,Lazio,Latina,Terracina,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95730-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95731-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95736-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95739-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95744-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95745-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95746-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95747-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95750-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95757-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95759-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95761-S,immobili,Lazio,Latina,Fondi,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95764-S,immobili,Lazio,Latina,Fondi,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95770-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95771-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95773-S,immobili,Lazio,Latina,Fondi,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95775-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95778-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95781-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95787-S,immobili,Lazio,Latina,Terracina,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95790-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95795-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-95796-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LU-36226-S,immobili,Toscana,Lucca,Viareggio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Lucca,Misure di Prevenzione
 I-LU-59495-S,immobili,Toscana,Lucca,Viareggio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,32%,Tribunale,Lucca,Misure di Prevenzione
 I-LU-59496-S,immobili,Toscana,Lucca,Viareggio,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Lucca,Misure di Prevenzione
@@ -7972,6 +8122,9 @@ I-ME-92583-S,immobili,Sicilia,Messina,Messina,Unità immobiliare per uso di abit
 I-ME-92584-S,immobili,Sicilia,Messina,Messina,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-93223-S,immobili,Sicilia,Messina,Messina,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-93224-S,immobili,Sicilia,Messina,Messina,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
+I-ME-94983-S,immobili,Sicilia,Messina,Floresta,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-ME-95021-S,immobili,Sicilia,Messina,Patti,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-ME-95080-S,immobili,Sicilia,Messina,Floresta,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-MI-10059-S,immobili,Lombardia,Milano,Milano,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-10108-S,immobili,Lombardia,Milano,Tribiano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-10109-S,immobili,Lombardia,Milano,Tribiano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,0%,Tribunale,Milano,Misure di Prevenzione
@@ -8724,6 +8877,8 @@ I-MI-92149-S,immobili,Lombardia,Milano,Sesto San Giovanni,Unità immobiliare per
 I-MI-92434-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-92435-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-92436-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-95838-S,immobili,Lombardia,Milano,Villa Cortese,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-95839-S,immobili,Lombardia,Milano,Villa Cortese,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MN-36507-S,immobili,Lombardia,Mantova,Goito,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,19%,Procura della Repubblica,Bologna,Procedimento Penale
 I-MN-36508-S,immobili,Lombardia,Mantova,Goito,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Procura della Repubblica,Bologna,Procedimento Penale
 I-MN-36509-S,immobili,Lombardia,Mantova,Goito,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,19%,Procura della Repubblica,Bologna,Procedimento Penale
@@ -10733,6 +10888,7 @@ I-NA-94-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,
 I-NA-94048-S,immobili,Campania,Napoli,Torre Annunziata,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,67%,Procura della Repubblica,Torre Annunziata,Procedimento Penale
 I-NA-94641-S,immobili,Campania,Napoli,Bacoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,50%,Tribunale,Roma,Misure di Prevenzione
 I-NA-95-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-95608-S,immobili,Campania,Napoli,Afragola,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-96-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-9744-S,immobili,Campania,Napoli,Trecase,Terreno,Terreno - non definito,Confisca def.,20%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -13276,6 +13432,90 @@ I-PA-94162-S,immobili,Sicilia,Palermo,Monreale,Terreno,Terreno agricolo,Confisca
 I-PA-94892-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-94893-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-94894-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-94977-S,immobili,Sicilia,Palermo,Partinico,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95137-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95139-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95140-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95141-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95153-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95155-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95164-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95198-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95200-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,40%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95635-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95636-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95639-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Altro,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95642-S,immobili,Sicilia,Palermo,Partinico,Terreno,Terreno agricolo,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95643-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95645-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95646-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95647-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95648-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95649-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95650-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95651-S,immobili,Sicilia,Palermo,Balestrate,Unità immobiliare per uso di abitazione e assimilabile,Villa,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95652-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95654-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95655-S,immobili,Sicilia,Palermo,Balestrate,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95656-S,immobili,Sicilia,Palermo,Balestrate,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95657-S,immobili,Sicilia,Palermo,Altavilla Milicia,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95659-S,immobili,Sicilia,Palermo,Balestrate,Unità immobiliare per uso di abitazione e assimilabile,Villa,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95661-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95662-S,immobili,Sicilia,Palermo,Balestrate,Unità immobiliare per uso di abitazione e assimilabile,Villa,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95663-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95664-S,immobili,Sicilia,Palermo,Balestrate,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95665-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95668-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95669-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95670-S,immobili,Sicilia,Palermo,Balestrate,Unità immobiliare per uso di abitazione e assimilabile,Villa,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95672-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95673-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95674-S,immobili,Sicilia,Palermo,Balestrate,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95675-S,immobili,Sicilia,Palermo,Partinico,Unità immobiliare per uso di abitazione e assimilabile,Villa,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95676-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95678-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95681-S,immobili,Sicilia,Palermo,Partinico,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95683-S,immobili,Sicilia,Palermo,Balestrate,Unità immobiliare per uso di abitazione e assimilabile,Villa,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95685-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Altro,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95687-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95688-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95689-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95690-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95692-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95693-S,immobili,Sicilia,Palermo,Balestrate,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95694-S,immobili,Sicilia,Palermo,Balestrate,Unità immobiliare per uso di abitazione e assimilabile,Villa,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95696-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95698-S,immobili,Sicilia,Palermo,Balestrate,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95699-S,immobili,Sicilia,Palermo,Balestrate,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,33%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95701-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-95818-S,immobili,Sicilia,Palermo,Villafrati,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95820-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95827-S,immobili,Sicilia,Palermo,Cinisi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95830-S,immobili,Sicilia,Palermo,Capaci,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95832-S,immobili,Sicilia,Palermo,Cinisi,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95833-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95834-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95835-S,immobili,Sicilia,Palermo,Capaci,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95877-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95879-S,immobili,Sicilia,Palermo,Belmonte Mezzagno,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95880-S,immobili,Sicilia,Palermo,Altofonte,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95883-S,immobili,Sicilia,Palermo,Belmonte Mezzagno,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95884-S,immobili,Sicilia,Palermo,Belmonte Mezzagno,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95885-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95886-S,immobili,Sicilia,Palermo,Altofonte,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95887-S,immobili,Sicilia,Palermo,Belmonte Mezzagno,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95888-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Revoca Seq.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95889-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95890-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95891-S,immobili,Sicilia,Palermo,Belmonte Mezzagno,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95892-S,immobili,Sicilia,Palermo,Belmonte Mezzagno,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95895-S,immobili,Sicilia,Palermo,Belmonte Mezzagno,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95896-S,immobili,Sicilia,Palermo,Carini,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95898-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95900-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95901-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95903-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-95904-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9811-S,immobili,Sicilia,Palermo,Partinico,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9911-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9912-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -13676,6 +13916,12 @@ I-PO-89477-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazio
 I-PO-89478-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Prato,Misure di Prevenzione
 I-PO-94899-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Tribunale,Prato,Misure di Prevenzione
 I-PO-94911-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Prato,Misure di Prevenzione
+I-PO-95291-S,immobili,Toscana,Prato,Vernio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
+I-PO-95292-S,immobili,Toscana,Prato,Vaiano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
+I-PO-95294-S,immobili,Toscana,Prato,Vaiano,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Prato,Misure di Prevenzione
+I-PO-95295-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
+I-PO-95296-S,immobili,Toscana,Prato,Prato,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
+I-PO-95299-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
 I-PR-37889-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-37890-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-37891-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Bologna,Procedimento Penale
@@ -13914,6 +14160,7 @@ I-PT-92954-S,immobili,Toscana,Pistoia,Pescia,Unità immobiliare per uso di abita
 I-PT-92955-S,immobili,Toscana,Pistoia,Pescia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 I-PT-92956-S,immobili,Toscana,Pistoia,Pescia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 I-PT-92957-S,immobili,Toscana,Pistoia,Buggiano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Tribunale,Firenze,Misure di Prevenzione
+I-PT-95298-S,immobili,Toscana,Pistoia,Montale,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
 I-PU-13200-S,immobili,Marche,Pesaro e Urbino,Fano,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Procura della Repubblica,Pesaro,Procedimento Penale
 I-PU-13201-S,immobili,Marche,Pesaro e Urbino,Fano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Pesaro,Procedimento Penale
 I-PU-13202-S,immobili,Marche,Pesaro e Urbino,Cartoceto,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Procura della Repubblica,Pesaro,Procedimento Penale
@@ -15344,6 +15591,8 @@ I-RE-94951-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Terreno,Terreno edi
 I-RE-94952-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-RE-94953-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-RE-94954-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-95709-S,immobili,Emilia Romagna,Reggio Emilia,Reggio nell'Emilia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-95710-S,immobili,Emilia Romagna,Reggio Emilia,Reggio nell'Emilia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-RG-32663-S,immobili,Sicilia,Ragusa,Vittoria,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Corte di Appello,Palermo,Procedimento Penale
 I-RG-32664-S,immobili,Sicilia,Ragusa,Ragusa,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Corte di Appello,Palermo,Procedimento Penale
 I-RG-52161-S,immobili,Sicilia,Ragusa,Vittoria,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Ragusa,Misure di Prevenzione
@@ -15380,6 +15629,8 @@ I-RI-86069-S,immobili,Lazio,Rieti,Rieti,Unità immobiliare a destinazione commer
 I-RI-86070-S,immobili,Lazio,Rieti,Rieti,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Sequ. parziale,100%,Tribunale,Roma,Misure di Prevenzione
 I-RI-92408-S,immobili,Lazio,Rieti,Amatrice,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
 I-RI-92420-S,immobili,Lazio,Rieti,Amatrice,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
+I-RI-95169-S,immobili,Lazio,Rieti,Leonessa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-RI-95172-S,immobili,Lazio,Rieti,Leonessa,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-RM-10515-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Taranto,Procedimento Penale
 I-RM-10516-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Taranto,Procedimento Penale
 I-RM-10554-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Taranto,Procedimento Penale
@@ -16593,6 +16844,29 @@ I-RM-94863-S,immobili,Lazio,Roma,Ladispoli,Unità immobiliare a destinazione com
 I-RM-94866-S,immobili,Lazio,Roma,Ladispoli,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Revoca Conf.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-94868-S,immobili,Lazio,Roma,Civitavecchia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-94869-S,immobili,Lazio,Roma,Ladispoli,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-95170-S,immobili,Lazio,Roma,Pomezia,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-RM-95173-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-RM-95179-S,immobili,Lazio,Roma,Pomezia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-RM-95191-S,immobili,Lazio,Roma,Pomezia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-RM-95221-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-95222-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-95223-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-95225-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-95226-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-95227-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-95230-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-95231-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-95242-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-95243-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-95247-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-95249-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-95251-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-95257-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-95264-S,immobili,Lazio,Roma,Civitavecchia,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-95266-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-95267-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-95741-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
+I-RM-95774-S,immobili,Lazio,Roma,Zagarolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-RN-1291-S,immobili,Emilia Romagna,Rimini,Montescudo - Monte Colombo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Rimini,Misure di Prevenzione
 I-RN-3694-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Rimini,Misure di Prevenzione
 I-RN-3695-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Rimini,Misure di Prevenzione
@@ -16972,6 +17246,7 @@ I-SA-94149-S,immobili,Campania,Salerno,Cava de' Tirreni,Unità immobiliare per u
 I-SA-94152-S,immobili,Campania,Salerno,Salerno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-94154-S,immobili,Campania,Salerno,Cava de' Tirreni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-94155-S,immobili,Campania,Salerno,Cava de' Tirreni,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-95620-S,immobili,Campania,Salerno,Baronissi,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SI-83118-S,immobili,Toscana,Siena,San Gimignano,Altra unità immobiliare,Ex fabbricato rurale,Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 I-SI-83119-S,immobili,Toscana,Siena,San Gimignano,Altra unità immobiliare,Ex fabbricato rurale,Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 I-SI-83120-S,immobili,Toscana,Siena,San Gimignano,Altra unità immobiliare,Ex fabbricato rurale,Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
@@ -17393,6 +17668,11 @@ I-TA-92984-S,immobili,Puglia,Taranto,Palagiano,Unità immobiliare per uso di abi
 I-TA-92985-S,immobili,Puglia,Taranto,Palagiano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Taranto,Misure di Prevenzione
 I-TA-92986-S,immobili,Puglia,Taranto,Palagiano,Terreno,Terreno con fabbricato rurale,Revoca Seq.,100%,Tribunale,Taranto,Misure di Prevenzione
 I-TA-92987-S,immobili,Puglia,Taranto,Palagiano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-95142-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-95144-S,immobili,Puglia,Taranto,San Marzano di San Giuseppe,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-95147-S,immobili,Puglia,Taranto,San Marzano di San Giuseppe,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-95148-S,immobili,Puglia,Taranto,San Marzano di San Giuseppe,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-95149-S,immobili,Puglia,Taranto,San Marzano di San Giuseppe,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 I-TE-15765-S,immobili,Abruzzo,Teramo,Martinsicuro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Teramo,Misure di Prevenzione
 I-TE-15921-S,immobili,Abruzzo,Teramo,Civitella del Tronto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Pescara,Misure di Prevenzione
 I-TE-15922-S,immobili,Abruzzo,Teramo,Civitella del Tronto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Pescara,Misure di Prevenzione
@@ -17424,6 +17704,25 @@ I-TN-90865-S,immobili,Trentino Alto Adige,Trento,Valfloriana,Unità immobiliare 
 I-TN-90867-S,immobili,Trentino Alto Adige,Trento,Valfloriana,Terreno,Terreno agricolo,Confisca def.,33%,Procura della Repubblica,Busto Arsizio,Procedimento Penale
 I-TN-90870-S,immobili,Trentino Alto Adige,Trento,Valfloriana,Terreno,Terreno agricolo,Confisca def.,33%,Procura della Repubblica,Busto Arsizio,Procedimento Penale
 I-TN-90871-S,immobili,Trentino Alto Adige,Trento,Valfloriana,Terreno,Terreno agricolo,Confisca def.,33%,Procura della Repubblica,Busto Arsizio,Procedimento Penale
+I-TN-95110-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95111-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95112-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95113-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95114-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95115-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95116-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95117-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95118-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95119-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95120-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95121-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95122-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95123-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95124-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95125-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95126-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95127-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95128-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
 I-TO-10311-S,immobili,Piemonte,Torino,San Giusto Canavese,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Torino,Misure di Prevenzione
 I-TO-10312-S,immobili,Piemonte,Torino,San Giusto Canavese,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Torino,Misure di Prevenzione
 I-TO-10313-S,immobili,Piemonte,Torino,San Giusto Canavese,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Torino,Misure di Prevenzione
@@ -17841,6 +18140,19 @@ I-TO-92880-S,immobili,Piemonte,Torino,Carmagnola,Unità immobiliare per uso di a
 I-TO-92884-S,immobili,Piemonte,Torino,Vinovo,Terreno,Terreno agricolo,Revoca Seq.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-92886-S,immobili,Piemonte,Torino,Nichelino,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-92888-S,immobili,Piemonte,Torino,Carmagnola,Terreno,Terreno agricolo,Revoca Seq.,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-95624-S,immobili,Piemonte,Torino,Nichelino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,50%,Procura della Repubblica,Torino,Procedimento Penale
+I-TO-95847-S,immobili,Piemonte,Torino,Carmagnola,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-95849-S,immobili,Piemonte,Torino,Carmagnola,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-95852-S,immobili,Piemonte,Torino,Carmagnola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-95853-S,immobili,Piemonte,Torino,Carmagnola,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-95855-S,immobili,Piemonte,Torino,Carmagnola,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-95859-S,immobili,Piemonte,Torino,Carmagnola,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-95860-S,immobili,Piemonte,Torino,Vinovo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-95863-S,immobili,Piemonte,Torino,Vinovo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-95869-S,immobili,Piemonte,Torino,Carmagnola,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-95870-S,immobili,Piemonte,Torino,Carmagnola,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-95873-S,immobili,Piemonte,Torino,Carmagnola,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-95875-S,immobili,Piemonte,Torino,Nichelino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 I-TP-19059-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-19060-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-19061-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
@@ -19766,6 +20078,9 @@ I-VT-90742-S,immobili,Lazio,Viterbo,Gallese,Terreno,Terreno agricolo,Confisca de
 I-VT-93023-S,immobili,Lazio,Viterbo,Montalto di Castro,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-VT-93024-S,immobili,Lazio,Viterbo,Montalto di Castro,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-VT-93141-S,immobili,Lazio,Viterbo,Montalto di Castro,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-VT-95235-S,immobili,Lazio,Viterbo,Bassano in Teverina,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-VT-95239-S,immobili,Lazio,Viterbo,Bassano in Teverina,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-VT-95262-S,immobili,Lazio,Viterbo,Bassano in Teverina,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-VV-17286-S,immobili,Calabria,Vibo Valentia,Vibo Valentia,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
 I-VV-17287-S,immobili,Calabria,Vibo Valentia,Nicotera,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
 I-VV-17649-S,immobili,Calabria,Vibo Valentia,Ricadi,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
