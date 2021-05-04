@@ -2123,8 +2123,8 @@ A-RC-92476-S,aziende,Calabria,Reggio Calabria,Monasterace,Impresa individuale,Co
 A-RC-92939-S,aziende,Calabria,Reggio Calabria,Caulonia,Società a responsabilità limitata,"Produzione e distribuzione di energia elettrica, gas e acqua",Revoca Seq.,35%,Tribunale,Trapani,Misure di Prevenzione
 A-RC-93176-S,aziende,Calabria,Reggio Calabria,Gioiosa Ionica,Associazione,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RC-94024-S,aziende,Calabria,Reggio Calabria,Taurianova,Impresa individuale,"Agricoltura, caccia e silvicoltura",Revoca Conf.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-A-RC-95803-S,aziende,Calabria,Reggio Calabria,Rosarno,Società in accomandita semplice,"Trasporti, magazzinaggio e comunicazioni",Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-A-RC-95815-S,aziende,Calabria,Reggio Calabria,Rosarno,Società in accomandita semplice,"Trasporti, magazzinaggio e comunicazioni",Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+A-RC-95803-S,aziende,Calabria,Reggio Calabria,Rosarno,Società in accomandita semplice,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+A-RC-95815-S,aziende,Calabria,Reggio Calabria,Rosarno,Società in accomandita semplice,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-9813-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,22%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RE-12510-S,aziende,Emilia Romagna,Reggio Emilia,Brescello,Impresa individuale,Costruzioni,Confisca II,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-RE-12511-S,aziende,Emilia Romagna,Reggio Emilia,Brescello,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
@@ -2690,8 +2690,9 @@ A-SA-94151-S,aziende,Campania,Salerno,Cava de' Tirreni,Società a responsabilit�
 A-SA-94153-S,aziende,Campania,Salerno,Cava de' Tirreni,Società a responsabilità limitata,Costruzioni,Confisca def.,50%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-94156-S,aziende,Campania,Salerno,Cava de' Tirreni,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Revoca Conf.,100%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-94157-S,aziende,Campania,Salerno,Cava de' Tirreni,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
-A-SA-94674-S,aziende,Campania,Salerno,Nocera Superiore,Società a responsabilità limitata,Costruzioni,Sequestro,0%,Procura della Repubblica,Salerno,Procedimento Penale
+A-SA-94674-S,aziende,Campania,Salerno,Nocera Superiore,Società a responsabilità limitata,Costruzioni,Sequestro,47%,Procura della Repubblica,Salerno,Procedimento Penale
 A-SA-94675-S,aziende,Campania,Salerno,Nocera Superiore,Società a responsabilità limitata,Costruzioni,Sequestro,10%,Procura della Repubblica,Salerno,Procedimento Penale
+A-SA-95909-S,aziende,Campania,Salerno,Nocera Inferiore,Società a responsabilità limitata,Costruzioni,Sequestro,30%,Procura della Repubblica,Salerno,Procedimento Penale
 A-SO-82772-S,aziende,Lombardia,Sondrio,Cosio Valtellino,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,65%,Tribunale,Sondrio,Misure di Prevenzione
 A-SO-82774-S,aziende,Lombardia,Sondrio,Cosio Valtellino,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Sondrio,Misure di Prevenzione
 A-SP-25970-S,aziende,Liguria,La Spezia,Arcola,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca I,100%,Tribunale,La Spezia,Misure di Prevenzione
@@ -2763,7 +2764,6 @@ A-TO-48954-S,aziende,Piemonte,Torino,Torino,Società in accomandita semplice,Att
 A-TO-48970-S,aziende,Piemonte,Torino,Orbassano,Società in accomandita semplice,Attività finanziarie,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-49104-S,aziende,Piemonte,Torino,Torino,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-49705-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,Attività finanziarie,Confisca def.,75%,Procura della Repubblica,Napoli,Procedimento Penale
-A-TO-60559-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-67355-S,aziende,Piemonte,Torino,Torino,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-68897-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-71342-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
