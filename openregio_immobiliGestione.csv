@@ -7,7 +7,7 @@ I-AG-13-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def
 I-AG-14-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-15-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-16-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-16643-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Torino,Misure di Prevenzione
+I-AG-16643-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Torino,Misure di Prevenzione
 I-AG-17-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-18-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-18110-S,immobili,Sicilia,Agrigento,Agrigento,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
@@ -1069,6 +1069,23 @@ I-BG-94889-S,immobili,Lombardia,Bergamo,Bergamo,Unità immobiliare per uso di ab
 I-BG-94890-S,immobili,Lombardia,Bergamo,Ponteranica,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
 I-BG-94891-S,immobili,Lombardia,Bergamo,Bergamo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
 I-BG-94916-S,immobili,Lombardia,Bergamo,Cisano Bergamasco,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-BG-95946-S,immobili,Lombardia,Bergamo,Misano di Gera d'Adda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BG-95948-S,immobili,Lombardia,Bergamo,Seriate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BG-95949-S,immobili,Lombardia,Bergamo,Bergamo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BG-95950-S,immobili,Lombardia,Bergamo,Misano di Gera d'Adda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BG-95956-S,immobili,Lombardia,Bergamo,Seriate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BG-95958-S,immobili,Lombardia,Bergamo,Pedrengo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BG-95960-S,immobili,Lombardia,Bergamo,Verdellino,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BG-95961-S,immobili,Lombardia,Bergamo,Scanzorosciate,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BG-95964-S,immobili,Lombardia,Bergamo,Alzano Lombardo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Seq.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BG-95968-S,immobili,Lombardia,Bergamo,Misano di Gera d'Adda,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,50%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BG-95969-S,immobili,Lombardia,Bergamo,Misano di Gera d'Adda,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BG-95971-S,immobili,Lombardia,Bergamo,Misano di Gera d'Adda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BG-95972-S,immobili,Lombardia,Bergamo,Grassobbio,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BG-95973-S,immobili,Lombardia,Bergamo,Misano di Gera d'Adda,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,50%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BG-95975-S,immobili,Lombardia,Bergamo,Scanzorosciate,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BG-95977-S,immobili,Lombardia,Bergamo,Alzano Lombardo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BG-95982-S,immobili,Lombardia,Bergamo,Alzano Lombardo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BI-16475-S,immobili,Piemonte,Biella,Valle Mosso,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BI-16476-S,immobili,Piemonte,Biella,Valle Mosso,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BI-16477-S,immobili,Piemonte,Biella,Valle Mosso,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -3598,6 +3615,9 @@ I-CN-95843-S,immobili,Piemonte,Cuneo,Sommariva del Bosco,Unità immobiliare per 
 I-CN-95844-S,immobili,Piemonte,Cuneo,Sommariva del Bosco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 I-CN-95848-S,immobili,Piemonte,Cuneo,Sommariva del Bosco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 I-CN-95871-S,immobili,Piemonte,Cuneo,Sommariva del Bosco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-95952-S,immobili,Piemonte,Cuneo,Faule,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-CN-95965-S,immobili,Piemonte,Cuneo,Polonghera,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-CN-95974-S,immobili,Piemonte,Cuneo,Faule,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-CO-11108-S,immobili,Lombardia,Como,Cadorago,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-CO-11109-S,immobili,Lombardia,Como,Cadorago,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-CO-11110-S,immobili,Lombardia,Como,Cadorago,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
@@ -8881,6 +8901,7 @@ I-MI-92435-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abit
 I-MI-92436-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-95838-S,immobili,Lombardia,Milano,Villa Cortese,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-95839-S,immobili,Lombardia,Milano,Villa Cortese,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-95967-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-MN-36507-S,immobili,Lombardia,Mantova,Goito,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,19%,Procura della Repubblica,Bologna,Procedimento Penale
 I-MN-36508-S,immobili,Lombardia,Mantova,Goito,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Procura della Repubblica,Bologna,Procedimento Penale
 I-MN-36509-S,immobili,Lombardia,Mantova,Goito,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,19%,Procura della Repubblica,Bologna,Procedimento Penale
@@ -10068,7 +10089,7 @@ I-NA-8796-S,immobili,Campania,Napoli,Sant'Antimo,Unità immobiliare per uso di a
 I-NA-87963-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-8797-S,immobili,Campania,Napoli,Sant'Antimo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-8798-S,immobili,Campania,Napoli,Sant'Antimo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-87982-S,immobili,Campania,Napoli,Melito di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-87982-S,immobili,Campania,Napoli,Melito di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-87987-S,immobili,Campania,Napoli,Villaricca,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-8799-S,immobili,Campania,Napoli,Sant'Antimo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-87994-S,immobili,Campania,Napoli,Villaricca,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Tribunale,Napoli,Misure di Prevenzione
@@ -10910,7 +10931,6 @@ I-NO-53211-S,immobili,Piemonte,Novara,Meina,Terreno,Terreno agricolo,Confisca de
 I-NO-53212-S,immobili,Piemonte,Novara,Meina,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-NO-53214-S,immobili,Piemonte,Novara,Meina,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-NO-53216-S,immobili,Piemonte,Novara,Meina,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-NO-60549-S,immobili,Piemonte,Novara,Fara Novarese,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-NO-61566-S,immobili,Piemonte,Novara,San Maurizio d'Opaglio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Procura della Repubblica,Verbania,Procedimento Penale
 I-NO-61567-S,immobili,Piemonte,Novara,San Maurizio d'Opaglio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,50%,Procura della Repubblica,Verbania,Procedimento Penale
 I-NO-68577-S,immobili,Piemonte,Novara,Galliate,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
@@ -10930,7 +10950,6 @@ I-NO-93513-S,immobili,Piemonte,Novara,Borgomanero,Unità immobiliare per uso di 
 I-NO-93517-S,immobili,Piemonte,Novara,Novara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Novara,Misure di Prevenzione
 I-NO-93518-S,immobili,Piemonte,Novara,Novara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Novara,Misure di Prevenzione
 I-NO-93519-S,immobili,Piemonte,Novara,Prato Sesia,Unità immobiliare a destinazione commerciale e industriale,Altro,,0%,Tribunale,Novara,Misure di Prevenzione
-I-NO-94915-S,immobili,Piemonte,Novara,Fara Novarese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-OG-19996-S,immobili,Sardegna,Ogliastra,Cardedu,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Procura della Repubblica,Cagliari,Procedimento Penale
 I-OG-73578-S,immobili,Sardegna,Ogliastra,Villagrande Strisaili,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Sequestro,100%,Procura della Repubblica,Cagliari,Procedimento Penale
 I-OG-73581-S,immobili,Sardegna,Ogliastra,Cardedu,Unità immobiliare a destinazione commerciale e industriale,Altro,Sequestro,75%,Procura della Repubblica,Cagliari,Procedimento Penale
@@ -14110,6 +14129,7 @@ I-PR-74819-S,immobili,Emilia Romagna,Parma,Soragna,Unità immobiliare per uso di
 I-PR-74820-S,immobili,Emilia Romagna,Parma,Soragna,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-PR-74821-S,immobili,Emilia Romagna,Parma,Busseto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-PR-74823-S,immobili,Emilia Romagna,Parma,Busseto,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-95963-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-PT-51265-S,immobili,Toscana,Pistoia,Montecatini-Terme,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-PT-51270-S,immobili,Toscana,Pistoia,Montecatini-Terme,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-PT-51271-S,immobili,Toscana,Pistoia,Montecatini-Terme,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
