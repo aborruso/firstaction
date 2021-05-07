@@ -984,7 +984,6 @@ I-BG-32023-S,immobili,Lombardia,Bergamo,Dalmine,Unità immobiliare per uso di ab
 I-BG-34278-S,immobili,Lombardia,Bergamo,Dossena,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BG-34279-S,immobili,Lombardia,Bergamo,Dossena,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BG-34280-S,immobili,Lombardia,Bergamo,Dossena,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-BG-34993-S,immobili,Lombardia,Bergamo,Cisano Bergamasco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BG-35381-S,immobili,Lombardia,Bergamo,Romano di Lombardia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,50%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BG-35382-S,immobili,Lombardia,Bergamo,Romano di Lombardia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,50%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BG-37884-S,immobili,Lombardia,Bergamo,Treviolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bergamo,Misure di Prevenzione
@@ -1068,7 +1067,6 @@ I-BG-94888-S,immobili,Lombardia,Bergamo,Bergamo,Unità immobiliare per uso di ab
 I-BG-94889-S,immobili,Lombardia,Bergamo,Bergamo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
 I-BG-94890-S,immobili,Lombardia,Bergamo,Ponteranica,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
 I-BG-94891-S,immobili,Lombardia,Bergamo,Bergamo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
-I-BG-94916-S,immobili,Lombardia,Bergamo,Cisano Bergamasco,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BG-95946-S,immobili,Lombardia,Bergamo,Misano di Gera d'Adda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BG-95948-S,immobili,Lombardia,Bergamo,Seriate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BG-95949-S,immobili,Lombardia,Bergamo,Bergamo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Brescia,Procedimento Penale
@@ -7237,9 +7235,9 @@ I-MB-70306-S,immobili,Lombardia,Monza e Brianza,Cornate d'Adda,Unità immobiliar
 I-MB-70307-S,immobili,Lombardia,Monza e Brianza,Cornate d'Adda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Monza,Procedimento Penale
 I-MB-70314-S,immobili,Lombardia,Monza e Brianza,Seregno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
 I-MB-70315-S,immobili,Lombardia,Monza e Brianza,Seregno,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
-I-MB-70358-S,immobili,Lombardia,Monza e Brianza,Limbiate,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Monza,Misure di Prevenzione
-I-MB-70359-S,immobili,Lombardia,Monza e Brianza,Limbiate,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Monza,Misure di Prevenzione
-I-MB-70360-S,immobili,Lombardia,Monza e Brianza,Limbiate,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Monza,Misure di Prevenzione
+I-MB-70358-S,immobili,Lombardia,Monza e Brianza,Limbiate,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
+I-MB-70359-S,immobili,Lombardia,Monza e Brianza,Limbiate,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
+I-MB-70360-S,immobili,Lombardia,Monza e Brianza,Limbiate,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
 I-MB-70439-S,immobili,Lombardia,Monza e Brianza,Seregno,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
 I-MB-70440-S,immobili,Lombardia,Monza e Brianza,Seregno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
 I-MB-70456-S,immobili,Lombardia,Monza e Brianza,Meda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,33%,Tribunale,Monza,Misure di Prevenzione
