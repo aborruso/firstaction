@@ -676,7 +676,8 @@ I-AT-83538-S,immobili,Piemonte,Asti,Asti,Unità immobiliare per uso di abitazion
 I-AT-91527-S,immobili,Piemonte,Asti,Asti,Unità immobiliare per uso di abitazione e assimilabile,Villa,,0%,Tribunale,Torino,Misure di Prevenzione
 I-AT-92031-S,immobili,Piemonte,Asti,Asti,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 I-AT-92032-S,immobili,Piemonte,Asti,Asti,Terreno,Terreno - non definito,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
-I-AV-2019-S,immobili,Campania,Avellino,Pago del Vallo di Lauro,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-AT-95987-S,immobili,Piemonte,Asti,Calliano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
+I-AT-95989-S,immobili,Piemonte,Asti,Calliano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
 I-AV-2100-S,immobili,Campania,Avellino,Prata di Principato Ultra,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Avellino,Misure di Prevenzione
 I-AV-2101-S,immobili,Campania,Avellino,Prata di Principato Ultra,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Avellino,Misure di Prevenzione
 I-AV-2102-S,immobili,Campania,Avellino,Prata di Principato Ultra,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Avellino,Misure di Prevenzione
@@ -721,8 +722,6 @@ I-AV-52778-S,immobili,Campania,Avellino,Altavilla Irpina,Terreno,Terreno agricol
 I-AV-52779-S,immobili,Campania,Avellino,Altavilla Irpina,Terreno,Terreno agricolo,Sequestro,100%,Procura della Repubblica,Avellino,Procedimento Penale
 I-AV-6360-S,immobili,Campania,Avellino,Santo Stefano del Sole,Terreno,Terreno agricolo,Confisca def.,50%,Procura della Repubblica,Roma,Procedimento Penale
 I-AV-6361-S,immobili,Campania,Avellino,Santo Stefano del Sole,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,50%,Procura della Repubblica,Roma,Procedimento Penale
-I-AV-71064-S,immobili,Campania,Avellino,Pago del Vallo di Lauro,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-AV-71065-S,immobili,Campania,Avellino,Pago del Vallo di Lauro,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-AV-77705-S,immobili,Campania,Avellino,Mirabella Eclano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-AV-79603-S,immobili,Campania,Avellino,Aiello del Sabato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-AV-79604-S,immobili,Campania,Avellino,Aiello del Sabato,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
@@ -1979,6 +1978,7 @@ I-CE-62625-S,immobili,Campania,Caserta,Caserta,Terreno,Terreno agricolo,Confisca
 I-CE-62630-S,immobili,Campania,Caserta,Caserta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-62631-S,immobili,Campania,Caserta,Caserta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-62632-S,immobili,Campania,Caserta,Caserta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-633-S,immobili,Campania,Caserta,Cellole,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-CE-63504-S,immobili,Campania,Caserta,Villa di Briano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,50%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-63505-S,immobili,Campania,Caserta,Teano,Terreno,Terreno agricolo,Confisca I,50%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-63506-S,immobili,Campania,Caserta,Teano,Terreno,Terreno agricolo,Confisca I,50%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -2015,16 +2015,10 @@ I-CE-69952-S,immobili,Campania,Caserta,Cancello ed Arnone,Terreno,Terreno agrico
 I-CE-69953-S,immobili,Campania,Caserta,Cancello ed Arnone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-69954-S,immobili,Campania,Caserta,Cancello ed Arnone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70023-S,immobili,Campania,Caserta,Santa Maria la Fossa,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70025-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70026-S,immobili,Campania,Caserta,Villa Literno,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70029-S,immobili,Campania,Caserta,Casal di Principe,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70031-S,immobili,Campania,Caserta,Casal di Principe,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70033-S,immobili,Campania,Caserta,Casal di Principe,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70034-S,immobili,Campania,Caserta,Casal di Principe,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70036-S,immobili,Campania,Caserta,Casal di Principe,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70037-S,immobili,Campania,Caserta,Casal di Principe,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70038-S,immobili,Campania,Caserta,Casal di Principe,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70039-S,immobili,Campania,Caserta,Casal di Principe,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70042-S,immobili,Campania,Caserta,Castel Volturno,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70043-S,immobili,Campania,Caserta,Castel Volturno,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70045-S,immobili,Campania,Caserta,Castel Volturno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -2043,7 +2037,6 @@ I-CE-70057-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per us
 I-CE-70058-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70059-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70063-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70064-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70065-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70066-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70067-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -2067,15 +2060,8 @@ I-CE-70084-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per us
 I-CE-70085-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70086-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70087-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70089-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70097-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70105-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70111-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70117-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70120-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70130-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70135-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70138-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70161-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca I,0%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-70162-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,0%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-70163-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca I,0%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -2140,32 +2126,11 @@ I-CE-70221-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare a des
 I-CE-70222-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca I,0%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-70223-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca I,0%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-70224-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca I,0%,Procura della Repubblica,Napoli,Procedimento Penale
-I-CE-70231-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70232-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70234-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70235-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70236-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70237-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70238-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70239-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70240-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70241-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70243-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70244-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70247-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70249-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70257-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70258-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70259-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70260-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70261-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70262-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70263-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70264-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70265-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70266-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70267-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70268-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70269-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70270-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70271-S,immobili,Campania,Caserta,Castel Volturno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -2183,16 +2148,12 @@ I-CE-70282-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per us
 I-CE-70283-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70284-S,immobili,Campania,Caserta,Villa Literno,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70285-S,immobili,Campania,Caserta,Villa Literno,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70286-S,immobili,Campania,Caserta,Villa Literno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70287-S,immobili,Campania,Caserta,Villa Literno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70288-S,immobili,Campania,Caserta,Villa Literno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70289-S,immobili,Campania,Caserta,Villa Literno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70290-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70291-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70292-S,immobili,Campania,Caserta,Villa Literno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70293-S,immobili,Campania,Caserta,Villa Literno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70294-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70295-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70319-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca I,0%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-70320-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca I,0%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-70321-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca I,0%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -3282,7 +3243,7 @@ I-CL-70472-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agrico
 I-CL-70483-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,99%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-70484-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-70485-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-70486-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-70486-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-70488-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-70489-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-70634-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -4954,7 +4915,6 @@ I-CZ-32763-S,immobili,Calabria,Catanzaro,Catanzaro,Terreno,Terreno agricolo,Conf
 I-CZ-36958-S,immobili,Calabria,Catanzaro,Lamezia Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-36959-S,immobili,Calabria,Catanzaro,Lamezia Terme,Terreno,Terreno edificabile,Confisca I,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-37177-S,immobili,Calabria,Catanzaro,Lamezia Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-40052-S,immobili,Calabria,Catanzaro,Catanzaro,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-40063-S,immobili,Calabria,Catanzaro,Albi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-40064-S,immobili,Calabria,Catanzaro,Taverna,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-41301-S,immobili,Calabria,Catanzaro,Catanzaro,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
@@ -14248,7 +14208,6 @@ I-PV-12629-S,immobili,Lombardia,Pavia,Portalbera,Terreno,Terreno con fabbricato 
 I-PV-12630-S,immobili,Lombardia,Pavia,Portalbera,Terreno,Terreno con fabbricato rurale,Confisca def.,50%,Tribunale,Brindisi,Misure di Prevenzione
 I-PV-16410-S,immobili,Lombardia,Pavia,Chignolo Po,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PV-16450-S,immobili,Lombardia,Pavia,Dorno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PV-16455-S,immobili,Lombardia,Pavia,Garlasco,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PV-16457-S,immobili,Lombardia,Pavia,Vigevano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PV-28163-S,immobili,Lombardia,Pavia,Brallo di Pregola,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PV-29606-S,immobili,Lombardia,Pavia,Casteggio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
@@ -17539,6 +17498,7 @@ I-SV-94876-S,immobili,Liguria,Savona,Albenga,Unità immobiliare per uso di abita
 I-SV-94877-S,immobili,Liguria,Savona,Andora,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,0%,Tribunale,Savona,Misure di Prevenzione
 I-SV-94923-S,immobili,Liguria,Savona,Spotorno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-SV-94924-S,immobili,Liguria,Savona,Spotorno,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-SV-95991-S,immobili,Liguria,Savona,Alassio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
 I-TA-13851-S,immobili,Puglia,Taranto,Pulsano,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,33%,Tribunale,Taranto,Misure di Prevenzione
 I-TA-17504-S,immobili,Puglia,Taranto,Pulsano,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Taranto,Procedimento Penale
 I-TA-17506-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Lecce,Procedimento Penale
@@ -18177,6 +18137,12 @@ I-TO-95869-S,immobili,Piemonte,Torino,Carmagnola,Unità immobiliare per uso di a
 I-TO-95870-S,immobili,Piemonte,Torino,Carmagnola,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-95873-S,immobili,Piemonte,Torino,Carmagnola,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-95875-S,immobili,Piemonte,Torino,Nichelino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-95986-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
+I-TO-95990-S,immobili,Piemonte,Torino,Collegno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Procura della Repubblica,Torino,Procedimento Penale
+I-TO-95992-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Procura della Repubblica,Torino,Procedimento Penale
+I-TO-95993-S,immobili,Piemonte,Torino,Collegno,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Procura della Repubblica,Torino,Procedimento Penale
+I-TO-95994-S,immobili,Piemonte,Torino,Venaria Reale,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
+I-TO-95995-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Procura della Repubblica,Torino,Procedimento Penale
 I-TP-19059-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-19060-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-19061-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
