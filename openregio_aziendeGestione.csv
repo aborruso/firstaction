@@ -863,7 +863,7 @@ A-LT-8773-S,aziende,Lazio,Latina,Fondi,Società in nome collettivo,"Commercio in
 A-LT-8774-S,aziende,Lazio,Latina,Fondi,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-8776-S,aziende,Lazio,Latina,Fondi,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-8784-S,aziende,Lazio,Latina,Fondi,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,2%,Tribunale,Latina,Misure di Prevenzione
-A-LT-90229-S,aziende,Lazio,Latina,Latina,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+A-LT-90229-S,aziende,Lazio,Latina,Terracina,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-LT-92389-S,aziende,Lazio,Latina,Aprilia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Revoca Seq.,50%,Tribunale,Catania,Misure di Prevenzione
 A-LT-92426-S,aziende,Lazio,Latina,Aprilia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
 A-LT-93270-S,aziende,Lazio,Latina,Latina,Società in accomandita semplice,Alberghi e ristoranti,Confisca II,100%,Tribunale,Latina,Misure di Prevenzione
@@ -1484,13 +1484,12 @@ A-NA-89488-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,
 A-NA-89503-S,aziende,Campania,Napoli,Pozzuoli,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-89507-S,aziende,Campania,Napoli,Pozzuoli,Società in accomandita semplice,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-90123-S,aziende,Campania,Napoli,Marano di Napoli,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-A-NA-90222-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,50%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-90222-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,50%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-90224-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,50%,Tribunale,Napoli,Misure di Prevenzione
-A-NA-90225-S,aziende,Campania,Napoli,Napoli,Impresa individuale,Alberghi e ristoranti,Revoca Seq.,100%,Tribunale,Napoli,Misure di Prevenzione
-A-NA-90230-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,50%,Tribunale,Napoli,Misure di Prevenzione
-A-NA-90231-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-90230-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,50%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-90231-S,aziende,Campania,Napoli,Napoli,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-90233-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Alberghi e ristoranti,Revoca Seq.,50%,Tribunale,Napoli,Misure di Prevenzione
-A-NA-90238-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-90238-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Alberghi e ristoranti,Revoca Conf.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-90258-S,aziende,Campania,Napoli,Casandrino,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-90259-S,aziende,Campania,Napoli,Sant'Antimo,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-90263-S,aziende,Campania,Napoli,Sant'Antimo,Società a responsabilità limitata,"Produzione e distribuzione di energia elettrica, gas e acqua",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione

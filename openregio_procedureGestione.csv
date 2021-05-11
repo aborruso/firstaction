@@ -311,9 +311,6 @@ Calabria,Procura della Repubblica,Reggio Calabria,Procedimento Penale,Revoca Seq
 Calabria,Procura della Repubblica,Reggio Calabria,Procedimento Penale,Revoca Sequ. parziale,7497/2014
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca I,118/2012
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca I,14/2016
-Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca I,147/2013
-Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca I,167/2016
-Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca I,47/2015
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca I,65/2014
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca I,72/2013
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca I,74/2014
@@ -380,6 +377,7 @@ Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,163/2012
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,163/2013
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,164/2000
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,164/2013
+Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,167/2016
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,168/2012
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,169/2013
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,171/2010
@@ -474,6 +472,7 @@ Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,46/2004
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,47/2005
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,47/2009
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,47/2012
+Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,47/2015
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,49/1997
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,49/2014
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,5/2009
@@ -547,6 +546,7 @@ Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf.,115/2012
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf.,123/2013
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf.,129/2017
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf.,146/2013
+Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf.,147/2013
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf.,167/2013
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf.,21/2013
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf.,30/2016
@@ -1909,7 +1909,6 @@ Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,122/2017
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,134/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,24/2016
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,25/2017
-Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,37/2019
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,40/2015
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,44/2014
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,45/2016
@@ -1923,6 +1922,7 @@ Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,112/2015
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,117/2018
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,127/2018
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,27/2019
+Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,37/2019
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,48/2015
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,67/2019
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,70/2009
@@ -2198,8 +2198,8 @@ Lombardia,Tribunale,Sondrio,Misure di Prevenzione,Confisca I,11/2015
 Lombardia,Tribunale,Sondrio,Misure di Prevenzione,Confisca def.,1/2015
 Lombardia,Procura della Repubblica,Varese,Procedimento Penale,Confisca I,747/2007
 Lombardia,Procura della Repubblica,Varese,Procedimento Penale,Confisca def.,6143/2009
-Lombardia,Tribunale,Varese,Misure di Prevenzione,Confisca I,19/2017
 Lombardia,Tribunale,Varese,Misure di Prevenzione,Confisca I,25/2016
+Lombardia,Tribunale,Varese,Misure di Prevenzione,Confisca II,19/2017
 Lombardia,Tribunale,Varese,Misure di Prevenzione,Confisca def.,1/2010
 Lombardia,Tribunale,Varese,Misure di Prevenzione,Confisca def.,13/2017
 Lombardia,Tribunale,Varese,Misure di Prevenzione,Confisca def.,16/2010
