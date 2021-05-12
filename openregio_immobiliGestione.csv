@@ -7282,6 +7282,7 @@ I-MB-91430-S,immobili,Lombardia,Monza e Brianza,Cesano Maderno,Unità immobiliar
 I-MB-92677-S,immobili,Lombardia,Monza e Brianza,Cesano Maderno,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Monza,Misure di Prevenzione
 I-MB-94064-S,immobili,Lombardia,Monza e Brianza,Busnago,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-94066-S,immobili,Lombardia,Monza e Brianza,Busnago,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-MB-96010-S,immobili,Lombardia,Monza e Brianza,Vedano al Lambro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Varese,Misure di Prevenzione
 I-MB-9847-S,immobili,Lombardia,Monza e Brianza,Cesano Maderno,Terreno,Terreno - non definito,,100%,Tribunale,Milano,Misure di Prevenzione
 I-MB-9848-S,immobili,Lombardia,Monza e Brianza,Cesano Maderno,Terreno,Terreno - non definito,,20%,Tribunale,Milano,Misure di Prevenzione
 I-MC-75808-S,immobili,Marche,Macerata,Pioraco,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -8671,8 +8672,8 @@ I-MI-74097-S,immobili,Lombardia,Milano,Solaro,Unità immobiliare per uso di abit
 I-MI-74260-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-74261-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Milano,Misure di Prevenzione
 I-MI-74262-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Tribunale,Milano,Misure di Prevenzione
-I-MI-74300-S,immobili,Lombardia,Milano,Cernusco sul Naviglio,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Procura della Repubblica,Monza,Procedimento Penale
-I-MI-74302-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Procura della Repubblica,Monza,Procedimento Penale
+I-MI-74300-S,immobili,Lombardia,Milano,Cernusco sul Naviglio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Procura della Repubblica,Monza,Procedimento Penale
+I-MI-74302-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Procura della Repubblica,Monza,Procedimento Penale
 I-MI-74337-S,immobili,Lombardia,Milano,Corsico,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-74338-S,immobili,Lombardia,Milano,Corsico,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-74465-S,immobili,Lombardia,Milano,Trezzano sul Naviglio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Procedimento Penale
@@ -14129,8 +14130,8 @@ I-PT-86806-S,immobili,Toscana,Pistoia,Pistoia,Unità immobiliare per uso di abit
 I-PT-86808-S,immobili,Toscana,Pistoia,Pistoia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Firenze,Misure di Prevenzione
 I-PT-86810-S,immobili,Toscana,Pistoia,Serravalle Pistoiese,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Firenze,Misure di Prevenzione
 I-PT-86811-S,immobili,Toscana,Pistoia,Serravalle Pistoiese,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,,0%,Tribunale,Firenze,Misure di Prevenzione
-I-PT-88588-S,immobili,Toscana,Pistoia,Montale,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
-I-PT-90534-S,immobili,Toscana,Pistoia,Montale,Altra unità immobiliare,Altro,Confisca II,0%,Tribunale,Pistoia,Misure di Prevenzione
+I-PT-88588-S,immobili,Toscana,Pistoia,Montale,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,0%,Tribunale,Pistoia,Misure di Prevenzione
+I-PT-90534-S,immobili,Toscana,Pistoia,Montale,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Pistoia,Misure di Prevenzione
 I-PT-92949-S,immobili,Toscana,Pistoia,Pescia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 I-PT-92950-S,immobili,Toscana,Pistoia,Pescia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 I-PT-92951-S,immobili,Toscana,Pistoia,Pescia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
@@ -16122,7 +16123,7 @@ I-RM-80746-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e
 I-RM-80768-S,immobili,Lazio,Roma,Frascati,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80769-S,immobili,Lazio,Roma,Frascati,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80770-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
-I-RM-80962-S,immobili,Lazio,Roma,Roma,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-RM-80962-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80965-S,immobili,Lazio,Roma,Roma,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80967-S,immobili,Lazio,Roma,Roma,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80971-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
@@ -18140,6 +18141,7 @@ I-TO-95992-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abita
 I-TO-95993-S,immobili,Piemonte,Torino,Collegno,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,100%,Procura della Repubblica,Torino,Procedimento Penale
 I-TO-95994-S,immobili,Piemonte,Torino,Venaria Reale,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
 I-TO-95995-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Procura della Repubblica,Torino,Procedimento Penale
+I-TO-96008-S,immobili,Piemonte,Torino,San Francesco al Campo,Terreno,Terreno - non definito,,0%,Procura della Repubblica,Torino,Procedimento Penale
 I-TP-19059-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-19060-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-19061-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
