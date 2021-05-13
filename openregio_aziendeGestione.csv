@@ -138,6 +138,8 @@ A-BA-94119-S,aziende,Puglia,Bari,Molfetta,Società a responsabilità limitata,"C
 A-BA-94919-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 A-BA-95703-S,aziende,Puglia,Bari,Bari,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 A-BA-95707-S,aziende,Puglia,Bari,Bari,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
+A-BA-96021-S,aziende,Puglia,Bari,Molfetta,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,98%,Tribunale,Bari,Misure di Prevenzione
+A-BA-96022-S,aziende,Puglia,Bari,Molfetta,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 A-BG-21021-S,aziende,Lombardia,Bergamo,Fornovo San Giovanni,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,90%,Procura della Repubblica,Milano,Procedimento Penale
 A-BG-34362-S,aziende,Lombardia,Bergamo,Mozzanica,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-BG-35380-S,aziende,Lombardia,Bergamo,Trescore Balneario,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
@@ -2511,13 +2513,11 @@ A-RM-90085-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Albergh
 A-RM-90090-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Attività finanziarie,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-90092-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-90106-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-91267-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-91268-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Attività manifatturiere,,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-91269-S,aziende,Lazio,Roma,Roma,Consorzio,Attività manifatturiere,,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-91270-S,aziende,Lazio,Roma,Roma,Consorzio,Costruzioni,,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-91271-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-91272-S,aziende,Lazio,Roma,Roma,Società per azioni,Attività manifatturiere,,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-91273-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-91275-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-91276-S,aziende,Lazio,Roma,Fiano Romano,Società a responsabilità limitata,Attività finanziarie,,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-91801-S,aziende,Lazio,Roma,San Cesareo,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -2776,7 +2776,7 @@ A-TO-76761-S,aziende,Piemonte,Torino,Torino,Società cooperativa,"Trasporti, mag
 A-TO-79466-S,aziende,Piemonte,Torino,Torino,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-82173-S,aziende,Piemonte,Torino,Orbassano,Società in nome collettivo,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-83712-S,aziende,Piemonte,Torino,Torino,Impresa individuale,Attività manifatturiere,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-A-TO-92355-S,aziende,Piemonte,Torino,Pinerolo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
+A-TO-92355-S,aziende,Piemonte,Torino,Pinerolo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-92451-S,aziende,Piemonte,Torino,Torino,Società in accomandita semplice,Alberghi e ristoranti,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-95625-S,aziende,Piemonte,Torino,Torino,Società in accomandita semplice,Alberghi e ristoranti,Confisca II,90%,Procura della Repubblica,Torino,Procedimento Penale
 A-TO-95845-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,"Produzione e distribuzione di energia elettrica, gas e acqua",Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
