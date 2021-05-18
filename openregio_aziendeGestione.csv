@@ -859,7 +859,7 @@ A-LT-82077-S,aziende,Lazio,Latina,Minturno,Impresa individuale,Alberghi e ristor
 A-LT-83146-S,aziende,Lazio,Latina,Latina,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,20%,Tribunale,Latina,Misure di Prevenzione
 A-LT-8597-S,aziende,Lazio,Latina,Formia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-LT-86634-S,aziende,Lazio,Latina,Cisterna di Latina,Società a responsabilità limitata,"Produzione e distribuzione di energia elettrica, gas e acqua",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-LT-86943-S,aziende,Lazio,Latina,Latina,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Latina,Misure di Prevenzione
+A-LT-86943-S,aziende,Lazio,Latina,Latina,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-8772-S,aziende,Lazio,Latina,Fondi,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-8773-S,aziende,Lazio,Latina,Fondi,Società in nome collettivo,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-8774-S,aziende,Lazio,Latina,Fondi,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
@@ -2784,7 +2784,7 @@ A-TO-95625-S,aziende,Piemonte,Torino,Torino,Società in accomandita semplice,Alb
 A-TO-95845-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,"Produzione e distribuzione di energia elettrica, gas e acqua",Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-95866-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-95988-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,55%,Procura della Repubblica,Torino,Procedimento Penale
-A-TO-95996-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,Costruzioni,,0%,Procura della Repubblica,Torino,Procedimento Penale
+A-TO-95996-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,Costruzioni,Confisca def.,70%,Procura della Repubblica,Torino,Procedimento Penale
 A-TP-18963-S,aziende,Sicilia,Trapani,Marsala,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Marsala,Procedimento Penale
 A-TP-18965-S,aziende,Sicilia,Trapani,Marsala,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,48%,Tribunale,Marsala,Procedimento Penale
 A-TP-19259-S,aziende,Sicilia,Trapani,Castelvetrano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
