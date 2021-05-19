@@ -10464,7 +10464,7 @@ I-NA-90891-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare p
 I-NA-90892-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
 I-NA-90901-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Bologna,Procedimento Penale
 I-NA-90902-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Bologna,Procedimento Penale
-I-NA-90903-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-NA-90903-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Procura della Repubblica,Bologna,Procedimento Penale
 I-NA-90904-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
 I-NA-90967-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-90968-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -17677,24 +17677,24 @@ I-TN-90865-S,immobili,Trentino Alto Adige,Trento,Valfloriana,Unità immobiliare 
 I-TN-90867-S,immobili,Trentino Alto Adige,Trento,Valfloriana,Terreno,Terreno agricolo,Confisca def.,33%,Procura della Repubblica,Busto Arsizio,Procedimento Penale
 I-TN-90870-S,immobili,Trentino Alto Adige,Trento,Valfloriana,Terreno,Terreno agricolo,Confisca def.,33%,Procura della Repubblica,Busto Arsizio,Procedimento Penale
 I-TN-90871-S,immobili,Trentino Alto Adige,Trento,Valfloriana,Terreno,Terreno agricolo,Confisca def.,33%,Procura della Repubblica,Busto Arsizio,Procedimento Penale
-I-TN-95110-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
-I-TN-95111-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
-I-TN-95112-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
-I-TN-95113-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
-I-TN-95114-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
-I-TN-95115-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
-I-TN-95116-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
-I-TN-95117-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95110-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,0%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95111-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,0%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95112-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,0%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95113-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,0%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95114-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,0%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95115-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,0%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95116-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,0%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95117-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,0%,Procura della Repubblica,Trento,Procedimento Penale
 I-TN-95118-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
-I-TN-95119-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
-I-TN-95120-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
-I-TN-95121-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
-I-TN-95122-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
-I-TN-95123-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
-I-TN-95124-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
-I-TN-95125-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
-I-TN-95126-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
-I-TN-95127-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95119-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,0%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95120-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,0%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95121-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,0%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95122-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,0%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95123-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,0%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95124-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,0%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95125-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,0%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95126-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,0%,Procura della Repubblica,Trento,Procedimento Penale
+I-TN-95127-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,0%,Procura della Repubblica,Trento,Procedimento Penale
 I-TN-95128-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
 I-TO-10311-S,immobili,Piemonte,Torino,San Giusto Canavese,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Torino,Misure di Prevenzione
 I-TO-10312-S,immobili,Piemonte,Torino,San Giusto Canavese,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Torino,Misure di Prevenzione
@@ -19856,8 +19856,8 @@ I-VE-86789-S,immobili,Veneto,Venezia,Portogruaro,Unità immobiliare per uso di a
 I-VE-86790-S,immobili,Veneto,Venezia,Portogruaro,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VE-86791-S,immobili,Veneto,Venezia,Portogruaro,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VE-87132-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
-I-VE-90744-S,immobili,Veneto,Venezia,Portogruaro,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Procura della Repubblica,Bologna,Procedimento Penale
-I-VE-90745-S,immobili,Veneto,Venezia,Portogruaro,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-VE-90744-S,immobili,Veneto,Venezia,Portogruaro,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-VE-90745-S,immobili,Veneto,Venezia,Portogruaro,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VE-90746-S,immobili,Veneto,Venezia,Portogruaro,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VE-90747-S,immobili,Veneto,Venezia,Portogruaro,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VE-90748-S,immobili,Veneto,Venezia,Portogruaro,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
