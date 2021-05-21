@@ -527,6 +527,8 @@ I-AL-84154-S,immobili,Piemonte,Alessandria,Alessandria,Unità immobiliare a dest
 I-AL-84155-S,immobili,Piemonte,Alessandria,Alessandria,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-AL-90545-S,immobili,Piemonte,Alessandria,Acqui Terme,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Torino,Misure di Prevenzione
 I-AL-90546-S,immobili,Piemonte,Alessandria,Acqui Terme,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Torino,Misure di Prevenzione
+I-AL-96116-S,immobili,Piemonte,Alessandria,Valenza,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-AL-96187-S,immobili,Piemonte,Alessandria,Valenza,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-AN-78646-S,immobili,Marche,Ancona,Ancona,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,81%,Tribunale,Ancona,Misure di Prevenzione
 I-AN-78647-S,immobili,Marche,Ancona,Falconara Marittima,Terreno,Terreno - non definito,Confisca def.,0%,Tribunale,Ancona,Misure di Prevenzione
 I-AN-83437-S,immobili,Marche,Ancona,Ancona,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Procura della Repubblica,Ancona,Procedimento Penale
@@ -2737,6 +2739,32 @@ I-CE-95277-S,immobili,Campania,Caserta,Pontelatone,Terreno,Terreno agricolo,Conf
 I-CE-95281-S,immobili,Campania,Caserta,Pontelatone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-95283-S,immobili,Campania,Caserta,Pontelatone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-95285-S,immobili,Campania,Caserta,Pontelatone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-96117-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96118-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96121-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96130-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96137-S,immobili,Campania,Caserta,San Cipriano d'Aversa,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96140-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96142-S,immobili,Campania,Caserta,Aversa,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96147-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96148-S,immobili,Campania,Caserta,San Cipriano d'Aversa,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Rinvio,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96149-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96157-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96160-S,immobili,Campania,Caserta,Aversa,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96162-S,immobili,Campania,Caserta,Aversa,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96166-S,immobili,Campania,Caserta,Cancello ed Arnone,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96168-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96169-S,immobili,Campania,Caserta,Aversa,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96170-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96175-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96176-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96179-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96180-S,immobili,Campania,Caserta,San Cipriano d'Aversa,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96185-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96192-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96198-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96199-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-96204-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CH-36419-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-36421-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-42987-S,immobili,Abruzzo,Chieti,San Salvo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Varese,Misure di Prevenzione
@@ -5258,6 +5286,8 @@ I-FE-70512-S,immobili,Emilia Romagna,Ferrara,Comacchio,Unità immobiliare per us
 I-FE-70848-S,immobili,Emilia Romagna,Ferrara,Poggio Renatico,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Ferrara,Misure di Prevenzione
 I-FE-70849-S,immobili,Emilia Romagna,Ferrara,Poggio Renatico,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Ferrara,Misure di Prevenzione
 I-FE-70850-S,immobili,Emilia Romagna,Ferrara,Ferrara,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Ferrara,Misure di Prevenzione
+I-FE-84430-S,immobili,Emilia Romagna,Ferrara,Argenta,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf. parziale,0%,Tribunale,Bologna,Misure di Prevenzione
+I-FE-84431-S,immobili,Emilia Romagna,Ferrara,Argenta,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf. parziale,0%,Tribunale,Bologna,Misure di Prevenzione
 I-FE-84433-S,immobili,Emilia Romagna,Ferrara,Argenta,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf. parziale,0%,Tribunale,Bologna,Misure di Prevenzione
 I-FE-93177-S,immobili,Emilia Romagna,Ferrara,Cento,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-FE-93178-S,immobili,Emilia Romagna,Ferrara,Cento,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
@@ -10860,6 +10890,13 @@ I-NA-95-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,
 I-NA-95608-S,immobili,Campania,Napoli,Afragola,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-96-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-96000-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-96120-S,immobili,Campania,Napoli,Frattaminore,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-96122-S,immobili,Campania,Napoli,Frattaminore,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-96134-S,immobili,Campania,Napoli,Frattaminore,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-96164-S,immobili,Campania,Napoli,Frattaminore,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-96178-S,immobili,Campania,Napoli,Frattaminore,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-96193-S,immobili,Campania,Napoli,Frattaminore,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-96196-S,immobili,Campania,Napoli,Frattaminore,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-9744-S,immobili,Campania,Napoli,Trecase,Terreno,Terreno - non definito,Confisca def.,20%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-9745-S,immobili,Campania,Napoli,Trecase,Terreno,Terreno agricolo,Confisca def.,20%,Procura della Repubblica,Napoli,Procedimento Penale
