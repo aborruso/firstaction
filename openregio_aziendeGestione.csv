@@ -775,6 +775,7 @@ A-GO-19389-S,aziende,Friuli Venezia Giulia,Gorizia,Monfalcone,Società a respons
 A-IM-18014-S,aziende,Liguria,Imperia,Sanremo,Società a responsabilità limitata,Costruzioni,Confisca def.,50%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-IS-63757-S,aziende,Molise,Isernia,Venafro,Impresa individuale,"Produzione e distribuzione di energia elettrica, gas e acqua",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 A-IS-94948-S,aziende,Molise,Isernia,Venafro,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,0%,Procura della Repubblica,Napoli,Procedimento Penale
+A-IS-96255-S,aziende,Molise,Isernia,Pettoranello del Molise,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Latina,Misure di Prevenzione
 A-KR-36506-S,aziende,Calabria,Crotone,Crotone,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 A-KR-36619-S,aziende,Calabria,Crotone,Crotone,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 A-KR-3738-S,aziende,Calabria,Crotone,Cirò Marina,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Crotone,Misure di Prevenzione
@@ -891,6 +892,9 @@ A-LT-95716-S,aziende,Lazio,Latina,Fondi,Impresa individuale,Alberghi e ristorant
 A-LT-95718-S,aziende,Lazio,Latina,Fondi,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-95732-S,aziende,Lazio,Latina,Itri,Impresa individuale,"Altri servizi pubblici, sociali e personali",Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-95742-S,aziende,Lazio,Latina,Terracina,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
+A-LT-96253-S,aziende,Lazio,Latina,Formia,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",,0%,Tribunale,Latina,Misure di Prevenzione
+A-LT-96256-S,aziende,Lazio,Latina,Formia,Società a responsabilità limitata,Estrazione di minerali,,0%,Tribunale,Latina,Misure di Prevenzione
+A-LT-96257-S,aziende,Lazio,Latina,Spigno Saturnia,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Latina,Misure di Prevenzione
 A-LU-36322-S,aziende,Toscana,Lucca,Lucca,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Firenze,Procedimento Penale
 A-LU-49792-S,aziende,Toscana,Lucca,Lucca,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,10%,Procura della Repubblica,Napoli,Procedimento Penale
 A-LU-59539-S,aziende,Toscana,Lucca,Viareggio,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,50%,Tribunale,Lucca,Misure di Prevenzione
@@ -1124,9 +1128,8 @@ A-MI-81582-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata
 A-MI-82535-S,aziende,Lombardia,Milano,Bresso,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-82581-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,33%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-82586-S,aziende,Lombardia,Milano,Milano,Società cooperativa,Costruzioni,Confisca I,100%,Procura della Repubblica,Milano,Procedimento Penale
-A-MI-82593-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-82711-S,aziende,Lombardia,Milano,Inzago,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
-A-MI-82719-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+A-MI-82719-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Revoca Conf.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-82739-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,100%,Procura della Repubblica,Brescia,Procedimento Penale
 A-MI-82740-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Attività manifatturiere,,100%,Procura della Repubblica,Brescia,Procedimento Penale
 A-MI-82743-S,aziende,Lombardia,Milano,Milano,Società cooperativa a responsabilità limitata,Costruzioni,,100%,Procura della Repubblica,Brescia,Procedimento Penale
@@ -1526,6 +1529,8 @@ A-NA-94145-S,aziende,Campania,Napoli,Marano di Napoli,Società cooperativa a res
 A-NA-94700-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Revoca Conf.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-NA-94705-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-NA-94950-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-96254-S,aziende,Campania,Napoli,Quarto,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",,0%,Tribunale,Latina,Misure di Prevenzione
+A-NA-96258-S,aziende,Campania,Napoli,Quarto,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Latina,Misure di Prevenzione
 A-NA-9715-S,aziende,Campania,Napoli,Torre Annunziata,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-9852-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Attività finanziarie,Confisca def.,10%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-9853-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Attività finanziarie,Confisca def.,45%,Procura della Repubblica,Napoli,Procedimento Penale
