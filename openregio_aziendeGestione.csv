@@ -230,7 +230,6 @@ A-BT-85095-S,aziende,Puglia,Barletta-Andria-Trani,Andria,Impresa individuale,"Ag
 A-BT-85096-S,aziende,Puglia,Barletta-Andria-Trani,Andria,Impresa individuale,"Agricoltura, caccia e silvicoltura",Revoca Sequ. parziale,100%,Tribunale,Trani,Misure di Prevenzione
 A-BT-85123-S,aziende,Puglia,Barletta-Andria-Trani,Andria,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Revoca Sequ. parziale,0%,Tribunale,Trani,Misure di Prevenzione
 A-BT-85289-S,aziende,Puglia,Barletta-Andria-Trani,Andria,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
-A-BT-9483-S,aziende,Puglia,Barletta-Andria-Trani,Andria,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Trani,Misure di Prevenzione
 A-BT-95268-S,aziende,Puglia,Barletta-Andria-Trani,Andria,Impresa individuale,"Agricoltura, caccia e silvicoltura",Revoca Conf.,100%,Tribunale,Trani,Misure di Prevenzione
 A-BT-95275-S,aziende,Puglia,Barletta-Andria-Trani,Andria,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
 A-BT-9830-S,aziende,Puglia,Barletta-Andria-Trani,Andria,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
@@ -651,7 +650,7 @@ A-CT-83513-S,aziende,Sicilia,Catania,Misterbianco,Impresa individuale,"Altri ser
 A-CT-83514-S,aziende,Sicilia,Catania,Valverde,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-83517-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-84821-S,aziende,Sicilia,Catania,San Giovanni la Punta,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
-A-CT-84851-S,aziende,Sicilia,Catania,Belpasso,Società a responsabilità limitata,,,100%,Procura della Repubblica,Catania,Procedimento Penale
+A-CT-84851-S,aziende,Sicilia,Catania,Belpasso,Società a responsabilità limitata,Costruzioni,,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-CT-8521-S,aziende,Sicilia,Catania,Militello in Val di Catania,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-8522-S,aziende,Sicilia,Catania,Militello in Val di Catania,Consorzio,"Altri servizi pubblici, sociali e personali",Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
 A-CT-8523-S,aziende,Sicilia,Catania,Militello in Val di Catania,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
@@ -894,7 +893,7 @@ A-LT-95732-S,aziende,Lazio,Latina,Itri,Impresa individuale,"Altri servizi pubbli
 A-LT-95742-S,aziende,Lazio,Latina,Terracina,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-96253-S,aziende,Lazio,Latina,Formia,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",,0%,Tribunale,Latina,Misure di Prevenzione
 A-LT-96256-S,aziende,Lazio,Latina,Formia,Società a responsabilità limitata,Estrazione di minerali,,0%,Tribunale,Latina,Misure di Prevenzione
-A-LT-96257-S,aziende,Lazio,Latina,Spigno Saturnia,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Latina,Misure di Prevenzione
+A-LT-96257-S,aziende,Lazio,Latina,Spigno Saturnia,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
 A-LU-36322-S,aziende,Toscana,Lucca,Lucca,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Firenze,Procedimento Penale
 A-LU-49792-S,aziende,Toscana,Lucca,Lucca,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,10%,Procura della Repubblica,Napoli,Procedimento Penale
 A-LU-59539-S,aziende,Toscana,Lucca,Viareggio,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,50%,Tribunale,Lucca,Misure di Prevenzione
@@ -1530,7 +1529,7 @@ A-NA-94700-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,
 A-NA-94705-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-NA-94950-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-96254-S,aziende,Campania,Napoli,Quarto,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",,0%,Tribunale,Latina,Misure di Prevenzione
-A-NA-96258-S,aziende,Campania,Napoli,Quarto,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Latina,Misure di Prevenzione
+A-NA-96258-S,aziende,Campania,Napoli,Quarto,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Latina,Misure di Prevenzione
 A-NA-9715-S,aziende,Campania,Napoli,Torre Annunziata,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-9852-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Attività finanziarie,Confisca def.,10%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-9853-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Attività finanziarie,Confisca def.,45%,Procura della Repubblica,Napoli,Procedimento Penale
