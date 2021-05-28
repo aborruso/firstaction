@@ -86,6 +86,10 @@ A-AG-7912-S,aziende,Sicilia,Agrigento,Agrigento,Società a responsabilità limit
 A-AG-86516-S,aziende,Sicilia,Agrigento,Licata,Impresa individuale,,,100%,Tribunale,Agrigento,Misure di Prevenzione
 A-AG-86517-S,aziende,Sicilia,Agrigento,Licata,Impresa individuale,,,100%,Tribunale,Agrigento,Misure di Prevenzione
 A-AG-86518-S,aziende,Sicilia,Agrigento,Licata,Società in accomandita semplice,,,100%,Tribunale,Agrigento,Misure di Prevenzione
+A-AG-96888-S,aziende,Sicilia,Agrigento,Canicattì,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+A-AG-96896-S,aziende,Sicilia,Agrigento,Canicattì,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+A-AG-96916-S,aziende,Sicilia,Agrigento,Canicattì,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+A-AG-96948-S,aziende,Sicilia,Agrigento,Canicattì,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 A-AL-61955-S,aziende,Piemonte,Alessandria,Tortona,Consorzio,"Produzione e distribuzione di energia elettrica, gas e acqua",Confisca def.,31%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-AL-79215-S,aziende,Piemonte,Alessandria,Alessandria,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Alessandria,Misure di Prevenzione
 A-AL-96203-S,aziende,Piemonte,Alessandria,Valenza,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -682,6 +686,7 @@ A-CT-95209-S,aziende,Sicilia,Catania,San Giovanni la Punta,Impresa individuale,"
 A-CT-96386-S,aziende,Sicilia,Catania,San Giovanni la Punta,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-96394-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,Costruzioni,Confisca def.,40%,Tribunale,Catania,Misure di Prevenzione
 A-CT-96493-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+A-CT-96848-S,aziende,Sicilia,Catania,Catania,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CZ-13987-S,aziende,Calabria,Catanzaro,Catanzaro,Impresa individuale,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 A-CZ-13988-S,aziende,Calabria,Catanzaro,Catanzaro,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 A-CZ-39340-S,aziende,Calabria,Catanzaro,Guardavalle,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -744,6 +749,9 @@ A-FG-48754-S,aziende,Puglia,Foggia,Lucera,Società a responsabilità limitata,"C
 A-FG-63704-S,aziende,Puglia,Foggia,Orta Nova,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,90%,Procura della Repubblica,Bari,Procedimento Penale
 A-FG-95613-S,aziende,Puglia,Foggia,Foggia,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,60%,Tribunale,Foggia,Misure di Prevenzione
 A-FG-95619-S,aziende,Puglia,Foggia,Foggia,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
+A-FG-96637-S,aziende,Puglia,Foggia,Ordona,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
+A-FG-96667-S,aziende,Puglia,Foggia,Ordona,Società semplice,"Agricoltura, caccia e silvicoltura",Revoca Conf.,100%,Tribunale,Foggia,Misure di Prevenzione
+A-FG-96691-S,aziende,Puglia,Foggia,Ordona,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 A-FI-10558-S,aziende,Toscana,Firenze,Sesto Fiorentino,Società a responsabilità limitata,Attività finanziarie,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-FI-33630-S,aziende,Toscana,Firenze,Sesto Fiorentino,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 A-FI-40169-S,aziende,Toscana,Firenze,Firenze,Società a responsabilità limitata,Costruzioni,Confisca def.,20%,Procura della Repubblica,Palermo,Procedimento Penale
@@ -930,6 +938,7 @@ A-MB-74312-S,aziende,Lombardia,Monza e Brianza,Barlassina,Impresa individuale,Al
 A-MB-74313-S,aziende,Lombardia,Monza e Brianza,Meda,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Monza,Procedimento Penale
 A-MB-74315-S,aziende,Lombardia,Monza e Brianza,Barlassina,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Procura della Repubblica,Monza,Procedimento Penale
 A-MB-77911-S,aziende,Lombardia,Monza e Brianza,Seregno,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+A-MC-96865-S,aziende,Marche,Macerata,Porto Recanati,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Ancona,Misure di Prevenzione
 A-ME-18473-S,aziende,Sicilia,Messina,Alì Terme,Altro,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-ME-20194-S,aziende,Sicilia,Messina,Giardini-Naxos,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,50%,Procura della Repubblica,Catania,Procedimento Penale
 A-ME-32233-S,aziende,Sicilia,Messina,Messina,Società in nome collettivo,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
@@ -1925,6 +1934,7 @@ A-PA-96529-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata
 A-PA-96558-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-96560-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-96575-S,aziende,Sicilia,Palermo,Palermo,Società in nome collettivo,"Altri servizi pubblici, sociali e personali",Revoca Conf.,0%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-96861-S,aziende,Sicilia,Palermo,Palermo,Società in nome collettivo,Attività manifatturiere,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-9947-S,aziende,Sicilia,Palermo,Trabia,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-9949-S,aziende,Sicilia,Palermo,Trabia,Società in nome collettivo,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-9950-S,aziende,Sicilia,Palermo,Trabia,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
