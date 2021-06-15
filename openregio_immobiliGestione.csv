@@ -2601,7 +2601,7 @@ I-CE-90124-S,immobili,Campania,Caserta,Mondragone,Unità immobiliare a destinazi
 I-CE-90132-S,immobili,Campania,Caserta,Mondragone,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-90267-S,immobili,Campania,Caserta,Cesa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-CE-90279-S,immobili,Campania,Caserta,Cesa,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-CE-90334-S,immobili,Campania,Caserta,Casal di Principe,Terreno,Terreno con fabbricato rurale,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-90334-S,immobili,Campania,Caserta,Casal di Principe,Terreno,Terreno con fabbricato rurale,Confisca def.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-90517-S,immobili,Campania,Caserta,Parete,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-90519-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-90524-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -20207,7 +20207,7 @@ I-VE-6409-S,immobili,Veneto,Venezia,Venezia,Unità immobiliare a destinazione co
 I-VE-6410-S,immobili,Veneto,Venezia,Venezia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VE-6411-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VE-6412-S,immobili,Veneto,Venezia,Venezia,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
-I-VE-79836-S,immobili,Veneto,Venezia,Jesolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-VE-79836-S,immobili,Veneto,Venezia,Jesolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VE-82683-S,immobili,Veneto,Venezia,Cona,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VE-82684-S,immobili,Veneto,Venezia,Cona,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VE-82685-S,immobili,Veneto,Venezia,Cona,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Venezia,Misure di Prevenzione
@@ -20226,9 +20226,9 @@ I-VE-90750-S,immobili,Veneto,Venezia,Portogruaro,Unità immobiliare per uso di a
 I-VE-90751-S,immobili,Veneto,Venezia,Portogruaro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VE-90752-S,immobili,Veneto,Venezia,Portogruaro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VE-90833-S,immobili,Veneto,Venezia,Jesolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
-I-VE-90883-S,immobili,Veneto,Venezia,Jesolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
-I-VE-90885-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Bologna,Procedimento Penale
-I-VE-90886-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-VE-90883-S,immobili,Veneto,Venezia,Jesolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-VE-90885-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-VE-90886-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VE-90896-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VE-92112-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
 I-VE-92113-S,immobili,Veneto,Venezia,San Donà di Piave,Altra unità immobiliare,Altro,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale
