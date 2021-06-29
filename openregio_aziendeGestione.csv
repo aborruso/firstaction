@@ -718,7 +718,7 @@ A-CZ-75946-S,aziende,Calabria,Catanzaro,Montepaone,Associazione,"Altri servizi p
 A-CZ-80101-S,aziende,Calabria,Catanzaro,Borgia,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-CZ-82891-S,aziende,Calabria,Catanzaro,Catanzaro,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 A-CZ-83177-S,aziende,Calabria,Catanzaro,Davoli,Società a responsabilità limitata,Attività finanziarie,,50%,Procura della Repubblica,Catanzaro,Procedimento Penale
-A-CZ-83248-S,aziende,Calabria,Catanzaro,Soverato,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
+A-CZ-83248-S,aziende,Calabria,Catanzaro,Soverato,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 A-CZ-83255-S,aziende,Calabria,Catanzaro,Satriano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,61%,Procura della Repubblica,Catanzaro,Procedimento Penale
 A-CZ-83257-S,aziende,Calabria,Catanzaro,Soverato,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 A-CZ-84184-S,aziende,Calabria,Catanzaro,Davoli,Società a responsabilità limitata,Costruzioni,Confisca def.,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
@@ -1509,11 +1509,6 @@ A-NA-90259-S,aziende,Campania,Napoli,Sant'Antimo,Società in accomandita semplic
 A-NA-90263-S,aziende,Campania,Napoli,Sant'Antimo,Società a responsabilità limitata,"Produzione e distribuzione di energia elettrica, gas e acqua",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-90264-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-90695-S,aziende,Campania,Napoli,Ercolano,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-A-NA-91047-S,aziende,Campania,Napoli,Marano di Napoli,Società per azioni,Costruzioni,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-A-NA-91061-S,aziende,Campania,Napoli,Marano di Napoli,Società in accomandita semplice,Costruzioni,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-A-NA-91075-S,aziende,Campania,Napoli,Marano di Napoli,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-A-NA-91081-S,aziende,Campania,Napoli,Marano di Napoli,Società cooperativa,Costruzioni,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-A-NA-91170-S,aziende,Campania,Napoli,Marano di Napoli,Società in accomandita semplice,Costruzioni,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-91450-S,aziende,Campania,Napoli,Casoria,Impresa individuale,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-91452-S,aziende,Campania,Napoli,Casoria,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-91454-S,aziende,Campania,Napoli,Afragola,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
@@ -1528,8 +1523,6 @@ A-NA-91948-S,aziende,Campania,Napoli,Giugliano in Campania,Società a responsabi
 A-NA-91984-S,aziende,Campania,Napoli,Giugliano in Campania,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,67%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-92009-S,aziende,Campania,Napoli,Giugliano in Campania,Società a responsabilità limitata,Costruzioni,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-93375-S,aziende,Campania,Napoli,Villaricca,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-A-NA-94144-S,aziende,Campania,Napoli,Marano di Napoli,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-A-NA-94145-S,aziende,Campania,Napoli,Marano di Napoli,Società cooperativa a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-94700-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Revoca Conf.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-NA-94705-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-NA-94950-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -1541,6 +1534,14 @@ A-NA-96397-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,
 A-NA-96398-S,aziende,Campania,Napoli,Pozzuoli,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Revoca Conf.,0%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-96409-S,aziende,Campania,Napoli,Napoli,Impresa individuale,Costruzioni,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-9715-S,aziende,Campania,Napoli,Torre Annunziata,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-97210-S,aziende,Campania,Napoli,Marano di Napoli,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-97216-S,aziende,Campania,Napoli,Marano di Napoli,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-97338-S,aziende,Campania,Napoli,Marano di Napoli,Società per azioni,Costruzioni,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-97380-S,aziende,Campania,Napoli,Marano di Napoli,Società in accomandita semplice,Costruzioni,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-97385-S,aziende,Campania,Napoli,Marano di Napoli,Società cooperativa,Costruzioni,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-97405-S,aziende,Campania,Napoli,Marano di Napoli,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-97435-S,aziende,Campania,Napoli,Marano di Napoli,Società in accomandita semplice,Costruzioni,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-97438-S,aziende,Campania,Napoli,Marano di Napoli,Società cooperativa a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-9852-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Attività finanziarie,Confisca def.,10%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-9853-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Attività finanziarie,Confisca def.,45%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-9857-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Attività finanziarie,Confisca def.,60%,Procura della Repubblica,Napoli,Procedimento Penale
