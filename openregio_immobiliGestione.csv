@@ -4284,7 +4284,7 @@ I-CT-63349-S,immobili,Sicilia,Catania,Aci Sant'Antonio,Terreno,Terreno agricolo,
 I-CT-63819-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-63820-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-63821-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
-I-CT-63822-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-63822-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-64162-S,immobili,Sicilia,Catania,Aci Sant'Antonio,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-CT-64163-S,immobili,Sicilia,Catania,Aci Sant'Antonio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-CT-64180-S,immobili,Sicilia,Catania,Aci Sant'Antonio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
@@ -8492,10 +8492,8 @@ I-MI-13168-S,immobili,Lombardia,Milano,Zibido San Giacomo,Unità immobiliare per
 I-MI-13169-S,immobili,Lombardia,Milano,Zibido San Giacomo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,61%,Tribunale,Milano,Misure di Prevenzione
 I-MI-13170-S,immobili,Lombardia,Milano,Zibido San Giacomo,Terreno,Terreno agricolo,Confisca def.,61%,Tribunale,Milano,Misure di Prevenzione
 I-MI-13171-S,immobili,Lombardia,Milano,Zibido San Giacomo,Terreno,Terreno agricolo,Confisca def.,61%,Tribunale,Milano,Misure di Prevenzione
-I-MI-1332-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,18%,Tribunale,Milano,Misure di Prevenzione
 I-MI-1333-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,18%,Tribunale,Milano,Misure di Prevenzione
 I-MI-1334-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,18%,Tribunale,Milano,Misure di Prevenzione
-I-MI-1335-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,18%,Tribunale,Milano,Misure di Prevenzione
 I-MI-13607-S,immobili,Lombardia,Milano,Lainate,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-13608-S,immobili,Lombardia,Milano,Lainate,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-13609-S,immobili,Lombardia,Milano,Lainate,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
@@ -20384,8 +20382,8 @@ I-VE-90750-S,immobili,Veneto,Venezia,Portogruaro,Unità immobiliare per uso di a
 I-VE-90751-S,immobili,Veneto,Venezia,Portogruaro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VE-90752-S,immobili,Veneto,Venezia,Portogruaro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VE-90833-S,immobili,Veneto,Venezia,Jesolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
-I-VE-90883-S,immobili,Veneto,Venezia,Jesolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Procura della Repubblica,Bologna,Procedimento Penale
-I-VE-90885-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-VE-90883-S,immobili,Veneto,Venezia,Jesolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-VE-90885-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VE-90886-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VE-90896-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-VE-92112-S,immobili,Veneto,Venezia,San Donà di Piave,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Venezia,Procedimento Penale

@@ -60,10 +60,15 @@
 {"@id":"impresa:mxxT25qX8oPwNdTBEBbsfQ==","@type":"impresa","idBene":"71724","mBene":"","sBene":"A-AG-71724-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:ueqZ8Nni9dN4mUiWPK3OQw==","@type":"impresa","idBene":"73239","mBene":"A-AG-338180","sBene":"A-AG-73239-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:hWsP+MeoZ1ss3MuWWvTR0w==","@type":"impresa","idBene":"76164","mBene":"A-AG-296726","sBene":"A-AG-76164-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:BBiRnX5qb7WJsBr1IiYKeg==","@type":"impresa","idBene":"96888","mBene":"","sBene":"A-AG-96888-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:gIfgSVag+VdjWBqJxYac4w==","@type":"impresa","idBene":"96896","mBene":"","sBene":"A-AG-96896-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:uZbf2lTf18anqxjAIIIdlPm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"96916","mBene":"","sBene":"A-AG-96916-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:YcVIpHaE2GEh3MWZMT8X5Pm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"96948","mBene":"","sBene":"A-AG-96948-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:fNUIn9gmsRzEkaAdmvn2hQ==","@type":"impresa","idBene":"33632","mBene":"A-AL-311568","sBene":"A-AL-33632-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:2YxUwn+NuTx8wcegNCzZGQ==","@type":"impresa","idBene":"61955","mBene":"A-AL-327220","sBene":"A-AL-61955-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:labfp2xGRREZJyJl47/mJ/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"79215","mBene":"A-AL-344670","sBene":"A-AL-79215-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:s/kvhVy9X9wU0bm6DiDjQQ==","@type":"impresa","idBene":"80198","mBene":"A-AN-347846","sBene":"A-AN-80198-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:+SnB7CR2xfSyKEKhfuaqMQ==","@type":"impresa","idBene":"96203","mBene":"","sBene":"A-AL-96203-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:s/kvhVy9X9wU0bm6DiDjQQ==","@type":"impresa","idBene":"80198","mBene":"A-AN-347846","sBene":"A-AN-80198-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:V4FMvOaP6C5W0o78QNQorg==","@type":"impresa","idBene":"25234","mBene":"A-AP-310313","sBene":"A-AP-25234-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:wZu1h0d15ZZxWOPVjYN9dA==","@type":"impresa","idBene":"30741","mBene":"A-AP-283735","sBene":"A-AP-30741-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:C107TIAUI3vrTogC+XvSj/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"39979","mBene":"A-AR-321591","sBene":"A-AR-39979-S","iterAmministrativoAttivo":"DESTINATO"}
@@ -82,6 +87,8 @@
 {"@id":"impresa:GprKx185IbJJWvPUTG5eVA==","@type":"impresa","idBene":"79937","mBene":"A-AV-348785","sBene":"A-AV-79937-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:0tjkjatIPWBUuvfLSGCscQ==","@type":"impresa","idBene":"79938","mBene":"A-AV-348786","sBene":"A-AV-79938-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:BzxtOEv/n19Adpbf22RHBg==","@type":"impresa","idBene":"94140","mBene":"","sBene":"A-AV-94140-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:P+mOzukEnsviS0K2kWView==","@type":"impresa","idBene":"94949","mBene":"","sBene":"A-AV-94949-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:9O4qRB81iBqYK4E3ydQL1Q==","@type":"impresa","idBene":"97542","mBene":"","sBene":"A-AV-97542-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:8jNZQNpHA78+tCKiUtCv6g==","@type":"impresa","idBene":"10114","mBene":"A-BA-224103","sBene":"A-BA-10114-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:tRKbMgKPbG7zOOCo3tuVSvm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"10805","mBene":"A-BA-298655","sBene":"A-BA-10805-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:2Utgf0ENMMhatptcinMySvm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"12724","mBene":"A-BA-230995","sBene":"A-BA-12724-S","iterAmministrativoAttivo":"DESTINATO"}
@@ -135,13 +142,18 @@
 {"@id":"impresa:FxoI0nvIpqYlOPHAyAxyoA==","@type":"impresa","idBene":"9368","mBene":"A-BA-300253","sBene":"A-BA-9368-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:Ee9nI5f6X3srgMS9t95d1g==","@type":"impresa","idBene":"94119","mBene":"","sBene":"A-BA-94119-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:JtRYvSJh2jLk+JZ4CFFan/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"9462","mBene":"A-BA-306586","sBene":"A-BA-9462-S","iterAmministrativoAttivo":"DESTINATO"}
+{"@id":"impresa:ZxiDw5DrhPO0MrjrF23ylg==","@type":"impresa","idBene":"94919","mBene":"","sBene":"A-BA-94919-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:avGLl8sC0t61wnTuU0l7+fm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"95703","mBene":"","sBene":"A-BA-95703-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:LMHXbGAM9I5E6IagsTQd1g==","@type":"impresa","idBene":"95707","mBene":"","sBene":"A-BA-95707-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:Gf/sqdiHHyIUMBJVSgEtc/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"96021","mBene":"","sBene":"A-BA-96021-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:6Qs6F0vfRc8DglOhTMfyO/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"96022","mBene":"","sBene":"A-BA-96022-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:0mEdsicnUSAAV8c6VngZivm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"9684","mBene":"A-BA-310989","sBene":"A-BA-9684-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:b7gag4LV/GPsAUThu20J2Q==","@type":"impresa","idBene":"21021","mBene":"A-BG-237247","sBene":"A-BG-21021-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:+M50GwRjzUyyvTugnuexYPm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"34362","mBene":"A-BG-320560","sBene":"A-BG-34362-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:Z2cCHs6QQm41g6+m7oS4Jg==","@type":"impresa","idBene":"37009","mBene":"A-BG-306104","sBene":"A-BG-37009-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:Z2cCHs6QQm41g6+m7oS4Jg==","@type":"impresa","idBene":"37009","mBene":"A-BG-306104","sBene":"A-BG-37009-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:VEe8PM06LrMcUACqDnrhiA==","@type":"impresa","idBene":"44183","mBene":"A-BG-335113","sBene":"A-BG-44183-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:BKPMCs6K2yRRrIRb5lgJuA==","@type":"impresa","idBene":"80082","mBene":"A-BG-345393","sBene":"A-BG-80082-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:GiTopJwm8BLZl+jevbJxRg==","@type":"impresa","idBene":"81581","mBene":"","sBene":"A-BG-81581-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:GiTopJwm8BLZl+jevbJxRg==","@type":"impresa","idBene":"81581","mBene":"A-BG-354880","sBene":"A-BG-81581-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:1U133tSCCTmd9tbtt5neSQ==","@type":"impresa","idBene":"82863","mBene":"A-BG-348945","sBene":"A-BG-82863-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:3i7Vps8OqIiX6716sGSp8vm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"83719","mBene":"","sBene":"A-BI-83719-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:G2XBTbw5pRBWpqhL0gzd2w==","@type":"impresa","idBene":"83720","mBene":"","sBene":"A-BI-83720-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -213,16 +225,16 @@
 {"@id":"impresa:b23XtA2bi4DhUj4th1vxPg==","@type":"impresa","idBene":"62716","mBene":"A-BZ-333356","sBene":"A-BZ-62716-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:jhXU5dnJK86+VAXCO+Gqbw==","@type":"impresa","idBene":"28590","mBene":"A-CA-312699","sBene":"A-CA-28590-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:h2tymh7se5WTfKfpHmjplA==","@type":"impresa","idBene":"73831","mBene":"A-CA-339274","sBene":"A-CA-73831-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:hcok6Cf53GQXsKkTaKPZUw==","@type":"impresa","idBene":"91383","mBene":"","sBene":"A-CA-91383-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:fKG04X64sUA2zlbX646+Ag==","@type":"impresa","idBene":"91384","mBene":"","sBene":"A-CA-91384-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:N7zf0QwK+VmoZZDG15orzQ==","@type":"impresa","idBene":"91389","mBene":"","sBene":"A-CA-91389-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:E9GJmWOA9uFJlT0LnhF+Qw==","@type":"impresa","idBene":"91392","mBene":"","sBene":"A-CA-91392-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:e22lurgkNVUJKNDKRrJ2mA==","@type":"impresa","idBene":"91396","mBene":"","sBene":"A-CA-91396-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:FKrzVxxvRQrM5nAAaLXPGA==","@type":"impresa","idBene":"91397","mBene":"","sBene":"A-CA-91397-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:T5t9fZbv6+yeYuq3ENtizA==","@type":"impresa","idBene":"91400","mBene":"","sBene":"A-CA-91400-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:L3KAffSwI48olh8SoiXjag==","@type":"impresa","idBene":"91401","mBene":"","sBene":"A-CA-91401-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:fGRj5JhgLMxtur/hoCU+CA==","@type":"impresa","idBene":"91402","mBene":"","sBene":"A-CA-91402-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:YptSElKDhW1Cb4hSizz1wA==","@type":"impresa","idBene":"91406","mBene":"","sBene":"A-CA-91406-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:L3KAffSwI48olh8SoiXjag==","@type":"impresa","idBene":"94735","mBene":"A-CA-353880","sBene":"A-CA-94735-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:fKG04X64sUA2zlbX646+Ag==","@type":"impresa","idBene":"94736","mBene":"A-CA-353881","sBene":"A-CA-94736-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:YptSElKDhW1Cb4hSizz1wA==","@type":"impresa","idBene":"94740","mBene":"A-CA-353885","sBene":"A-CA-94740-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:hcok6Cf53GQXsKkTaKPZUw==","@type":"impresa","idBene":"94741","mBene":"A-CA-353886","sBene":"A-CA-94741-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:FKrzVxxvRQrM5nAAaLXPGA==","@type":"impresa","idBene":"94742","mBene":"A-CA-353887","sBene":"A-CA-94742-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:E9GJmWOA9uFJlT0LnhF+Qw==","@type":"impresa","idBene":"94744","mBene":"A-CA-353889","sBene":"A-CA-94744-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:T5t9fZbv6+yeYuq3ENtizA==","@type":"impresa","idBene":"94745","mBene":"A-CA-353890","sBene":"A-CA-94745-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:fGRj5JhgLMxtur/hoCU+CA==","@type":"impresa","idBene":"94748","mBene":"A-CA-353893","sBene":"A-CA-94748-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:e22lurgkNVUJKNDKRrJ2mA==","@type":"impresa","idBene":"94750","mBene":"A-CA-353895","sBene":"A-CA-94750-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:N7zf0QwK+VmoZZDG15orzQ==","@type":"impresa","idBene":"94752","mBene":"A-CA-353897","sBene":"A-CA-94752-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:neQOBOSHiRLTxAgdd1Hl4w==","@type":"impresa","idBene":"1111","mBene":"A-CE-310005","sBene":"A-CE-1111-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:vz6mkKc2HJt0Ul0MIRP7HQ==","@type":"impresa","idBene":"1112","mBene":"A-CE-310006","sBene":"A-CE-1112-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:LEco33Q4EJeGbn/IYUvoxA==","@type":"impresa","idBene":"1129","mBene":"A-CE-297546","sBene":"A-CE-1129-S","iterAmministrativoAttivo":"DESTINATO"}
@@ -324,9 +336,9 @@
 {"@id":"impresa:tDA4ALFRtHmY9D3W4AAUFA==","@type":"impresa","idBene":"85336","mBene":"A-CE-352873","sBene":"A-CE-85336-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:RC/FLLmSd2jaJYDj4TOrMA==","@type":"impresa","idBene":"85337","mBene":"A-CE-352874","sBene":"A-CE-85337-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:xz4Gkn1QriWhLGeiKB8vpQ==","@type":"impresa","idBene":"85338","mBene":"A-CE-352875","sBene":"A-CE-85338-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:fBdiZcBln+uhZpl0PxxI/g==","@type":"impresa","idBene":"85521","mBene":"","sBene":"A-CE-85521-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:WOuBPxfgfxLyZlNEMeGv6w==","@type":"impresa","idBene":"85522","mBene":"","sBene":"A-CE-85522-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:OkOlC1zpafPQkUcObvVR3A==","@type":"impresa","idBene":"85523","mBene":"","sBene":"A-CE-85523-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:fBdiZcBln+uhZpl0PxxI/g==","@type":"impresa","idBene":"85521","mBene":"A-CE-354509","sBene":"A-CE-85521-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:WOuBPxfgfxLyZlNEMeGv6w==","@type":"impresa","idBene":"85522","mBene":"A-CE-354510","sBene":"A-CE-85522-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:OkOlC1zpafPQkUcObvVR3A==","@type":"impresa","idBene":"85523","mBene":"A-CE-354511","sBene":"A-CE-85523-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:Gi2N+sjsQb0qPCSjn2KwyA==","@type":"impresa","idBene":"85678","mBene":"A-CE-353765","sBene":"A-CE-85678-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:LukxCtPS8gYF1i1UACKSQvm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"86196","mBene":"","sBene":"A-CE-86196-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:wpNAhydFwLIc5bWRFzyiQA==","@type":"impresa","idBene":"86209","mBene":"","sBene":"A-CE-86209-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -355,8 +367,23 @@
 {"@id":"impresa:HjShs2wQnXlE8xNY5O3Ukw==","@type":"impresa","idBene":"89775","mBene":"A-CE-353767","sBene":"A-CE-89775-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:gRLbzjyD33Jg9BP2yH8DaQ==","@type":"impresa","idBene":"89776","mBene":"A-CE-353768","sBene":"A-CE-89776-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:nvz/mM7eCq0z//sv6YkumA==","@type":"impresa","idBene":"92443","mBene":"A-CE-353766","sBene":"A-CE-92443-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:4IHpWsHlEkSNjM7EHgkYOA==","@type":"impresa","idBene":"94681","mBene":"","sBene":"A-CE-94681-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:4IHpWsHlEkSNjM7EHgkYOA==","@type":"impresa","idBene":"94702","mBene":"","sBene":"A-CE-94702-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:fS/Bghnh66mXjWHNXQSq2Q==","@type":"impresa","idBene":"95276","mBene":"","sBene":"A-CE-95276-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:y6V1gUqjJiKzqcS2avXYdQ==","@type":"impresa","idBene":"95278","mBene":"","sBene":"A-CE-95278-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:HOjFl6AJwfd8zWKx2NM0Mw==","@type":"impresa","idBene":"95279","mBene":"","sBene":"A-CE-95279-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:ZbihbCblB/xGQt31kWwJ6g==","@type":"impresa","idBene":"95280","mBene":"","sBene":"A-CE-95280-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:ng3e2tLcRUH3RKQFLHpK2Q==","@type":"impresa","idBene":"95284","mBene":"","sBene":"A-CE-95284-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:oQ4cRUrRwr4ZXloyVJpw2w==","@type":"impresa","idBene":"96171","mBene":"","sBene":"A-CE-96171-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:7B9JB/ZAM9p22QPAc7qLkw==","@type":"impresa","idBene":"96190","mBene":"","sBene":"A-CE-96190-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:NGmL/gXuec8hofNiHFY3CA==","@type":"impresa","idBene":"967","mBene":"A-CE-284206","sBene":"A-CE-967-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:8WnoA4GxbkSvlj/x7QHH0Q==","@type":"impresa","idBene":"97516","mBene":"","sBene":"A-CE-97516-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:7e8K3MCzar5GHmgAwpQqvg==","@type":"impresa","idBene":"97532","mBene":"","sBene":"A-CE-97532-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:MXacwhjGIoDDTnItAy03SQ==","@type":"impresa","idBene":"97533","mBene":"","sBene":"A-CE-97533-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:edoqWhNz7qu16G5Gb9Gl6Q==","@type":"impresa","idBene":"97562","mBene":"","sBene":"A-CE-97562-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:XoGccLsdt1hEOo5dcVB69A==","@type":"impresa","idBene":"97577","mBene":"","sBene":"A-CE-97577-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:mgkm9uvQAkSLdjEPEvLA7w==","@type":"impresa","idBene":"97578","mBene":"","sBene":"A-CE-97578-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:fMpy/diRcbE56SMbwpXZtQ==","@type":"impresa","idBene":"97592","mBene":"","sBene":"A-CE-97592-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:bxsuXsK9MKXp1n/RwrSImg==","@type":"impresa","idBene":"97612","mBene":"","sBene":"A-CE-97612-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:Eg0//2WakDQFTle11Ynyjw==","@type":"impresa","idBene":"35909","mBene":"A-CH-321007","sBene":"A-CH-35909-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:h6me6q1tdVPWrV6Bma42tg==","@type":"impresa","idBene":"59331","mBene":"A-CH-331090","sBene":"A-CH-59331-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:Pnv+S5HnfgC5kk07oPKh/A==","@type":"impresa","idBene":"72725","mBene":"A-CH-326803","sBene":"A-CH-72725-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -407,9 +434,8 @@
 {"@id":"impresa:JnRkkj3pX/EABAN19zBlQg==","@type":"impresa","idBene":"85230","mBene":"A-CL-350471","sBene":"A-CL-85230-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:LDEaNX57CmCb6Qs6kC5Ctvm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"91544","mBene":"","sBene":"A-CL-91544-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:hxOIblfXyPsruGebEUAAlA==","@type":"impresa","idBene":"39365","mBene":"A-CN-285272","sBene":"A-CN-39365-S","iterAmministrativoAttivo":"DESTINATO"}
-{"@id":"impresa:ZVKTOA4rwtdf2HjHI8siffm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"94278","mBene":"","sBene":"A-CN-94278-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:G4bbDQsMkLqKfmYgiA73DA==","@type":"impresa","idBene":"13069","mBene":"A-CO-253744","sBene":"A-CO-13069-S","iterAmministrativoAttivo":"DESTINATO"}
-{"@id":"impresa:mrnHGY87Or23S1eXW3BeRA==","@type":"impresa","idBene":"34456","mBene":"A-CO-352903","sBene":"A-CO-34456-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:mrnHGY87Or23S1eXW3BeRA==","@type":"impresa","idBene":"34456","mBene":"A-CO-352903","sBene":"A-CO-34456-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
 {"@id":"impresa:lgT2czcKeLg0qkN3k9yZcA==","@type":"impresa","idBene":"56112","mBene":"A-CR-326942","sBene":"A-CR-56112-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:FtYwgoPvfWqMRZSLWY+h7g==","@type":"impresa","idBene":"70980","mBene":"A-CR-342732","sBene":"A-CR-70980-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:8DNALpI77PISLvO3Vkfizw==","@type":"impresa","idBene":"70982","mBene":"A-CR-342734","sBene":"A-CR-70982-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -559,6 +585,8 @@
 {"@id":"impresa:BNkEkjmJwRvKpRe06S1Tqw==","@type":"impresa","idBene":"72033","mBene":"A-CT-337556","sBene":"A-CT-72033-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:Gtf5+rWNAI0FQT6p6rcALA==","@type":"impresa","idBene":"72297","mBene":"A-CT-337587","sBene":"A-CT-72297-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:0yK6a9bnA2jQN1UUbbahJ/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"72298","mBene":"A-CT-337588","sBene":"A-CT-72298-S","iterAmministrativoAttivo":"DESTINATO"}
+{"@id":"impresa:z7tKbevZvybmR5Wivy8i0g==","@type":"impresa","idBene":"73008","mBene":"A-CT-338141","sBene":"A-CT-73008-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:KN0FWsTafPx7i+iRFVIwWQ==","@type":"impresa","idBene":"73013","mBene":"A-CT-338146","sBene":"A-CT-73013-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:IQe7ZFboyXBSQBlNtzZOcA==","@type":"impresa","idBene":"73908","mBene":"A-CT-338988","sBene":"A-CT-73908-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:uvinodmKywL6I4vr4Ct/gw==","@type":"impresa","idBene":"73912","mBene":"A-CT-338989","sBene":"A-CT-73912-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:mnNzcnUgSrZeBTuxtkM/Dw==","@type":"impresa","idBene":"73913","mBene":"A-CT-338990","sBene":"A-CT-73913-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -600,23 +628,30 @@
 {"@id":"impresa:WswT4LymFlz0Db9I3OQ2aA==","@type":"impresa","idBene":"80086","mBene":"A-CT-345395","sBene":"A-CT-80086-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:fGWxK6x7WE2FlAxCpb9aFw==","@type":"impresa","idBene":"80110","mBene":"A-CT-345415","sBene":"A-CT-80110-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:npL7NKpv26dZkVgn9qJjLw==","@type":"impresa","idBene":"80195","mBene":"A-CT-345965","sBene":"A-CT-80195-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
-{"@id":"impresa:RFSQwGWzjg7BH2TzNMGfDQ==","@type":"impresa","idBene":"83451","mBene":"","sBene":"A-CT-83451-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:kqaEUbEn15GpCS7OzD1sAQ==","@type":"impresa","idBene":"83452","mBene":"","sBene":"A-CT-83452-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:GS251bO6YZ5ySg+8QHgKLA==","@type":"impresa","idBene":"83466","mBene":"","sBene":"A-CT-83466-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:bRL0ZLgq7h4l1Hd06sbgVfm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"83513","mBene":"","sBene":"A-CT-83513-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:yMYfH6TkxwqSuUTan8UIrg==","@type":"impresa","idBene":"83514","mBene":"","sBene":"A-CT-83514-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:0jFllwefQoCFaBLkViKr4w==","@type":"impresa","idBene":"83517","mBene":"","sBene":"A-CT-83517-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:RFSQwGWzjg7BH2TzNMGfDQ==","@type":"impresa","idBene":"83451","mBene":"A-CT-355332","sBene":"A-CT-83451-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:kqaEUbEn15GpCS7OzD1sAQ==","@type":"impresa","idBene":"83452","mBene":"A-CT-355333","sBene":"A-CT-83452-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:GS251bO6YZ5ySg+8QHgKLA==","@type":"impresa","idBene":"83466","mBene":"A-CT-355337","sBene":"A-CT-83466-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:bRL0ZLgq7h4l1Hd06sbgVfm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"83513","mBene":"A-CT-355325","sBene":"A-CT-83513-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:yMYfH6TkxwqSuUTan8UIrg==","@type":"impresa","idBene":"83514","mBene":"A-CT-355326","sBene":"A-CT-83514-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:0jFllwefQoCFaBLkViKr4w==","@type":"impresa","idBene":"83517","mBene":"A-CT-355328","sBene":"A-CT-83517-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:2hBI1g+n1uGRRyGc9Pn4ig==","@type":"impresa","idBene":"8521","mBene":"A-CT-317501","sBene":"A-CT-8521-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:8yycnJZ4tOsYL3dny33FFQ==","@type":"impresa","idBene":"8522","mBene":"A-CT-317504","sBene":"A-CT-8522-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:eM36PTU01RUAfm9ge6uVrA==","@type":"impresa","idBene":"8523","mBene":"A-CT-317505","sBene":"A-CT-8523-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:Yz6JAmof+5q0A/Wrc5ygFQ==","@type":"impresa","idBene":"8524","mBene":"A-CT-317506","sBene":"A-CT-8524-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:FH3BUsl+5tkY8/RG/VCHOA==","@type":"impresa","idBene":"8525","mBene":"A-CT-317507","sBene":"A-CT-8525-S","iterAmministrativoAttivo":"DESTINATO"}
-{"@id":"impresa:l+/cXKabsUo5m3JXUiK+8A==","@type":"impresa","idBene":"86305","mBene":"","sBene":"A-CT-86305-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:l+/cXKabsUo5m3JXUiK+8A==","@type":"impresa","idBene":"86305","mBene":"A-CT-355331","sBene":"A-CT-86305-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:OolsOUQnnPh7FQfENEm7Cw==","@type":"impresa","idBene":"87675","mBene":"A-CT-351809","sBene":"A-CT-87675-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:jQOfKdCK11V/WEI109lYuw==","@type":"impresa","idBene":"90031","mBene":"A-CT-351989","sBene":"A-CT-90031-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:EufiHWmqS0ukwOFgdl9Px/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"93154","mBene":"","sBene":"A-CT-93154-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:83oZ5iUQrbUqxpXXu9b8kQ==","@type":"impresa","idBene":"93783","mBene":"","sBene":"A-CT-93783-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:IRRxiiUaZrnxZORZFY0cUPm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"93885","mBene":"","sBene":"A-CT-93885-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:83oZ5iUQrbUqxpXXu9b8kQ==","@type":"impresa","idBene":"93783","mBene":"A-CT-354042","sBene":"A-CT-93783-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:IRRxiiUaZrnxZORZFY0cUPm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"93885","mBene":"A-CT-354144","sBene":"A-CT-93885-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:4QkWM4SB5FgsBd4FFAFrCQ==","@type":"impresa","idBene":"95033","mBene":"","sBene":"A-CT-95033-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:xtkf/XrEOSmNVKeAkLZl/fm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"95091","mBene":"","sBene":"A-CT-95091-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:BLWMgP2gU81oCUT9C9ivefm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"95209","mBene":"","sBene":"A-CT-95209-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:vt3tYoqrPhetbIhLdXeUyPm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"96386","mBene":"","sBene":"A-CT-96386-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:FH2E0NHgnfEGHReczoycWw==","@type":"impresa","idBene":"96394","mBene":"","sBene":"A-CT-96394-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:wSNMFzXj/sEXwKW27KrvQA==","@type":"impresa","idBene":"96493","mBene":"","sBene":"A-CT-96493-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:8G1wmJbiGo1IARhUwxN2d/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"96848","mBene":"","sBene":"A-CT-96848-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:dYnzyxp2oJT7Uy1E8tI2P/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"13988","mBene":"A-CZ-307608","sBene":"A-CZ-13988-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:q+S6wNA2uAmO30xgpt0l9g==","@type":"impresa","idBene":"18437","mBene":"A-CZ-245687","sBene":"A-CZ-18437-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:2Gd6+WMh3Di/O6C244i+2Q==","@type":"impresa","idBene":"18441","mBene":"A-CZ-245702","sBene":"A-CZ-18441-S","iterAmministrativoAttivo":"DESTINATO"}
@@ -654,10 +689,10 @@
 {"@id":"impresa:XYG0IZ74tipwC8IopP8c6w==","@type":"impresa","idBene":"895","mBene":"A-FC-299378","sBene":"A-FC-895-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:6k+Aj0+ZqRA3FPHwSse39A==","@type":"impresa","idBene":"897","mBene":"A-FC-299380","sBene":"A-FC-897-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:Cm1r5toDLz4fk8lpgF+PwQ==","@type":"impresa","idBene":"3533","mBene":"A-FE-311449","sBene":"A-FE-3533-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:sPdzEeHC9l4Qp00wawV2sw==","@type":"impresa","idBene":"35960","mBene":"A-FE-321023","sBene":"A-FE-35960-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:sPdzEeHC9l4Qp00wawV2sw==","@type":"impresa","idBene":"35960","mBene":"A-FE-321023","sBene":"A-FE-35960-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:nNrMvQkVvMX/ZiHxGJX52g==","@type":"impresa","idBene":"53939","mBene":"A-FE-336743","sBene":"A-FE-53939-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:J6qTCh5t2hS3FnTafIO+PQ==","@type":"impresa","idBene":"81649","mBene":"","sBene":"A-FE-81649-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:a0wE5IcoaGeg9gEEYeaISg==","@type":"impresa","idBene":"81653","mBene":"","sBene":"A-FE-81653-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:J6qTCh5t2hS3FnTafIO+PQ==","@type":"impresa","idBene":"81649","mBene":"A-FE-354894","sBene":"A-FE-81649-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:a0wE5IcoaGeg9gEEYeaISg==","@type":"impresa","idBene":"81653","mBene":"A-FE-354895","sBene":"A-FE-81653-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:hyJwbn+HJsTF0X8AkEsF7A==","@type":"impresa","idBene":"17323","mBene":"A-FG-204744","sBene":"A-FG-17323-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:K85Xy7fH3gZQHo5j9oR6/vm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"43498","mBene":"A-FG-330395","sBene":"A-FG-43498-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:W38wbShj7Hig2PDKgMbwpw==","@type":"impresa","idBene":"48673","mBene":"A-FG-335554","sBene":"A-FG-48673-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -666,6 +701,10 @@
 {"@id":"impresa:QXc+5/P79MMhIXpbbQQ2kQ==","@type":"impresa","idBene":"63704","mBene":"A-FG-321309","sBene":"A-FG-63704-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:JuGvB93xzc341aGOm/kZlQ==","@type":"impresa","idBene":"77266","mBene":"A-FG-346071","sBene":"A-FG-77266-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:HjeeorxAXWnluTdBth7Baw==","@type":"impresa","idBene":"82054","mBene":"A-FG-347874","sBene":"A-FG-82054-S","iterAmministrativoAttivo":"DESTINATO"}
+{"@id":"impresa:D9C8lkFkTbHg6S6y7DH/6w==","@type":"impresa","idBene":"95613","mBene":"","sBene":"A-FG-95613-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:7wEvsNsSiZfFFEwjSkRAeQ==","@type":"impresa","idBene":"95619","mBene":"","sBene":"A-FG-95619-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:phET0K/ez6rd4jUaQE7sIg==","@type":"impresa","idBene":"96637","mBene":"A-FG-355417","sBene":"A-FG-96637-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:sH3fz4vNS8COrG+RiiQf3g==","@type":"impresa","idBene":"96691","mBene":"A-FG-355471","sBene":"A-FG-96691-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:vgFI3nZUrXgusZE7yqldNg==","@type":"impresa","idBene":"10558","mBene":"A-FI-311613","sBene":"A-FI-10558-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:QopQxEXTPoUTeR7GmeLENA==","@type":"impresa","idBene":"33630","mBene":"A-FI-323400","sBene":"A-FI-33630-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:8zhBfiCWiqSwZ5JEn7Pgaw==","@type":"impresa","idBene":"40169","mBene":"A-FI-321604","sBene":"A-FI-40169-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -677,12 +716,12 @@
 {"@id":"impresa:X2tUIZCHFEYgWDcqZUCHfvm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"81865","mBene":"A-FI-346085","sBene":"A-FI-81865-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:lxKNLi1bnAj2txmTEoO25w==","@type":"impresa","idBene":"36283","mBene":"A-FR-258289","sBene":"A-FR-36283-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
 {"@id":"impresa:eluhQd3FIWXgCd9OG+HboQ==","@type":"impresa","idBene":"36285","mBene":"A-FR-258296","sBene":"A-FR-36285-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
-{"@id":"impresa:Ha+9MLdZHbwokD9z+AZKUg==","@type":"impresa","idBene":"52685","mBene":"A-FR-323896","sBene":"A-FR-52685-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:Ha+9MLdZHbwokD9z+AZKUg==","@type":"impresa","idBene":"52685","mBene":"A-FR-323896","sBene":"A-FR-52685-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:L0eEEms4l97CmOdJ/f157w==","@type":"impresa","idBene":"53010","mBene":"A-FR-323958","sBene":"A-FR-53010-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:M08UNPoAksx9msAulTP7lA==","@type":"impresa","idBene":"53019","mBene":"A-FR-323963","sBene":"A-FR-53019-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:Vv2dHDWCvOyoOOmOGaIK7g==","@type":"impresa","idBene":"53020","mBene":"A-FR-323964","sBene":"A-FR-53020-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:xMWEp3fPSBTXNkqoOwVUd/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"53635","mBene":"A-CE-323967","sBene":"A-FR-53635-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
-{"@id":"impresa:WCncC6depZlJWiGE972OzA==","@type":"impresa","idBene":"53639","mBene":"A-FR-323969","sBene":"A-FR-53639-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:WCncC6depZlJWiGE972OzA==","@type":"impresa","idBene":"53639","mBene":"A-FR-323969","sBene":"A-FR-53639-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:Pawwj1DnbuVOyOJfdG2+5g==","@type":"impresa","idBene":"53642","mBene":"A-FR-323972","sBene":"A-FR-53642-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:knc5yjd1wmwhOG0O5+c3Pg==","@type":"impresa","idBene":"53643","mBene":"A-FR-323973","sBene":"A-FR-53643-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:3KpSjuTiLII7Q6M2LftDfA==","@type":"impresa","idBene":"53644","mBene":"A-FR-323974","sBene":"A-FR-53644-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -697,7 +736,8 @@
 {"@id":"impresa:tSbQKktW3RrIJBGSrWvEQPm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"83704","mBene":"A-GE-349141","sBene":"A-GE-83704-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:fzOlWf5tV6iZLGOJX3CDMg==","@type":"impresa","idBene":"19389","mBene":"A-GO-316677","sBene":"A-GO-19389-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:dzopf6BHlczmKe7hM1zN4w==","@type":"impresa","idBene":"18014","mBene":"A-IM-322565","sBene":"A-IM-18014-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:p/zCYeJg4lwZhanlMqkbqA==","@type":"impresa","idBene":"93481","mBene":"A-IM-353167","sBene":"A-IM-93481-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:p/zCYeJg4lwZhanlMqkbqA==","@type":"impresa","idBene":"93481","mBene":"A-IM-353167","sBene":"A-IM-93481-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
+{"@id":"impresa:AutuearqJtBIMyBAFgrW1Q==","@type":"impresa","idBene":"94948","mBene":"","sBene":"A-IS-94948-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:P4/iNClJqjwQMIGRgV8MO/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"1787","mBene":"A-KR-298829","sBene":"A-KR-1787-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:7DAPlrZ5B7BUtIQVfQY5gPm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"25273","mBene":"A-KR-308512","sBene":"A-KR-25273-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
 {"@id":"impresa:Tlr3ahFXTlLDt7weYc+lZvm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"26240","mBene":"A-KR-259243","sBene":"A-KR-26240-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
@@ -716,7 +756,7 @@
 {"@id":"impresa:poGmxoHdThYlVOsSeMQg1/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"44256","mBene":"A-KR-321734","sBene":"A-KR-44256-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:pde5IRlLJu5XaHiqp7TxZw==","@type":"impresa","idBene":"4878","mBene":"A-KR-319047","sBene":"A-KR-4878-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:aJMgQ7h14xykUqDzO7i9MA==","@type":"impresa","idBene":"50000","mBene":"A-KR-329123","sBene":"A-KR-50000-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:nDxHL3fsorAgIeh4WMsw9w==","@type":"impresa","idBene":"50006","mBene":"A-RE-329124","sBene":"A-KR-50006-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:nDxHL3fsorAgIeh4WMsw9w==","@type":"impresa","idBene":"50006","mBene":"A-RE-329124","sBene":"A-KR-50006-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:6ulR2jNphhutCg8/fDi1Lg==","@type":"impresa","idBene":"7590","mBene":"A-KR-299796","sBene":"A-KR-7590-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
 {"@id":"impresa:4Wa4YYXMQ1hAZGwz8MvXGvm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"7591","mBene":"A-KR-299797","sBene":"A-KR-7591-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:wSINvS88+b9klJbB5ztHaA==","@type":"impresa","idBene":"80241","mBene":"","sBene":"A-KR-80241-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -746,10 +786,11 @@
 {"@id":"impresa:PnvZV8WedRxVn864O1FPig==","@type":"impresa","idBene":"82542","mBene":"A-LE-352916","sBene":"A-LE-82542-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:0POHdXzJD5g321NGE6ZPxQ==","@type":"impresa","idBene":"84092","mBene":"A-LE-349274","sBene":"A-LE-84092-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:VlyLrKdP2s0HVCkI0IYnIg==","@type":"impresa","idBene":"84102","mBene":"","sBene":"A-LE-84102-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:JCTbkNrlRPPkG4Lc2JqwJ/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"96482","mBene":"","sBene":"A-LE-96482-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:2KffLxYTNn13HRBAscB4Q/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"36430","mBene":"A-LI-329553","sBene":"A-LI-36430-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:0UGYZszksycy+H1WoZ8l0A==","@type":"impresa","idBene":"54600","mBene":"A-LI-301550","sBene":"A-LI-54600-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:8+kuIqaYUsP9DwGeTUf1CA==","@type":"impresa","idBene":"54762","mBene":"A-LI-331052","sBene":"A-LI-54762-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:kAaBf4yyS8DCcKaXCMXd7w==","@type":"impresa","idBene":"54872","mBene":"A-LI-331054","sBene":"A-LI-54872-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:kAaBf4yyS8DCcKaXCMXd7w==","@type":"impresa","idBene":"54872","mBene":"A-LI-331054","sBene":"A-LI-54872-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:gAwKFuUzyIG2jEEeeoJGGg==","@type":"impresa","idBene":"60341","mBene":"A-LI-326382","sBene":"A-LI-60341-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:V+ExCR8AOowwg9YQCF0OLg==","@type":"impresa","idBene":"75507","mBene":"A-LI-343474","sBene":"A-LI-75507-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:oAaci2DUBeqit4oEELewbA==","@type":"impresa","idBene":"75509","mBene":"A-LI-343475","sBene":"A-LI-75509-S","iterAmministrativoAttivo":"DESTINATO"}
@@ -759,7 +800,7 @@
 {"@id":"impresa:Ba8chUxF5xVUbHqtde1yDw==","@type":"impresa","idBene":"13351","mBene":"A-LT-309960","sBene":"A-LT-13351-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:QVeP1DDeRU5xBYJwc40UqQ==","@type":"impresa","idBene":"13352","mBene":"A-LT-309961","sBene":"A-LT-13352-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:oQWks7poWNMkMwPoHozrHw==","@type":"impresa","idBene":"13353","mBene":"A-LT-309962","sBene":"A-LT-13353-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:2uljD7LVFjxe0AfPCTCpOA==","@type":"impresa","idBene":"13358","mBene":"A-LT-309972","sBene":"A-LT-13358-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:2uljD7LVFjxe0AfPCTCpOA==","@type":"impresa","idBene":"13358","mBene":"A-LT-309972","sBene":"A-LT-13358-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:HlXvKlq7dju99qNJ7dbrxg==","@type":"impresa","idBene":"13380","mBene":"A-LT-309994","sBene":"A-LT-13380-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:9O8eAKblzzOiIBYRPjDY4g==","@type":"impresa","idBene":"13381","mBene":"A-LT-309995","sBene":"A-LT-13381-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:SZtfCGn6UYfH4jNY6o1dpPm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"21104","mBene":"A-LT-311731","sBene":"A-LT-21104-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
@@ -770,8 +811,8 @@
 {"@id":"impresa:e9+jkLOGxW8vdRkRYl2+0w==","@type":"impresa","idBene":"33645","mBene":"A-XX-58862","sBene":"A-LT-33645-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
 {"@id":"impresa:JN0nqc8hL0YqfG4e3NUquQ==","@type":"impresa","idBene":"33648","mBene":"A-XX-61343","sBene":"A-LT-33648-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
 {"@id":"impresa:hBN/WVHrdn8MXyPsPXrH8g==","@type":"impresa","idBene":"49255","mBene":"A-LT-328291","sBene":"A-LT-49255-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:0s8EfpAjKZtAAAMaPeF00A==","@type":"impresa","idBene":"49285","mBene":"A-LT-328292","sBene":"A-LT-49285-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:c1D9El2c3NhpTX4Y/7/Qjg==","@type":"impresa","idBene":"53014","mBene":"A-LT-323960","sBene":"A-LT-53014-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:0s8EfpAjKZtAAAMaPeF00A==","@type":"impresa","idBene":"49285","mBene":"A-LT-328292","sBene":"A-LT-49285-S","iterAmministrativoAttivo":"DESTINATO"}
+{"@id":"impresa:c1D9El2c3NhpTX4Y/7/Qjg==","@type":"impresa","idBene":"53014","mBene":"A-LT-323960","sBene":"A-LT-53014-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:SGhGPuu8FVZes/iTcfqjbQ==","@type":"impresa","idBene":"53017","mBene":"A-LT-323961","sBene":"A-LT-53017-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:u3j4sFQOlBzXhcUfAW0F0A==","@type":"impresa","idBene":"53637","mBene":"A-LT-323968","sBene":"A-LT-53637-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:N9AykBxRxGWWaTX3fx6KaA==","@type":"impresa","idBene":"59053","mBene":"A-LT-329764","sBene":"A-LT-59053-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -791,7 +832,8 @@
 {"@id":"impresa:NKP8Of7s+/Kkd4fZu0mMNA==","@type":"impresa","idBene":"83146","mBene":"","sBene":"A-LT-83146-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:P0b9r4NwFzcGKwCTH2XRwA==","@type":"impresa","idBene":"8597","mBene":"A-LT-88349","sBene":"A-LT-8597-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:xc8GhqfRrKzQ8ON9oQzLyA==","@type":"impresa","idBene":"86634","mBene":"","sBene":"A-LT-86634-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:S9SqoL9ZY7dkwCiwITm2Rw==","@type":"impresa","idBene":"8771","mBene":"A-LT-314317","sBene":"A-LT-8771-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:20LX3BxKQduof4pU0avFZA==","@type":"impresa","idBene":"86943","mBene":"","sBene":"A-LT-86943-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:S9SqoL9ZY7dkwCiwITm2Rw==","@type":"impresa","idBene":"8771","mBene":"A-LT-314317","sBene":"A-LT-8771-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:dCrcDPkFgtHljXCcI2quiA==","@type":"impresa","idBene":"8772","mBene":"A-LT-314318","sBene":"A-LT-8772-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:QlBNkt6V0wXQ8k59V8ZjLA==","@type":"impresa","idBene":"8773","mBene":"A-LT-314319","sBene":"A-LT-8773-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:7s+R7tuwoSMs/7EEJIMqYQ==","@type":"impresa","idBene":"8774","mBene":"A-LT-314320","sBene":"A-LT-8774-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -799,6 +841,9 @@
 {"@id":"impresa:Yp4NgKC6bsPjJX+Pk8RaUPm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"8780","mBene":"A-LT-314331","sBene":"A-LT-8780-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:m14ED1xRRJQIqZ/c3hFmjA==","@type":"impresa","idBene":"8784","mBene":"A-LT-314351","sBene":"A-LT-8784-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:t5cvCUjNKGLT/GYG3l7GyQ==","@type":"impresa","idBene":"90229","mBene":"A-LT-352242","sBene":"A-LT-90229-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:ebsSptUy+HRUOHLnRq2skA==","@type":"impresa","idBene":"95181","mBene":"","sBene":"A-LT-95181-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:TIFxOVFGqWULTNb136m/9vm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"97663","mBene":"","sBene":"A-LT-97663-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:OEiYg5jK/GvQER4XUp4VqQ==","@type":"impresa","idBene":"97673","mBene":"","sBene":"A-LT-97673-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:+5bjkWMvkavoKvfR92+yPQ==","@type":"impresa","idBene":"49792","mBene":"A-LU-324525","sBene":"A-LU-49792-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:gTRBExI2ALLVWpD7FP/uEw==","@type":"impresa","idBene":"59535","mBene":"A-LU-331429","sBene":"A-LU-59535-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:WodiZo0ZOWjLsxOEtj8sHg==","@type":"impresa","idBene":"59537","mBene":"A-LU-331430","sBene":"A-LU-59537-S","iterAmministrativoAttivo":"DESTINATO"}
@@ -826,6 +871,10 @@
 {"@id":"impresa:eIzM/aK+1t/4osY90ZYPKvm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"56111","mBene":"A-MB-326941","sBene":"A-MB-56111-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:9LRsygZ2S08Xdtz+Xvh+OA==","@type":"impresa","idBene":"70600","mBene":"A-MB-334362","sBene":"A-MB-70600-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:r+izE7hyW73bfdc784Q8qw==","@type":"impresa","idBene":"70614","mBene":"A-MB-334413","sBene":"A-MB-70614-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:OVtXDkHqL7oukEW5tx4e8A==","@type":"impresa","idBene":"74304","mBene":"A-MB-342229","sBene":"A-MB-74304-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:cBSCJZw1qz9BCHUbr48i4Q==","@type":"impresa","idBene":"74311","mBene":"A-MB-342230","sBene":"A-MB-74311-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:lCwTxSyDLCtWRcxU68PpiPm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"74312","mBene":"A-MB-342231","sBene":"A-MB-74312-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:rRcSYW+GV5VrY7BEDin7Mfm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"74313","mBene":"A-MB-342232","sBene":"A-MB-74313-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:MloTTkzIIYkt5x2WeNp0AQ==","@type":"impresa","idBene":"77911","mBene":"","sBene":"A-MB-77911-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:DUyvo6l6G9yRU+Ls2GKSWPm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"20193","mBene":"A-ME-313519","sBene":"A-ME-20193-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:t2EwYpjiD9PVXMe7Ajj1Cg==","@type":"impresa","idBene":"20194","mBene":"A-ME-313520","sBene":"A-ME-20194-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -871,8 +920,6 @@
 {"@id":"impresa:TGs/alxGJbUPy9LqC3bkOA==","@type":"impresa","idBene":"59380","mBene":"A-ME-323123","sBene":"A-ME-59380-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:KiP+8RTGrroN4Ea5PGV17w==","@type":"impresa","idBene":"59401","mBene":"A-ME-323125","sBene":"A-ME-59401-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:1lWD9DAa62+7p5xijeFRMg==","@type":"impresa","idBene":"59407","mBene":"A-ME-323126","sBene":"A-ME-59407-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:hmHHabsQJ4R1E3nQ1U50Gg==","@type":"impresa","idBene":"59419","mBene":"A-ME-323129","sBene":"A-ME-59419-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:t8Amfv6M7xiy11o7O7nh/w==","@type":"impresa","idBene":"59425","mBene":"A-ME-323130","sBene":"A-ME-59425-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:wiGRghlGVD3JObG15Er4Kg==","@type":"impresa","idBene":"59563","mBene":"A-ME-326953","sBene":"A-ME-59563-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:6JY5Sok2tOGMCFmiGR4FJw==","@type":"impresa","idBene":"59709","mBene":"A-ME-328811","sBene":"A-ME-59709-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:Df1VAlNGAHpE7tV3V1VTKQ==","@type":"impresa","idBene":"59842","mBene":"A-ME-323114","sBene":"A-ME-59842-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -920,8 +967,8 @@
 {"@id":"impresa:dBgA+Cj4UE9K32pO7m4SZw==","@type":"impresa","idBene":"13604","mBene":"A-MI-319802","sBene":"A-MI-13604-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:SvLkC3UKNcQMw93ALU3ReQ==","@type":"impresa","idBene":"15282","mBene":"A-MI-259187","sBene":"A-MI-15282-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:brdoJqURWx8Vsj8uMLdFCA==","@type":"impresa","idBene":"15753","mBene":"A-MI-310212","sBene":"A-MI-15753-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:6uN5DIKalCZs6XAHYwbwqg==","@type":"impresa","idBene":"15990","mBene":"A-MI-281129","sBene":"A-MI-15990-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:2nq56JUmBTJLSXUgTh4QuA==","@type":"impresa","idBene":"15991","mBene":"A-MI-281158","sBene":"A-MI-15991-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:6uN5DIKalCZs6XAHYwbwqg==","@type":"impresa","idBene":"15990","mBene":"A-MI-281129","sBene":"A-MI-15990-S","iterAmministrativoAttivo":"DESTINATO"}
+{"@id":"impresa:2nq56JUmBTJLSXUgTh4QuA==","@type":"impresa","idBene":"15991","mBene":"A-MI-281158","sBene":"A-MI-15991-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:d4hi1wTFlGr6ZPPIU1FYEg==","@type":"impresa","idBene":"15992","mBene":"A-MI-281165","sBene":"A-MI-15992-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:ys/ZgCDKOlqg+DGg3tC+ww==","@type":"impresa","idBene":"16394","mBene":"A-MI-277555","sBene":"A-MI-16394-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:ixaukTXL0HlbLUWJxZ0rxw==","@type":"impresa","idBene":"16451","mBene":"A-MI-289683","sBene":"A-MI-16451-S","iterAmministrativoAttivo":"DESTINATO"}
@@ -934,6 +981,7 @@
 {"@id":"impresa:OrXbOCldGZO/79/phP6KDA==","@type":"impresa","idBene":"17243","mBene":"A-MI-275516","sBene":"A-MI-17243-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:CU3jHgDWw49gIofKyOiweQ==","@type":"impresa","idBene":"17543","mBene":"A-MI-222026","sBene":"A-MI-17543-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:BBX8JIOdp4dE+O16BE9QCQ==","@type":"impresa","idBene":"1871","mBene":"A-MI-317889","sBene":"A-MI-1871-S","iterAmministrativoAttivo":"DESTINATO"}
+{"@id":"impresa:s1P3C90/4obdpuLGfocYaw==","@type":"impresa","idBene":"20002","mBene":"A-MI-221411","sBene":"A-MI-20002-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
 {"@id":"impresa:0MqFqb2z58fUQxE5kYdcBg==","@type":"impresa","idBene":"20003","mBene":"A-MI-221412","sBene":"A-MI-20003-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:wxJ0eGm2/EwzrOwPkgCsMQ==","@type":"impresa","idBene":"21904","mBene":"A-MI-310192","sBene":"A-MI-21904-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:e7RXofPPv5Vejdael45paA==","@type":"impresa","idBene":"22790","mBene":"A-MI-318980","sBene":"A-MI-22790-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -942,6 +990,7 @@
 {"@id":"impresa:ZTI6q5cA2X2eRDHOz/r9JA==","@type":"impresa","idBene":"29719","mBene":"A-MI-271022","sBene":"A-MI-29719-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:Rm67Deyq5VsvtBMOPWfYug==","@type":"impresa","idBene":"29720","mBene":"A-MI-271025","sBene":"A-MI-29720-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:XGbpeodh0mJ45un+fIJPJA==","@type":"impresa","idBene":"29721","mBene":"A-MI-271032","sBene":"A-MI-29721-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:p3wGYBFrWxC0gkPpH40z2w==","@type":"impresa","idBene":"29845","mBene":"A-MI-12172","sBene":"A-MI-29845-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:SSd7/z02U0lqR7W0K9fbYQ==","@type":"impresa","idBene":"30316","mBene":"A-MI-285676","sBene":"A-MI-30316-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:mghVNRUl4+e/v5tvqiGkkQ==","@type":"impresa","idBene":"30322","mBene":"A-MI-285697","sBene":"A-MI-30322-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:C1RDh42q/LOVhGQZnEpVPQ==","@type":"impresa","idBene":"30332","mBene":"A-MI-285776","sBene":"A-MI-30332-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -991,7 +1040,6 @@
 {"@id":"impresa:3zLvKA3DokZXr0I1iAQ7mg==","@type":"impresa","idBene":"54058","mBene":"","sBene":"A-MI-54058-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:OMGQwQE+yAAQuNnAYwrN0A==","@type":"impresa","idBene":"54086","mBene":"","sBene":"A-MI-54086-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:A+JGA99QdaAwgin3ss8FFQ==","@type":"impresa","idBene":"54094","mBene":"","sBene":"A-MI-54094-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:+wUeoa2EnkIkCUHvervptfm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"54106","mBene":"","sBene":"A-MI-54106-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:glbUUO+JwRIjChBvyIamEw==","@type":"impresa","idBene":"54368","mBene":"A-MI-323680","sBene":"A-MI-54368-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:0wMyJ8rxm9dVvVB5f8bQeQ==","@type":"impresa","idBene":"56108","mBene":"A-MI-326938","sBene":"A-MI-56108-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:Vtm/J/qr8TUMLbls8BwgHPm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"56113","mBene":"A-MI-326943","sBene":"A-MI-56113-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -1010,15 +1058,16 @@
 {"@id":"impresa:o6AVsCLk7RKLh1jeTpc7Y/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"68978","mBene":"A-MI-335519","sBene":"A-MI-68978-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:aBa0pecWhNHJyX9bG45tm/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"70503","mBene":"A-MI-333515","sBene":"A-MI-70503-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:mHsS4IQuc0KMsQIbRPdKG/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"70504","mBene":"A-MI-333516","sBene":"A-MI-70504-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:dD60zv4a09983shEt3uATw==","@type":"impresa","idBene":"70726","mBene":"A-MI-351267","sBene":"A-MI-70726-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:dD60zv4a09983shEt3uATw==","@type":"impresa","idBene":"70726","mBene":"A-MI-351267","sBene":"A-MI-70726-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:68H1Co+jbJeL3RhVpXL4xg==","@type":"impresa","idBene":"70758","mBene":"A-MI-351270","sBene":"A-MI-70758-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:H4Tw4IDN8B/caa1fjvBz+Q==","@type":"impresa","idBene":"70763","mBene":"A-MI-351271","sBene":"A-MI-70763-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:WhUBWmjySnpnl/eER6bWkA==","@type":"impresa","idBene":"70769","mBene":"A-MI-351272","sBene":"A-MI-70769-S","iterAmministrativoAttivo":"DESTINATO"}
-{"@id":"impresa:Rb4szk1icODRKXir/+zpLA==","@type":"impresa","idBene":"70770","mBene":"A-MI-341326","sBene":"A-MI-70770-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:Rb4szk1icODRKXir/+zpLA==","@type":"impresa","idBene":"70770","mBene":"A-MI-341326","sBene":"A-MI-70770-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
 {"@id":"impresa:YcLHeeLbOq8GaWPxfb/X1w==","@type":"impresa","idBene":"70771","mBene":"A-MI-351273","sBene":"A-MI-70771-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:4TKgUHxC/s5UFdu+WF/8Lg==","@type":"impresa","idBene":"70774","mBene":"A-MI-351274","sBene":"A-MI-70774-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
 {"@id":"impresa:WoUGYIkJx3Z1T06nkFpmaw==","@type":"impresa","idBene":"70778","mBene":"A-MI-351275","sBene":"A-MI-70778-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:URQEouMggA67Yg9AXWDHjg==","@type":"impresa","idBene":"70781","mBene":"A-MI-341328","sBene":"A-MI-70781-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:URQEouMggA67Yg9AXWDHjg==","@type":"impresa","idBene":"70781","mBene":"A-MI-341328","sBene":"A-MI-70781-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
+{"@id":"impresa:B8/W2dsWalVH/U8gwW3syg==","@type":"impresa","idBene":"70782","mBene":"A-MI-341329","sBene":"A-MI-70782-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
 {"@id":"impresa:F0Dqn8gkkORg2TE1PcWBvw==","@type":"impresa","idBene":"70783","mBene":"A-MI-351276","sBene":"A-MI-70783-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:yPemt4Akbf3eSrlWCI13dg==","@type":"impresa","idBene":"70784","mBene":"A-MI-341330","sBene":"A-MI-70784-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:qhKCEl1eVQA3Saxi2CNnBg==","@type":"impresa","idBene":"70981","mBene":"A-MI-342733","sBene":"A-MI-70981-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -1032,16 +1081,17 @@
 {"@id":"impresa:gwqxiBnKRQ6pj7VXKTiHyw==","@type":"impresa","idBene":"75966","mBene":"A-MI-344740","sBene":"A-MI-75966-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:9noIAOSiA4JmwJbPFGGObQ==","@type":"impresa","idBene":"77912","mBene":"","sBene":"A-MI-77912-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:HR3lcpsgPLXfSlA9flUWtA==","@type":"impresa","idBene":"79350","mBene":"A-MI-344704","sBene":"A-MI-79350-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:3PSSQ8lazL+ta5vRRvtt6A==","@type":"impresa","idBene":"80444","mBene":"","sBene":"A-MI-80444-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:cXHwn3gCxY22NwkKXgH7pA==","@type":"impresa","idBene":"81356","mBene":"","sBene":"A-MI-81356-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:wu0+rwfqbFZJOtRSZZVKffm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"81407","mBene":"","sBene":"A-MI-81407-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:fDZ5UzUigLorvjWRLkPgtA==","@type":"impresa","idBene":"81518","mBene":"","sBene":"A-MI-81518-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:QOYvHbRhF3ATgAB5bXOKYA==","@type":"impresa","idBene":"81520","mBene":"","sBene":"A-MI-81520-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:1xDlZodi97ArlvEPFjpD/w==","@type":"impresa","idBene":"81538","mBene":"","sBene":"A-MI-81538-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:8GDL9hwkAhA28CZQ0zNjKQ==","@type":"impresa","idBene":"81582","mBene":"","sBene":"A-MI-81582-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:csepNQW9ZXOrIPfKJH0Q7g==","@type":"impresa","idBene":"81645","mBene":"","sBene":"A-MI-81645-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:fDZ5UzUigLorvjWRLkPgtA==","@type":"impresa","idBene":"81518","mBene":"A-MI-354860","sBene":"A-MI-81518-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:QOYvHbRhF3ATgAB5bXOKYA==","@type":"impresa","idBene":"81520","mBene":"A-MI-354861","sBene":"A-MI-81520-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:1xDlZodi97ArlvEPFjpD/w==","@type":"impresa","idBene":"81538","mBene":"A-MI-354869","sBene":"A-MI-81538-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:8GDL9hwkAhA28CZQ0zNjKQ==","@type":"impresa","idBene":"81582","mBene":"A-MI-354881","sBene":"A-MI-81582-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:csepNQW9ZXOrIPfKJH0Q7g==","@type":"impresa","idBene":"81645","mBene":"A-MI-354891","sBene":"A-MI-81645-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
+{"@id":"impresa:hKySsEfArwS/VA7LcBlUXg==","@type":"impresa","idBene":"82535","mBene":"A-MI-348896","sBene":"A-MI-82535-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
+{"@id":"impresa:0IEYIZjqJDgRcIwKSpyiAQ==","@type":"impresa","idBene":"82581","mBene":"A-MI-348900","sBene":"A-MI-82581-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
+{"@id":"impresa:fpdaf3ScmA9vdHTm5aBv4w==","@type":"impresa","idBene":"82586","mBene":"A-MI-348901","sBene":"A-MI-82586-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
 {"@id":"impresa:ttrfo4IPbWEUoLmmNAjjQw==","@type":"impresa","idBene":"82711","mBene":"A-MI-349766","sBene":"A-MI-82711-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:cefyeRe26StX/xgpVLicGA==","@type":"impresa","idBene":"82719","mBene":"A-MI-348907","sBene":"A-MI-82719-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:xFoQYwzPajNvW/YSSAGR2g==","@type":"impresa","idBene":"82769","mBene":"","sBene":"A-MI-82769-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:iGgpvpToZaCM/dH+mjndFQ==","@type":"impresa","idBene":"83554","mBene":"","sBene":"A-MI-83554-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:82GmMMGS1qJv2HbPl3lnBQ==","@type":"impresa","idBene":"83718","mBene":"","sBene":"A-MI-83718-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -1059,6 +1109,9 @@
 {"@id":"impresa:ufzhKlY0Z5tUvPM4b/jQHw==","@type":"impresa","idBene":"92679","mBene":"","sBene":"A-MI-92679-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:0lQDw9ZK5gIWpVhGyNdVUg==","@type":"impresa","idBene":"92680","mBene":"","sBene":"A-MI-92680-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:inlI8gMxfheeBALzVJSoVw==","@type":"impresa","idBene":"92685","mBene":"","sBene":"A-MI-92685-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:L9pW9jlo1imuU+Rqu/pRvw==","@type":"impresa","idBene":"96028","mBene":"A-MI-354811","sBene":"A-MI-96028-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:WEsjbFoRX//H1p1livfjGw==","@type":"impresa","idBene":"96029","mBene":"A-MI-354812","sBene":"A-MI-96029-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:BEvgH97AZDE/hBW/3AM4aw==","@type":"impresa","idBene":"97504","mBene":"","sBene":"A-MI-97504-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:gMn7N8naZ1dd9gIxqT01wQ==","@type":"impresa","idBene":"9860","mBene":"A-LU-317695","sBene":"A-MI-9860-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:E9be4M9e6VZbJGqVbyip6w==","@type":"impresa","idBene":"15577","mBene":"A-MN-299846","sBene":"A-MN-15577-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:czvwWZppbq+MG1ddCIe6vQ==","@type":"impresa","idBene":"17077","mBene":"A-MN-239075","sBene":"A-MN-17077-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -1133,7 +1186,7 @@
 {"@id":"impresa:sDRm9MxGb8D4uMmm9ZDELQ==","@type":"impresa","idBene":"33675","mBene":"A-NA-190442","sBene":"A-NA-33675-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:uYTxNJUEJPjcNU81RtW42vm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"33905","mBene":"A-NA-320460","sBene":"A-NA-33905-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:DQY8EzQIDNIvIBHVSKFca/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"34323","mBene":"A-NA-320575","sBene":"A-NA-34323-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:JsSA4xKreqT2ub7iCAhthg==","@type":"impresa","idBene":"34329","mBene":"A-NA-320595","sBene":"A-NA-34329-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:JsSA4xKreqT2ub7iCAhthg==","@type":"impresa","idBene":"34329","mBene":"A-NA-320595","sBene":"A-NA-34329-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:i5MQalbe7e81yuS4zy/2Tvm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"34330","mBene":"A-NA-320596","sBene":"A-NA-34330-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:nMyCs5UJB3VGClRdqQu9sw==","@type":"impresa","idBene":"3472","mBene":"A-NA-311447","sBene":"A-NA-3472-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:kea4K+sMUIRsPV94WT+slA==","@type":"impresa","idBene":"34820","mBene":"A-NA-283420","sBene":"A-NA-34820-S","iterAmministrativoAttivo":"DESTINATO"}
@@ -1177,11 +1230,11 @@
 {"@id":"impresa:ai6uOs8Z4ajE7I4VHsy22/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"48433","mBene":"A-NA-324634","sBene":"A-NA-48433-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:qDv9yCB8M2s6sdUEAKtCjA==","@type":"impresa","idBene":"48448","mBene":"A-NA-324287","sBene":"A-NA-48448-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:c1pn4sLIMCKSgkoI+jf5yvm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"48456","mBene":"A-NA-324288","sBene":"A-NA-48456-S","iterAmministrativoAttivo":"DESTINATO"}
-{"@id":"impresa:0E4/4o2gR0mRVXE8lzt1og==","@type":"impresa","idBene":"48464","mBene":"A-NA-324289","sBene":"A-NA-48464-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:0E4/4o2gR0mRVXE8lzt1og==","@type":"impresa","idBene":"48464","mBene":"A-NA-324289","sBene":"A-NA-48464-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:3Gnb/Czbfa0BrE6MDb6NXQ==","@type":"impresa","idBene":"48466","mBene":"A-NA-324290","sBene":"A-NA-48466-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:66/b8JOqlPi/YgPNRCny+w==","@type":"impresa","idBene":"48482","mBene":"A-NA-324291","sBene":"A-NA-48482-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:66/b8JOqlPi/YgPNRCny+w==","@type":"impresa","idBene":"48482","mBene":"A-NA-324291","sBene":"A-NA-48482-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:PvljJA7N5ZslCeo1ppIWavm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"48485","mBene":"A-NA-324292","sBene":"A-NA-48485-S","iterAmministrativoAttivo":"DESTINATO"}
-{"@id":"impresa:ZurmMLs4zWn7wjk3f3XP+Q==","@type":"impresa","idBene":"48487","mBene":"A-NA-324293","sBene":"A-NA-48487-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:ZurmMLs4zWn7wjk3f3XP+Q==","@type":"impresa","idBene":"48487","mBene":"A-NA-324293","sBene":"A-NA-48487-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:T9QLRlfqULYCPZiZwW9/nfm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"48495","mBene":"A-NA-324294","sBene":"A-NA-48495-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:OOg0RPb0ZgAI6EQ3ZElvIQ==","@type":"impresa","idBene":"48819","mBene":"A-NA-300155","sBene":"A-NA-48819-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:W6yjG5ClNKrS2sf350Dr5Q==","@type":"impresa","idBene":"48868","mBene":"A-NA-324193","sBene":"A-NA-48868-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -1310,6 +1363,7 @@
 {"@id":"impresa:VaqfM2EP+0TfIhwD/OH6aw==","@type":"impresa","idBene":"87190","mBene":"A-NA-351284","sBene":"A-NA-87190-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:HyXCdC6pfuB/nhvh29OdGg==","@type":"impresa","idBene":"87229","mBene":"A-NA-351386","sBene":"A-NA-87229-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:32OFy3fKFw9U2AscnIBhzg==","@type":"impresa","idBene":"87887","mBene":"","sBene":"A-NA-87887-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:vEDZjhDE6jm4m+E97zKBhg==","@type":"impresa","idBene":"87983","mBene":"","sBene":"A-NA-87983-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:EDAqeVeRi82A/dnscMJVpg==","@type":"impresa","idBene":"88518","mBene":"A-NA-352255","sBene":"A-NA-88518-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:ssbTXl0y+OdjBtVNxVZ9zvm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"88522","mBene":"A-NA-352259","sBene":"A-NA-88522-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:quauYkSibGuF6As3/Wg1kg==","@type":"impresa","idBene":"88523","mBene":"A-NA-352260","sBene":"A-NA-88523-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -1321,13 +1375,6 @@
 {"@id":"impresa:x3E2obIWZHBqQbqCC740Ig==","@type":"impresa","idBene":"89507","mBene":"","sBene":"A-NA-89507-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:014WPpwKFzYxE8S34FQkLA==","@type":"impresa","idBene":"90222","mBene":"A-NA-352235","sBene":"A-NA-90222-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:uS7fb/nEDQ6mZ0qsC9KUlw==","@type":"impresa","idBene":"90230","mBene":"A-NA-352243","sBene":"A-NA-90230-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:zbs22oH180r+riZnRgj3PA==","@type":"impresa","idBene":"90231","mBene":"A-NA-352244","sBene":"A-NA-90231-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:J5pWlOSAek7BbphW5mscpg==","@type":"impresa","idBene":"91047","mBene":"A-NA-353289","sBene":"A-NA-91047-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:b0D5C98+VnyVVBGmgRdXHg==","@type":"impresa","idBene":"91061","mBene":"A-NA-353303","sBene":"A-NA-91061-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:g/MEPJNEj/JlDztYLwCwxg==","@type":"impresa","idBene":"91075","mBene":"A-NA-353317","sBene":"A-NA-91075-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:fsybLqfdcjq2h/adB9nB3g==","@type":"impresa","idBene":"91081","mBene":"A-NA-353323","sBene":"A-NA-91081-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:G0Imfjjne2eTcRwYkP1rHfm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"91110","mBene":"A-NA-353352","sBene":"A-NA-91110-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:fWWrQndnEBrXEWxKbsCtGQ==","@type":"impresa","idBene":"91170","mBene":"A-NA-353412","sBene":"A-NA-91170-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:GPP3YF7L6UG+1Tz/PHPY6A==","@type":"impresa","idBene":"91758","mBene":"A-NA-353491","sBene":"A-NA-91758-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:7+e67rmHN0VRkDBHykZFkg==","@type":"impresa","idBene":"91772","mBene":"A-NA-353505","sBene":"A-NA-91772-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:j0JbOjI1IAIdb02WGn2hzQ==","@type":"impresa","idBene":"91782","mBene":"A-NA-353515","sBene":"A-NA-91782-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -1337,13 +1384,30 @@
 {"@id":"impresa:Uo2PgJY04mPr0fV4ykJzAA==","@type":"impresa","idBene":"91834","mBene":"A-NA-353567","sBene":"A-NA-91834-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:kD6H58AavMu3AHcJ4FiKgw==","@type":"impresa","idBene":"91948","mBene":"A-NA-353681","sBene":"A-NA-91948-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:XMmWuh4VPX9Vm3Yz9bhL5g==","@type":"impresa","idBene":"91984","mBene":"A-NA-353717","sBene":"A-NA-91984-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:1F/qIfMhDTzMG0eNhX6s/A==","@type":"impresa","idBene":"94144","mBene":"","sBene":"A-NA-94144-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:0UMPpqAlYPgGA0wU5E8spA==","@type":"impresa","idBene":"94145","mBene":"","sBene":"A-NA-94145-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:Xxen4pCioem1mGdVRs6WxA==","@type":"impresa","idBene":"94680","mBene":"","sBene":"A-NA-94680-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:Xxen4pCioem1mGdVRs6WxA==","@type":"impresa","idBene":"94705","mBene":"","sBene":"A-NA-94705-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:hHTVhO2aulZLArH9DTOTaw==","@type":"impresa","idBene":"94950","mBene":"","sBene":"A-NA-94950-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:UMqg364Aw1TFw7M34X4NmA==","@type":"impresa","idBene":"96395","mBene":"","sBene":"A-NA-96395-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:yloLjDEQkU+B90jXgU+msPm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"96396","mBene":"","sBene":"A-NA-96396-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:dGsTDJhrvznu9Mn37MnVTw==","@type":"impresa","idBene":"96397","mBene":"","sBene":"A-NA-96397-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:9MJyChMevvCKePBLL5b2Ffm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"96409","mBene":"","sBene":"A-NA-96409-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:HJh35MgPn7LMgsBWfcQw0A==","@type":"impresa","idBene":"9714","mBene":"A-NA-317573","sBene":"A-NA-9714-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:ycKrxglnR+wM4GjrqwQ2Fg==","@type":"impresa","idBene":"9715","mBene":"A-NA-317575","sBene":"A-NA-9715-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:amkj6uAQmiZ+uendeeloCw==","@type":"impresa","idBene":"9716","mBene":"A-NA-317576","sBene":"A-NA-9716-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:cKwqin+D4Mvax3kAP1lTZfm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"9717","mBene":"A-NA-317577","sBene":"A-NA-9717-S","iterAmministrativoAttivo":"DESTINATO"}
+{"@id":"impresa:G0Imfjjne2eTcRwYkP1rHfm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"97210","mBene":"","sBene":"A-NA-97210-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:g/MEPJNEj/JlDztYLwCwxg==","@type":"impresa","idBene":"97216","mBene":"","sBene":"A-NA-97216-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:J5pWlOSAek7BbphW5mscpg==","@type":"impresa","idBene":"97338","mBene":"","sBene":"A-NA-97338-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:b0D5C98+VnyVVBGmgRdXHg==","@type":"impresa","idBene":"97380","mBene":"","sBene":"A-NA-97380-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:fsybLqfdcjq2h/adB9nB3g==","@type":"impresa","idBene":"97385","mBene":"","sBene":"A-NA-97385-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:1F/qIfMhDTzMG0eNhX6s/A==","@type":"impresa","idBene":"97405","mBene":"","sBene":"A-NA-97405-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:fWWrQndnEBrXEWxKbsCtGQ==","@type":"impresa","idBene":"97435","mBene":"","sBene":"A-NA-97435-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:0UMPpqAlYPgGA0wU5E8spA==","@type":"impresa","idBene":"97438","mBene":"","sBene":"A-NA-97438-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:OpKPLMnzeYhEuGvTjO/1Lg==","@type":"impresa","idBene":"97500","mBene":"","sBene":"A-NA-97500-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:rLgHVwl+GRXc28uNcS7JBA==","@type":"impresa","idBene":"97508","mBene":"","sBene":"A-NA-97508-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:fj8XgXd9P+HnMdhErKrjjw==","@type":"impresa","idBene":"97576","mBene":"","sBene":"A-NA-97576-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:eNDhT4foXLMf059lVzZ1DA==","@type":"impresa","idBene":"97633","mBene":"","sBene":"A-NA-97633-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:JENT8xdF29qvyFbiII0Baw==","@type":"impresa","idBene":"97634","mBene":"","sBene":"A-NA-97634-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:jHyTTvc+kGu9iTFn8der+g==","@type":"impresa","idBene":"97865","mBene":"","sBene":"A-NA-97865-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:n3QXJsu3veefETmMOVlh/Q==","@type":"impresa","idBene":"9852","mBene":"A-NA-317660","sBene":"A-NA-9852-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:zCyc1cm6yLpoELvEMs993g==","@type":"impresa","idBene":"9853","mBene":"A-NA-317661","sBene":"A-NA-9853-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:1Poch5+EEcDMcgdTbK1+ug==","@type":"impresa","idBene":"9854","mBene":"A-NA-317662","sBene":"A-NA-9854-S","iterAmministrativoAttivo":"DESTINATO"}
@@ -1675,12 +1739,27 @@
 {"@id":"impresa:SSfho0VDFLTTw1cvmDXA2/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"86379","mBene":"","sBene":"A-PA-86379-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:nq7iTaKXzXaMTd5Lfef6/g==","@type":"impresa","idBene":"86381","mBene":"","sBene":"A-PA-86381-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:EwgLKQZ6zWqRUdesIsUjrg==","@type":"impresa","idBene":"89666","mBene":"","sBene":"A-PA-89666-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:QogTJ8ZXKF2vbSLC0LrYQg==","@type":"impresa","idBene":"89714","mBene":"","sBene":"A-PA-89714-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:5gSvYm1Q2G21mDpxqPXnIw==","@type":"impresa","idBene":"89714","mBene":"","sBene":"A-PA-89714-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:o0Awkw+a88iexKQhaJkpcg==","@type":"impresa","idBene":"90167","mBene":"A-PA-351984","sBene":"A-PA-90167-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:YAwM7FiUeg4lDfqVk0oC4fm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"93209","mBene":"","sBene":"A-PA-93209-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:6/EKP+mJ4goo4WsvCA5aV/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"94068","mBene":"","sBene":"A-PA-94068-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:Jz8H4PXPzvt85oToHZqCPA==","@type":"impresa","idBene":"94069","mBene":"","sBene":"A-PA-94069-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:eV5e51WOw18lU/KVo+jkXA==","@type":"impresa","idBene":"94102","mBene":"","sBene":"A-PA-94102-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:aWblZT/ixMB8gBZwwBlL5/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"95161","mBene":"","sBene":"A-PA-95161-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:ScMhFoWAgc/PvkNaMHm9E/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"95897","mBene":"","sBene":"A-PA-95897-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:HZ3A5tbc/XjE/q8tFwOogw==","@type":"impresa","idBene":"96430","mBene":"","sBene":"A-PA-96430-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:/DqZda5BiIqDx/C0uw/vTQ==","@type":"impresa","idBene":"96449","mBene":"","sBene":"A-PA-96449-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:eQhGRe+udwSdgQWCFW8iFPm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"96496","mBene":"","sBene":"A-PA-96496-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:PgCmkpebLnEYIQIptcotX/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"96497","mBene":"","sBene":"A-PA-96497-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:KaPJEm2qx+FkDICQmRsmfvm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"96558","mBene":"","sBene":"A-PA-96558-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:UiJFRhLXmQCoaABU9eT6ufm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"96560","mBene":"","sBene":"A-PA-96560-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:PYr9PYBZMYOVYz3IE3FD9w==","@type":"impresa","idBene":"96861","mBene":"","sBene":"A-PA-96861-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:ZEc1rDsmkDV3e17AwXO8DA==","@type":"impresa","idBene":"97480","mBene":"","sBene":"A-PA-97480-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:xFabaS2/xN6S9mt0qjEnNg==","@type":"impresa","idBene":"97483","mBene":"","sBene":"A-PA-97483-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:KKwwT42blSiFlPy24n6NVw==","@type":"impresa","idBene":"97488","mBene":"","sBene":"A-PA-97488-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:5Eqk1SQIjfcstErwLq9S7Pm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"97493","mBene":"","sBene":"A-PA-97493-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:vp7qrKny3Q3u9H+cvM7JFg==","@type":"impresa","idBene":"97496","mBene":"","sBene":"A-PA-97496-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:rH1XBlHPlnCiFipROWgdL/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"97648","mBene":"","sBene":"A-PA-97648-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:LYMPEVNhQkKmwd4rHNseq/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"9947","mBene":"A-PA-293938","sBene":"A-PA-9947-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:B8UMueZp4PgT1dYwA0SHew==","@type":"impresa","idBene":"9949","mBene":"A-PA-293946","sBene":"A-PA-9949-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:TkD7ZxHKZx9m+2CjuXS9V/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"42791","mBene":"A-PD-337311","sBene":"A-PD-42791-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -1696,7 +1775,7 @@
 {"@id":"impresa:/i4hpO73r2PF4WKaMrCJ9A==","@type":"impresa","idBene":"55083","mBene":"A-PG-330306","sBene":"A-PG-55083-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:9bSyU6rACZaqkk+/C3ndxfm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"5101","mBene":"A-PI-319050","sBene":"A-PI-5101-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:M64zYMycVC+PHzC74WmKUw==","@type":"impresa","idBene":"28565","mBene":"A-PO-313997","sBene":"A-PO-28565-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:RoWihnKvtP8v5kx7M11ECA==","@type":"impresa","idBene":"59382","mBene":"A-PO-324908","sBene":"A-PO-59382-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:RoWihnKvtP8v5kx7M11ECA==","@type":"impresa","idBene":"59382","mBene":"A-PO-324908","sBene":"A-PO-59382-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:g46jf60zSm6hgTZ8LuQdKw==","@type":"impresa","idBene":"59385","mBene":"A-PO-324910","sBene":"A-PO-59385-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:+t0A2XsCWeekj6nV+sBezfm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"59386","mBene":"A-PO-324911","sBene":"A-PO-59386-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
 {"@id":"impresa:7zAIAzv4AF8/plrb8jpuPg==","@type":"impresa","idBene":"59393","mBene":"A-PO-324915","sBene":"A-PO-59393-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -1704,16 +1783,19 @@
 {"@id":"impresa:gj3qlFtU0nUwIF+k+0f5Dw==","@type":"impresa","idBene":"84670","mBene":"","sBene":"A-PO-84670-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:bzAnOt310Un/X4iAe/7xrA==","@type":"impresa","idBene":"84673","mBene":"","sBene":"A-PO-84673-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:EXEAbxrCTpD8pu/4X5PCiQ==","@type":"impresa","idBene":"90535","mBene":"A-PO-352064","sBene":"A-PO-90535-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:80l+Q/IWiTvTSA9HnXq9bg==","@type":"impresa","idBene":"95290","mBene":"","sBene":"A-PO-95290-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:pkgmHiGVozlQ+H833gPLZA==","@type":"impresa","idBene":"95293","mBene":"","sBene":"A-PO-95293-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:PnjX/49eRzsrEjyc2hkWsg==","@type":"impresa","idBene":"36649","mBene":"A-PR-328897","sBene":"A-PR-36649-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:6I7Ohtaqdje+bjCRMzgxDA==","@type":"impresa","idBene":"38020","mBene":"A-PR-328978","sBene":"A-PR-38020-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:JeipSGSX0PUrbPSve5L5DA==","@type":"impresa","idBene":"39232","mBene":"A-PR-329016","sBene":"A-PR-39232-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:xM9BmZwP6oaK2FtHRJStew==","@type":"impresa","idBene":"41400","mBene":"A-PR-329120","sBene":"A-PR-41400-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:RVCKNaASWVSfV4AdLbrTEPm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"48094","mBene":"A-PR-330807","sBene":"A-PR-48094-S","iterAmministrativoAttivo":"DESTINATO"}
-{"@id":"impresa:SudJBWIeI+11RkSVZi1ylw==","@type":"impresa","idBene":"50012","mBene":"A-PR-329125","sBene":"A-PR-50012-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:SudJBWIeI+11RkSVZi1ylw==","@type":"impresa","idBene":"50012","mBene":"A-PR-329125","sBene":"A-PR-50012-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:Qs8fyboK3fg+FdMef//m0w==","@type":"impresa","idBene":"50048","mBene":"A-PR-329128","sBene":"A-PR-50048-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:GLLEbI+UAdKniMf5VeEyYA==","@type":"impresa","idBene":"51357","mBene":"A-PR-343373","sBene":"A-PR-51357-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:Gty28GQP50WQ4zXOYA8Yfw==","@type":"impresa","idBene":"58368","mBene":"A-PR-328137","sBene":"A-PR-58368-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:Z8RBT7V2ycfAkDc/cdzHow==","@type":"impresa","idBene":"82006","mBene":"A-PR-347905","sBene":"A-PR-82006-S","iterAmministrativoAttivo":"DESTINATO"}
+{"@id":"impresa:LQ3juxVJURwODMmUl1veCQ==","@type":"impresa","idBene":"97863","mBene":"","sBene":"A-PR-97863-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:EJahFdRNDsnKwe5wBztKQg==","@type":"impresa","idBene":"59383","mBene":"A-PO-324909","sBene":"A-PT-59383-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:p8Qx1uYFf7s/cZRg4MdWtQ==","@type":"impresa","idBene":"59390","mBene":"A-PO-324913","sBene":"A-PT-59390-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:WQu891x/dRP/yM3SdIh7wA==","@type":"impresa","idBene":"59394","mBene":"A-PO-324916","sBene":"A-PT-59394-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -1914,6 +1996,8 @@
 {"@id":"impresa:Hm+joopqEBWH/gtgV2l33Q==","@type":"impresa","idBene":"89755","mBene":"","sBene":"A-RC-89755-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:Rda5rd7EnKqY5oGUWt2DF/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"89756","mBene":"","sBene":"A-RC-89756-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:qhjN/ZgSQB7U19D2J18Si/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"89757","mBene":"","sBene":"A-RC-89757-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:5HZ17KIbVTEuKmHxbXsWiQ==","@type":"impresa","idBene":"95803","mBene":"","sBene":"A-RC-95803-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:HA1p9l4FeEbioLC0Zb2v+Q==","@type":"impresa","idBene":"95815","mBene":"","sBene":"A-RC-95815-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:2BDOr0z1uVJykHPAiNKXoA==","@type":"impresa","idBene":"9813","mBene":"A-RC-240909","sBene":"A-RC-9813-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:IABPVqz/2FuKcVRNNHTnOvm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"9851","mBene":"A-RC-316547","sBene":"A-RC-9851-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
 {"@id":"impresa:ImDJ6rkF1NnaEpRg1dRozg==","@type":"impresa","idBene":"9910","mBene":"A-RC-318941","sBene":"A-RC-9910-S","iterAmministrativoAttivo":"DESTINATO"}
@@ -1921,18 +2005,20 @@
 {"@id":"impresa:N+FkP9C3KQvkd3euJQXsHg==","@type":"impresa","idBene":"12511","mBene":"A-RE-312731","sBene":"A-RE-12511-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:oyn+1Hwbmd5+EchEsmqRHQ==","@type":"impresa","idBene":"36475","mBene":"A-RE-328847","sBene":"A-RE-36475-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:DpGH+ywgSEUEeylKY/UQCQ==","@type":"impresa","idBene":"36585","mBene":"A-RE-328888","sBene":"A-RE-36585-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:O9seu/ml8Fu2tUnpZzpn2w==","@type":"impresa","idBene":"36626","mBene":"A-RE-328895","sBene":"A-RE-36626-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:O9seu/ml8Fu2tUnpZzpn2w==","@type":"impresa","idBene":"36626","mBene":"A-RE-328895","sBene":"A-RE-36626-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:XPieoPWUyEtE847iy+AYug==","@type":"impresa","idBene":"36645","mBene":"A-RE-328896","sBene":"A-RE-36645-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:Qqyz5XZnKWCtf+YNTS6wgg==","@type":"impresa","idBene":"36654","mBene":"A-RE-328902","sBene":"A-RE-36654-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:s/0bo8ecsa4iOlmUh5WgwA==","@type":"impresa","idBene":"36655","mBene":"A-RE-328903","sBene":"A-RE-36655-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:Qqyz5XZnKWCtf+YNTS6wgg==","@type":"impresa","idBene":"36654","mBene":"A-RE-328902","sBene":"A-RE-36654-S","iterAmministrativoAttivo":"DESTINATO"}
+{"@id":"impresa:s/0bo8ecsa4iOlmUh5WgwA==","@type":"impresa","idBene":"36655","mBene":"A-RE-328903","sBene":"A-RE-36655-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:Dm+MTb9OwUPCYUp7gdeEFQ==","@type":"impresa","idBene":"36693","mBene":"A-RE-328905","sBene":"A-RE-36693-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:DaXXNs7PNVTwYt7kuskluA==","@type":"impresa","idBene":"36701","mBene":"A-RE-328906","sBene":"A-RE-36701-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:gSo7oJoHlDKg6gK9lMbEjA==","@type":"impresa","idBene":"36706","mBene":"A-RE-328907","sBene":"A-RE-36706-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:WEadj6UMcPoFgF7REfGJKA==","@type":"impresa","idBene":"37705","mBene":"A-RE-328910","sBene":"A-RE-37705-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:WEadj6UMcPoFgF7REfGJKA==","@type":"impresa","idBene":"37705","mBene":"A-RE-328910","sBene":"A-RE-37705-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:tzPav+tyO1VU622krHUtpQ==","@type":"impresa","idBene":"37888","mBene":"A-RE-328911","sBene":"A-RE-37888-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:pYUhIT5I5AN0sMX0qyIAuw==","@type":"impresa","idBene":"39882","mBene":"A-RE-329042","sBene":"A-RE-39882-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:7OWDqCUfd8n3eVpSei1rUw==","@type":"impresa","idBene":"4875","mBene":"A-RE-319043","sBene":"A-RE-4875-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:bgUQr9BebUeVZsK7EWd4nA==","@type":"impresa","idBene":"4876","mBene":"A-RE-319045","sBene":"A-RE-4876-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:1pOHPjcDFBa8PpprI9yU5Q==","@type":"impresa","idBene":"49478","mBene":"A-RE-331894","sBene":"A-RE-49478-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:dENXmuA+avfuCy2EnNTTeg==","@type":"impresa","idBene":"49802","mBene":"A-RE-331895","sBene":"A-RE-49802-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:ViJQNwcqNdD634Qs8z8EOg==","@type":"impresa","idBene":"49803","mBene":"A-RE-331896","sBene":"A-RE-49803-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:l8FtAArufZS2fpOfbUIT8g==","@type":"impresa","idBene":"50051","mBene":"A-RE-329129","sBene":"A-RE-50051-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:dySHYeVTtGw28yoM6h1A/w==","@type":"impresa","idBene":"50077","mBene":"A-RE-329131","sBene":"A-RE-50077-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -1942,6 +2028,7 @@
 {"@id":"impresa:ShFPqDNn0tnTldqZZcVHuA==","@type":"impresa","idBene":"50580","mBene":"A-RE-329640","sBene":"A-RE-50580-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:yVjEZYdf4i0Ihfv3RqHiBQ==","@type":"impresa","idBene":"60669","mBene":"A-RE-347904","sBene":"A-RE-60669-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:dCBk4u+A6MuhVMEFKiJ7/w==","@type":"impresa","idBene":"74776","mBene":"A-RE-339496","sBene":"A-RE-74776-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:R77cLAHBsabgMOQ/QCGFkQ==","@type":"impresa","idBene":"95614","mBene":"","sBene":"A-RE-95614-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:VhWcx5vB3moZ6xOGLkwQow==","@type":"impresa","idBene":"35488","mBene":"A-RG-320877","sBene":"A-RG-35488-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:ZzecEndDMy+MPghm5jfV0Q==","@type":"impresa","idBene":"77224","mBene":"A-RG-341852","sBene":"A-RG-77224-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:BWzAgXvkz5cB4mQuvE/Ahw==","@type":"impresa","idBene":"77225","mBene":"A-RG-341853","sBene":"A-RG-77225-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -2083,7 +2170,7 @@
 {"@id":"impresa:T7axSZAn9PzqOeX5+pcNyw==","@type":"impresa","idBene":"59064","mBene":"A-RM-329768","sBene":"A-RM-59064-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:zgksj/mP7l0LX+OGtJqeMw==","@type":"impresa","idBene":"59067","mBene":"A-RM-329770","sBene":"A-RM-59067-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:mu8MAUz6i13JQoy+MuBeBvm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"59068","mBene":"A-RM-329771","sBene":"A-RM-59068-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:zIApIvwmv0LLdqaYquDfwA==","@type":"impresa","idBene":"59235","mBene":"A-RM-326741","sBene":"A-RM-59235-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:zIApIvwmv0LLdqaYquDfwA==","@type":"impresa","idBene":"59235","mBene":"A-RM-326741","sBene":"A-RM-59235-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:WLwoO/3KZ6ROdo1v907vAA==","@type":"impresa","idBene":"59295","mBene":"A-RM-331032","sBene":"A-RM-59295-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:7/obwTYw4e1Fa0kRs3Bfzw==","@type":"impresa","idBene":"59296","mBene":"A-RM-331033","sBene":"A-RM-59296-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:Fj50ytXw7CSZ+A94facvXA==","@type":"impresa","idBene":"59389","mBene":"A-RM-323124","sBene":"A-RM-59389-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -2113,16 +2200,16 @@
 {"@id":"impresa:8thGPx1v+jTL06SbNItRjA==","@type":"impresa","idBene":"59636","mBene":"A-RM-326290","sBene":"A-RM-59636-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:ygVUWLCQxaCv8C35aDBGwQ==","@type":"impresa","idBene":"59637","mBene":"A-RM-326291","sBene":"A-RM-59637-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:RZQipzrtM1a1QgfVzctdOg==","@type":"impresa","idBene":"59651","mBene":"A-RM-326292","sBene":"A-RM-59651-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:lkJFnoXDMH8wy9ozjO/I/g==","@type":"impresa","idBene":"59652","mBene":"A-RM-326293","sBene":"A-RM-59652-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:rO5LihNai0zzmv8iN5uVqg==","@type":"impresa","idBene":"59653","mBene":"A-RM-326294","sBene":"A-RM-59653-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:lkJFnoXDMH8wy9ozjO/I/g==","@type":"impresa","idBene":"59652","mBene":"A-RM-326293","sBene":"A-RM-59652-S","iterAmministrativoAttivo":"DESTINATO"}
+{"@id":"impresa:rO5LihNai0zzmv8iN5uVqg==","@type":"impresa","idBene":"59653","mBene":"A-RM-326294","sBene":"A-RM-59653-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:nRX30GTVmBjt8IcKO9vGTg==","@type":"impresa","idBene":"59654","mBene":"A-RM-326295","sBene":"A-RM-59654-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:p0+2Gggj/XgNjyK69UgsDw==","@type":"impresa","idBene":"59655","mBene":"A-RM-326296","sBene":"A-RM-59655-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:fC0YgYNc38GsaYioszxw9A==","@type":"impresa","idBene":"59656","mBene":"A-RM-326297","sBene":"A-RM-59656-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:fC0YgYNc38GsaYioszxw9A==","@type":"impresa","idBene":"59656","mBene":"A-RM-326297","sBene":"A-RM-59656-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:qzl9svtJmsz2NsfgO1UTOw==","@type":"impresa","idBene":"59657","mBene":"A-RM-326298","sBene":"A-RM-59657-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:GLopzQVwgfT+gHJZjXKeSA==","@type":"impresa","idBene":"59659","mBene":"A-RM-326300","sBene":"A-RM-59659-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:NmwQ9N3xrbsuS9lJXZDdBw==","@type":"impresa","idBene":"59660","mBene":"A-RM-326301","sBene":"A-RM-59660-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:efufZ+h0lTdLhj6Woz5tag==","@type":"impresa","idBene":"59661","mBene":"A-RM-326302","sBene":"A-RM-59661-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:zrjgEi52EgvZf9chk7gdrQ==","@type":"impresa","idBene":"59662","mBene":"A-RM-326303","sBene":"A-RM-59662-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:zrjgEi52EgvZf9chk7gdrQ==","@type":"impresa","idBene":"59662","mBene":"A-RM-326303","sBene":"A-RM-59662-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:v9gsbD5menjwVxuDKB7wyw==","@type":"impresa","idBene":"59663","mBene":"A-RM-326304","sBene":"A-RM-59663-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:4sdnOdkEB668KBROWmbgDg==","@type":"impresa","idBene":"59665","mBene":"A-RM-326306","sBene":"A-RM-59665-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:x904YSjvZUcirszOqIQlRQ==","@type":"impresa","idBene":"59666","mBene":"A-RM-326307","sBene":"A-RM-59666-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -2147,7 +2234,7 @@
 {"@id":"impresa:kfHjYN50x6gx7WQLkk+pAA==","@type":"impresa","idBene":"59691","mBene":"A-RM-326329","sBene":"A-RM-59691-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:ukwqK6xQNXRAi521ErWdFw==","@type":"impresa","idBene":"59693","mBene":"A-RM-326331","sBene":"A-RM-59693-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:WEjT6r/W9dzhGCPq0NQtYQ==","@type":"impresa","idBene":"60340","mBene":"A-RM-326381","sBene":"A-RM-60340-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:vgAz6WUTqK9hbUC06iuO8w==","@type":"impresa","idBene":"60342","mBene":"A-RM-326383","sBene":"A-RM-60342-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:vgAz6WUTqK9hbUC06iuO8w==","@type":"impresa","idBene":"60342","mBene":"A-RM-326383","sBene":"A-RM-60342-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:lwoN05ccYRs6WrxLCqSing==","@type":"impresa","idBene":"60344","mBene":"A-RM-326385","sBene":"A-RM-60344-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:dzTXUipKfewgiTOOQGJhDfm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"61180","mBene":"A-RM-326097","sBene":"A-RM-61180-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:vC3TaLBCC6NXskeRbly26A==","@type":"impresa","idBene":"61408","mBene":"A-RM-326817","sBene":"A-RM-61408-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
@@ -2171,7 +2258,7 @@
 {"@id":"impresa:b71+w1qz3DrKByVJIl615/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"69709","mBene":"A-RM-344417","sBene":"A-RM-69709-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:Vc1fOFOZ1aViDfiPmfJExg==","@type":"impresa","idBene":"70381","mBene":"A-RM-336464","sBene":"A-RM-70381-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:QbHmVfQfoo2ROugSrlQClw==","@type":"impresa","idBene":"7386","mBene":"A-RM-314146","sBene":"A-RM-7386-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:49qrII6PFcqQgHQT7XAxqw==","@type":"impresa","idBene":"7563","mBene":"A-RM-311086","sBene":"A-RM-7563-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:49qrII6PFcqQgHQT7XAxqw==","@type":"impresa","idBene":"7563","mBene":"A-RM-311086","sBene":"A-RM-7563-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:+GZDtMLjHubTzsiYXYk79Q==","@type":"impresa","idBene":"7570","mBene":"A-RM-311095","sBene":"A-RM-7570-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:zDN/0aK3XQy5to72sGB0hg==","@type":"impresa","idBene":"7571","mBene":"A-RM-311096","sBene":"A-RM-7571-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
 {"@id":"impresa:c808Pc7h4BKfM8vQJpwxww==","@type":"impresa","idBene":"76764","mBene":"","sBene":"A-RM-76764-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -2224,14 +2311,17 @@
 {"@id":"impresa:xrQVnb/l0TNfJ3DoXeWE9Q==","@type":"impresa","idBene":"8702","mBene":"A-RM-310054","sBene":"A-RM-8702-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
 {"@id":"impresa:MrJmKlyqVYHvpww5vGJTeg==","@type":"impresa","idBene":"8703","mBene":"A-RM-310055","sBene":"A-RM-8703-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
 {"@id":"impresa:siC7/Zr0MTORuSAige6bFA==","@type":"impresa","idBene":"8704","mBene":"A-RM-310056","sBene":"A-RM-8704-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
-{"@id":"impresa:wdpMAq15+Tt0TzcBwpFYfA==","@type":"impresa","idBene":"87585","mBene":"A-RM-308714","sBene":"A-RM-87585-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:bMRb5Zu+tjcaLho/5/096Q==","@type":"impresa","idBene":"87592","mBene":"A-RM-315723","sBene":"A-RM-87592-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:wdpMAq15+Tt0TzcBwpFYfA==","@type":"impresa","idBene":"87585","mBene":"A-RM-308714","sBene":"A-RM-87585-S","iterAmministrativoAttivo":"DESTINATO"}
+{"@id":"impresa:bMRb5Zu+tjcaLho/5/096Q==","@type":"impresa","idBene":"87592","mBene":"A-RM-315723","sBene":"A-RM-87592-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:jIWWcy23RUHpRWkSfzk1ig==","@type":"impresa","idBene":"8775","mBene":"A-RM-314324","sBene":"A-RM-8775-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:r2Lytgf8ce81Rfzzf6UNLw==","@type":"impresa","idBene":"8777","mBene":"A-RM-314327","sBene":"A-RM-8777-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:7OD9G7KXuesQxm83WPyMhQ==","@type":"impresa","idBene":"8778","mBene":"A-RM-314328","sBene":"A-RM-8778-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:DLecI5J8pagC069/PeSShg==","@type":"impresa","idBene":"8779","mBene":"A-RM-314330","sBene":"A-RM-8779-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:WPpZw9sBm7lVTLCkAPcu/Q==","@type":"impresa","idBene":"88932","mBene":"A-RM-351974","sBene":"A-RM-88932-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:tgyotIX3iFEj3kgA/GJLTw==","@type":"impresa","idBene":"9027","mBene":"A-RM-217439","sBene":"A-RM-9027-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
+{"@id":"impresa:BcjoHqcOhxur7s9iYGPlbw==","@type":"impresa","idBene":"91267","mBene":"A-RM-354513","sBene":"A-RM-91267-S","iterAmministrativoAttivo":"DESTINATO"}
+{"@id":"impresa:lo2Ab97hfL/b8fTzd+j8pg==","@type":"impresa","idBene":"91268","mBene":"A-RM-355374","sBene":"A-RM-91268-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:UxF9seeTkALjsHnR1wyuAw==","@type":"impresa","idBene":"91273","mBene":"A-RM-354514","sBene":"A-RM-91273-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:2zxzUuY0aVE+RU/6vAg3HA==","@type":"impresa","idBene":"91801","mBene":"A-RM-353534","sBene":"A-RM-91801-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:k737z0xL+F5uKFvMER1ohg==","@type":"impresa","idBene":"92425","mBene":"A-RM-352975","sBene":"A-RM-92425-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:iAVNvjH4SKidbUCE9IeBiw==","@type":"impresa","idBene":"93028","mBene":"","sBene":"A-RM-93028-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -2254,6 +2344,22 @@
 {"@id":"impresa:chNtIu4eRfYsLIg44m7S5Q==","@type":"impresa","idBene":"93616","mBene":"","sBene":"A-RM-93616-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:FGD4jMQy7HtZsOLhzL/JKQ==","@type":"impresa","idBene":"93642","mBene":"","sBene":"A-RM-93642-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:6pj4fkrJNergjm/6QZCJJg==","@type":"impresa","idBene":"94283","mBene":"","sBene":"A-RM-94283-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:SanMfOS1gjERGUbEyp7/V/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"94802","mBene":"","sBene":"A-RM-94802-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:VVmWurXhNd20w+YCq24sJw==","@type":"impresa","idBene":"95129","mBene":"","sBene":"A-RM-95129-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:isgS2sOPLVKMbtLtFha5Og==","@type":"impresa","idBene":"95131","mBene":"","sBene":"A-RM-95131-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:YI4TNX5MzRQykV7jKdyxqvm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"95132","mBene":"","sBene":"A-RM-95132-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:auQGOzEZxPYwsNy3KigUWg==","@type":"impresa","idBene":"95133","mBene":"","sBene":"A-RM-95133-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:J1cQcjRrfs+NyN93fDY5sfm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"95134","mBene":"","sBene":"A-RM-95134-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:UgWW8x5k5eML/9bb4ektbQ==","@type":"impresa","idBene":"95135","mBene":"","sBene":"A-RM-95135-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:im9+wL594l3qICzrjHSLOw==","@type":"impresa","idBene":"95136","mBene":"","sBene":"A-RM-95136-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:T9Dgma9qxxfYn1XLCvDV6A==","@type":"impresa","idBene":"95167","mBene":"","sBene":"A-RM-95167-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:PN3YEM/2dyRI1kJW/av4iw==","@type":"impresa","idBene":"95168","mBene":"","sBene":"A-RM-95168-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:kfFI6eX61r67L6q+hvNucA==","@type":"impresa","idBene":"95184","mBene":"","sBene":"A-RM-95184-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:G394YOj7wrPoXibB+3OqrA==","@type":"impresa","idBene":"95189","mBene":"","sBene":"A-RM-95189-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:QoLIGoGgAMKT6sjzCuKPJA==","@type":"impresa","idBene":"95983","mBene":"A-RM-354558","sBene":"A-RM-95983-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:roiSGOzrnyoZlL2qXJjN9w==","@type":"impresa","idBene":"96361","mBene":"","sBene":"A-RM-96361-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:ZVdFuwEdIkZJnY53OBkDgg==","@type":"impresa","idBene":"97476","mBene":"","sBene":"A-RM-97476-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:ZwNV+IjxShWqEbb4aRRoxw==","@type":"impresa","idBene":"97549","mBene":"","sBene":"A-RM-97549-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:5781O0B4eoOtxmIaiQ0GqQ==","@type":"impresa","idBene":"9858","mBene":"A-RM-317678","sBene":"A-RM-9858-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:J3D8J87O8yQ68LPj+OlSag==","@type":"impresa","idBene":"17770","mBene":"A-RN-305415","sBene":"A-RN-17770-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:5QsxjewqX4avT1zS0AfS4A==","@type":"impresa","idBene":"41352","mBene":"","sBene":"A-RN-41352-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -2321,10 +2427,10 @@
 {"@id":"impresa:5qz0BrlZ1cdKLr6TvmfcUQ==","@type":"impresa","idBene":"87942","mBene":"","sBene":"A-SA-87942-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:z9E/3RSnnZdu+FwDxU03e/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"87945","mBene":"","sBene":"A-SA-87945-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:NccfA96jBUjU8382ZgqiIPm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"93165","mBene":"","sBene":"A-SA-93165-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:Ddu8hiw6of/Jucua96muWw==","@type":"impresa","idBene":"94147","mBene":"","sBene":"A-SA-94147-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:5zV3IlEGt1sTETV2hBW47w==","@type":"impresa","idBene":"94151","mBene":"","sBene":"A-SA-94151-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:8EfWy6cFuGgel213N7llYg==","@type":"impresa","idBene":"94153","mBene":"","sBene":"A-SA-94153-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:tsq4f2vLZ1k3GAubLzBuJA==","@type":"impresa","idBene":"94157","mBene":"","sBene":"A-SA-94157-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:Ddu8hiw6of/Jucua96muWw==","@type":"impresa","idBene":"94147","mBene":"A-SA-354530","sBene":"A-SA-94147-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:5zV3IlEGt1sTETV2hBW47w==","@type":"impresa","idBene":"94151","mBene":"A-SA-354534","sBene":"A-SA-94151-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:8EfWy6cFuGgel213N7llYg==","@type":"impresa","idBene":"94153","mBene":"A-SA-354536","sBene":"A-SA-94153-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:tsq4f2vLZ1k3GAubLzBuJA==","@type":"impresa","idBene":"94157","mBene":"A-SA-354540","sBene":"A-SA-94157-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:3Skfic7OgWgRxlZCSQaX3g==","@type":"impresa","idBene":"9473","mBene":"A-SA-298099","sBene":"A-SA-9473-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:o2s+R/Wdhz0xrU66SRCZxA==","@type":"impresa","idBene":"82772","mBene":"","sBene":"A-SO-82772-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:FW7mKYqzryTV9WuaMdUobQ==","@type":"impresa","idBene":"82774","mBene":"","sBene":"A-SO-82774-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -2353,14 +2459,16 @@
 {"@id":"impresa:DWFgb5RRSrHNH0TkrGag7w==","@type":"impresa","idBene":"41793","mBene":"A-SV-324883","sBene":"A-SV-41793-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:lhSIEk/sPtRSAgBgHT5ZrA==","@type":"impresa","idBene":"59912","mBene":"A-SV-323686","sBene":"A-SV-59912-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:yKJSFu/QdYOHy7NZvrUsFQ==","@type":"impresa","idBene":"60212","mBene":"A-SV-324884","sBene":"A-SV-60212-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:9AKckjTCUoZq5+p4Fvow5w==","@type":"impresa","idBene":"93478","mBene":"A-SV-353165","sBene":"A-SV-93478-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:EoDlqRofW5B6j+p3nDrh/g==","@type":"impresa","idBene":"93479","mBene":"A-SV-353166","sBene":"A-SV-93479-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:LZ9BAYbUszuuzyLGqnmurA==","@type":"impresa","idBene":"93482","mBene":"A-SV-353168","sBene":"A-SV-93482-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:9AKckjTCUoZq5+p4Fvow5w==","@type":"impresa","idBene":"93478","mBene":"A-SV-353165","sBene":"A-SV-93478-S","iterAmministrativoAttivo":"DESTINATO"}
+{"@id":"impresa:EoDlqRofW5B6j+p3nDrh/g==","@type":"impresa","idBene":"93479","mBene":"A-SV-353166","sBene":"A-SV-93479-S","iterAmministrativoAttivo":"DESTINATO"}
+{"@id":"impresa:LZ9BAYbUszuuzyLGqnmurA==","@type":"impresa","idBene":"93482","mBene":"A-SV-353168","sBene":"A-SV-93482-S","iterAmministrativoAttivo":"DESTINATO"}
+{"@id":"impresa:GDUIdQRiFwZ8TpfoNYFnCQ==","@type":"impresa","idBene":"94880","mBene":"A-SV-354401","sBene":"A-SV-94880-S","iterAmministrativoAttivo":"DESTINATO"}
+{"@id":"impresa:NxqEdu7Gaef76SZS4UliLg==","@type":"impresa","idBene":"94881","mBene":"A-SV-354402","sBene":"A-SV-94881-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:3DHCucnLHhh8hTRixyFGgw==","@type":"impresa","idBene":"13848","mBene":"A-TA-89060","sBene":"A-TA-13848-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:8TLN2AVRdA6n3vERpuvcZA==","@type":"impresa","idBene":"17511","mBene":"A-TA-280090","sBene":"A-TA-17511-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:N7vX14D6NBcCAH7a/OMblfm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"19388","mBene":"A-NA-316676","sBene":"A-TA-19388-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:750o1jI4/AuqAh7uIqVA0Q==","@type":"impresa","idBene":"19737","mBene":"A-TA-317704","sBene":"A-TA-19737-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:QI5AWfM3QbIjLwOeg7ITpfm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"19873","mBene":"A-TA-316916","sBene":"A-TA-19873-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:QI5AWfM3QbIjLwOeg7ITpfm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"19873","mBene":"A-TA-316916","sBene":"A-TA-19873-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:Tdz1unxfLVxLinI0IA1Djw==","@type":"impresa","idBene":"20314","mBene":"A-TA-317584","sBene":"A-TA-20314-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:fxcOZoMgFYNLYHkT969aIw==","@type":"impresa","idBene":"20315","mBene":"A-TA-317585","sBene":"A-TA-20315-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:z3IZibgpA32b5jjhfZg9Iw==","@type":"impresa","idBene":"20744","mBene":"A-TA-316856","sBene":"A-TA-20744-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -2386,6 +2494,8 @@
 {"@id":"impresa:xGXsRchHfx8nImjrt2Ugjg==","@type":"impresa","idBene":"82380","mBene":"A-TA-349123","sBene":"A-TA-82380-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:ElLBEmfklr0S4wa+9E3L6A==","@type":"impresa","idBene":"89678","mBene":"","sBene":"A-TA-89678-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:HHtok3wHKMfk/hyZuc0Hwg==","@type":"impresa","idBene":"89683","mBene":"","sBene":"A-TA-89683-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:HmeP7gALJp8cpdWhPCpBnw==","@type":"impresa","idBene":"95143","mBene":"","sBene":"A-TA-95143-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:N7gWFT7AjMzGsuaS8h+kOg==","@type":"impresa","idBene":"95145","mBene":"","sBene":"A-TA-95145-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:+yNq7QXYiQeqZAhaL7RuLA==","@type":"impresa","idBene":"59324","mBene":"A-TE-331083","sBene":"A-TE-59324-S","iterAmministrativoAttivo":"FUORI GESTIONE"}
 {"@id":"impresa:0SuWOCxC1TVJLewpG0UteA==","@type":"impresa","idBene":"71482","mBene":"A-TE-337400","sBene":"A-TE-71482-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:r8GiYvHRrSZYdWEIUNCSqQ==","@type":"impresa","idBene":"71483","mBene":"A-TE-337401","sBene":"A-TE-71483-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -2427,6 +2537,9 @@
 {"@id":"impresa:veQjy/TIyF/MnjwO60Dolw==","@type":"impresa","idBene":"79466","mBene":"A-TO-349881","sBene":"A-TO-79466-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:d756Sj/Jl51mxUCQYrogLw==","@type":"impresa","idBene":"82173","mBene":"","sBene":"A-TO-82173-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:SJrNkRRStJBiB822qPM+M/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"83712","mBene":"","sBene":"A-TO-83712-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:z27zG9WYpiVlf9B6fGIS6g==","@type":"impresa","idBene":"92355","mBene":"","sBene":"A-TO-92355-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:LButWZuZQRX1KnKOtaAHDQ==","@type":"impresa","idBene":"95988","mBene":"","sBene":"A-TO-95988-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:tAPe7TxlEsAbLsuqO8QW+g==","@type":"impresa","idBene":"95996","mBene":"","sBene":"A-TO-95996-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:wGMovcWTwHjCp+xz+vfk2fm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"18963","mBene":"A-TP-250649","sBene":"A-TP-18963-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:KPLciDvEKJtUiCIqlGoO6Q==","@type":"impresa","idBene":"18965","mBene":"A-TP-250658","sBene":"A-TP-18965-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:OoQI79UjQCNiCtZPaB+Oew==","@type":"impresa","idBene":"19259","mBene":"A-TP-298458","sBene":"A-TP-19259-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -2526,11 +2639,12 @@
 {"@id":"impresa:B+JfbmoenSW1n9pBgX8SFA==","@type":"impresa","idBene":"83568","mBene":"A-TP-347810","sBene":"A-TP-83568-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:m8MWivDCnrxNPrVEX7o1xA==","@type":"impresa","idBene":"83836","mBene":"A-TP-315834","sBene":"A-TP-83836-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:S29RDaeMLqb8+hHjIGlvP/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"86279","mBene":"A-TP-351259","sBene":"A-TP-86279-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:lHbxhbllQ+d7V/0cncpuuvm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"86548","mBene":"","sBene":"A-TP-86548-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:Wa6thoxMm79O8vgLk6y+c/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"86549","mBene":"","sBene":"A-TP-86549-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:lHbxhbllQ+d7V/0cncpuuvm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"86548","mBene":"A-TP-355298","sBene":"A-TP-86548-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:Wa6thoxMm79O8vgLk6y+c/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"86549","mBene":"A-TP-355299","sBene":"A-TP-86549-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:ARmR/21uzxmPGaVRKQLb6A==","@type":"impresa","idBene":"92218","mBene":"","sBene":"A-TP-92218-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:wbisD2rjJMnuoe0FkiKx2Q==","@type":"impresa","idBene":"92889","mBene":"","sBene":"A-TP-92889-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:E1h5j7xiJ7Yh5J8I/2dxeQ==","@type":"impresa","idBene":"92935","mBene":"","sBene":"A-TP-92935-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:goYWgqNcWhznNkIFM0//vA==","@type":"impresa","idBene":"94972","mBene":"","sBene":"A-TP-94972-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:4TUr9lKkI4qYkXWEUHXhA/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"62300","mBene":"A-TR-348799","sBene":"A-TR-62300-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:5gL0l49UX2Dig3Cnk/JPlg==","@type":"impresa","idBene":"857","mBene":"A-TR-309836","sBene":"A-TR-857-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:yy3YZ5F8zUSzBmWzXmXpcA==","@type":"impresa","idBene":"80094","mBene":"A-TV-345396","sBene":"A-TV-80094-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -2544,6 +2658,7 @@
 {"@id":"impresa:qa0GK5ZkvYXjI0L0WTMZ1g==","@type":"impresa","idBene":"72267","mBene":"A-VA-350144","sBene":"A-VA-72267-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:7U0upeVFG4bCZ4yQnvdasQ==","@type":"impresa","idBene":"72268","mBene":"A-VA-350145","sBene":"A-VA-72268-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:U0HFM1KRUqJDTowhWx3/Og==","@type":"impresa","idBene":"76377","mBene":"A-VA-344755","sBene":"A-VA-76377-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:XpMxNoZxRQPxZzmxdBGLKQ==","@type":"impresa","idBene":"95178","mBene":"","sBene":"A-VA-95178-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:RDKtEjoDcztVq7Q8KbOPPA==","@type":"impresa","idBene":"68484","mBene":"","sBene":"A-VC-68484-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:6z2Xxd+qUD/BziwixVRTyPm7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"83717","mBene":"","sBene":"A-VC-83717-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:0MW6hbJ1HRqEdW+D46TdMw==","@type":"impresa","idBene":"42542","mBene":"A-VE-323330","sBene":"A-VE-42542-S","iterAmministrativoAttivo":"IN GESTIONE"}
@@ -2551,11 +2666,11 @@
 {"@id":"impresa:zMwF3WryAweLVCEndivpgA==","@type":"impresa","idBene":"6414","mBene":"A-VE-319644","sBene":"A-VE-6414-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:QK8K6dT7vvS0gwwHedpLog==","@type":"impresa","idBene":"6415","mBene":"A-VE-319645","sBene":"A-VE-6415-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:RT6PhqnAWqxSZ+lz1cx3Hg==","@type":"impresa","idBene":"6416","mBene":"A-VE-319646","sBene":"A-VE-6416-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:I2gphu/Ie9V4mcpDpwdqGw==","@type":"impresa","idBene":"6417","mBene":"A-VE-319647","sBene":"A-VE-6417-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:I2gphu/Ie9V4mcpDpwdqGw==","@type":"impresa","idBene":"6417","mBene":"A-VE-319647","sBene":"A-VE-6417-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:PvEyCpd0tt1AR0oTUb9UuA==","@type":"impresa","idBene":"6418","mBene":"A-VE-319648","sBene":"A-VE-6418-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:orGQxTaCxL1hjpH+qv8vhw==","@type":"impresa","idBene":"6419","mBene":"A-VE-319649","sBene":"A-VE-6419-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:C+XTyZ2VrOiO8IKAev9Qh/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"6420","mBene":"A-VE-319650","sBene":"A-VE-6420-S","iterAmministrativoAttivo":"IN GESTIONE"}
-{"@id":"impresa:zdn4Gb0dcNxpQrIljF6hFQ==","@type":"impresa","idBene":"93492","mBene":"A-VE-353174","sBene":"A-VE-93492-S","iterAmministrativoAttivo":"IN GESTIONE"}
+{"@id":"impresa:orGQxTaCxL1hjpH+qv8vhw==","@type":"impresa","idBene":"6419","mBene":"A-VE-319649","sBene":"A-VE-6419-S","iterAmministrativoAttivo":"DESTINATO"}
+{"@id":"impresa:C+XTyZ2VrOiO8IKAev9Qh/m7KJfG8SOgr/YdHGlu9VI=","@type":"impresa","idBene":"6420","mBene":"A-VE-319650","sBene":"A-VE-6420-S","iterAmministrativoAttivo":"DESTINATO"}
+{"@id":"impresa:zdn4Gb0dcNxpQrIljF6hFQ==","@type":"impresa","idBene":"93492","mBene":"A-VE-353174","sBene":"A-VE-93492-S","iterAmministrativoAttivo":"DESTINATO"}
 {"@id":"impresa:nXumPKEYx0xQnMCM9cHvTw==","@type":"impresa","idBene":"11360","mBene":"A-VI-319534","sBene":"A-VI-11360-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:P+uEFYTFIVbntwbFF2v48g==","@type":"impresa","idBene":"17076","mBene":"A-VR-232995","sBene":"A-VR-17076-S","iterAmministrativoAttivo":"IN GESTIONE"}
 {"@id":"impresa:DRLPJSxAK2nvpdfFHXgBCw==","@type":"impresa","idBene":"50354","mBene":"A-VR-329135","sBene":"A-VR-50354-S","iterAmministrativoAttivo":"IN GESTIONE"}
