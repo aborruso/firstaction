@@ -6438,8 +6438,6 @@ I-LE-27815-S,immobili,Puglia,Lecce,Lecce,Terreno,Terreno agricolo,Confisca I,100
 I-LE-28612-S,immobili,Puglia,Lecce,Parabita,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Lecce,Misure di Prevenzione
 I-LE-37323-S,immobili,Puglia,Lecce,Lecce,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
 I-LE-37324-S,immobili,Puglia,Lecce,Lecce,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-LE-37325-S,immobili,Puglia,Lecce,Lecce,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-LE-37326-S,immobili,Puglia,Lecce,Lecce,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
 I-LE-38331-S,immobili,Puglia,Lecce,Lecce,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-LE-38333-S,immobili,Puglia,Lecce,Lecce,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-LE-38336-S,immobili,Puglia,Lecce,Lecce,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
@@ -9455,7 +9453,6 @@ I-NA-2277-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitaz
 I-NA-2278-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-2468-S,immobili,Campania,Napoli,Nola,Terreno,Terreno - non definito,Confisca def.,33%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-2469-S,immobili,Campania,Napoli,Nola,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-25333-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Cagliari,Procedimento Penale
 I-NA-2604-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-2605-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-26402-S,immobili,Campania,Napoli,Casamicciola Terme,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
@@ -13911,6 +13908,9 @@ I-PA-97844-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abita
 I-PA-97849-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-97852-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-97855-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-97958-S,immobili,Sicilia,Palermo,Casteldaccia,Terreno,Terreno con fabbricato rurale,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-97959-S,immobili,Sicilia,Palermo,Casteldaccia,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-97960-S,immobili,Sicilia,Palermo,Casteldaccia,Terreno,Terreno con fabbricato rurale,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9811-S,immobili,Sicilia,Palermo,Partinico,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9911-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9912-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -15901,6 +15901,8 @@ I-RC-97718-S,immobili,Calabria,Reggio Calabria,Roccella Ionica,Terreno,Terreno a
 I-RC-97873-S,immobili,Calabria,Reggio Calabria,Montebello Ionico,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-97879-S,immobili,Calabria,Reggio Calabria,Montebello Ionico,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-97881-S,immobili,Calabria,Reggio Calabria,Montebello Ionico,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-97992-S,immobili,Calabria,Reggio Calabria,Melicucco,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RC-98021-S,immobili,Calabria,Reggio Calabria,Polistena,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-RC-9905-S,immobili,Calabria,Reggio Calabria,Platì,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-9909-S,immobili,Calabria,Reggio Calabria,Africo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 I-RE-10592-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
@@ -17324,6 +17326,12 @@ I-RM-96218-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e
 I-RM-96221-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-RM-96357-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Procedimento Penale
 I-RM-97740-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,50%,Tribunale,Roma,Misure di Prevenzione
+I-RM-97970-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-97984-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,50%,Tribunale,Roma,Misure di Prevenzione
+I-RM-97985-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-98029-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-98040-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-98047-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
 I-RN-1291-S,immobili,Emilia Romagna,Rimini,Montescudo - Monte Colombo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Rimini,Misure di Prevenzione
 I-RN-3694-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Rimini,Misure di Prevenzione
 I-RN-3695-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Rimini,Misure di Prevenzione
@@ -17778,7 +17786,6 @@ I-SO-97904-S,immobili,Lombardia,Sondrio,Traona,Unità immobiliare per uso di abi
 I-SP-36494-S,immobili,Liguria,La Spezia,Borghetto di Vara,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-SP-71943-S,immobili,Liguria,La Spezia,Bonassola,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-SP-71946-S,immobili,Liguria,La Spezia,Bonassola,Terreno,Terreno - non definito,,0%,Procura della Repubblica,Milano,Procedimento Penale
-I-SP-72711-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Procura della Repubblica,La Spezia,Procedimento Penale
 I-SP-72714-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Procura della Repubblica,La Spezia,Procedimento Penale
 I-SP-72715-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Procura della Repubblica,La Spezia,Procedimento Penale
 I-SP-72728-S,immobili,Liguria,La Spezia,La Spezia,Altra unità immobiliare,Altro,Confisca I,100%,Procura della Repubblica,La Spezia,Procedimento Penale
@@ -20140,6 +20147,14 @@ I-TP-97833-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno agricolo,Confisca 
 I-TP-97837-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno agricolo,Confisca II,50%,Tribunale,Palermo,Misure di Prevenzione
 I-TP-97842-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno agricolo,Confisca II,50%,Tribunale,Palermo,Misure di Prevenzione
 I-TP-97845-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno agricolo,Confisca II,50%,Tribunale,Palermo,Misure di Prevenzione
+I-TP-97940-S,immobili,Sicilia,Trapani,Mazara del Vallo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-97943-S,immobili,Sicilia,Trapani,Mazara del Vallo,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-97944-S,immobili,Sicilia,Trapani,Mazara del Vallo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-97949-S,immobili,Sicilia,Trapani,Mazara del Vallo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-97953-S,immobili,Sicilia,Trapani,Mazara del Vallo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-97954-S,immobili,Sicilia,Trapani,Mazara del Vallo,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-97955-S,immobili,Sicilia,Trapani,Mazara del Vallo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-97957-S,immobili,Sicilia,Trapani,Mazara del Vallo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TS-30044-S,immobili,Friuli Venezia Giulia,Trieste,Trieste,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Trieste,Procedimento Penale
 I-TS-30045-S,immobili,Friuli Venezia Giulia,Trieste,Trieste,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Trieste,Procedimento Penale
 I-TS-30046-S,immobili,Friuli Venezia Giulia,Trieste,Sgonico,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trieste,Procedimento Penale
