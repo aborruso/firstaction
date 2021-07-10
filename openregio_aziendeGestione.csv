@@ -961,7 +961,6 @@ A-MB-77911-S,aziende,Lombardia,Monza e Brianza,Seregno,Società a responsabilit�
 A-MC-96865-S,aziende,Marche,Macerata,Porto Recanati,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Ancona,Misure di Prevenzione
 A-ME-18473-S,aziende,Sicilia,Messina,Alì Terme,Altro,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-ME-20194-S,aziende,Sicilia,Messina,Giardini-Naxos,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,50%,Procura della Repubblica,Catania,Procedimento Penale
-A-ME-32233-S,aziende,Sicilia,Messina,Messina,Società in nome collettivo,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 A-ME-33575-S,aziende,Sicilia,Messina,Barcellona Pozzo di Gotto,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 A-ME-33576-S,aziende,Sicilia,Messina,Barcellona Pozzo di Gotto,Consorzio,Attività svolte da famiglie e convivenze,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 A-ME-33650-S,aziende,Sicilia,Messina,Messina,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,25%,Procura della Repubblica,Messina,Procedimento Penale
@@ -2694,13 +2693,13 @@ A-RM-97476-S,aziende,Lazio,Roma,Ardea,Società a responsabilità limitata,Alberg
 A-RM-97549-S,aziende,Lazio,Roma,Roma,Società per azioni,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-RM-97966-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-97975-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-97987-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,90%,Tribunale,Roma,Misure di Prevenzione
+A-RM-97987-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,90%,Tribunale,Roma,Misure di Prevenzione
 A-RM-98010-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-98019-S,aziende,Lazio,Roma,Roma,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-98025-S,aziende,Lazio,Roma,Roma,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-98026-S,aziende,Lazio,Roma,Roma,Impresa individuale,Alberghi e ristoranti,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-98030-S,aziende,Lazio,Roma,Roma,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-98034-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,10%,Tribunale,Roma,Misure di Prevenzione
+A-RM-98034-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,10%,Tribunale,Roma,Misure di Prevenzione
 A-RM-98035-S,aziende,Lazio,Roma,Roma,Impresa individuale,Alberghi e ristoranti,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-98054-S,aziende,Lazio,Roma,Ciampino,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-9858-S,aziende,Lazio,Roma,Moricone,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,60%,Procura della Repubblica,Napoli,Procedimento Penale
