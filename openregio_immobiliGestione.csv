@@ -1021,8 +1021,8 @@ I-BG-37885-S,immobili,Lombardia,Bergamo,Bergamo,Unità immobiliare per uso di ab
 I-BG-37886-S,immobili,Lombardia,Bergamo,Treviolo,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Bergamo,Misure di Prevenzione
 I-BG-38111-S,immobili,Lombardia,Bergamo,Bergamo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bergamo,Misure di Prevenzione
 I-BG-38114-S,immobili,Lombardia,Bergamo,Bergamo,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Bergamo,Misure di Prevenzione
-I-BG-38121-S,immobili,Lombardia,Bergamo,Almenno San Bartolomeo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bergamo,Misure di Prevenzione
-I-BG-38122-S,immobili,Lombardia,Bergamo,Almenno San Bartolomeo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Bergamo,Misure di Prevenzione
+I-BG-38121-S,immobili,Lombardia,Bergamo,Almenno San Salvatore,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bergamo,Misure di Prevenzione
+I-BG-38122-S,immobili,Lombardia,Bergamo,Almenno San Salvatore,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Bergamo,Misure di Prevenzione
 I-BG-38123-S,immobili,Lombardia,Bergamo,Bergamo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bergamo,Misure di Prevenzione
 I-BG-52679-S,immobili,Lombardia,Bergamo,Casirate d'Adda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BG-68974-S,immobili,Lombardia,Bergamo,Verdello,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -1464,8 +1464,13 @@ I-BS-68892-S,immobili,Lombardia,Brescia,Capriolo,Unità immobiliare per uso di a
 I-BS-68893-S,immobili,Lombardia,Brescia,Capriolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
 I-BS-70556-S,immobili,Lombardia,Brescia,Desenzano del Garda,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BS-70557-S,immobili,Lombardia,Brescia,Desenzano del Garda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-BS-70558-S,immobili,Lombardia,Brescia,Torbole Casaglia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-BS-70559-S,immobili,Lombardia,Brescia,Torbole Casaglia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-BS-70560-S,immobili,Lombardia,Brescia,Torbole Casaglia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-BS-70563-S,immobili,Lombardia,Brescia,Torbole Casaglia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BS-70580-S,immobili,Lombardia,Brescia,Torbole Casaglia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BS-70582-S,immobili,Lombardia,Brescia,Torbole Casaglia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-BS-70583-S,immobili,Lombardia,Brescia,Torbole Casaglia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BS-70584-S,immobili,Lombardia,Brescia,Torbole Casaglia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BS-70585-S,immobili,Lombardia,Brescia,Torbole Casaglia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BS-70588-S,immobili,Lombardia,Brescia,Torbole Casaglia,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -1522,6 +1527,7 @@ I-BS-87426-S,immobili,Lombardia,Brescia,Lumezzane,Unità immobiliare per uso di 
 I-BS-87427-S,immobili,Lombardia,Brescia,Lumezzane,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,0%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-89562-S,immobili,Lombardia,Brescia,Rovato,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-89564-S,immobili,Lombardia,Brescia,Rovato,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BS-98147-S,immobili,Lombardia,Brescia,Torbole Casaglia,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-BT-12107-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-12108-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-12111-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
@@ -13906,6 +13912,7 @@ I-PA-98121-S,immobili,Sicilia,Palermo,Altavilla Milicia,Terreno,Terreno agricolo
 I-PA-98128-S,immobili,Sicilia,Palermo,Altavilla Milicia,Altra unità immobiliare,Altro,,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-98129-S,immobili,Sicilia,Palermo,Altavilla Milicia,Altra unità immobiliare,Altro,,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-98130-S,immobili,Sicilia,Palermo,Trabia,Altra unità immobiliare,Altro,,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-98153-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9911-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9912-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9917-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -16582,7 +16589,6 @@ I-RM-80967-S,immobili,Lazio,Roma,Roma,Terreno,Terreno edificabile,Confisca def.,
 I-RM-80971-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80972-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80973-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
-I-RM-80974-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80975-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80976-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-8136-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
@@ -18293,7 +18299,7 @@ I-TO-40577-S,immobili,Piemonte,Torino,Torino,Unità immobiliare a destinazione c
 I-TO-40578-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-40583-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-40592-S,immobili,Piemonte,Torino,Torino,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-I-TO-40978-S,immobili,Piemonte,Torino,Piossasco,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-40978-S,immobili,Piemonte,Torino,Piossasco,Altra unità immobiliare,Ex fabbricato rurale,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-40980-S,immobili,Piemonte,Torino,Piossasco,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-40985-S,immobili,Piemonte,Torino,Piossasco,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,,Tribunale,Torino,Misure di Prevenzione
 I-TO-41004-S,immobili,Piemonte,Torino,Piossasco,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
