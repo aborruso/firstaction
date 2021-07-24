@@ -1286,8 +1286,8 @@ A-NA-4756-S,aziende,Campania,Napoli,Pozzuoli,Società a responsabilità limitata
 A-NA-4757-S,aziende,Campania,Napoli,Giugliano in Campania,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
 A-NA-4759-S,aziende,Campania,Napoli,Grumo Nevano,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
 A-NA-4766-S,aziende,Campania,Napoli,Giugliano in Campania,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
-A-NA-47906-S,aziende,Campania,Napoli,Pompei,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-A-NA-47910-S,aziende,Campania,Napoli,Pompei,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-47906-S,aziende,Campania,Napoli,Pompei,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-47910-S,aziende,Campania,Napoli,Pompei,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-47917-S,aziende,Campania,Napoli,Pompei,Società per azioni,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-47963-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-48048-S,aziende,Campania,Napoli,Napoli,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -2808,6 +2808,15 @@ A-SA-97541-S,aziende,Campania,Salerno,Salerno,Società a responsabilità limitat
 A-SA-97745-S,aziende,Campania,Salerno,Padula,Società cooperativa,Sanità e assistenza sociale,Confisca II,100%,Tribunale,Potenza,Misure di Prevenzione
 A-SA-97746-S,aziende,Campania,Salerno,Montesano sulla Marcellana,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Potenza,Misure di Prevenzione
 A-SA-97747-S,aziende,Campania,Salerno,Sassano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Potenza,Misure di Prevenzione
+A-SI-98187-S,aziende,Toscana,Siena,Sinalunga,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
+A-SI-98190-S,aziende,Toscana,Siena,Sinalunga,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
+A-SI-98220-S,aziende,Toscana,Siena,Sinalunga,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
+A-SI-98223-S,aziende,Toscana,Siena,Sinalunga,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
+A-SI-98225-S,aziende,Toscana,Siena,Sinalunga,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
+A-SI-98231-S,aziende,Toscana,Siena,Sinalunga,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
+A-SI-98232-S,aziende,Toscana,Siena,Sinalunga,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
+A-SI-98235-S,aziende,Toscana,Siena,Sinalunga,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
+A-SI-98248-S,aziende,Toscana,Siena,Sinalunga,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
 A-SO-82772-S,aziende,Lombardia,Sondrio,Cosio Valtellino,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,65%,Tribunale,Sondrio,Misure di Prevenzione
 A-SO-82774-S,aziende,Lombardia,Sondrio,Cosio Valtellino,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Sondrio,Misure di Prevenzione
 A-SP-25970-S,aziende,Liguria,La Spezia,Arcola,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca I,100%,Tribunale,La Spezia,Misure di Prevenzione
