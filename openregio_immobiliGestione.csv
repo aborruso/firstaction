@@ -966,17 +966,17 @@ I-BA-87393-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,10
 I-BA-87394-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-87395-S,immobili,Puglia,Bari,Bari,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-87466-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno agricolo,Revoca Conf. parziale,100%,Tribunale,Bari,Misure di Prevenzione
-I-BA-87468-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno agricolo,,100%,Tribunale,Bari,Misure di Prevenzione
-I-BA-87469-S,immobili,Puglia,Bari,Gioia del Colle,Unità immobiliare per uso di abitazione e assimilabile,Villa,,100%,Tribunale,Bari,Misure di Prevenzione
-I-BA-87472-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno - non definito,,100%,Tribunale,Bari,Misure di Prevenzione
-I-BA-87473-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno agricolo,,100%,Tribunale,Bari,Misure di Prevenzione
-I-BA-87625-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno agricolo,,100%,Tribunale,Bari,Misure di Prevenzione
-I-BA-87626-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno agricolo,,100%,Tribunale,Bari,Misure di Prevenzione
+I-BA-87468-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno agricolo,Revoca Conf. parziale,100%,Tribunale,Bari,Misure di Prevenzione
+I-BA-87469-S,immobili,Puglia,Bari,Gioia del Colle,Unità immobiliare per uso di abitazione e assimilabile,Villa,Revoca Conf. parziale,100%,Tribunale,Bari,Misure di Prevenzione
+I-BA-87472-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno - non definito,Revoca Conf. parziale,100%,Tribunale,Bari,Misure di Prevenzione
+I-BA-87473-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno agricolo,Revoca Conf. parziale,100%,Tribunale,Bari,Misure di Prevenzione
+I-BA-87625-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno agricolo,Revoca Conf. parziale,100%,Tribunale,Bari,Misure di Prevenzione
+I-BA-87626-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno agricolo,Revoca Conf. parziale,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-87628-S,immobili,Puglia,Bari,Gioia del Colle,Unità immobiliare per alloggio e usi collettivi,Opificio,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
-I-BA-87631-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
-I-BA-87636-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
-I-BA-87637-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
-I-BA-87638-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno agricolo,,100%,Tribunale,Bari,Misure di Prevenzione
+I-BA-87631-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno agricolo,Revoca Conf. parziale,100%,Tribunale,Bari,Misure di Prevenzione
+I-BA-87636-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno agricolo,Revoca Conf. parziale,100%,Tribunale,Bari,Misure di Prevenzione
+I-BA-87637-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno agricolo,Revoca Conf. parziale,100%,Tribunale,Bari,Misure di Prevenzione
+I-BA-87638-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno agricolo,Revoca Conf. parziale,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-90010-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-90014-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-9364-S,immobili,Puglia,Bari,Gravina in Puglia,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
@@ -995,6 +995,7 @@ I-BA-95702-S,immobili,Puglia,Bari,Bari,Unità immobiliare a destinazione commerc
 I-BA-95705-S,immobili,Puglia,Bari,Bari,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-9627-S,immobili,Puglia,Bari,Bari,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,53%,Tribunale,Bari,Misure di Prevenzione
 I-BA-97475-S,immobili,Puglia,Bari,Bitetto,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
+I-BA-98287-S,immobili,Puglia,Bari,Gioia del Colle,Terreno,Terreno agricolo,Revoca Conf. parziale,0%,Tribunale,Bari,Misure di Prevenzione
 I-BA-9833-S,immobili,Puglia,Bari,Bari,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-9834-S,immobili,Puglia,Bari,Bari,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-9946-S,immobili,Puglia,Bari,Bitonto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
@@ -11236,6 +11237,12 @@ I-NA-97807-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abi
 I-NA-97868-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-97871-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-98-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-98281-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-98282-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-98283-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,Altro,,0%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-98284-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-98285-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-98286-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-99-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-9928-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,66%,Tribunale,Napoli,Misure di Prevenzione
 I-NO-11923-S,immobili,Piemonte,Novara,Dormelletto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
