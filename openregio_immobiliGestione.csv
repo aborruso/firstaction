@@ -13925,7 +13925,7 @@ I-PA-98129-S,immobili,Sicilia,Palermo,Altavilla Milicia,Altra unità immobiliare
 I-PA-98130-S,immobili,Sicilia,Palermo,Trabia,Altra unità immobiliare,Altro,,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-98153-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-98293-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-98294-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-98294-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9911-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9912-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9917-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -14070,8 +14070,8 @@ I-PD-81707-S,immobili,Veneto,Padova,Abano Terme,Unità immobiliare per uso di ab
 I-PD-81708-S,immobili,Veneto,Padova,Abano Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Padova,Procedimento Penale
 I-PD-81725-S,immobili,Veneto,Padova,Montegrotto Terme,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Padova,Procedimento Penale
 I-PD-81726-S,immobili,Veneto,Padova,Montegrotto Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Padova,Procedimento Penale
-I-PD-90898-S,immobili,Veneto,Padova,Ponte San Nicolò,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Bologna,Procedimento Penale
-I-PD-90899-S,immobili,Veneto,Padova,Ponte San Nicolò,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Procura della Repubblica,Bologna,Procedimento Penale
+I-PD-90898-S,immobili,Veneto,Padova,Ponte San Nicolò,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-PD-90899-S,immobili,Veneto,Padova,Ponte San Nicolò,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PD-90900-S,immobili,Veneto,Padova,Bagnoli di Sopra,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PE-13161-S,immobili,Abruzzo,Pescara,Torre de' Passeri,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Pescara,Misure di Prevenzione
 I-PE-13163-S,immobili,Abruzzo,Pescara,Torre de' Passeri,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,10%,Tribunale,Pescara,Misure di Prevenzione
