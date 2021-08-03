@@ -1042,7 +1042,7 @@ I-BG-70666-S,immobili,Lombardia,Bergamo,Grumello del Monte,Altra unità immobili
 I-BG-70667-S,immobili,Lombardia,Bergamo,San Paolo d'Argon,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,0%,Tribunale,Bergamo,Misure di Prevenzione
 I-BG-70668-S,immobili,Lombardia,Bergamo,San Paolo d'Argon,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,0%,Tribunale,Bergamo,Misure di Prevenzione
 I-BG-70691-S,immobili,Lombardia,Bergamo,Dalmine,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-BG-70694-S,immobili,Lombardia,Bergamo,Suisio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Bergamo,Misure di Prevenzione
+I-BG-70694-S,immobili,Lombardia,Bergamo,Suisio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Bergamo,Misure di Prevenzione
 I-BG-70695-S,immobili,Lombardia,Bergamo,Suisio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,0%,Tribunale,Bergamo,Misure di Prevenzione
 I-BG-73990-S,immobili,Lombardia,Bergamo,Gandosso,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Cremona,Misure di Prevenzione
 I-BG-73991-S,immobili,Lombardia,Bergamo,Gandosso,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Cremona,Misure di Prevenzione
@@ -16981,8 +16981,8 @@ I-RM-91304-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e
 I-RM-91305-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,Altro,,0%,Tribunale,Roma,Misure di Prevenzione
 I-RM-91306-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,Altro,,0%,Tribunale,Roma,Misure di Prevenzione
 I-RM-91307-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Roma,Misure di Prevenzione
-I-RM-91308-S,immobili,Lazio,Roma,Cerreto Laziale,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Roma,Misure di Prevenzione
-I-RM-91309-S,immobili,Lazio,Roma,Cerreto Laziale,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-91308-S,immobili,Lazio,Roma,Cerreto Laziale,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-91309-S,immobili,Lazio,Roma,Cerreto Laziale,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-91312-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Roma,Misure di Prevenzione
 I-RM-91313-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Roma,Misure di Prevenzione
 I-RM-91314-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Roma,Misure di Prevenzione
@@ -17834,7 +17834,6 @@ I-SP-72728-S,immobili,Liguria,La Spezia,La Spezia,Altra unità immobiliare,Altro
 I-SP-72729-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,1%,Procura della Repubblica,La Spezia,Procedimento Penale
 I-SP-72741-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,76%,Procura della Repubblica,La Spezia,Procedimento Penale
 I-SP-83242-S,immobili,Liguria,La Spezia,Ameglia,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
-I-SP-90767-S,immobili,Liguria,La Spezia,Ameglia,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-90770-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,98%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-90775-S,immobili,Liguria,La Spezia,Arcola,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-90777-S,immobili,Liguria,La Spezia,Arcola,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
