@@ -8983,7 +8983,7 @@ I-MI-75314-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abit
 I-MI-75315-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-75559-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
 I-MI-75561-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
-I-MI-75657-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
+I-MI-75657-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
 I-MI-75658-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
 I-MI-75920-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-76111-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -15380,8 +15380,8 @@ I-RC-52662-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobil
 I-RC-52664-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-RC-52665-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-RC-52676-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-RC-53988-S,immobili,Calabria,Reggio Calabria,Rizziconi,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-53989-S,immobili,Calabria,Reggio Calabria,Rizziconi,Terreno,Terreno con fabbricato rurale,Confisca I,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-53988-S,immobili,Calabria,Reggio Calabria,Rizziconi,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-53989-S,immobili,Calabria,Reggio Calabria,Rizziconi,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-54567-S,immobili,Calabria,Reggio Calabria,Seminara,Terreno,Terreno agricolo,Confisca def.,50%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 I-RC-54568-S,immobili,Calabria,Reggio Calabria,Seminara,Terreno,Terreno agricolo,Confisca def.,50%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 I-RC-54569-S,immobili,Calabria,Reggio Calabria,Seminara,Terreno,Terreno agricolo,Confisca def.,50%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
@@ -16975,7 +16975,6 @@ I-RM-90572-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e
 I-RM-91297-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,0%,Tribunale,Roma,Misure di Prevenzione
 I-RM-91298-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Roma,Misure di Prevenzione
 I-RM-9130-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-91301-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,Fabbricato annesso a speciali esigenze commerciali,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-91302-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-91304-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-91305-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,Altro,,0%,Tribunale,Roma,Misure di Prevenzione
@@ -18045,6 +18044,7 @@ I-SV-94877-S,immobili,Liguria,Savona,Andora,Unità immobiliare a destinazione co
 I-SV-94923-S,immobili,Liguria,Savona,Spotorno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-SV-94924-S,immobili,Liguria,Savona,Spotorno,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-SV-95991-S,immobili,Liguria,Savona,Alassio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
+I-SV-98302-S,immobili,Liguria,Savona,Albenga,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Genova,Misure di Prevenzione
 I-TA-13851-S,immobili,Puglia,Taranto,Pulsano,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,33%,Tribunale,Taranto,Misure di Prevenzione
 I-TA-17504-S,immobili,Puglia,Taranto,Pulsano,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Taranto,Procedimento Penale
 I-TA-17506-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Lecce,Procedimento Penale
