@@ -2912,8 +2912,8 @@ I-CH-4957-S,immobili,Abruzzo,Chieti,Altino,Altra unità immobiliare,Altra unità
 I-CH-4958-S,immobili,Abruzzo,Chieti,Altino,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca I,100%,Tribunale,Chieti,Misure di Prevenzione
 I-CH-4959-S,immobili,Abruzzo,Chieti,Tornareccio,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Chieti,Misure di Prevenzione
 I-CH-4960-S,immobili,Abruzzo,Chieti,Altino,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca I,100%,Tribunale,Chieti,Misure di Prevenzione
-I-CH-68610-S,immobili,Abruzzo,Chieti,Vasto,Terreno,Terreno agricolo,,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-CH-68611-S,immobili,Abruzzo,Chieti,Vasto,Terreno,Terreno agricolo,,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-CH-68610-S,immobili,Abruzzo,Chieti,Vasto,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-CH-68611-S,immobili,Abruzzo,Chieti,Vasto,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-CH-81260-S,immobili,Abruzzo,Chieti,San Salvo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-CH-8187-S,immobili,Abruzzo,Chieti,Castel Frentano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Lanciano,Procedimento Penale
 I-CH-8188-S,immobili,Abruzzo,Chieti,Castel Frentano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Lanciano,Procedimento Penale
@@ -15745,12 +15745,12 @@ I-RC-85518-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,
 I-RC-85546-S,immobili,Calabria,Reggio Calabria,Cittanova,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 I-RC-85547-S,immobili,Calabria,Reggio Calabria,Cittanova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 I-RC-85548-S,immobili,Calabria,Reggio Calabria,Cittanova,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
-I-RC-85779-S,immobili,Calabria,Reggio Calabria,Monasterace,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
-I-RC-85780-S,immobili,Calabria,Reggio Calabria,Stilo,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
-I-RC-85781-S,immobili,Calabria,Reggio Calabria,Stilo,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
-I-RC-85782-S,immobili,Calabria,Reggio Calabria,Stilo,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Milano,Misure di Prevenzione
-I-RC-85783-S,immobili,Calabria,Reggio Calabria,Stilo,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
-I-RC-85784-S,immobili,Calabria,Reggio Calabria,Stilo,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
+I-RC-85779-S,immobili,Calabria,Reggio Calabria,Monasterace,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-RC-85780-S,immobili,Calabria,Reggio Calabria,Stilo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-RC-85781-S,immobili,Calabria,Reggio Calabria,Stilo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-RC-85782-S,immobili,Calabria,Reggio Calabria,Stilo,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
+I-RC-85783-S,immobili,Calabria,Reggio Calabria,Stilo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-RC-85784-S,immobili,Calabria,Reggio Calabria,Stilo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-RC-86281-S,immobili,Calabria,Reggio Calabria,Villa San Giovanni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-86282-S,immobili,Calabria,Reggio Calabria,Villa San Giovanni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-86283-S,immobili,Calabria,Reggio Calabria,Villa San Giovanni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
