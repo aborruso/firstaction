@@ -5255,6 +5255,7 @@ I-CZ-97471-S,immobili,Calabria,Catanzaro,Martirano Lombardo,Terreno,Terreno agri
 I-CZ-97472-S,immobili,Calabria,Catanzaro,Martirano Lombardo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
 I-CZ-98106-S,immobili,Calabria,Catanzaro,Martirano Lombardo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
 I-CZ-98107-S,immobili,Calabria,Catanzaro,Martirano Lombardo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
+I-CZ-98339-S,immobili,Calabria,Catanzaro,Martirano Lombardo,Terreno,Terreno agricolo,,0%,Tribunale,Vibo Valentia,Misure di Prevenzione
 I-EN-22827-S,immobili,Sicilia,Enna,Calascibetta,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-EN-22828-S,immobili,Sicilia,Enna,Calascibetta,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-EN-22829-S,immobili,Sicilia,Enna,Calascibetta,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -8447,9 +8448,9 @@ I-MI-13625-S,immobili,Lombardia,Milano,Peschiera Borromeo,Unità immobiliare per
 I-MI-13626-S,immobili,Lombardia,Milano,Peschiera Borromeo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-13627-S,immobili,Lombardia,Milano,Bareggio,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-13628-S,immobili,Lombardia,Milano,Nerviano,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-13702-S,immobili,Lombardia,Milano,Bareggio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Milano,Misure di Prevenzione
-I-MI-13703-S,immobili,Lombardia,Milano,Bareggio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Milano,Misure di Prevenzione
-I-MI-13704-S,immobili,Lombardia,Milano,Cornaredo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Milano,Misure di Prevenzione
+I-MI-13702-S,immobili,Lombardia,Milano,Bareggio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-13703-S,immobili,Lombardia,Milano,Bareggio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
+I-MI-13704-S,immobili,Lombardia,Milano,Cornaredo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-13845-S,immobili,Lombardia,Milano,Pioltello,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-14015-S,immobili,Lombardia,Milano,Paderno Dugnano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Corte di Appello,Reggio Calabria,Misure di Prevenzione
 I-MI-14016-S,immobili,Lombardia,Milano,Paderno Dugnano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Corte di Appello,Reggio Calabria,Misure di Prevenzione
@@ -17275,6 +17276,8 @@ I-RM-98279-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione 
 I-RN-1291-S,immobili,Emilia Romagna,Rimini,Montescudo - Monte Colombo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Rimini,Misure di Prevenzione
 I-RN-3694-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Rimini,Misure di Prevenzione
 I-RN-3695-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Rimini,Misure di Prevenzione
+I-RN-3808-S,immobili,Emilia Romagna,Rimini,Cattolica,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Rimini,Misure di Prevenzione
+I-RN-3809-S,immobili,Emilia Romagna,Rimini,Cattolica,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Rimini,Misure di Prevenzione
 I-RN-38841-S,immobili,Emilia Romagna,Rimini,Montescudo - Monte Colombo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Rimini,Misure di Prevenzione
 I-RN-49883-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Rimini,Misure di Prevenzione
 I-RN-49886-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,,Tribunale,Rimini,Misure di Prevenzione
