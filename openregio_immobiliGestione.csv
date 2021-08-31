@@ -2715,7 +2715,7 @@ I-CE-91743-S,immobili,Campania,Caserta,Recale,Terreno,Terreno agricolo,Confisca 
 I-CE-91745-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-91746-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-91748-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-92447-S,immobili,Campania,Caserta,Portico di Caserta,Terreno,Terreno agricolo,,0%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-92447-S,immobili,Campania,Caserta,Portico di Caserta,Terreno,Terreno agricolo,Confisca def.,0%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-93157-S,immobili,Campania,Caserta,San Marcellino,Terreno,Terreno agricolo,Confisca def.,100%,Corte di Appello,Napoli,Procedimento Penale
 I-CE-93221-S,immobili,Campania,Caserta,Casal di Principe,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-94693-S,immobili,Campania,Caserta,Teverola,Unità immobiliare per alloggio e usi collettivi,Fabbricato annesso a speciali esigenze commerciali,Revoca Conf.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -5480,12 +5480,6 @@ I-FE-93191-S,immobili,Emilia Romagna,Ferrara,Cento,Unità immobiliare a destinaz
 I-FE-93192-S,immobili,Emilia Romagna,Ferrara,Cento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-FE-93193-S,immobili,Emilia Romagna,Ferrara,Cento,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-FE-93194-S,immobili,Emilia Romagna,Ferrara,Cento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
-I-FG-16922-S,immobili,Puglia,Foggia,San Severo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-17293-S,immobili,Puglia,Foggia,Vieste,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-17294-S,immobili,Puglia,Foggia,Vieste,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-17303-S,immobili,Puglia,Foggia,San Severo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-17304-S,immobili,Puglia,Foggia,San Severo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-17305-S,immobili,Puglia,Foggia,San Severo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-17324-S,immobili,Puglia,Foggia,Manfredonia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-17325-S,immobili,Puglia,Foggia,Manfredonia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-17442-S,immobili,Puglia,Foggia,Lucera,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Foggia,Misure di Prevenzione
@@ -5500,32 +5494,15 @@ I-FG-17450-S,immobili,Puglia,Foggia,Lucera,Unità immobiliare per uso di abitazi
 I-FG-17451-S,immobili,Puglia,Foggia,Lucera,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-17452-S,immobili,Puglia,Foggia,Lucera,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-17453-S,immobili,Puglia,Foggia,Lucera,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-17473-S,immobili,Puglia,Foggia,San Severo,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-17499-S,immobili,Puglia,Foggia,Foggia,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-18041-S,immobili,Puglia,Foggia,Foggia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-18042-S,immobili,Puglia,Foggia,San Nicandro Garganico,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-18043-S,immobili,Puglia,Foggia,Apricena,Terreno,Terreno - non definito,Confisca def.,25%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-18055-S,immobili,Puglia,Foggia,Cerignola,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-18056-S,immobili,Puglia,Foggia,Cerignola,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-18057-S,immobili,Puglia,Foggia,Cerignola,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-18058-S,immobili,Puglia,Foggia,Cerignola,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-18059-S,immobili,Puglia,Foggia,Cerignola,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-18060-S,immobili,Puglia,Foggia,Cerignola,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-18061-S,immobili,Puglia,Foggia,Cerignola,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-18062-S,immobili,Puglia,Foggia,Cerignola,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-18063-S,immobili,Puglia,Foggia,Cerignola,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-18064-S,immobili,Puglia,Foggia,Cerignola,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-18065-S,immobili,Puglia,Foggia,Cerignola,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-18066-S,immobili,Puglia,Foggia,Cerignola,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-18300-S,immobili,Puglia,Foggia,Foggia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-28712-S,immobili,Puglia,Foggia,Orta Nova,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-28953-S,immobili,Puglia,Foggia,Carapelle,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,33%,Tribunale,Bari,Misure di Prevenzione
 I-FG-28954-S,immobili,Puglia,Foggia,Carapelle,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,33%,Tribunale,Bari,Misure di Prevenzione
 I-FG-29046-S,immobili,Puglia,Foggia,Carapelle,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,33%,Procura della Repubblica,Bari,Procedimento Penale
 I-FG-29047-S,immobili,Puglia,Foggia,Carapelle,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Bari,Procedimento Penale
-I-FG-42310-S,immobili,Puglia,Foggia,Foggia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-42313-S,immobili,Puglia,Foggia,Foggia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-42326-S,immobili,Puglia,Foggia,Foggia,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-42667-S,immobili,Puglia,Foggia,Lucera,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-42673-S,immobili,Puglia,Foggia,Lucera,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-42688-S,immobili,Puglia,Foggia,Lucera,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
@@ -5548,7 +5525,6 @@ I-FG-48222-S,immobili,Puglia,Foggia,Lucera,Terreno,Terreno agricolo,Confisca def
 I-FG-48224-S,immobili,Puglia,Foggia,Lucera,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-48227-S,immobili,Puglia,Foggia,Lucera,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-48234-S,immobili,Puglia,Foggia,Lucera,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-50089-S,immobili,Puglia,Foggia,San Severo,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-54588-S,immobili,Puglia,Foggia,Stornara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-54589-S,immobili,Puglia,Foggia,Stornara,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-54612-S,immobili,Puglia,Foggia,San Severo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
@@ -5582,7 +5558,6 @@ I-FG-7522-S,immobili,Puglia,Foggia,Vieste,Unità immobiliare per uso di abitazio
 I-FG-7523-S,immobili,Puglia,Foggia,Vieste,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-FG-7524-S,immobili,Puglia,Foggia,Vieste,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-FG-7525-S,immobili,Puglia,Foggia,Vieste,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-I-FG-75256-S,immobili,Puglia,Foggia,Cerignola,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-7526-S,immobili,Puglia,Foggia,Vieste,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-FG-7527-S,immobili,Puglia,Foggia,Vieste,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-FG-7528-S,immobili,Puglia,Foggia,Vieste,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -5593,12 +5568,9 @@ I-FG-7532-S,immobili,Puglia,Foggia,Vieste,Unità immobiliare per uso di abitazio
 I-FG-7533-S,immobili,Puglia,Foggia,Vieste,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-FG-7534-S,immobili,Puglia,Foggia,Vieste,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-FG-7535-S,immobili,Puglia,Foggia,Vieste,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-I-FG-75393-S,immobili,Puglia,Foggia,Cerignola,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-7540-S,immobili,Puglia,Foggia,Vieste,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-FG-7541-S,immobili,Puglia,Foggia,Vieste,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-FG-7542-S,immobili,Puglia,Foggia,Vieste,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-I-FG-75421-S,immobili,Puglia,Foggia,San Severo,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-75422-S,immobili,Puglia,Foggia,San Severo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-7543-S,immobili,Puglia,Foggia,Vieste,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-FG-7547-S,immobili,Puglia,Foggia,Vieste,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-FG-7548-S,immobili,Puglia,Foggia,Vieste,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -5634,7 +5606,6 @@ I-FG-80729-S,immobili,Puglia,Foggia,Poggio Imperiale,Unità immobiliare per uso 
 I-FG-80730-S,immobili,Puglia,Foggia,Poggio Imperiale,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-80858-S,immobili,Puglia,Foggia,Foggia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-83203-S,immobili,Puglia,Foggia,Stornara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Bari,Procedimento Penale
-I-FG-83695-S,immobili,Puglia,Foggia,Cerignola,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-84334-S,immobili,Puglia,Foggia,Stornara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-86713-S,immobili,Puglia,Foggia,Stornara,Unità immobiliare per uso di abitazione e assimilabile,Villa,,0%,Procura della Repubblica,Bari,Procedimento Penale
 I-FG-86714-S,immobili,Puglia,Foggia,Stornara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bari,Procedimento Penale
@@ -8621,7 +8592,7 @@ I-MI-29888-S,immobili,Lombardia,Milano,Cesano Boscone,Unità immobiliare a desti
 I-MI-29889-S,immobili,Lombardia,Milano,Cesano Boscone,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-29890-S,immobili,Lombardia,Milano,Cesano Boscone,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-29891-S,immobili,Lombardia,Milano,Cesano Boscone,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-30349-S,immobili,Lombardia,Milano,Pioltello,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Milano,Misure di Prevenzione
+I-MI-30349-S,immobili,Lombardia,Milano,Pioltello,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,99%,Tribunale,Milano,Misure di Prevenzione
 I-MI-30728-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-30729-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-30730-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -9038,17 +9009,17 @@ I-MI-86726-S,immobili,Lombardia,Milano,Bollate,Unità immobiliare a destinazione
 I-MI-86865-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-86866-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-86867-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Milano,Misure di Prevenzione
-I-MI-86927-S,immobili,Lombardia,Milano,Corsico,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,,0%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-86927-S,immobili,Lombardia,Milano,Corsico,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-86948-S,immobili,Lombardia,Milano,Vermezzo,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,,0%,Procura della Repubblica,Milano,Procedimento Penale
-I-MI-86949-S,immobili,Lombardia,Milano,Corsico,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-86949-S,immobili,Lombardia,Milano,Corsico,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-86950-S,immobili,Lombardia,Milano,Vermezzo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Milano,Procedimento Penale
-I-MI-86951-S,immobili,Lombardia,Milano,Trezzano sul Naviglio,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,,0%,Procura della Repubblica,Milano,Procedimento Penale
-I-MI-86952-S,immobili,Lombardia,Milano,Trezzano sul Naviglio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Milano,Procedimento Penale
-I-MI-86953-S,immobili,Lombardia,Milano,Buccinasco,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,,0%,Procura della Repubblica,Milano,Procedimento Penale
-I-MI-86954-S,immobili,Lombardia,Milano,Buccinasco,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Milano,Procedimento Penale
-I-MI-86955-S,immobili,Lombardia,Milano,Buccinasco,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,,0%,Procura della Repubblica,Milano,Procedimento Penale
-I-MI-86956-S,immobili,Lombardia,Milano,Buccinasco,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Milano,Procedimento Penale
-I-MI-86975-S,immobili,Lombardia,Milano,Rozzano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-86951-S,immobili,Lombardia,Milano,Trezzano sul Naviglio,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-86952-S,immobili,Lombardia,Milano,Trezzano sul Naviglio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-86953-S,immobili,Lombardia,Milano,Buccinasco,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-86954-S,immobili,Lombardia,Milano,Buccinasco,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-86955-S,immobili,Lombardia,Milano,Buccinasco,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-86956-S,immobili,Lombardia,Milano,Buccinasco,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-86975-S,immobili,Lombardia,Milano,Rozzano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-87003-S,immobili,Lombardia,Milano,Trezzano sul Naviglio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-87405-S,immobili,Lombardia,Milano,Cologno Monzese,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-87594-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Roma,Misure di Prevenzione
@@ -14638,7 +14609,7 @@ I-PV-86727-S,immobili,Lombardia,Pavia,Giussago,Unità immobiliare a destinazione
 I-PV-86728-S,immobili,Lombardia,Pavia,Giussago,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PV-86729-S,immobili,Lombardia,Pavia,Giussago,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PV-86730-S,immobili,Lombardia,Pavia,Giussago,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PV-86957-S,immobili,Lombardia,Pavia,Landriano,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,,0%,Procura della Repubblica,Milano,Procedimento Penale
+I-PV-86957-S,immobili,Lombardia,Pavia,Landriano,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-PV-86958-S,immobili,Lombardia,Pavia,Landriano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-PV-86959-S,immobili,Lombardia,Pavia,Landriano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-PV-86960-S,immobili,Lombardia,Pavia,Landriano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Milano,Procedimento Penale
