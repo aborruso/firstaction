@@ -3019,7 +3019,7 @@ I-CL-22825-S,immobili,Sicilia,Caltanissetta,Resuttano,Terreno,Terreno - non defi
 I-CL-22826-S,immobili,Sicilia,Caltanissetta,Resuttano,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-22912-S,immobili,Sicilia,Caltanissetta,Gela,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-23359-S,immobili,Sicilia,Caltanissetta,Bompensiere,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,50%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-23360-S,immobili,Sicilia,Caltanissetta,Bompensiere,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,50%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-23360-S,immobili,Sicilia,Caltanissetta,Bompensiere,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,50%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-23361-S,immobili,Sicilia,Caltanissetta,Bompensiere,Terreno,Terreno agricolo,Confisca I,33%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-23362-S,immobili,Sicilia,Caltanissetta,Bompensiere,Terreno,Terreno agricolo,Confisca I,33%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-23363-S,immobili,Sicilia,Caltanissetta,Bompensiere,Terreno,Terreno agricolo,Confisca I,33%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -3030,7 +3030,7 @@ I-CL-23367-S,immobili,Sicilia,Caltanissetta,Bompensiere,Terreno,Terreno agricolo
 I-CL-23370-S,immobili,Sicilia,Caltanissetta,Bompensiere,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,50%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-23371-S,immobili,Sicilia,Caltanissetta,Bompensiere,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,50%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-23372-S,immobili,Sicilia,Caltanissetta,Bompensiere,Terreno,Terreno agricolo,Confisca I,50%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-23373-S,immobili,Sicilia,Caltanissetta,Bompensiere,Terreno,Terreno agricolo,Confisca I,50%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-23373-S,immobili,Sicilia,Caltanissetta,Bompensiere,Terreno,Terreno agricolo,Confisca II,50%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-23374-S,immobili,Sicilia,Caltanissetta,Bompensiere,Terreno,Terreno agricolo,Confisca I,50%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-24651-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-24679-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -3781,7 +3781,7 @@ I-CO-70345-S,immobili,Lombardia,Como,Locate Varesino,Unità immobiliare per uso 
 I-CO-70346-S,immobili,Lombardia,Como,Locate Varesino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Como,Misure di Prevenzione
 I-CO-70347-S,immobili,Lombardia,Como,Locate Varesino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Como,Misure di Prevenzione
 I-CO-72216-S,immobili,Lombardia,Como,Eupilio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
-I-CO-72218-S,immobili,Lombardia,Como,Eupilio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
+I-CO-72218-S,immobili,Lombardia,Como,Eupilio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,50%,Procura della Repubblica,Milano,Procedimento Penale
 I-CO-73962-S,immobili,Lombardia,Como,Mariano Comense,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
 I-CO-73964-S,immobili,Lombardia,Como,Mariano Comense,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Monza,Misure di Prevenzione
 I-CO-73965-S,immobili,Lombardia,Como,Mariano Comense,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
@@ -4037,7 +4037,6 @@ I-CS-43047-S,immobili,Calabria,Cosenza,Belvedere Marittimo,Unità immobiliare pe
 I-CS-43148-S,immobili,Calabria,Cosenza,Belvedere Marittimo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
 I-CS-43175-S,immobili,Calabria,Cosenza,Cetraro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,33%,Tribunale,Cosenza,Misure di Prevenzione
 I-CS-43835-S,immobili,Calabria,Cosenza,Scalea,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Taranto,Misure di Prevenzione
-I-CS-44157-S,immobili,Calabria,Cosenza,Domanico,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
 I-CS-44296-S,immobili,Calabria,Cosenza,Amantea,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
 I-CS-44301-S,immobili,Calabria,Cosenza,Amantea,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
 I-CS-44309-S,immobili,Calabria,Cosenza,Amantea,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
@@ -4047,7 +4046,6 @@ I-CS-44340-S,immobili,Calabria,Cosenza,Amantea,Terreno,Terreno - non definito,Co
 I-CS-44341-S,immobili,Calabria,Cosenza,Amantea,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
 I-CS-44342-S,immobili,Calabria,Cosenza,Amantea,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
 I-CS-44343-S,immobili,Calabria,Cosenza,Amantea,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
-I-CS-44360-S,immobili,Calabria,Cosenza,Domanico,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
 I-CS-44365-S,immobili,Calabria,Cosenza,Amantea,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
 I-CS-44368-S,immobili,Calabria,Cosenza,Amantea,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
 I-CS-44370-S,immobili,Calabria,Cosenza,Amantea,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
@@ -5717,8 +5715,6 @@ I-FI-23139-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare a destinazione 
 I-FI-23140-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 I-FI-23141-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 I-FI-23142-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
-I-FI-30201-S,immobili,Toscana,Firenze,Campi Bisenzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
-I-FI-30202-S,immobili,Toscana,Firenze,Campi Bisenzio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 I-FI-75942-S,immobili,Toscana,Firenze,Campi Bisenzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 I-FI-8221-S,immobili,Toscana,Firenze,Bagno a Ripoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 I-FI-8222-S,immobili,Toscana,Firenze,Bagno a Ripoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione

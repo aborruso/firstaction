@@ -55,7 +55,7 @@ A-AG-61984-S,aziende,Sicilia,Agrigento,Agrigento,Consorzio,Costruzioni,Confisca 
 A-AG-62002-S,aziende,Sicilia,Agrigento,Agrigento,Consorzio,Costruzioni,Confisca def.,30%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-AG-62215-S,aziende,Sicilia,Agrigento,Camastra,Consorzio,Costruzioni,Confisca def.,40%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-AG-62224-S,aziende,Sicilia,Agrigento,Camastra,Consorzio,Costruzioni,Confisca def.,80%,Tribunale,Caltanissetta,Misure di Prevenzione
-A-AG-64926-S,aziende,Sicilia,Agrigento,Agrigento,Impresa individuale,Costruzioni,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+A-AG-64926-S,aziende,Sicilia,Agrigento,Agrigento,Impresa individuale,Costruzioni,Revoca Conf. parziale,100%,Procura della Repubblica,Palermo,Procedimento Penale
 A-AG-68165-S,aziende,Sicilia,Agrigento,Favara,Società a responsabilità limitata,Costruzioni,Confisca I,33%,Tribunale,Agrigento,Misure di Prevenzione
 A-AG-68168-S,aziende,Sicilia,Agrigento,Favara,Società a responsabilità limitata,Costruzioni,Confisca I,50%,Tribunale,Agrigento,Misure di Prevenzione
 A-AG-69839-S,aziende,Sicilia,Agrigento,Favara,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca I,50%,Tribunale,Agrigento,Misure di Prevenzione
@@ -91,10 +91,11 @@ A-AG-96896-S,aziende,Sicilia,Agrigento,Canicattì,Società a responsabilità lim
 A-AG-96916-S,aziende,Sicilia,Agrigento,Canicattì,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 A-AG-96948-S,aziende,Sicilia,Agrigento,Canicattì,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 A-AG-97497-S,aziende,Sicilia,Agrigento,Porto Empedocle,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+A-AG-98444-S,aziende,Sicilia,Agrigento,Casteltermini,Impresa individuale,"Agricoltura, caccia e silvicoltura",,0%,Tribunale,Agrigento,Misure di Prevenzione
 A-AL-61955-S,aziende,Piemonte,Alessandria,Tortona,Consorzio,"Produzione e distribuzione di energia elettrica, gas e acqua",Confisca def.,31%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-AL-79215-S,aziende,Piemonte,Alessandria,Alessandria,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Alessandria,Misure di Prevenzione
 A-AL-96203-S,aziende,Piemonte,Alessandria,Valenza,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-A-AO-74798-S,aziende,Valle d'Aosta,Aosta,Saint-Vincent,Consorzio,Costruzioni,Confisca I,28%,Tribunale,Reggio Emilia,Misure di Prevenzione
+A-AO-74798-S,aziende,Valle d'Aosta,Aosta,Saint-Vincent,Consorzio,Costruzioni,Confisca def.,29%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-AP-25234-S,aziende,Marche,Ascoli Piceno,San Benedetto del Tronto,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Teramo,Misure di Prevenzione
 A-AP-30741-S,aziende,Marche,Ascoli Piceno,Grottammare,Società in nome collettivo,Alberghi e ristoranti,Confisca def.,90%,Tribunale,Milano,Misure di Prevenzione
 A-AQ-97599-S,aziende,Abruzzo,L'Aquila,Sulmona,Società a responsabilità limitata,"Produzione e distribuzione di energia elettrica, gas e acqua",Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -757,7 +758,6 @@ A-FI-10558-S,aziende,Toscana,Firenze,Sesto Fiorentino,Società a responsabilità
 A-FI-33630-S,aziende,Toscana,Firenze,Sesto Fiorentino,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 A-FI-40169-S,aziende,Toscana,Firenze,Firenze,Società a responsabilità limitata,Costruzioni,Confisca def.,20%,Procura della Repubblica,Palermo,Procedimento Penale
 A-FI-51079-S,aziende,Toscana,Firenze,Firenze,Società a responsabilità limitata,Alberghi e ristoranti,Sequestro,10%,Procura della Repubblica,Napoli,Procedimento Penale
-A-FI-59400-S,aziende,Toscana,Firenze,Fucecchio,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
 A-FI-86771-S,aziende,Toscana,Firenze,Firenze,Società a responsabilità limitata,Alberghi e ristoranti,,0%,Tribunale,Firenze,Misure di Prevenzione
 A-FI-86772-S,aziende,Toscana,Firenze,Firenze,Società a responsabilità limitata,Alberghi e ristoranti,,0%,Tribunale,Firenze,Misure di Prevenzione
 A-FI-86773-S,aziende,Toscana,Firenze,Firenze,Società a responsabilità limitata,Alberghi e ristoranti,,0%,Tribunale,Firenze,Misure di Prevenzione
@@ -797,9 +797,9 @@ A-KR-50000-S,aziende,Calabria,Crotone,Crotone,Società a responsabilità limitat
 A-KR-50030-S,aziende,Calabria,Crotone,Crotone,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 A-KR-73955-S,aziende,Calabria,Crotone,Isola di Capo Rizzuto,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Crotone,Misure di Prevenzione
 A-KR-74063-S,aziende,Calabria,Crotone,Isola di Capo Rizzuto,Società in accomandita semplice,"Agricoltura, caccia e silvicoltura",Confisca I,100%,Tribunale,Crotone,Misure di Prevenzione
-A-KR-74503-S,aziende,Calabria,Crotone,Crotone,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
-A-KR-74778-S,aziende,Calabria,Crotone,Crotone,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
-A-KR-74779-S,aziende,Calabria,Crotone,Crotone,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca I,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+A-KR-74503-S,aziende,Calabria,Crotone,Crotone,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+A-KR-74778-S,aziende,Calabria,Crotone,Crotone,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+A-KR-74779-S,aziende,Calabria,Crotone,Crotone,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-KR-75864-S,aziende,Calabria,Crotone,Crotone,Società a responsabilità limitata,Attività finanziarie,Sequestro,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-KR-75865-S,aziende,Calabria,Crotone,Crotone,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Sequestro,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-KR-80241-S,aziende,Calabria,Crotone,Strongoli,Società in accomandita semplice,Costruzioni,Confisca def.,25%,Tribunale,Firenze,Misure di Prevenzione
@@ -842,7 +842,6 @@ A-LO-82963-S,aziende,Lombardia,Lodi,Guardamiglio,Società a responsabilità limi
 A-LO-82968-S,aziende,Lombardia,Lodi,Guardamiglio,Società a responsabilità limitata,Costruzioni,Sequestro,25%,Procura della Repubblica,Piacenza,Procedimento Penale
 A-LT-13351-S,aziende,Lazio,Latina,Latina,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-13352-S,aziende,Lazio,Latina,Latina,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
-A-LT-13353-S,aziende,Lazio,Latina,Aprilia,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-13380-S,aziende,Lazio,Latina,Aprilia,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-13381-S,aziende,Lazio,Latina,Aprilia,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-21119-S,aziende,Lazio,Latina,Aprilia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,50%,Tribunale,Latina,Misure di Prevenzione
@@ -1003,7 +1002,6 @@ A-MI-11106-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata
 A-MI-12869-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 A-MI-13290-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,50%,Tribunale,Milano,Misure di Prevenzione
 A-MI-13345-S,aziende,Lombardia,Milano,Milano,Società per azioni,Attività finanziarie,Confisca def.,1%,Tribunale,Latina,Misure di Prevenzione
-A-MI-13354-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-MI-13604-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca def.,96%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-15282-S,aziende,Lombardia,Milano,Legnano,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,50%,Tribunale,Catanzaro,Misure di Prevenzione
 A-MI-15753-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,10%,Tribunale,Milano,Misure di Prevenzione
@@ -1085,9 +1083,7 @@ A-MI-58472-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata
 A-MI-58473-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-59481-S,aziende,Lombardia,Milano,Milano,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-59605-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-MI-59611-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-MI-59613-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-MI-59667-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-MI-61976-S,aziende,Lombardia,Milano,Milano,Società per azioni,Attività finanziarie,Confisca def.,35%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-MI-61986-S,aziende,Lombardia,Milano,Milano,Società per azioni,Attività finanziarie,Confisca def.,1%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-MI-64344-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
@@ -1335,7 +1331,6 @@ A-NA-52573-S,aziende,Campania,Napoli,Caivano,Società in accomandita semplice,"C
 A-NA-54509-S,aziende,Campania,Napoli,Nola,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,50%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-54510-S,aziende,Campania,Napoli,Nola,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-59381-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
-A-NA-59387-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,67%,Tribunale,Prato,Misure di Prevenzione
 A-NA-60470-S,aziende,Campania,Napoli,Casoria,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca def.,50%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-61886-S,aziende,Campania,Napoli,Castellammare di Stabia,Società a responsabilità limitata,Costruzioni,Confisca I,90%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-61896-S,aziende,Campania,Napoli,Castellammare di Stabia,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -1965,7 +1960,6 @@ A-PI-5101-S,aziende,Toscana,Pisa,Pisa,Impresa individuale,"Commercio ingrosso-de
 A-PI-97607-S,aziende,Toscana,Pisa,Pisa,Società a responsabilità limitata,"Produzione e distribuzione di energia elettrica, gas e acqua",Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-PO-28565-S,aziende,Toscana,Prato,Prato,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,30%,Tribunale,Prato,Misure di Prevenzione
 A-PO-59385-S,aziende,Toscana,Prato,Prato,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
-A-PO-59393-S,aziende,Toscana,Prato,Prato,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
 A-PO-82874-S,aziende,Toscana,Prato,Prato,Società a responsabilità limitata,Costruzioni,Sequestro,40%,Procura della Repubblica,Piacenza,Procedimento Penale
 A-PO-82967-S,aziende,Toscana,Prato,Prato,Società a responsabilità limitata,Costruzioni,Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 A-PO-84670-S,aziende,Toscana,Prato,Prato,Società a responsabilità limitata,Attività finanziarie,Confisca def.,99%,Tribunale,Prato,Misure di Prevenzione
@@ -1978,7 +1972,7 @@ A-PO-95293-S,aziende,Toscana,Prato,Montemurlo,Società a responsabilità limitat
 A-PR-38020-S,aziende,Emilia Romagna,Parma,Sorbolo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 A-PR-50048-S,aziende,Emilia Romagna,Parma,Parma,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 A-PR-51357-S,aziende,Emilia Romagna,Parma,Parma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-A-PR-74777-S,aziende,Emilia Romagna,Parma,Parma,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+A-PR-74777-S,aziende,Emilia Romagna,Parma,Parma,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-PR-86519-S,aziende,Emilia Romagna,Parma,Torrile,Società a responsabilità limitata,,,100%,Tribunale,Agrigento,Misure di Prevenzione
 A-PR-97863-S,aziende,Emilia Romagna,Parma,Parma,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca def.,0%,Tribunale,Napoli,Misure di Prevenzione
 A-PT-59383-S,aziende,Toscana,Pistoia,Montecatini-Terme,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
@@ -2198,9 +2192,9 @@ A-RE-50566-S,aziende,Emilia Romagna,Reggio Emilia,Brescello,Altro,Costruzioni,Co
 A-RE-50580-S,aziende,Emilia Romagna,Reggio Emilia,Brescello,Società in nome collettivo,Costruzioni,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 A-RE-50698-S,aziende,Emilia Romagna,Reggio Emilia,Brescello,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,20%,Procura della Repubblica,Bologna,Procedimento Penale
 A-RE-74776-S,aziende,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
-A-RE-74780-S,aziende,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,50%,Tribunale,Reggio Emilia,Misure di Prevenzione
-A-RE-74781-S,aziende,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
-A-RE-74782-S,aziende,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+A-RE-74780-S,aziende,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,50%,Tribunale,Reggio Emilia,Misure di Prevenzione
+A-RE-74781-S,aziende,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+A-RE-74782-S,aziende,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-RE-95614-S,aziende,Emilia Romagna,Reggio Emilia,Albinea,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 A-RG-35488-S,aziende,Sicilia,Ragusa,Vittoria,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Ragusa,Misure di Prevenzione
 A-RG-77224-S,aziende,Sicilia,Ragusa,Ispica,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
@@ -2293,7 +2287,6 @@ A-RM-54993-S,aziende,Lazio,Roma,Roma,Consorzio,"Altri servizi pubblici, sociali 
 A-RM-54994-S,aziende,Lazio,Roma,Roma,Consorzio,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-54995-S,aziende,Lazio,Roma,Roma,Consorzio,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-54996-S,aziende,Lazio,Roma,Roma,Consorzio,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-54997-S,aziende,Lazio,Roma,Roma,Consorzio,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-54998-S,aziende,Lazio,Roma,Roma,Consorzio,Attività finanziarie,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-54999-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-55000-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -2326,15 +2319,12 @@ A-RM-59468-S,aziende,Lazio,Roma,Nettuno,Società per azioni,"Attività immobilia
 A-RM-59591-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Attività finanziarie,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59592-S,aziende,Lazio,Roma,Roma,Altro,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59594-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,50%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59595-S,aziende,Lazio,Roma,Roma,Consorzio,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59596-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59598-S,aziende,Lazio,Roma,Roma,Società cooperativa,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59599-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59600-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59602-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59606-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59607-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59609-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59618-S,aziende,Lazio,Roma,Roma,Consorzio,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59619-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59620-S,aziende,Lazio,Roma,Roma,Consorzio,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -2352,32 +2342,20 @@ A-RM-59654-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri 
 A-RM-59655-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59657-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59659-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59660-S,aziende,Lazio,Roma,Roma,Consorzio,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59661-S,aziende,Lazio,Roma,Roma,Società cooperativa,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59663-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59665-S,aziende,Lazio,Roma,Roma,Società cooperativa,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59666-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59668-S,aziende,Lazio,Roma,Roma,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
-A-RM-59669-S,aziende,Lazio,Roma,Roma,Consorzio,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59670-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,99%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59671-S,aziende,Lazio,Roma,Roma,Altro,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59673-S,aziende,Lazio,Roma,Roma,Altro,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59674-S,aziende,Lazio,Roma,Roma,Società cooperativa,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59675-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59680-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59681-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59682-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59683-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59684-S,aziende,Lazio,Roma,Roma,Società semplice,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59685-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59686-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59688-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59689-S,aziende,Lazio,Roma,Roma,Società cooperativa,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59690-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-59691-S,aziende,Lazio,Roma,Roma,Società per azioni,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-59693-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-60340-S,aziende,Lazio,Roma,Roma,Consorzio,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-60344-S,aziende,Lazio,Roma,Roma,Società semplice,"Agricoltura, caccia e silvicoltura",Confisca def.,49%,Tribunale,Roma,Misure di Prevenzione
 A-RM-61470-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Confisca I,10%,Procura della Repubblica,Napoli,Procedimento Penale
 A-RM-61471-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Confisca I,80%,Procura della Repubblica,Napoli,Procedimento Penale
 A-RM-61957-S,aziende,Lazio,Roma,Roma,Consorzio,Costruzioni,Confisca def.,50%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -3027,7 +3005,7 @@ A-VI-11360-S,aziende,Veneto,Vicenza,Montecchio Maggiore,Società a responsabilit
 A-VR-17076-S,aziende,Veneto,Verona,Verona,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,25%,Tribunale,Brescia,Misure di Prevenzione
 A-VR-50354-S,aziende,Veneto,Verona,Roverchiara,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 A-VR-74783-S,aziende,Veneto,Verona,Roverchiara,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
-A-VR-74784-S,aziende,Veneto,Verona,Sant'Ambrogio di Valpolicella,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+A-VR-74784-S,aziende,Veneto,Verona,Sant'Ambrogio di Valpolicella,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-VR-81560-S,aziende,Veneto,Verona,Verona,Società a responsabilità limitata,Costruzioni,Confisca def.,60%,Tribunale,Verona,Misure di Prevenzione
 A-VT-20692-S,aziende,Lazio,Viterbo,Tarquinia,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-VT-35860-S,aziende,Lazio,Viterbo,Soriano nel Cimino,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,34%,Tribunale,Latina,Misure di Prevenzione
