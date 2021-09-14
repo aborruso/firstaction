@@ -2171,8 +2171,6 @@ I-CE-713-S,immobili,Campania,Caserta,Castel Volturno,Terreno,Terreno agricolo,Co
 I-CE-714-S,immobili,Campania,Caserta,Castel Volturno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-CE-71429-S,immobili,Campania,Caserta,Teverola,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-72266-S,immobili,Campania,Caserta,Portico di Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-CE-72755-S,immobili,Campania,Caserta,Capua,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-CE-72759-S,immobili,Campania,Caserta,Capua,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-72760-S,immobili,Campania,Caserta,Capua,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-72761-S,immobili,Campania,Caserta,Capua,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-72762-S,immobili,Campania,Caserta,Capua,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -2185,7 +2183,6 @@ I-CE-72916-S,immobili,Campania,Caserta,Casagiove,Unità immobiliare per uso di a
 I-CE-72917-S,immobili,Campania,Caserta,Casagiove,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-72919-S,immobili,Campania,Caserta,Marcianise,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,32%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-73041-S,immobili,Campania,Caserta,Piana di Monte Verna,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-CE-73046-S,immobili,Campania,Caserta,Macerata Campania,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-74081-S,immobili,Campania,Caserta,Teverola,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-74575-S,immobili,Campania,Caserta,Casal di Principe,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-75270-S,immobili,Campania,Caserta,Teverola,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -2252,7 +2249,7 @@ I-CE-79590-S,immobili,Campania,Caserta,San Felice a Cancello,Unità immobiliare 
 I-CE-79591-S,immobili,Campania,Caserta,San Felice a Cancello,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-CE-79758-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-79760-S,immobili,Campania,Caserta,Casal di Principe,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-80572-S,immobili,Campania,Caserta,Marcianise,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-80572-S,immobili,Campania,Caserta,Marcianise,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-80612-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-80633-S,immobili,Campania,Caserta,Marcianise,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
 I-CE-80640-S,immobili,Campania,Caserta,Marcianise,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
@@ -6093,62 +6090,62 @@ I-KR-90323-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Terreno,Terreno agr
 I-KR-90324-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Crotone,Misure di Prevenzione
 I-KR-90325-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Crotone,Misure di Prevenzione
 I-KR-90326-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Terreno,Terreno con fabbricato rurale,,0%,Tribunale,Crotone,Misure di Prevenzione
-I-KR-94342-S,immobili,Calabria,Crotone,Cirò Marina,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94344-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94345-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94346-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94347-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94348-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94354-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94355-S,immobili,Calabria,Crotone,Crucoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94356-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94357-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94368-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94372-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94381-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94382-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94385-S,immobili,Calabria,Crotone,Crucoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94386-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94392-S,immobili,Calabria,Crotone,Cirò Marina,Terreno,Terreno agricolo,Revoca Conf.,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94394-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94396-S,immobili,Calabria,Crotone,Crucoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94408-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94409-S,immobili,Calabria,Crotone,Cirò Marina,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94416-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94420-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94426-S,immobili,Calabria,Crotone,Cirò Marina,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94437-S,immobili,Calabria,Crotone,Crucoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94440-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94443-S,immobili,Calabria,Crotone,Cirò Marina,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94452-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94456-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94457-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94462-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94464-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94470-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94479-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94481-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94483-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94484-S,immobili,Calabria,Crotone,Crucoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94486-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94492-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94494-S,immobili,Calabria,Crotone,Crucoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94499-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94510-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94515-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94521-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94524-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94528-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Revoca Conf.,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94529-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94532-S,immobili,Calabria,Crotone,Crucoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94540-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94541-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94545-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94551-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94563-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94565-S,immobili,Calabria,Crotone,Cirò Marina,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94571-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-KR-94577-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94342-S,immobili,Calabria,Crotone,Cirò Marina,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94344-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94345-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94346-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94347-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94348-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94354-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94355-S,immobili,Calabria,Crotone,Crucoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94356-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94357-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94368-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94372-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94381-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94382-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94385-S,immobili,Calabria,Crotone,Crucoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94386-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94392-S,immobili,Calabria,Crotone,Cirò Marina,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94394-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94396-S,immobili,Calabria,Crotone,Crucoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94408-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94409-S,immobili,Calabria,Crotone,Cirò Marina,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94416-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94420-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94426-S,immobili,Calabria,Crotone,Cirò Marina,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94437-S,immobili,Calabria,Crotone,Crucoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94440-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94443-S,immobili,Calabria,Crotone,Cirò Marina,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94452-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94456-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94457-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94462-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94464-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94470-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94479-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94481-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94483-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94484-S,immobili,Calabria,Crotone,Crucoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94486-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94492-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94494-S,immobili,Calabria,Crotone,Crucoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94499-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94510-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94515-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94521-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94524-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94528-S,immobili,Calabria,Crotone,Crucoli,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94529-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94532-S,immobili,Calabria,Crotone,Crucoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94540-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94541-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94545-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94551-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94563-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94565-S,immobili,Calabria,Crotone,Cirò Marina,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94571-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-KR-94577-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-KR-9993-S,immobili,Calabria,Crotone,Belvedere di Spinello,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-LC-30242-S,immobili,Lombardia,Lecco,Galbiate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Corte di Cassazione,Roma,Procedimento Penale
 I-LC-30243-S,immobili,Lombardia,Lecco,Galbiate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Corte di Cassazione,Roma,Procedimento Penale
@@ -6417,7 +6414,6 @@ I-LE-94089-S,immobili,Puglia,Lecce,Lecce,Terreno,Terreno agricolo,Confisca def.,
 I-LE-94091-S,immobili,Puglia,Lecce,Lecce,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Rinvio,100%,Tribunale,Lecce,Misure di Prevenzione
 I-LE-94092-S,immobili,Puglia,Lecce,Lecce,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Rinvio,100%,Tribunale,Lecce,Misure di Prevenzione
 I-LE-94095-S,immobili,Puglia,Lecce,Lecce,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Rinvio,100%,Tribunale,Lecce,Misure di Prevenzione
-I-LE-94921-S,immobili,Puglia,Lecce,San Donato di Lecce,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
 I-LE-96467-S,immobili,Puglia,Lecce,Lecce,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
 I-LE-96469-S,immobili,Puglia,Lecce,Lecce,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
 I-LE-96475-S,immobili,Puglia,Lecce,Lecce,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
@@ -9044,9 +9040,6 @@ I-MS-16006-S,immobili,Toscana,Massa-Carrara,Massa,Unità immobiliare per uso di 
 I-MS-76550-S,immobili,Toscana,Massa-Carrara,Massa,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MS-76552-S,immobili,Toscana,Massa-Carrara,Massa,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MS-76554-S,immobili,Toscana,Massa-Carrara,Massa,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MS-78632-S,immobili,Toscana,Massa-Carrara,Montignoso,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,3%,Tribunale,Milano,Procedimento Penale
-I-MS-78633-S,immobili,Toscana,Massa-Carrara,Montignoso,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,3%,Tribunale,Milano,Procedimento Penale
-I-MS-78634-S,immobili,Toscana,Massa-Carrara,Montignoso,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,3%,Tribunale,Milano,Procedimento Penale
 I-MS-90768-S,immobili,Toscana,Massa-Carrara,Carrara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,La Spezia,Misure di Prevenzione
 I-MS-90769-S,immobili,Toscana,Massa-Carrara,Fivizzano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-MS-92366-S,immobili,Toscana,Massa-Carrara,Carrara,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Procura della Repubblica,Piacenza,Procedimento Penale
@@ -12935,32 +12928,18 @@ I-PA-83265-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abit
 I-PA-83268-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-83277-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-83280-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-83281-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-83282-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-83283-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-83284-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-83285-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-83286-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-83287-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-83288-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-83289-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-83290-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-83291-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-83292-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-83293-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-83294-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-83295-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-83296-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-83297-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-83298-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-83299-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-83300-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-83302-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-83303-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-83304-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-83306-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-83307-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-83308-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-83309-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-83310-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-83311-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -17469,8 +17448,8 @@ I-SP-90793-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazi
 I-SP-90794-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-90807-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-90897-S,immobili,Liguria,La Spezia,Arcola,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-SP-94423-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
-I-SP-94445-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-94423-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-94445-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-96353-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca I,0%,Procura della Repubblica,La Spezia,Procedimento Penale
 I-SP-96354-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca I,0%,Procura della Repubblica,La Spezia,Procedimento Penale
 I-SP-96355-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca I,0%,Procura della Repubblica,La Spezia,Procedimento Penale
