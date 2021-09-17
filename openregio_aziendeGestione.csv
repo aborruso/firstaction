@@ -246,7 +246,6 @@ A-CA-25693-S,aziende,Sardegna,Cagliari,Cagliari,Altro,Alberghi e ristoranti,Conf
 A-CA-25694-S,aziende,Sardegna,Cagliari,Cagliari,Altro,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Cagliari,Procedimento Penale
 A-CA-28590-S,aziende,Sardegna,Cagliari,Cagliari,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
 A-CA-28591-S,aziende,Sardegna,Cagliari,Cagliari,Associazione,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
-A-CA-71786-S,aziende,Sardegna,Cagliari,Teulada,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,4%,Procura della Repubblica,Milano,Procedimento Penale
 A-CA-73831-S,aziende,Sardegna,Cagliari,Cagliari,Società in accomandita semplice,Costruzioni,Confisca def.,80%,Tribunale,Cagliari,Misure di Prevenzione
 A-CA-92736-S,aziende,Sardegna,Cagliari,Cagliari,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,99%,Tribunale,Nuoro,Misure di Prevenzione
 A-CA-92744-S,aziende,Sardegna,Cagliari,Cagliari,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,90%,Tribunale,Nuoro,Misure di Prevenzione
@@ -680,9 +679,6 @@ A-CT-92716-S,aziende,Sicilia,Catania,Catania,Società in accomandita semplice,"C
 A-CT-92717-S,aziende,Sicilia,Catania,Ramacca,Impresa individuale,Costruzioni,,0%,Procura della Repubblica,Catania,Procedimento Penale
 A-CT-92718-S,aziende,Sicilia,Catania,Ramacca,Impresa individuale,Costruzioni,,0%,Procura della Repubblica,Catania,Procedimento Penale
 A-CT-93154-S,aziende,Sicilia,Catania,Catania,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
-A-CT-93706-S,aziende,Sicilia,Catania,Militello in Val di Catania,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
-A-CT-93783-S,aziende,Sicilia,Catania,Militello in Val di Catania,Società in accomandita semplice,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
-A-CT-93885-S,aziende,Sicilia,Catania,Militello in Val di Catania,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-95033-S,aziende,Sicilia,Catania,Paternò,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-95091-S,aziende,Sicilia,Catania,Paternò,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-95209-S,aziende,Sicilia,Catania,San Giovanni la Punta,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
@@ -690,6 +686,9 @@ A-CT-96386-S,aziende,Sicilia,Catania,San Giovanni la Punta,Impresa individuale,"
 A-CT-96394-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,Costruzioni,Confisca def.,40%,Tribunale,Catania,Misure di Prevenzione
 A-CT-96493-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-96848-S,aziende,Sicilia,Catania,Catania,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+A-CT-99124-S,aziende,Sicilia,Catania,Militello in Val di Catania,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+A-CT-99185-S,aziende,Sicilia,Catania,Militello in Val di Catania,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+A-CT-99269-S,aziende,Sicilia,Catania,Militello in Val di Catania,Società in accomandita semplice,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CZ-13987-S,aziende,Calabria,Catanzaro,Catanzaro,Impresa individuale,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 A-CZ-13988-S,aziende,Calabria,Catanzaro,Catanzaro,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 A-CZ-39340-S,aziende,Calabria,Catanzaro,Guardavalle,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -1104,11 +1103,6 @@ A-MI-70981-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata
 A-MI-70983-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Cremona,Misure di Prevenzione
 A-MI-70985-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Cremona,Misure di Prevenzione
 A-MI-71097-S,aziende,Lombardia,Milano,Cusago,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-A-MI-71787-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Procura della Repubblica,Milano,Procedimento Penale
-A-MI-71788-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Procura della Repubblica,Milano,Procedimento Penale
-A-MI-71789-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,20%,Procura della Repubblica,Milano,Procedimento Penale
-A-MI-71790-S,aziende,Lombardia,Milano,Milano,Società per azioni,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Procura della Repubblica,Milano,Procedimento Penale
-A-MI-71792-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Attività finanziarie,Confisca I,50%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-71894-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-71895-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-72000-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,75%,Procura della Repubblica,Milano,Procedimento Penale
@@ -1226,7 +1220,6 @@ A-NA-32363-S,aziende,Campania,Napoli,Napoli,Società cooperativa a responsabilit
 A-NA-32994-S,aziende,Campania,Napoli,Giugliano in Campania,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-33635-S,aziende,Campania,Napoli,San Gennaro Vesuviano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Nola,Procedimento Penale
 A-NA-33673-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-A-NA-33675-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-34323-S,aziende,Campania,Napoli,Marano di Napoli,Impresa individuale,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-34771-S,aziende,Campania,Napoli,Torre Annunziata,Impresa individuale,Attività finanziarie,Confisca def.,100%,Procura della Repubblica,Torre Annunziata,Procedimento Penale
 A-NA-34796-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
@@ -1261,7 +1254,6 @@ A-NA-4756-S,aziende,Campania,Napoli,Pozzuoli,Società a responsabilità limitata
 A-NA-4757-S,aziende,Campania,Napoli,Giugliano in Campania,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
 A-NA-4759-S,aziende,Campania,Napoli,Grumo Nevano,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
 A-NA-4766-S,aziende,Campania,Napoli,Giugliano in Campania,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
-A-NA-47906-S,aziende,Campania,Napoli,Pompei,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-47910-S,aziende,Campania,Napoli,Pompei,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-47917-S,aziende,Campania,Napoli,Pompei,Società per azioni,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-47963-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
