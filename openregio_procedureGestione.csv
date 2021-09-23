@@ -377,7 +377,6 @@ Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,153/2013
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,155/2012
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,16/2010
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,161/1998
-Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,163/2012
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,163/2013
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,164/2000
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,164/2013
@@ -569,6 +568,7 @@ Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf.,96/2013
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf. parziale,120/2013
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf. parziale,158/1999
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf. parziale,159/1996
+Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf. parziale,163/2012
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf. parziale,2/2008
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf. parziale,23/2011
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf. parziale,28/2008
@@ -1890,7 +1890,6 @@ Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,41/2
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,41849/2007
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,42759/2001
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,4291/2011
-Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,43017/2017
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,43733/2006
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,43786/2009
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,4475/2001
@@ -1933,6 +1932,7 @@ Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Revoca Conf.,6473/
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Revoca Conf. parziale,41275/2007
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Revoca Conf. parziale,69536/2010
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Revoca Seq.,12053/2011
+Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Revoca Seq.,43017/2017
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Revoca Seq.,56557/2012
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Revoca Seq.,9506/2011
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Sequestro,32187/2016
@@ -2579,10 +2579,10 @@ Puglia,Procura della Repubblica,Bari,Procedimento Penale,Confisca def.,3/2005
 Puglia,Procura della Repubblica,Bari,Procedimento Penale,Confisca def.,3030/2005
 Puglia,Procura della Repubblica,Bari,Procedimento Penale,Confisca def.,3551/2008
 Puglia,Procura della Repubblica,Bari,Procedimento Penale,Confisca def.,453/1998
-Puglia,Procura della Repubblica,Bari,Procedimento Penale,Confisca def.,4683/2009
 Puglia,Procura della Repubblica,Bari,Procedimento Penale,Confisca def.,6032/2006
 Puglia,Procura della Repubblica,Bari,Procedimento Penale,Revoca Conf.,15294/2008
 Puglia,Procura della Repubblica,Bari,Procedimento Penale,Revoca Conf. parziale,1/2008
+Puglia,Procura della Repubblica,Bari,Procedimento Penale,Revoca Conf. parziale,4683/2009
 Puglia,Procura della Repubblica,Bari,Procedimento Penale,Revoca Conf. parziale,7/2002
 Puglia,Procura della Repubblica,Bari,Procedimento Penale,Revoca Conf. parziale,8175/2005
 Puglia,Procura della Repubblica,Bari,Procedimento Penale,Revoca Sequ. parziale,6543/2002
@@ -2692,7 +2692,6 @@ Puglia,Tribunale,Bari,Misure di Prevenzione,Revoca Conf.,64/2013
 Puglia,Tribunale,Bari,Misure di Prevenzione,Revoca Conf. parziale,192/2011
 Puglia,Tribunale,Bari,Misure di Prevenzione,Revoca Sequ. parziale,104/2011
 Puglia,Tribunale,Bari,Misure di Prevenzione,Revoca Sequ. parziale,278/2002
-Puglia,Tribunale,Bari,Procedimento Penale,Confisca def.,3320/2016
 Puglia,Procura della Repubblica,Brindisi,Procedimento Penale,Confisca def.,10013/1996
 Puglia,Procura della Repubblica,Brindisi,Procedimento Penale,Confisca def.,1019/1999
 Puglia,Procura della Repubblica,Brindisi,Procedimento Penale,Confisca def.,2210/2007
