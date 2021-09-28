@@ -675,9 +675,9 @@ A-CT-92419-S,aziende,Sicilia,Catania,Catania,Impresa individuale,"Commercio ingr
 A-CT-92421-S,aziende,Sicilia,Catania,Acireale,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Revoca Seq.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-92424-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,50%,Tribunale,Catania,Misure di Prevenzione
 A-CT-92667-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Revoca Seq.,100%,Tribunale,Catania,Misure di Prevenzione
-A-CT-92716-S,aziende,Sicilia,Catania,Catania,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",,0%,Procura della Repubblica,Catania,Procedimento Penale
-A-CT-92717-S,aziende,Sicilia,Catania,Ramacca,Impresa individuale,Costruzioni,,0%,Procura della Repubblica,Catania,Procedimento Penale
-A-CT-92718-S,aziende,Sicilia,Catania,Ramacca,Impresa individuale,Costruzioni,,0%,Procura della Repubblica,Catania,Procedimento Penale
+A-CT-92716-S,aziende,Sicilia,Catania,Catania,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,0%,Procura della Repubblica,Catania,Procedimento Penale
+A-CT-92717-S,aziende,Sicilia,Catania,Ramacca,Impresa individuale,Costruzioni,Confisca def.,0%,Procura della Repubblica,Catania,Procedimento Penale
+A-CT-92718-S,aziende,Sicilia,Catania,Ramacca,Impresa individuale,Costruzioni,Confisca def.,0%,Procura della Repubblica,Catania,Procedimento Penale
 A-CT-93154-S,aziende,Sicilia,Catania,Catania,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-95033-S,aziende,Sicilia,Catania,Paternò,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-95091-S,aziende,Sicilia,Catania,Paternò,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
@@ -2120,7 +2120,6 @@ A-RC-80775-S,aziende,Calabria,Reggio Calabria,San Lorenzo,Impresa individuale,"A
 A-RC-80782-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società in accomandita semplice,Sanità e assistenza sociale,Confisca I,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-80841-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Impresa individuale,Costruzioni,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RC-80855-S,aziende,Calabria,Reggio Calabria,San Lorenzo,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-A-RC-80981-S,aziende,Calabria,Reggio Calabria,Antonimina,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca I,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-80983-S,aziende,Calabria,Reggio Calabria,Antonimina,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,40%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-80984-S,aziende,Calabria,Reggio Calabria,Antonimina,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-80985-S,aziende,Calabria,Reggio Calabria,Antonimina,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca I,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
