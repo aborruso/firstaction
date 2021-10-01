@@ -3891,7 +3891,7 @@ I-CS-40901-S,immobili,Calabria,Cosenza,Corigliano Calabro,Terreno,Terreno - non 
 I-CS-40903-S,immobili,Calabria,Cosenza,Corigliano Calabro,Terreno,Terreno - non definito,Confisca I,24%,Tribunale,Cosenza,Misure di Prevenzione
 I-CS-40906-S,immobili,Calabria,Cosenza,Spezzano Albanese,Terreno,Terreno - non definito,Confisca I,24%,Tribunale,Cosenza,Misure di Prevenzione
 I-CS-40908-S,immobili,Calabria,Cosenza,Spezzano Albanese,Terreno,Terreno - non definito,Confisca I,24%,Tribunale,Cosenza,Misure di Prevenzione
-I-CS-40911-S,immobili,Calabria,Cosenza,Spezzano Albanese,Terreno,Terreno - non definito,Confisca def.,24%,Tribunale,Cosenza,Misure di Prevenzione
+I-CS-40911-S,immobili,Calabria,Cosenza,Spezzano Albanese,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
 I-CS-40912-S,immobili,Calabria,Cosenza,Spezzano Albanese,Terreno,Terreno - non definito,Confisca I,24%,Tribunale,Cosenza,Misure di Prevenzione
 I-CS-40934-S,immobili,Calabria,Cosenza,Spezzano Albanese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
 I-CS-40936-S,immobili,Calabria,Cosenza,Spezzano Albanese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
@@ -4022,10 +4022,10 @@ I-CS-91299-S,immobili,Calabria,Cosenza,Scalea,Unità immobiliare per uso di abit
 I-CS-91449-S,immobili,Calabria,Cosenza,Mandatoriccio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-CS-92181-S,immobili,Calabria,Cosenza,Cassano all'Ionio,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
 I-CS-92316-S,immobili,Calabria,Cosenza,Corigliano Calabro,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,0%,Tribunale,Cosenza,Misure di Prevenzione
-I-CS-99757-S,immobili,Calabria,Cosenza,San Nicola Arcella,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-CS-99758-S,immobili,Calabria,Cosenza,San Nicola Arcella,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-CS-99759-S,immobili,Calabria,Cosenza,San Nicola Arcella,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-CS-99760-S,immobili,Calabria,Cosenza,San Nicola Arcella,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-CS-99792-S,immobili,Calabria,Cosenza,San Nicola Arcella,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-CS-99793-S,immobili,Calabria,Cosenza,San Nicola Arcella,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-CS-99794-S,immobili,Calabria,Cosenza,San Nicola Arcella,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-CS-99795-S,immobili,Calabria,Cosenza,San Nicola Arcella,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-CT-10831-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Milano,Misure di Prevenzione
 I-CT-20882-S,immobili,Sicilia,Catania,San Pietro Clarenza,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-20893-S,immobili,Sicilia,Catania,Ramacca,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Catania,Misure di Prevenzione
@@ -10945,16 +10945,16 @@ I-NA-98782-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare a
 I-NA-98785-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-98786-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-98947-S,immobili,Campania,Napoli,Torre Annunziata,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,3%,Procura della Repubblica,Torre Annunziata,Procedimento Penale
-I-NA-98962-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-98964-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-98966-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-98967-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-98970-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-98978-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-98980-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-98981-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-99-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-9928-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,66%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-99808-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-99809-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-99813-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-99815-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-99819-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-99822-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-99823-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-99825-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NO-11923-S,immobili,Piemonte,Novara,Dormelletto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-NO-40145-S,immobili,Piemonte,Novara,Novara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
 I-NO-48841-S,immobili,Piemonte,Novara,Cerano,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca I,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -14273,10 +14273,10 @@ I-PZ-50213-S,immobili,Basilicata,Potenza,Melfi,Unità immobiliare a destinazione
 I-PZ-50592-S,immobili,Basilicata,Potenza,Melfi,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Tribunale,Potenza,Misure di Prevenzione
 I-PZ-50603-S,immobili,Basilicata,Potenza,Melfi,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Potenza,Misure di Prevenzione
 I-PZ-50608-S,immobili,Basilicata,Potenza,Melfi,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Potenza,Misure di Prevenzione
-I-PZ-89579-S,immobili,Basilicata,Potenza,Maratea,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Corte di Appello,Salerno,Misure di Prevenzione
-I-PZ-89582-S,immobili,Basilicata,Potenza,Maratea,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Corte di Appello,Salerno,Misure di Prevenzione
-I-PZ-89583-S,immobili,Basilicata,Potenza,Maratea,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Corte di Appello,Salerno,Misure di Prevenzione
-I-PZ-89585-S,immobili,Basilicata,Potenza,Maratea,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Corte di Appello,Salerno,Misure di Prevenzione
+I-PZ-99796-S,immobili,Basilicata,Potenza,Maratea,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Corte di Appello,Salerno,Misure di Prevenzione
+I-PZ-99798-S,immobili,Basilicata,Potenza,Maratea,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Corte di Appello,Salerno,Misure di Prevenzione
+I-PZ-99801-S,immobili,Basilicata,Potenza,Maratea,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Corte di Appello,Salerno,Misure di Prevenzione
+I-PZ-99804-S,immobili,Basilicata,Potenza,Maratea,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Corte di Appello,Salerno,Misure di Prevenzione
 I-RA-35309-S,immobili,Emilia Romagna,Ravenna,Ravenna,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,50%,Procura della Repubblica,Messina,Procedimento Penale
 I-RA-52136-S,immobili,Emilia Romagna,Ravenna,Cervia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-RA-52483-S,immobili,Emilia Romagna,Ravenna,Cervia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -17237,10 +17237,6 @@ I-SA-87934-S,immobili,Campania,Salerno,Salerno,Unità immobiliare a destinazione
 I-SA-88160-S,immobili,Campania,Salerno,Cava de' Tirreni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-89114-S,immobili,Campania,Salerno,Agropoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-SA-89295-S,immobili,Campania,Salerno,Agropoli,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-SA-89584-S,immobili,Campania,Salerno,Pagani,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Corte di Appello,Salerno,Misure di Prevenzione
-I-SA-89586-S,immobili,Campania,Salerno,Pontecagnano Faiano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Corte di Appello,Salerno,Misure di Prevenzione
-I-SA-89587-S,immobili,Campania,Salerno,Pontecagnano Faiano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Corte di Appello,Salerno,Misure di Prevenzione
-I-SA-89589-S,immobili,Campania,Salerno,Pontecagnano Faiano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Corte di Appello,Salerno,Misure di Prevenzione
 I-SA-90116-S,immobili,Campania,Salerno,Nocera Inferiore,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Sequestro,50%,Procura della Repubblica,Salerno,Procedimento Penale
 I-SA-90217-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno agricolo,Revoca Conf.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-90219-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno agricolo,Revoca Conf.,100%,Tribunale,Salerno,Misure di Prevenzione
@@ -17264,6 +17260,10 @@ I-SA-98794-S,immobili,Campania,Salerno,Cava de' Tirreni,Unità immobiliare per u
 I-SA-98797-S,immobili,Campania,Salerno,Cava de' Tirreni,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Conf.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-98798-S,immobili,Campania,Salerno,Cava de' Tirreni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-98800-S,immobili,Campania,Salerno,Cava de' Tirreni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-99797-S,immobili,Campania,Salerno,Pagani,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Corte di Appello,Salerno,Misure di Prevenzione
+I-SA-99799-S,immobili,Campania,Salerno,Pontecagnano Faiano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Corte di Appello,Salerno,Misure di Prevenzione
+I-SA-99802-S,immobili,Campania,Salerno,Pontecagnano Faiano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Corte di Appello,Salerno,Misure di Prevenzione
+I-SA-99803-S,immobili,Campania,Salerno,Pontecagnano Faiano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Corte di Appello,Salerno,Misure di Prevenzione
 I-SI-83118-S,immobili,Toscana,Siena,San Gimignano,Altra unità immobiliare,Ex fabbricato rurale,Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 I-SI-83119-S,immobili,Toscana,Siena,San Gimignano,Altra unità immobiliare,Ex fabbricato rurale,Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 I-SI-83120-S,immobili,Toscana,Siena,San Gimignano,Altra unità immobiliare,Ex fabbricato rurale,Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
@@ -18609,7 +18609,6 @@ I-TP-42466-S,immobili,Sicilia,Trapani,Trapani,Unità immobiliare a destinazione 
 I-TP-42472-S,immobili,Sicilia,Trapani,Valderice,Terreno,Terreno edificabile,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-42491-S,immobili,Sicilia,Trapani,Buseto Palizzolo,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-42609-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Trapani,Procedimento Penale
-I-TP-42610-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Trapani,Procedimento Penale
 I-TP-42645-S,immobili,Sicilia,Trapani,Buseto Palizzolo,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-42647-S,immobili,Sicilia,Trapani,Buseto Palizzolo,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-42648-S,immobili,Sicilia,Trapani,Buseto Palizzolo,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
