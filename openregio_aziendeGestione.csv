@@ -907,7 +907,7 @@ A-LT-96256-S,aziende,Lazio,Latina,Formia,Società a responsabilità limitata,Est
 A-LT-96257-S,aziende,Lazio,Latina,Spigno Saturnia,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-97663-S,aziende,Lazio,Latina,Terracina,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-LT-97673-S,aziende,Lazio,Latina,Terracina,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-LT-99821-S,aziende,Lazio,Latina,Terracina,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+A-LT-99844-S,aziende,Lazio,Latina,Terracina,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-LU-36322-S,aziende,Toscana,Lucca,Lucca,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Firenze,Procedimento Penale
 A-LU-49792-S,aziende,Toscana,Lucca,Lucca,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,10%,Procura della Repubblica,Napoli,Procedimento Penale
 A-LU-59539-S,aziende,Toscana,Lucca,Viareggio,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,50%,Tribunale,Lucca,Misure di Prevenzione
@@ -1528,12 +1528,12 @@ A-NA-9864-S,aziende,Campania,Napoli,Quarto,Impresa individuale,"Attività immobi
 A-NA-98642-S,aziende,Campania,Napoli,Giugliano in Campania,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Conf.,0%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-98658-S,aziende,Campania,Napoli,Giugliano in Campania,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Revoca Conf.,0%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-98727-S,aziende,Campania,Napoli,Giugliano in Campania,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,0%,Procura della Repubblica,Napoli,Procedimento Penale
-A-NA-99810-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Alberghi e ristoranti,Revoca Seq.,50%,Tribunale,Napoli,Misure di Prevenzione
-A-NA-99811-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,50%,Tribunale,Napoli,Misure di Prevenzione
-A-NA-99814-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,50%,Tribunale,Napoli,Misure di Prevenzione
-A-NA-99817-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Alberghi e ristoranti,Revoca Conf.,100%,Tribunale,Napoli,Misure di Prevenzione
-A-NA-99820-S,aziende,Campania,Napoli,Napoli,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-A-NA-99824-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,50%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-99836-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,50%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-99840-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Alberghi e ristoranti,Revoca Seq.,50%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-99843-S,aziende,Campania,Napoli,Napoli,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-99846-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Alberghi e ristoranti,Revoca Conf.,100%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-99848-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,50%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-99851-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,50%,Tribunale,Napoli,Misure di Prevenzione
 A-NO-34697-S,aziende,Piemonte,Novara,Miasino,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Salerno,Procedimento Penale
 A-NO-58227-S,aziende,Piemonte,Novara,Pombia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,30%,Tribunale,Varese,Misure di Prevenzione
 A-NO-72188-S,aziende,Piemonte,Novara,Borgomanero,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
