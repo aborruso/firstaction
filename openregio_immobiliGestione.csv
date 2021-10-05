@@ -49,8 +49,6 @@ I-AG-21040-S,immobili,Sicilia,Agrigento,Realmonte,Unità immobiliare per uso di 
 I-AG-21041-S,immobili,Sicilia,Agrigento,Realmonte,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-21042-S,immobili,Sicilia,Agrigento,Realmonte,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-21078-S,immobili,Sicilia,Agrigento,Agrigento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-21386-S,immobili,Sicilia,Agrigento,Ribera,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-21388-S,immobili,Sicilia,Agrigento,Ribera,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-21489-S,immobili,Sicilia,Agrigento,Racalmuto,Terreno,Terreno con fabbricato rurale,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-21490-S,immobili,Sicilia,Agrigento,Racalmuto,Terreno,Terreno con fabbricato rurale,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-21520-S,immobili,Sicilia,Agrigento,Santa Margherita di Belice,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
@@ -8622,7 +8620,7 @@ I-MI-63980-S,immobili,Lombardia,Milano,Arese,Unità immobiliare a destinazione c
 I-MI-63984-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63985-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63986-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-63987-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-63987-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63991-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63992-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63994-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
@@ -10861,8 +10859,8 @@ I-NA-97807-S,immobili,Campania,Napoli,Ercolano,Unità immobiliare per uso di abi
 I-NA-97868-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-97871-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-98-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-98281-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-98282-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-98281-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-98282-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-98283-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,Altro,,0%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-98284-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-98285-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -15384,9 +15382,6 @@ I-RC-90024-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Terreno,Terreno agric
 I-RC-90025-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Terreno,Terreno agricolo,Revoca Conf.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-90351-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-91244-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno con fabbricato rurale,Confisca def.,4%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-92670-S,immobili,Calabria,Reggio Calabria,Palmi,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-92671-S,immobili,Calabria,Reggio Calabria,Palmi,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-92672-S,immobili,Calabria,Reggio Calabria,Palmi,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-9309-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Terreno,Terreno edificabile,Confisca def.,33%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-93173-S,immobili,Calabria,Reggio Calabria,Gioiosa Ionica,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 I-RC-93174-S,immobili,Calabria,Reggio Calabria,Gioiosa Ionica,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
@@ -16160,7 +16155,7 @@ I-RM-80700-S,immobili,Lazio,Roma,Ardea,Altra unità immobiliare,Altro,Confisca d
 I-RM-80708-S,immobili,Lazio,Roma,Ardea,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80709-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80710-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
-I-RM-80711-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-RM-80711-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80712-S,immobili,Lazio,Roma,Ardea,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80713-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80714-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
@@ -17146,7 +17141,7 @@ I-SA-64215-S,immobili,Campania,Salerno,Montecorice,Terreno,Terreno agricolo,Conf
 I-SA-64216-S,immobili,Campania,Salerno,Montecorice,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-64217-S,immobili,Campania,Salerno,Montecorice,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-64218-S,immobili,Campania,Salerno,Montecorice,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
-I-SA-64220-S,immobili,Campania,Salerno,Montecorice,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-64220-S,immobili,Campania,Salerno,Montecorice,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-64221-S,immobili,Campania,Salerno,Montecorice,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-64257-S,immobili,Campania,Salerno,Angri,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-64873-S,immobili,Campania,Salerno,Torchiara,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
