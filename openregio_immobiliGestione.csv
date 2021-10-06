@@ -9787,7 +9787,6 @@ I-NA-77598-S,immobili,Campania,Napoli,Casamarciano,Terreno,Terreno edificabile,C
 I-NA-77629-S,immobili,Campania,Napoli,Casoria,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-77746-S,immobili,Campania,Napoli,Pomigliano d'Arco,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-78198-S,immobili,Campania,Napoli,Pozzuoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-78200-S,immobili,Campania,Napoli,Qualiano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-78202-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-78203-S,immobili,Campania,Napoli,Giugliano in Campania,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-78252-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -13119,7 +13118,7 @@ I-PA-86123-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione 
 I-PA-86124-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-86130-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-86446-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-86514-S,immobili,Sicilia,Palermo,Campofelice di Roccella,Terreno,Terreno agricolo,,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-86514-S,immobili,Sicilia,Palermo,Campofelice di Roccella,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-86520-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-86618-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-86619-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -13175,7 +13174,7 @@ I-PA-89788-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abit
 I-PA-9000-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9001-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-90294-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-91246-S,immobili,Sicilia,Palermo,Altofonte,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-91246-S,immobili,Sicilia,Palermo,Altofonte,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9138-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9151-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-91531-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -13344,9 +13343,9 @@ I-PA-94159-S,immobili,Sicilia,Palermo,Monreale,Terreno,Terreno agricolo,Confisca
 I-PA-94160-S,immobili,Sicilia,Palermo,Monreale,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-94161-S,immobili,Sicilia,Palermo,Monreale,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-94162-S,immobili,Sicilia,Palermo,Monreale,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-94892-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-94893-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-94894-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-94892-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-94893-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-94894-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-94977-S,immobili,Sicilia,Palermo,Partinico,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-95137-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-95139-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -20135,7 +20134,6 @@ I-VT-52101-S,immobili,Lazio,Viterbo,Fabrica di Roma,Unità immobiliare per uso d
 I-VT-52102-S,immobili,Lazio,Viterbo,Fabrica di Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-VT-52104-S,immobili,Lazio,Viterbo,Fabrica di Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-VT-52105-S,immobili,Lazio,Viterbo,Fabrica di Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-I-VT-80632-S,immobili,Lazio,Viterbo,Sutri,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-VT-80783-S,immobili,Lazio,Viterbo,Monte Romano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-VT-80784-S,immobili,Lazio,Viterbo,Tarquinia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-VT-84156-S,immobili,Lazio,Viterbo,Gradoli,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
