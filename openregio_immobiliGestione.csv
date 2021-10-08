@@ -544,8 +544,8 @@ I-AL-61473-S,immobili,Piemonte,Alessandria,Sale,Terreno,Terreno agricolo,Confisc
 I-AL-61498-S,immobili,Piemonte,Alessandria,Sale,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Alessandria,Misure di Prevenzione
 I-AL-72087-S,immobili,Piemonte,Alessandria,Pasturana,Terreno,Terreno - non definito,Rinvio,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-AL-72088-S,immobili,Piemonte,Alessandria,Pasturana,Terreno,Terreno - non definito,Rinvio,7%,Procura della Repubblica,Milano,Procedimento Penale
-I-AL-72214-S,immobili,Piemonte,Alessandria,Tortona,Terreno,Terreno agricolo,Confisca II,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-AL-72215-S,immobili,Piemonte,Alessandria,Tortona,Terreno,Terreno agricolo,Confisca II,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-AL-72214-S,immobili,Piemonte,Alessandria,Tortona,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-AL-72215-S,immobili,Piemonte,Alessandria,Tortona,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-AL-76532-S,immobili,Piemonte,Alessandria,Bosco Marengo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Tribunale,Alessandria,Misure di Prevenzione
 I-AL-76533-S,immobili,Piemonte,Alessandria,Bosco Marengo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Tribunale,Alessandria,Misure di Prevenzione
 I-AL-76536-S,immobili,Piemonte,Alessandria,Bosco Marengo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Tribunale,Alessandria,Misure di Prevenzione
@@ -2236,7 +2236,7 @@ I-CE-78383-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare per u
 I-CE-78853-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,34%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-79590-S,immobili,Campania,Caserta,San Felice a Cancello,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-CE-79591-S,immobili,Campania,Caserta,San Felice a Cancello,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-CE-79758-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-79758-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-79760-S,immobili,Campania,Caserta,Casal di Principe,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-80572-S,immobili,Campania,Caserta,Marcianise,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-80612-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -5939,7 +5939,7 @@ I-IM-92103-S,immobili,Liguria,Imperia,Sanremo,Terreno,Terreno agricolo,,0%,Procu
 I-IM-92104-S,immobili,Liguria,Imperia,Sanremo,Terreno,Terreno agricolo,,0%,Procura della Repubblica,Imperia,Procedimento Penale
 I-IM-94925-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-IM-94926-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-I-IM-98939-S,immobili,Liguria,Imperia,Ospedaletti,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Torino,Misure di Prevenzione
+I-IM-99886-S,immobili,Liguria,Imperia,Ospedaletti,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Torino,Misure di Prevenzione
 I-IS-50785-S,immobili,Molise,Isernia,Isernia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,83%,Procura della Repubblica,Napoli,Procedimento Penale
 I-IS-50787-S,immobili,Molise,Isernia,Isernia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-IS-81900-S,immobili,Molise,Isernia,Venafro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -10964,7 +10964,7 @@ I-NO-53214-S,immobili,Piemonte,Novara,Meina,Terreno,Terreno agricolo,Confisca de
 I-NO-53216-S,immobili,Piemonte,Novara,Meina,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-NO-61566-S,immobili,Piemonte,Novara,San Maurizio d'Opaglio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Procura della Repubblica,Verbania,Procedimento Penale
 I-NO-61567-S,immobili,Piemonte,Novara,San Maurizio d'Opaglio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,50%,Procura della Repubblica,Verbania,Procedimento Penale
-I-NO-68577-S,immobili,Piemonte,Novara,Galliate,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
+I-NO-68577-S,immobili,Piemonte,Novara,Galliate,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-NO-68578-S,immobili,Piemonte,Novara,Varallo Pombia,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-NO-68579-S,immobili,Piemonte,Novara,Varallo Pombia,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-NO-68580-S,immobili,Piemonte,Novara,Varallo Pombia,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -12462,7 +12462,7 @@ I-PA-69592-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abit
 I-PA-69593-S,immobili,Sicilia,Palermo,Lascari,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-69794-S,immobili,Sicilia,Palermo,Belmonte Mezzagno,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-69795-S,immobili,Sicilia,Palermo,Belmonte Mezzagno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-69796-S,immobili,Sicilia,Palermo,Belmonte Mezzagno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-69796-S,immobili,Sicilia,Palermo,Belmonte Mezzagno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,86%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-7031-S,immobili,Sicilia,Palermo,Altofonte,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-7032-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-7033-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -16221,7 +16221,7 @@ I-RM-82676-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerci
 I-RM-82686-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-82699-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-82700-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-82705-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-82705-S,immobili,Lazio,Roma,Bracciano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-82706-S,immobili,Lazio,Roma,Bracciano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-82707-S,immobili,Lazio,Roma,Palombara Sabina,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-82708-S,immobili,Lazio,Roma,Palombara Sabina,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -18177,14 +18177,14 @@ I-TO-96027-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abita
 I-TO-97050-S,immobili,Piemonte,Torino,Volpiano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Torino,Procedimento Penale
 I-TO-97051-S,immobili,Piemonte,Torino,Volpiano,Altra unità immobiliare,Altro,,0%,Procura della Repubblica,Torino,Procedimento Penale
 I-TO-98358-S,immobili,Piemonte,Torino,San Carlo Canavese,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-I-TO-98931-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-I-TO-98933-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-I-TO-98934-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-I-TO-98935-S,immobili,Piemonte,Torino,Villarbasse,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-I-TO-98936-S,immobili,Piemonte,Torino,Villarbasse,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-I-TO-98937-S,immobili,Piemonte,Torino,Villarbasse,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-I-TO-98938-S,immobili,Piemonte,Torino,Torino,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-I-TO-98940-S,immobili,Piemonte,Torino,Villarbasse,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-99887-S,immobili,Piemonte,Torino,Villarbasse,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-99888-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-99889-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-99890-S,immobili,Piemonte,Torino,Villarbasse,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-99891-S,immobili,Piemonte,Torino,Villarbasse,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-99892-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-99893-S,immobili,Piemonte,Torino,Villarbasse,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-99894-S,immobili,Piemonte,Torino,Torino,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TP-19059-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-19060-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-19061-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
