@@ -506,7 +506,7 @@ A-CL-78931-S,aziende,Sicilia,Caltanissetta,Gela,Società a responsabilità limit
 A-CL-78960-S,aziende,Sicilia,Caltanissetta,Montedoro,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-85210-S,aziende,Sicilia,Caltanissetta,Vallelunga Pratameno,Impresa individuale,"Agricoltura, caccia e silvicoltura",Revoca Seq.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-85230-S,aziende,Sicilia,Caltanissetta,Vallelunga Pratameno,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-A-CL-90963-S,aziende,Sicilia,Caltanissetta,Gela,Società a responsabilità limitata,Costruzioni,,0%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-CL-90963-S,aziende,Sicilia,Caltanissetta,Gela,Società a responsabilità limitata,Costruzioni,Confisca I,0%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-91544-S,aziende,Sicilia,Caltanissetta,Gela,Impresa individuale,Alberghi e ristoranti,Confisca def.,0%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-97721-S,aziende,Sicilia,Caltanissetta,Gela,Società a responsabilità limitata,Costruzioni,Confisca II,60%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CN-95876-S,aziende,Piemonte,Cuneo,Sommariva del Bosco,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
@@ -2171,6 +2171,7 @@ A-RC-98011-S,aziende,Calabria,Reggio Calabria,Melicucco,Impresa individuale,"Com
 A-RC-98052-S,aziende,Calabria,Reggio Calabria,Melicucco,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
 A-RC-9813-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,22%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-98140-S,aziende,Calabria,Reggio Calabria,Bianco,Società a responsabilità limitata,,,0%,Procura della Repubblica,Locri,Procedimento Penale
+A-RC-99995-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,50%,Corte di Appello,Reggio Calabria,Procedimento Penale
 A-RE-12510-S,aziende,Emilia Romagna,Reggio Emilia,Brescello,Impresa individuale,Costruzioni,Confisca II,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-RE-12511-S,aziende,Emilia Romagna,Reggio Emilia,Brescello,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-RE-36701-S,aziende,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
