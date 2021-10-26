@@ -5827,9 +5827,9 @@ I-GE-72296-S,immobili,Liguria,Genova,Sant'Olcese,Terreno,Terreno agricolo,Confis
 I-GE-72300-S,immobili,Liguria,Genova,Serra Riccò,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-72434-S,immobili,Liguria,Genova,Sant'Olcese,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-72543-S,immobili,Liguria,Genova,Serra Riccò,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
-I-GE-72563-S,immobili,Liguria,Genova,Genova,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
-I-GE-72564-S,immobili,Liguria,Genova,Genova,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
-I-GE-72565-S,immobili,Liguria,Genova,Genova,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
+I-GE-72563-S,immobili,Liguria,Genova,Genova,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
+I-GE-72564-S,immobili,Liguria,Genova,Genova,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
+I-GE-72565-S,immobili,Liguria,Genova,Genova,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-72566-S,immobili,Liguria,Genova,Genova,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-72567-S,immobili,Liguria,Genova,Genova,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-72568-S,immobili,Liguria,Genova,Genova,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
@@ -5838,11 +5838,11 @@ I-GE-72570-S,immobili,Liguria,Genova,Genova,Terreno,Terreno agricolo,Confisca I,
 I-GE-72571-S,immobili,Liguria,Genova,Genova,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-72572-S,immobili,Liguria,Genova,Genova,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-72573-S,immobili,Liguria,Genova,Genova,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
-I-GE-72574-S,immobili,Liguria,Genova,Genova,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
-I-GE-72575-S,immobili,Liguria,Genova,Genova,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
-I-GE-72576-S,immobili,Liguria,Genova,Genova,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
-I-GE-72577-S,immobili,Liguria,Genova,Genova,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
-I-GE-72579-S,immobili,Liguria,Genova,Genova,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
+I-GE-72574-S,immobili,Liguria,Genova,Genova,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
+I-GE-72575-S,immobili,Liguria,Genova,Genova,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
+I-GE-72576-S,immobili,Liguria,Genova,Genova,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
+I-GE-72577-S,immobili,Liguria,Genova,Genova,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
+I-GE-72579-S,immobili,Liguria,Genova,Genova,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-72594-S,immobili,Liguria,Genova,Sant'Olcese,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-72595-S,immobili,Liguria,Genova,Sant'Olcese,Terreno,Terreno con fabbricato rurale,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-73155-S,immobili,Liguria,Genova,Genova,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Genova,Procedimento Penale
@@ -5937,24 +5937,24 @@ I-GR-93106-S,immobili,Toscana,Grosseto,Civitella Paganico,Terreno,Terreno agrico
 I-GR-93129-S,immobili,Toscana,Grosseto,Civitella Paganico,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-GR-93140-S,immobili,Toscana,Grosseto,Civitella Paganico,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-IM-35513-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
-I-IM-35763-S,immobili,Liguria,Imperia,Bordighera,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Imperia,Misure di Prevenzione
+I-IM-35763-S,immobili,Liguria,Imperia,Bordighera,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-64734-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-64736-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-64737-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-64739-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
-I-IM-72926-S,immobili,Liguria,Imperia,Bordighera,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Imperia,Misure di Prevenzione
-I-IM-72927-S,immobili,Liguria,Imperia,Bordighera,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Imperia,Misure di Prevenzione
-I-IM-72928-S,immobili,Liguria,Imperia,Bordighera,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Imperia,Misure di Prevenzione
-I-IM-72929-S,immobili,Liguria,Imperia,Vallecrosia,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Imperia,Misure di Prevenzione
-I-IM-72930-S,immobili,Liguria,Imperia,Vallecrosia,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Imperia,Misure di Prevenzione
-I-IM-72932-S,immobili,Liguria,Imperia,Vallecrosia,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Imperia,Misure di Prevenzione
-I-IM-72933-S,immobili,Liguria,Imperia,Vallecrosia,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Imperia,Misure di Prevenzione
+I-IM-72926-S,immobili,Liguria,Imperia,Bordighera,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
+I-IM-72927-S,immobili,Liguria,Imperia,Bordighera,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
+I-IM-72928-S,immobili,Liguria,Imperia,Bordighera,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
+I-IM-72929-S,immobili,Liguria,Imperia,Vallecrosia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
+I-IM-72930-S,immobili,Liguria,Imperia,Vallecrosia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
+I-IM-72932-S,immobili,Liguria,Imperia,Vallecrosia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
+I-IM-72933-S,immobili,Liguria,Imperia,Vallecrosia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-72934-S,immobili,Liguria,Imperia,Bordighera,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-72936-S,immobili,Liguria,Imperia,Bordighera,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-72937-S,immobili,Liguria,Imperia,Bordighera,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-72939-S,immobili,Liguria,Imperia,Bordighera,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca II,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-72940-S,immobili,Liguria,Imperia,Bordighera,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
-I-IM-72941-S,immobili,Liguria,Imperia,Bordighera,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Imperia,Misure di Prevenzione
+I-IM-72941-S,immobili,Liguria,Imperia,Bordighera,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-72942-S,immobili,Liguria,Imperia,Vallecrosia,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-72943-S,immobili,Liguria,Imperia,Vallecrosia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-72944-S,immobili,Liguria,Imperia,Bordighera,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
