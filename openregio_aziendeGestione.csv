@@ -305,7 +305,6 @@ A-CE-38019-S,aziende,Campania,Caserta,Castel Volturno,Società a responsabilità
 A-CE-39764-S,aziende,Campania,Caserta,San Cipriano d'Aversa,Altro,Costruzioni,Confisca def.,100%,Procura della Repubblica,Nola,Procedimento Penale
 A-CE-404-S,aziende,Campania,Caserta,Santa Maria Capua Vetere,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-CE-41313-S,aziende,Campania,Caserta,Castel Volturno,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,50%,Procura della Repubblica,Napoli,Procedimento Penale
-A-CE-41331-S,aziende,Campania,Caserta,San Cipriano d'Aversa,Società a responsabilità limitata,Costruzioni,Confisca def.,1%,Procura della Repubblica,Napoli,Procedimento Penale
 A-CE-4760-S,aziende,Campania,Caserta,San Marcellino,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
 A-CE-5023-S,aziende,Campania,Caserta,Orta di Atella,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-CE-50883-S,aziende,Campania,Caserta,Frignano,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca I,20%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -2465,9 +2464,9 @@ A-RM-86466-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attivi
 A-RM-86637-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Produzione e distribuzione di energia elettrica, gas e acqua",Revoca Conf. parziale,1%,Tribunale,Roma,Misure di Prevenzione
 A-RM-86704-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Revoca Sequ. parziale,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-87009-S,aziende,Lazio,Roma,Roma,Impresa individuale,"Altri servizi pubblici, sociali e personali",Revoca Conf. parziale,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-87591-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-87600-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-87601-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-87591-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-87600-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-87601-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-87718-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Revoca Seq.,16%,Tribunale,Roma,Misure di Prevenzione
 A-RM-87733-S,aziende,Lazio,Roma,Roma,Impresa individuale,Attività manifatturiere,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-87734-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Conf.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -2520,12 +2519,12 @@ A-RM-90090-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Attivit
 A-RM-90092-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-90106-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-91268-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-91269-S,aziende,Lazio,Roma,Roma,Consorzio,Attività manifatturiere,,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-91270-S,aziende,Lazio,Roma,Roma,Consorzio,Costruzioni,,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-91271-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-91272-S,aziende,Lazio,Roma,Roma,Società per azioni,Attività manifatturiere,,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-91275-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-91276-S,aziende,Lazio,Roma,Fiano Romano,Società a responsabilità limitata,Attività finanziarie,,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-91269-S,aziende,Lazio,Roma,Roma,Consorzio,Attività manifatturiere,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-91270-S,aziende,Lazio,Roma,Roma,Consorzio,Costruzioni,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-91271-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-91272-S,aziende,Lazio,Roma,Roma,Società per azioni,Attività manifatturiere,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-91275-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-91276-S,aziende,Lazio,Roma,Fiano Romano,Società a responsabilità limitata,Attività finanziarie,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-92382-S,aziende,Lazio,Roma,Ardea,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,100%,Tribunale,Catania,Misure di Prevenzione
 A-RM-92388-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Catania,Misure di Prevenzione
 A-RM-92425-S,aziende,Lazio,Roma,Roma,Società per azioni,Attività finanziarie,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
@@ -2972,7 +2971,7 @@ A-TP-97956-S,aziende,Sicilia,Trapani,Mazara del Vallo,Società a responsabilità
 A-TR-62300-S,aziende,Umbria,Terni,Terni,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-TR-857-S,aziende,Umbria,Terni,Terni,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,10%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-TV-80094-S,aziende,Veneto,Treviso,Castelfranco Veneto,Società a responsabilità limitata,Costruzioni,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
-A-TV-91274-S,aziende,Veneto,Treviso,Vazzola,Consorzio,Costruzioni,,0%,Tribunale,Roma,Misure di Prevenzione
+A-TV-91274-S,aziende,Veneto,Treviso,Vazzola,Consorzio,Costruzioni,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-TV-92409-S,aziende,Veneto,Treviso,Castelfranco Veneto,Società a responsabilità limitata,Costruzioni,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
 A-UD-80096-S,aziende,Friuli Venezia Giulia,Udine,Palmanova,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
 A-UD-92397-S,aziende,Friuli Venezia Giulia,Udine,Palmanova,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
