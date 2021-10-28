@@ -853,7 +853,6 @@ A-LT-36279-S,aziende,Lazio,Latina,Fondi,Società in nome collettivo,,Confisca de
 A-LT-36280-S,aziende,Lazio,Latina,Fondi,Società a responsabilità limitata,,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-36281-S,aziende,Lazio,Latina,Fondi,Società a responsabilità limitata,,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-4783-S,aziende,Lazio,Latina,Fondi,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
-A-LT-49255-S,aziende,Lazio,Latina,Latina,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-53637-S,aziende,Lazio,Latina,Gaeta,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,100%,Tribunale,Frosinone,Misure di Prevenzione
 A-LT-59053-S,aziende,Lazio,Latina,Aprilia,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-LT-60082-S,aziende,Lazio,Latina,Latina,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Procura della Repubblica,Latina,Procedimento Penale
@@ -1020,8 +1019,6 @@ A-MI-27969-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata
 A-MI-28547-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Attività finanziarie,Confisca def.,33%,Tribunale,Milano,Misure di Prevenzione
 A-MI-28548-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,20%,Tribunale,Milano,Misure di Prevenzione
 A-MI-28549-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,40%,Tribunale,Milano,Misure di Prevenzione
-A-MI-29719-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-A-MI-29720-S,aziende,Lombardia,Milano,Milano,Società per azioni,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-29721-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-30316-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 A-MI-30322-S,aziende,Lombardia,Milano,Milano,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -1676,7 +1673,6 @@ A-PA-48297-S,aziende,Sicilia,Palermo,Bagheria,Società per azioni,"Pesca, piscic
 A-PA-48532-S,aziende,Sicilia,Palermo,Palermo,Società in accomandita semplice,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-48748-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,3%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-48749-S,aziende,Sicilia,Palermo,Trabia,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,80%,Tribunale,Palermo,Misure di Prevenzione
-A-PA-49101-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-49682-S,aziende,Sicilia,Palermo,Lercara Friddi,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,17%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-5195-S,aziende,Sicilia,Palermo,Montelepre,Società in nome collettivo,Costruzioni,Confisca def.,34%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-5196-S,aziende,Sicilia,Palermo,Partinico,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -1984,6 +1980,7 @@ A-PV-72092-S,aziende,Lombardia,Pavia,Pavia,Società a responsabilità limitata,S
 A-PV-80202-S,aziende,Lombardia,Pavia,Mortara,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
 A-RA-70660-S,aziende,Emilia Romagna,Ravenna,Russi,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-RA-96237-S,aziende,Emilia Romagna,Ravenna,Ravenna,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",,0%,Tribunale,Bologna,Misure di Prevenzione
+A-RC-100080-S,aziende,Calabria,Reggio Calabria,Stilo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RC-10206-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-10207-S,aziende,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-10387-S,aziende,Calabria,Reggio Calabria,Bianco,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
