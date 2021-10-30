@@ -74,9 +74,9 @@ I-AG-28797-S,immobili,Sicilia,Agrigento,Cattolica Eraclea,Terreno,Terreno - non 
 I-AG-3-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-33663-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-34578-S,immobili,Sicilia,Agrigento,Favara,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-34579-S,immobili,Sicilia,Agrigento,Favara,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-34580-S,immobili,Sicilia,Agrigento,Favara,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-34581-S,immobili,Sicilia,Agrigento,Favara,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-34579-S,immobili,Sicilia,Agrigento,Agrigento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-34580-S,immobili,Sicilia,Agrigento,Agrigento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-34581-S,immobili,Sicilia,Agrigento,Agrigento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-34582-S,immobili,Sicilia,Agrigento,Agrigento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-34583-S,immobili,Sicilia,Agrigento,Favara,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-34685-S,immobili,Sicilia,Agrigento,Siculiana,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
@@ -2268,7 +2268,6 @@ I-CE-79590-S,immobili,Campania,Caserta,San Felice a Cancello,Unità immobiliare 
 I-CE-79591-S,immobili,Campania,Caserta,San Felice a Cancello,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-CE-79758-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-79760-S,immobili,Campania,Caserta,Casal di Principe,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-80572-S,immobili,Campania,Caserta,Marcianise,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-80612-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-80633-S,immobili,Campania,Caserta,Marcianise,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
 I-CE-80640-S,immobili,Campania,Caserta,Marcianise,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
@@ -17941,7 +17940,7 @@ I-TO-62756-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abita
 I-TO-67111-S,immobili,Piemonte,Torino,San Gillio,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
 I-TO-68810-S,immobili,Piemonte,Torino,Torino,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-68965-S,immobili,Piemonte,Torino,Orbassano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-I-TO-69106-S,immobili,Piemonte,Torino,San Carlo Canavese,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-69106-S,immobili,Piemonte,Torino,San Carlo Canavese,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-69653-S,immobili,Piemonte,Torino,Prascorsano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-69660-S,immobili,Piemonte,Torino,San Giusto Canavese,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Torino,Procedimento Penale
 I-TO-70370-S,immobili,Piemonte,Torino,Montalenghe,Terreno,Terreno agricolo,Impugnazione,100%,Tribunale,Torino,Misure di Prevenzione
