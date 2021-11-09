@@ -1315,9 +1315,9 @@ I-BO-83675-S,immobili,Emilia Romagna,Bologna,Bentivoglio,Unità immobiliare per 
 I-BO-83676-S,immobili,Emilia Romagna,Bologna,Bentivoglio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-BO-83677-S,immobili,Emilia Romagna,Bologna,Bentivoglio,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-BO-83678-S,immobili,Emilia Romagna,Bologna,Bentivoglio,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
-I-BO-84421-S,immobili,Emilia Romagna,Bologna,San Giovanni in Persiceto,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Bologna,Misure di Prevenzione
-I-BO-84424-S,immobili,Emilia Romagna,Bologna,San Giovanni in Persiceto,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Bologna,Misure di Prevenzione
-I-BO-84425-S,immobili,Emilia Romagna,Bologna,San Giovanni in Persiceto,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Bologna,Misure di Prevenzione
+I-BO-84421-S,immobili,Emilia Romagna,Bologna,San Giovanni in Persiceto,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,0%,Tribunale,Bologna,Misure di Prevenzione
+I-BO-84424-S,immobili,Emilia Romagna,Bologna,San Giovanni in Persiceto,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,0%,Tribunale,Bologna,Misure di Prevenzione
+I-BO-84425-S,immobili,Emilia Romagna,Bologna,San Giovanni in Persiceto,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,0%,Tribunale,Bologna,Misure di Prevenzione
 I-BO-84426-S,immobili,Emilia Romagna,Bologna,San Giovanni in Persiceto,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf. parziale,0%,Tribunale,Bologna,Misure di Prevenzione
 I-BO-94286-S,immobili,Emilia Romagna,Bologna,Bologna,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Tribunale,Matera,Misure di Prevenzione
 I-BR-10878-S,immobili,Puglia,Brindisi,Torre Santa Susanna,Terreno,Terreno agricolo,Confisca def.,7%,Tribunale,Brindisi,Misure di Prevenzione
@@ -5392,7 +5392,7 @@ I-FE-93191-S,immobili,Emilia Romagna,Ferrara,Cento,Unità immobiliare a destinaz
 I-FE-93192-S,immobili,Emilia Romagna,Ferrara,Cento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-FE-93193-S,immobili,Emilia Romagna,Ferrara,Cento,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-FE-93194-S,immobili,Emilia Romagna,Ferrara,Cento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
-I-FE-99741-S,immobili,Emilia Romagna,Ferrara,Argenta,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
+I-FE-99741-S,immobili,Emilia Romagna,Ferrara,Argenta,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
 I-FG-100274-S,immobili,Puglia,Foggia,Orta Nova,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-17324-S,immobili,Puglia,Foggia,Manfredonia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-17325-S,immobili,Puglia,Foggia,Manfredonia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
@@ -8283,7 +8283,7 @@ I-MI-13627-S,immobili,Lombardia,Milano,Bareggio,Terreno,Terreno - non definito,C
 I-MI-13628-S,immobili,Lombardia,Milano,Nerviano,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-13702-S,immobili,Lombardia,Milano,Bareggio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-13703-S,immobili,Lombardia,Milano,Bareggio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-13704-S,immobili,Lombardia,Milano,Cornaredo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
+I-MI-13704-S,immobili,Lombardia,Milano,Cornaredo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-14015-S,immobili,Lombardia,Milano,Paderno Dugnano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Corte di Appello,Reggio Calabria,Misure di Prevenzione
 I-MI-14016-S,immobili,Lombardia,Milano,Paderno Dugnano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Corte di Appello,Reggio Calabria,Misure di Prevenzione
 I-MI-14958-S,immobili,Lombardia,Milano,Gorgonzola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -14326,6 +14326,8 @@ I-RC-100267-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobi
 I-RC-100268-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-100269-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-100270-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-100298-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-100299-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-10116-S,immobili,Calabria,Reggio Calabria,Rosarno,Terreno,Terreno - non definito,Rinvio,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-10117-S,immobili,Calabria,Reggio Calabria,Rosarno,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-10221-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
