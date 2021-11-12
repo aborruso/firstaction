@@ -1120,7 +1120,6 @@ A-MI-79747-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata
 A-MI-79750-S,aziende,Lombardia,Milano,Trezzano sul Naviglio,Impresa individuale,"Altri servizi pubblici, sociali e personali",Rinvio,100%,Tribunale,Torino,Misure di Prevenzione
 A-MI-80444-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Revoca Conf. parziale,100%,Tribunale,Milano,Procedimento Penale
 A-MI-81356-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,40%,Tribunale,Milano,Misure di Prevenzione
-A-MI-81538-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,66%,Corte di Appello,Milano,Procedimento Penale
 A-MI-81582-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,1%,Corte di Appello,Milano,Procedimento Penale
 A-MI-82711-S,aziende,Lombardia,Milano,Inzago,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-82739-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,100%,Procura della Repubblica,Brescia,Procedimento Penale
@@ -2406,12 +2405,7 @@ A-RM-82373-S,aziende,Lazio,Roma,Roma,Consorzio,"Produzione e distribuzione di en
 A-RM-82394-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-82397-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-82400-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-82539-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Rinvio,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-82549-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Rinvio,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-82550-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Rinvio,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-82551-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Rinvio,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-82552-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Rinvio,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-82553-S,aziende,Lazio,Roma,Roma,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Rinvio,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-82551-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-82576-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-82666-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-83103-S,aziende,Lazio,Roma,Santa Marinella,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Sequestro,0%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -2600,7 +2594,7 @@ A-RM-95765-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commer
 A-RM-95779-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
 A-RM-95789-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
 A-RM-95983-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-95984-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Rinvio,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-95984-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-96228-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-96361-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Reggio Calabria,Procedimento Penale
 A-RM-97476-S,aziende,Lazio,Roma,Ardea,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,19%,Tribunale,Palermo,Misure di Prevenzione
