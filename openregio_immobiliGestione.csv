@@ -1,6 +1,15 @@
 s_bene,genere,nome_regione,nome_provincia,nome_comune,categoria,sottocategoria,provvedimento,quota_confiscata,ufficio_giudiziario,distretto,tipologia_procedura
 I-AG-1-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-10-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno con fabbricato rurale,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-100317-S,immobili,Sicilia,Agrigento,Campobello di Licata,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-100318-S,immobili,Sicilia,Agrigento,Campobello di Licata,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-100319-S,immobili,Sicilia,Agrigento,Campobello di Licata,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-100320-S,immobili,Sicilia,Agrigento,Campobello di Licata,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-100321-S,immobili,Sicilia,Agrigento,Campobello di Licata,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-100322-S,immobili,Sicilia,Agrigento,Campobello di Licata,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-100323-S,immobili,Sicilia,Agrigento,Campobello di Licata,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-100324-S,immobili,Sicilia,Agrigento,Campobello di Licata,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-100325-S,immobili,Sicilia,Agrigento,Campobello di Licata,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-11-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-12-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-13-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
@@ -5942,10 +5951,10 @@ I-IM-72933-S,immobili,Liguria,Imperia,Vallecrosia,Terreno,Terreno agricolo,Confi
 I-IM-72934-S,immobili,Liguria,Imperia,Bordighera,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-72936-S,immobili,Liguria,Imperia,Bordighera,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-72937-S,immobili,Liguria,Imperia,Bordighera,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
-I-IM-72939-S,immobili,Liguria,Imperia,Bordighera,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca II,100%,Tribunale,Imperia,Misure di Prevenzione
+I-IM-72939-S,immobili,Liguria,Imperia,Bordighera,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-72940-S,immobili,Liguria,Imperia,Bordighera,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-72941-S,immobili,Liguria,Imperia,Bordighera,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
-I-IM-72942-S,immobili,Liguria,Imperia,Vallecrosia,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Imperia,Misure di Prevenzione
+I-IM-72942-S,immobili,Liguria,Imperia,Vallecrosia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-72943-S,immobili,Liguria,Imperia,Vallecrosia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-72944-S,immobili,Liguria,Imperia,Bordighera,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-72945-S,immobili,Liguria,Imperia,Bordighera,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
@@ -14331,6 +14340,15 @@ I-RC-100269-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobi
 I-RC-100270-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-100298-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-100299-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-100326-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
+I-RC-100327-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
+I-RC-100332-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
+I-RC-100339-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
+I-RC-100340-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
+I-RC-100343-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
+I-RC-100344-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
+I-RC-100345-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
+I-RC-100346-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 I-RC-10117-S,immobili,Calabria,Reggio Calabria,Rosarno,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-10221-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-10271-S,immobili,Calabria,Reggio Calabria,Africo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
