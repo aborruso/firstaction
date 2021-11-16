@@ -730,6 +730,20 @@ A-CZ-84234-S,aziende,Calabria,Catanzaro,Davoli,Società a responsabilità limita
 A-CZ-92477-S,aziende,Calabria,Catanzaro,San Sostene,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 A-CZ-92478-S,aziende,Calabria,Catanzaro,Satriano,Società a responsabilità limitata,Costruzioni,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 A-CZ-97473-S,aziende,Calabria,Catanzaro,San Sostene,Impresa individuale,Costruzioni,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
+A-EN-100356-S,aziende,Sicilia,Enna,Agira,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,25%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-EN-100357-S,aziende,Sicilia,Enna,Leonforte,Società a responsabilità limitata,Costruzioni,Confisca I,51%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-EN-100359-S,aziende,Sicilia,Enna,Leonforte,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-EN-100360-S,aziende,Sicilia,Enna,Leonforte,Società a responsabilità limitata,Costruzioni,Confisca I,51%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-EN-100362-S,aziende,Sicilia,Enna,Leonforte,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca I,90%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-EN-100364-S,aziende,Sicilia,Enna,Leonforte,Società a responsabilità limitata,Costruzioni,Confisca I,1%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-EN-100368-S,aziende,Sicilia,Enna,Leonforte,Società a responsabilità limitata,Costruzioni,Revoca Seq.,0%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-EN-100370-S,aziende,Sicilia,Enna,Leonforte,Società a responsabilità limitata,Costruzioni,Confisca I,51%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-EN-100375-S,aziende,Sicilia,Enna,Leonforte,Società a responsabilità limitata,Costruzioni,Confisca I,51%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-EN-100381-S,aziende,Sicilia,Enna,Leonforte,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-EN-100384-S,aziende,Sicilia,Enna,Leonforte,Società a responsabilità limitata,Costruzioni,Confisca I,51%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-EN-100385-S,aziende,Sicilia,Enna,Leonforte,Società a responsabilità limitata,Costruzioni,Confisca I,51%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-EN-100387-S,aziende,Sicilia,Enna,Leonforte,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,51%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-EN-100388-S,aziende,Sicilia,Enna,Leonforte,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Revoca Seq.,0%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-EN-23317-S,aziende,Sicilia,Enna,Valguarnera Caropepe,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
 A-EN-61556-S,aziende,Sicilia,Enna,Regalbuto,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-EN-61557-S,aziende,Sicilia,Enna,Regalbuto,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
@@ -1172,6 +1186,7 @@ A-MS-73938-S,aziende,Toscana,Massa-Carrara,Massa,Società a responsabilità limi
 A-MS-82887-S,aziende,Toscana,Massa-Carrara,Pontremoli,Società a responsabilità limitata,Attività finanziarie,Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 A-MS-82966-S,aziende,Toscana,Massa-Carrara,Carrara,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 A-MS-82969-S,aziende,Toscana,Massa-Carrara,Pontremoli,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
+A-NA-100398-S,aziende,Campania,Napoli,Giugliano in Campania,Società a responsabilità limitata,Attività manifatturiere,Confisca II,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-10284-S,aziende,Campania,Napoli,Napoli,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-10361-S,aziende,Campania,Napoli,Castellammare di Stabia,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-11785-S,aziende,Campania,Napoli,Bacoli,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
