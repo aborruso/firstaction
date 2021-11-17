@@ -216,10 +216,10 @@ Calabria,Procura della Repubblica,Lamezia Terme,Procedimento Penale,Confisca def
 Calabria,Procura della Repubblica,Lamezia Terme,Procedimento Penale,Revoca Conf.,821/2010
 Calabria,Procura della Repubblica,Locri,Procedimento Penale,Confisca I,3369/2008
 Calabria,Procura della Repubblica,Palmi,Procedimento Penale,Confisca def.,1515/2010
-Calabria,Corte di Appello,Reggio Calabria,Misure di Prevenzione,Confisca II,534/2019
 Calabria,Corte di Appello,Reggio Calabria,Misure di Prevenzione,Confisca def.,1/2011
 Calabria,Corte di Appello,Reggio Calabria,Misure di Prevenzione,Confisca def.,37/2018
 Calabria,Corte di Appello,Reggio Calabria,Procedimento Penale,Confisca II,177/2020
+Calabria,Corte di Appello,Reggio Calabria,Procedimento Penale,Confisca II,534/2019
 Calabria,Corte di Appello,Reggio Calabria,Procedimento Penale,Confisca II,6/2020
 Calabria,Corte di Appello,Reggio Calabria,Procedimento Penale,Confisca II,61/2020
 Calabria,Corte di Appello,Reggio Calabria,Procedimento Penale,Confisca def.,105/2011
@@ -566,6 +566,7 @@ Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf.,38/2013
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf.,4/2013
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf.,43/2012
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf.,45/2014
+Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf.,6/2017
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf.,61/2014
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf.,63/2009
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Revoca Conf.,69/2015
@@ -836,7 +837,6 @@ Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,48/2013
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,55/2012
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,73/2016
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca II,132/2007
-Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca II,193/2012
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,1/1993
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,1/1996
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,1/1999
@@ -910,6 +910,7 @@ Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,178/2016
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,18/2007
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,185/1998
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,191/2005
+Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,193/2012
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,198/1998
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,198/2002
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,2/1985
@@ -1954,17 +1955,16 @@ Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,44/2014
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,45/2016
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,73/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,75/2012
-Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,80/2013
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,87/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,92/2020
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,100/2014
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,112/2015
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,116/2018
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,117/2018
+Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,134/2019
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,27/2019
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,37/2019
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,48/2015
-Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,70/2009
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,1/1986
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,1/1995
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,1/2004
@@ -2155,6 +2155,7 @@ Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,68/1983
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,7/1999
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,7/2006
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,7/2018
+Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,70/2009
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,70/2018
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,72/2009
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,73/2014
@@ -2168,6 +2169,7 @@ Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,77/2011
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,79/2018
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,8/2001
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,80/2012
+Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,80/2013
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,80/2016
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,82/2017
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,83/2018
@@ -2261,6 +2263,7 @@ Marche,Procura della Repubblica,Ancona,Procedimento Penale,Confisca I,10710/2013
 Marche,Tribunale,Ancona,Misure di Prevenzione,Confisca I,30/2014
 Marche,Tribunale,Ancona,Misure di Prevenzione,Confisca II,26/2019
 Marche,Tribunale,Ancona,Misure di Prevenzione,Confisca def.,2/2017
+Marche,Tribunale,Ancona,Misure di Prevenzione,Confisca def.,29/2018
 Marche,Tribunale,Ancona,Misure di Prevenzione,Confisca def.,6/2018
 Marche,Procura della Repubblica,Ascoli Piceno,Procedimento Penale,Confisca def.,1017/2007
 Marche,Tribunale,Macerata,Misure di Prevenzione,Confisca def.,11/2015
@@ -2368,6 +2371,7 @@ Piemonte,Procura della Repubblica,Torino,Procedimento Penale,Revoca Conf. parzia
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,10/2017
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,104/2019
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,15/2014
+Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,2/2020
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,26/2017
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,41/2015
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,43/2012
@@ -2808,6 +2812,7 @@ Puglia,Procura della Repubblica,Lecce,Procedimento Penale,Confisca def.,7381/200
 Puglia,Procura della Repubblica,Lecce,Procedimento Penale,Confisca def.,9050/2007
 Puglia,Procura della Repubblica,Lecce,Procedimento Penale,Revoca Conf.,1/1998
 Puglia,Procura della Repubblica,Lecce,Procedimento Penale,Revoca Conf. parziale,9634/2001
+Puglia,Tribunale,Lecce,Misure di Prevenzione,Confisca II,35/2018
 Puglia,Tribunale,Lecce,Misure di Prevenzione,Confisca II,7/2009
 Puglia,Tribunale,Lecce,Misure di Prevenzione,Confisca def.,1/2007
 Puglia,Tribunale,Lecce,Misure di Prevenzione,Confisca def.,12/2008
@@ -2880,6 +2885,7 @@ Puglia,Procura della Repubblica,Trani,Procedimento Penale,Confisca def.,7404/200
 Puglia,Tribunale,Trani,Misure di Prevenzione,Confisca I,16/2016
 Puglia,Tribunale,Trani,Misure di Prevenzione,Confisca II,10/2015
 Puglia,Tribunale,Trani,Misure di Prevenzione,Confisca II,36/2018
+Puglia,Tribunale,Trani,Misure di Prevenzione,Confisca def.,1/2016
 Puglia,Tribunale,Trani,Misure di Prevenzione,Confisca def.,12/2011
 Puglia,Tribunale,Trani,Misure di Prevenzione,Confisca def.,12/2015
 Puglia,Tribunale,Trani,Misure di Prevenzione,Confisca def.,13/2011
@@ -3505,6 +3511,7 @@ Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca I,62/2015
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca I,7/2013
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca I,99/2012
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca II,110/2010
+Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca II,146/2015
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca II,22/2018
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca II,243/2018
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca II,252/2010
@@ -4358,9 +4365,9 @@ Toscana,Tribunale,Siena,Misure di Prevenzione,Confisca def.,2/2013
 Trentino Alto Adige,Corte di Appello,Trento,Misure di Prevenzione,Confisca def.,1/2001
 Trentino Alto Adige,Procura della Repubblica,Trento,Procedimento Penale,Confisca def.,1987/2008
 Trentino Alto Adige,Procura della Repubblica,Trento,Procedimento Penale,Confisca def.,2324/2014
-Umbria,Procura della Repubblica,Perugia,Procedimento Penale,Confisca I,143/2017
 Umbria,Procura della Repubblica,Perugia,Procedimento Penale,Confisca def.,5698/2015
 Umbria,Procura della Repubblica,Perugia,Procedimento Penale,Confisca def.,8733/2015
+Umbria,Procura della Repubblica,Perugia,Procedimento Penale,Revoca Conf.,143/2017
 Umbria,Tribunale,Perugia,Misure di Prevenzione,Confisca I,26/2014
 Umbria,Tribunale,Perugia,Misure di Prevenzione,Confisca def.,5/2012
 Umbria,Tribunale,Perugia,Misure di Prevenzione,Confisca def.,9/2015
