@@ -4,7 +4,7 @@ Abruzzo,Procura della Repubblica,Chieti,Procedimento Penale,Confisca def.,661/20
 Abruzzo,Tribunale,Chieti,Misure di Prevenzione,Confisca def.,15/2017
 Abruzzo,Tribunale,Chieti,Misure di Prevenzione,Confisca def.,2/2013
 Abruzzo,Tribunale,Chieti,Misure di Prevenzione,Confisca def.,4/2009
-Abruzzo,Tribunale,Chieti,Misure di Prevenzione,Revoca Seq.,7/2012
+Abruzzo,Tribunale,Chieti,Misure di Prevenzione,Confisca def.,7/2012
 Abruzzo,Tribunale,L'aquila,Misure di Prevenzione,Revoca Conf. parziale,3/2015
 Abruzzo,Procura della Repubblica,Lanciano,Procedimento Penale,Revoca Conf.,1138/2012
 Abruzzo,Procura della Repubblica,Pescara,Procedimento Penale,Confisca def.,10730/2006
@@ -820,6 +820,7 @@ Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,125/2013
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,13/2015
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,156/2014
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,159/2016
+Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,165/2014
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,165/2018
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,187/2013
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,19/2016
@@ -1219,6 +1220,7 @@ Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,
 Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,3/1992
 Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,3/2009
 Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,30/2006
+Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,31/1999
 Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,32/2003
 Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,33/2005
 Campania,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione,Confisca def.,33/2008
@@ -1345,6 +1347,7 @@ Emilia Romagna,Tribunale,Reggio Emilia,Procedimento Penale,Confisca def.,5853/20
 Emilia Romagna,Procura della Repubblica,Rimini,Procedimento Penale,Confisca I,1629/2007
 Emilia Romagna,Procura della Repubblica,Rimini,Procedimento Penale,Confisca def.,1986/2013
 Emilia Romagna,Tribunale,Rimini,Misure di Prevenzione,Confisca I,1/2016
+Emilia Romagna,Tribunale,Rimini,Misure di Prevenzione,Confisca II,1/2015
 Emilia Romagna,Tribunale,Rimini,Misure di Prevenzione,Confisca II,28/2015
 Emilia Romagna,Tribunale,Rimini,Misure di Prevenzione,Confisca def.,1/2014
 Emilia Romagna,Tribunale,Rimini,Misure di Prevenzione,Confisca def.,3/2012
@@ -1630,8 +1633,10 @@ Liguria,Procura della Repubblica,Genova,Procedimento Penale,Revoca Conf.,10639/2
 Liguria,Procura della Repubblica,Genova,Procedimento Penale,Revoca Conf.,718/2006
 Liguria,Procura della Repubblica,Genova,Procedimento Penale,Revoca Conf. parziale,13541/2007
 Liguria,Procura della Repubblica,Genova,Procedimento Penale,Revoca Conf. parziale,16232/2012
+Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca I,21/2019
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca I,25/2016
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca I,5/2017
+Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca I,6/2021
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca II,10/2017
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca def.,1/2014
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca def.,10/2018
@@ -1766,6 +1771,7 @@ Lombardia,Procura della Repubblica,Brescia,Procedimento Penale,Confisca def.,960
 Lombardia,Procura della Repubblica,Brescia,Procedimento Penale,Sequestro,12506/2017
 Lombardia,Tribunale,Brescia,Misure di Prevenzione,Confisca I,12/2016
 Lombardia,Tribunale,Brescia,Misure di Prevenzione,Confisca I,18/2016
+Lombardia,Tribunale,Brescia,Misure di Prevenzione,Confisca I,7/2020
 Lombardia,Tribunale,Brescia,Misure di Prevenzione,Confisca I,9/2015
 Lombardia,Tribunale,Brescia,Misure di Prevenzione,Confisca II,7/2018
 Lombardia,Tribunale,Brescia,Misure di Prevenzione,Confisca def.,12346/2015
@@ -1952,7 +1958,9 @@ Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,23/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,24/2016
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,25/2017
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,44/2014
+Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,44/2020
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,45/2016
+Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,58/2020
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,73/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,75/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,87/2012
@@ -1965,6 +1973,7 @@ Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,134/2019
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,27/2019
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,37/2019
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,48/2015
+Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,64/2019
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,1/1986
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,1/1995
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,1/2004
@@ -2166,6 +2175,7 @@ Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,75/2016
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,76/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,76/2018
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,77/2011
+Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,79/2014
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,79/2018
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,8/2001
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,80/2012
@@ -2215,7 +2225,6 @@ Lombardia,Tribunale,Milano,Misure di Prevenzione,Revoca Conf. parziale,190/2009
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Revoca Conf. parziale,62/2017
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Revoca Conf. parziale,71/2008
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Revoca Conf. parziale,74/2014
-Lombardia,Tribunale,Milano,Misure di Prevenzione,Revoca Conf. parziale,79/2014
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Revoca Seq.,17/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Revoca Seq.,40/2015
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Revoca Seq.,43/2015
@@ -2380,6 +2389,8 @@ Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,59/2016
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,64/2020
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,65/2015
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,73/2015
+Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,81/2020
+Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca I,94/2019
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca II,12/2019
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca II,20/2019
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca II,24/2019
@@ -2931,6 +2942,7 @@ Sardegna,Procura della Repubblica,Cagliari,Procedimento Penale,Revoca Conf. parz
 Sardegna,Procura della Repubblica,Cagliari,Procedimento Penale,Revoca Seq.,10618/2007
 Sardegna,Procura della Repubblica,Cagliari,Procedimento Penale,Rinvio,9086/2009
 Sardegna,Procura della Repubblica,Cagliari,Procedimento Penale,Sequestro,12247/2014
+Sardegna,Tribunale,Cagliari,Misure di Prevenzione,Confisca I,6/2018
 Sardegna,Tribunale,Cagliari,Misure di Prevenzione,Confisca def.,10/2016
 Sardegna,Tribunale,Cagliari,Misure di Prevenzione,Confisca def.,10618/2007
 Sardegna,Tribunale,Cagliari,Misure di Prevenzione,Confisca def.,12/2017
@@ -3506,7 +3518,6 @@ Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca I,187/2016
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca I,205/2015
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca I,221/2014
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca I,241/2011
-Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca I,262/2011
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca I,62/2015
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca I,7/2013
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca I,99/2012
@@ -3855,6 +3866,7 @@ Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,260/2009
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,260/2013
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,261/1993
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,262/2002
+Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,262/2011
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,264/1992
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,264/2013
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,265/2003
@@ -4269,6 +4281,7 @@ Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,68/2010
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,69/2007
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,70/2010
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,71/1993
+Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,72/2014
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,74/2014
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,78/2008
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,82/1993
@@ -4294,7 +4307,6 @@ Sicilia,Tribunale,Trapani,Misure di Prevenzione,Revoca Conf. parziale,26/2014
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Revoca Conf. parziale,44/2010
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Revoca Conf. parziale,50/2012
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Revoca Conf. parziale,63/2011
-Sicilia,Tribunale,Trapani,Misure di Prevenzione,Revoca Conf. parziale,72/2014
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Revoca Seq.,39/2014
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Revoca Seq.,44/2012
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Revoca Sequ. parziale,21/2013
