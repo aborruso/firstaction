@@ -97,10 +97,15 @@ A-AL-79215-S,aziende,Piemonte,Alessandria,Alessandria,Impresa individuale,Alberg
 A-AL-96203-S,aziende,Piemonte,Alessandria,Valenza,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-AO-74798-S,aziende,Valle d'Aosta,Aosta,Saint-Vincent,Consorzio,Costruzioni,Confisca def.,29%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-AO-98911-S,aziende,Valle d'Aosta,Aosta,Saint-Vincent,Consorzio,Costruzioni,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+A-AP-100804-S,aziende,Marche,Ascoli Piceno,San Benedetto del Tronto,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,L'aquila,Misure di Prevenzione
+A-AP-100808-S,aziende,Marche,Ascoli Piceno,San Benedetto del Tronto,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,L'aquila,Misure di Prevenzione
+A-AP-100838-S,aziende,Marche,Ascoli Piceno,San Benedetto del Tronto,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,L'aquila,Misure di Prevenzione
 A-AP-25234-S,aziende,Marche,Ascoli Piceno,San Benedetto del Tronto,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Teramo,Misure di Prevenzione
 A-AP-30741-S,aziende,Marche,Ascoli Piceno,Grottammare,Società in nome collettivo,Alberghi e ristoranti,Confisca def.,90%,Tribunale,Milano,Misure di Prevenzione
 A-AQ-100129-S,aziende,Abruzzo,L'Aquila,L'Aquila,Società a responsabilità limitata,Costruzioni,,0%,Tribunale,L'aquila,Misure di Prevenzione
 A-AQ-100130-S,aziende,Abruzzo,L'Aquila,L'Aquila,Società a responsabilità limitata,Costruzioni,,0%,Tribunale,L'aquila,Misure di Prevenzione
+A-AQ-100802-S,aziende,Abruzzo,L'Aquila,Sulmona,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca I,100%,Tribunale,L'aquila,Misure di Prevenzione
+A-AQ-100837-S,aziende,Abruzzo,L'Aquila,L'Aquila,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,L'aquila,Misure di Prevenzione
 A-AQ-97599-S,aziende,Abruzzo,L'Aquila,Sulmona,Società a responsabilità limitata,"Produzione e distribuzione di energia elettrica, gas e acqua",Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-AT-16088-S,aziende,Piemonte,Asti,Asti,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Asti,Misure di Prevenzione
 A-AT-16089-S,aziende,Piemonte,Asti,Asti,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Asti,Misure di Prevenzione
@@ -250,6 +255,8 @@ A-CA-100575-S,aziende,Sardegna,Cagliari,Cagliari,Società a responsabilità limi
 A-CA-100580-S,aziende,Sardegna,Cagliari,Cagliari,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Cagliari,Misure di Prevenzione
 A-CA-100598-S,aziende,Sardegna,Cagliari,Cagliari,Società a responsabilità limitata,Costruzioni,Confisca I,17%,Tribunale,Cagliari,Misure di Prevenzione
 A-CA-100608-S,aziende,Sardegna,Cagliari,Cagliari,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Cagliari,Misure di Prevenzione
+A-CA-100950-S,aziende,Sardegna,Cagliari,Sestu,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Cagliari,Misure di Prevenzione
+A-CA-100952-S,aziende,Sardegna,Cagliari,Elmas,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Cagliari,Misure di Prevenzione
 A-CA-25691-S,aziende,Sardegna,Cagliari,Cagliari,Altro,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Cagliari,Procedimento Penale
 A-CA-25692-S,aziende,Sardegna,Cagliari,Cagliari,Altro,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Cagliari,Procedimento Penale
 A-CA-25693-S,aziende,Sardegna,Cagliari,Cagliari,Altro,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Cagliari,Procedimento Penale
@@ -560,6 +567,7 @@ A-CS-72790-S,aziende,Calabria,Cosenza,Montalto Uffugo,Società a responsabilità
 A-CS-74065-S,aziende,Calabria,Cosenza,Corigliano Calabro,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
 A-CS-79348-S,aziende,Calabria,Cosenza,Roggiano Gravina,Altro,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
 A-CS-83711-S,aziende,Calabria,Cosenza,Belvedere Marittimo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
+A-CT-100773-S,aziende,Sicilia,Catania,Catania,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-18177-S,aziende,Sicilia,Catania,Misterbianco,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,15%,Tribunale,Palermo,Misure di Prevenzione
 A-CT-22383-S,aziende,Sicilia,Catania,Fiumefreddo di Sicilia,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-36027-S,aziende,Sicilia,Catania,Catania,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
@@ -800,6 +808,8 @@ A-FR-53641-S,aziende,Lazio,Frosinone,Sora,Società a responsabilità limitata,"C
 A-FR-89258-S,aziende,Lazio,Frosinone,Ceprano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 A-FR-93240-S,aziende,Lazio,Frosinone,Ferentino,Società in nome collettivo,Costruzioni,Confisca II,100%,Tribunale,Frosinone,Misure di Prevenzione
 A-FR-98056-S,aziende,Lazio,Frosinone,Sora,Consorzio,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,0%,Tribunale,Roma,Misure di Prevenzione
+A-GE-100788-S,aziende,Liguria,Genova,Lavagna,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,1%,Procura della Repubblica,Genova,Procedimento Penale
+A-GE-100793-S,aziende,Liguria,Genova,Lavagna,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,50%,Procura della Repubblica,Genova,Procedimento Penale
 A-GE-20213-S,aziende,Liguria,Genova,Genova,Società in nome collettivo,Alberghi e ristoranti,Confisca def.,100%,Corte di Appello,Genova,Misure di Prevenzione
 A-GE-35503-S,aziende,Liguria,Genova,Lavagna,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,50%,Tribunale,Genova,Misure di Prevenzione
 A-GE-60192-S,aziende,Liguria,Genova,Campomorone,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -1198,7 +1208,7 @@ A-MS-73938-S,aziende,Toscana,Massa-Carrara,Massa,Società a responsabilità limi
 A-MS-82887-S,aziende,Toscana,Massa-Carrara,Pontremoli,Società a responsabilità limitata,Attività finanziarie,Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 A-MS-82966-S,aziende,Toscana,Massa-Carrara,Carrara,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 A-MS-82969-S,aziende,Toscana,Massa-Carrara,Pontremoli,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
-A-NA-100398-S,aziende,Campania,Napoli,Giugliano in Campania,Società a responsabilità limitata,Attività manifatturiere,Confisca II,100%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-100398-S,aziende,Campania,Napoli,Giugliano in Campania,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-10284-S,aziende,Campania,Napoli,Napoli,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-10361-S,aziende,Campania,Napoli,Castellammare di Stabia,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-11785-S,aziende,Campania,Napoli,Bacoli,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
@@ -1571,6 +1581,9 @@ A-NU-92730-S,aziende,Sardegna,Nuoro,Nuoro,Società a responsabilità limitata,"A
 A-OG-72646-S,aziende,Sardegna,Ogliastra,Cardedu,Società a responsabilità limitata,Alberghi e ristoranti,Sequestro,75%,Procura della Repubblica,Cagliari,Procedimento Penale
 A-OT-17769-S,aziende,Sardegna,Olbia-Tempio,Olbia,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-PA-100728-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-100795-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-100901-S,aziende,Sicilia,Palermo,Carini,Società a responsabilità limitata,Costruzioni,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-100903-S,aziende,Sicilia,Palermo,Carini,Società cooperativa,"Altri servizi pubblici, sociali e personali",Revoca Seq.,0%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1165-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1166-S,aziende,Sicilia,Palermo,Palermo,Società in nome collettivo,Costruzioni,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1169-S,aziende,Sicilia,Palermo,Palermo,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -2024,6 +2037,7 @@ A-RC-100338-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Impresa indivi
 A-RC-100341-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Impresa individuale,Costruzioni,Revoca Conf.,0%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RC-100342-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società in nome collettivo,Costruzioni,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RC-100347-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Impresa individuale,Costruzioni,Revoca Conf.,0%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
+A-RC-100897-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società cooperativa a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,50%,Corte d'Assise d'Appello,Reggio Calabria,Procedimento Penale
 A-RC-10206-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-10207-S,aziende,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-10387-S,aziende,Calabria,Reggio Calabria,Bianco,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -2651,6 +2665,7 @@ A-RM-9858-S,aziende,Lazio,Roma,Moricone,Società in accomandita semplice,"Attivi
 A-RM-98676-S,aziende,Lazio,Roma,San Cesareo,Società in accomandita semplice,Alberghi e ristoranti,Revoca Conf.,0%,Procura della Repubblica,Napoli,Procedimento Penale
 A-RN-100670-S,aziende,Emilia Romagna,Rimini,Riccione,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Tribunale,Rimini,Misure di Prevenzione
 A-RN-100680-S,aziende,Emilia Romagna,Rimini,Rimini,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Rimini,Misure di Prevenzione
+A-RN-100799-S,aziende,Emilia Romagna,Rimini,Rimini,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,L'aquila,Misure di Prevenzione
 A-RN-11498-S,aziende,Emilia Romagna,Rimini,Riccione,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Rimini,Misure di Prevenzione
 A-RN-17770-S,aziende,Emilia Romagna,Rimini,Rimini,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RN-41352-S,aziende,Emilia Romagna,Rimini,Bellaria-Igea Marina,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,50%,Tribunale,Milano,Misure di Prevenzione
@@ -2803,6 +2818,14 @@ A-TA-89678-S,aziende,Puglia,Taranto,Taranto,Società a responsabilità limitata,
 A-TA-89683-S,aziende,Puglia,Taranto,Taranto,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 A-TA-95143-S,aziende,Puglia,Taranto,San Marzano di San Giuseppe,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 A-TA-95145-S,aziende,Puglia,Taranto,San Marzano di San Giuseppe,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+A-TE-100798-S,aziende,Abruzzo,Teramo,Martinsicuro,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,L'aquila,Misure di Prevenzione
+A-TE-100803-S,aziende,Abruzzo,Teramo,Martinsicuro,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,L'aquila,Misure di Prevenzione
+A-TE-100806-S,aziende,Abruzzo,Teramo,Alba Adriatica,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,L'aquila,Misure di Prevenzione
+A-TE-100815-S,aziende,Abruzzo,Teramo,Alba Adriatica,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,L'aquila,Misure di Prevenzione
+A-TE-100818-S,aziende,Abruzzo,Teramo,Martinsicuro,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,L'aquila,Misure di Prevenzione
+A-TE-100824-S,aziende,Abruzzo,Teramo,Martinsicuro,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,L'aquila,Misure di Prevenzione
+A-TE-100827-S,aziende,Abruzzo,Teramo,Alba Adriatica,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,L'aquila,Misure di Prevenzione
+A-TE-100828-S,aziende,Abruzzo,Teramo,Alba Adriatica,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,L'aquila,Misure di Prevenzione
 A-TE-71482-S,aziende,Abruzzo,Teramo,Mosciano Sant'Angelo,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,50%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-TE-71483-S,aziende,Abruzzo,Teramo,Mosciano Sant'Angelo,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-TE-71484-S,aziende,Abruzzo,Teramo,Mosciano Sant'Angelo,Società per azioni,"Agricoltura, caccia e silvicoltura",Confisca def.,45%,Tribunale,Reggio Calabria,Misure di Prevenzione
