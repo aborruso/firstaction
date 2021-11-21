@@ -147,9 +147,9 @@ A-BA-78003-S,aziende,Puglia,Bari,Gravina in Puglia,Società a responsabilità li
 A-BA-82208-S,aziende,Puglia,Bari,Bari,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca def.,25%,Tribunale,Bari,Misure di Prevenzione
 A-BA-85042-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 A-BA-87467-S,aziende,Puglia,Bari,Gioia del Colle,Impresa individuale,"Agricoltura, caccia e silvicoltura",,0%,Tribunale,Bari,Misure di Prevenzione
-A-BA-90009-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Bari,Misure di Prevenzione
-A-BA-90013-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Bari,Misure di Prevenzione
-A-BA-90015-S,aziende,Puglia,Bari,Bari,Impresa individuale,Alberghi e ristoranti,Revoca Conf.,100%,Tribunale,Bari,Misure di Prevenzione
+A-BA-90009-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,20%,Tribunale,Bari,Misure di Prevenzione
+A-BA-90013-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
+A-BA-90015-S,aziende,Puglia,Bari,Bari,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Conf.,100%,Tribunale,Bari,Misure di Prevenzione
 A-BA-9368-S,aziende,Puglia,Bari,Gravina in Puglia,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 A-BA-94119-S,aziende,Puglia,Bari,Molfetta,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 A-BA-94919-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
@@ -2191,9 +2191,9 @@ A-RC-89756-S,aziende,Calabria,Reggio Calabria,Melito di Porto Salvo,Impresa indi
 A-RC-89757-S,aziende,Calabria,Reggio Calabria,Melito di Porto Salvo,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Reggio Calabria,Procedimento Penale
 A-RC-90020-S,aziende,Calabria,Reggio Calabria,Rosarno,Impresa individuale,"Agricoltura, caccia e silvicoltura",Revoca Conf.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-90174-S,aziende,Calabria,Reggio Calabria,Sant'Agata del Bianco,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
-A-RC-90352-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-A-RC-90353-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-A-RC-90354-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+A-RC-90352-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,50%,Tribunale,Reggio Calabria,Misure di Prevenzione
+A-RC-90353-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+A-RC-90354-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,50%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-90835-S,aziende,Calabria,Reggio Calabria,Rosarno,Impresa individuale,Costruzioni,Revoca Conf.,100%,Tribunale,Reggio Calabria,Procedimento Penale
 A-RC-90836-S,aziende,Calabria,Reggio Calabria,San Ferdinando,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Tribunale,Reggio Calabria,Procedimento Penale
 A-RC-90837-S,aziende,Calabria,Reggio Calabria,Rosarno,Impresa individuale,Costruzioni,Confisca II,100%,Tribunale,Reggio Calabria,Procedimento Penale
