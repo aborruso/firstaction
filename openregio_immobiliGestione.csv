@@ -1305,6 +1305,8 @@ I-BN-77170-S,immobili,Campania,Benevento,Telese Terme,Unità immobiliare a desti
 I-BN-79524-S,immobili,Campania,Benevento,Benevento,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Benevento,Misure di Prevenzione
 I-BN-79678-S,immobili,Campania,Benevento,San Giorgio del Sannio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Benevento,Misure di Prevenzione
 I-BN-90253-S,immobili,Campania,Benevento,Sant'Agata de' Goti,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Benevento,Misure di Prevenzione
+I-BO-101053-S,immobili,Emilia Romagna,Bologna,Crevalcore,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Modena,Misure di Prevenzione
+I-BO-101054-S,immobili,Emilia Romagna,Bologna,Crevalcore,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Modena,Misure di Prevenzione
 I-BO-15718-S,immobili,Emilia Romagna,Bologna,Malalbergo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BO-15719-S,immobili,Emilia Romagna,Bologna,Malalbergo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BO-15720-S,immobili,Emilia Romagna,Bologna,Malalbergo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -1834,6 +1836,51 @@ I-CA-94755-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare a destinazio
 I-CB-10842-S,immobili,Molise,Campobasso,Campomarino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-CB-85046-S,immobili,Molise,Campobasso,Tufara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Rimini,Misure di Prevenzione
 I-CB-86864-S,immobili,Molise,Campobasso,Campomarino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Milano,Misure di Prevenzione
+I-CE-101068-S,immobili,Campania,Caserta,Casapulla,Unità immobiliare a destinazione commerciale e industriale,Fabbricato/Locale per esercizi sportivi,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101069-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101070-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101071-S,immobili,Campania,Caserta,Dragoni,Terreno,Terreno agricolo,Revoca Seq.,50%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101072-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101074-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101076-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,Fabbricato/Locale per esercizi sportivi,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101077-S,immobili,Campania,Caserta,Casapulla,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101078-S,immobili,Campania,Caserta,Dragoni,Terreno,Terreno con fabbricato rurale,Revoca Seq.,50%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101079-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101081-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101082-S,immobili,Campania,Caserta,Casapulla,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,4%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101083-S,immobili,Campania,Caserta,Dragoni,Terreno,Terreno agricolo,Revoca Seq.,50%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101086-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101087-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101088-S,immobili,Campania,Caserta,Valle di Maddaloni,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101089-S,immobili,Campania,Caserta,Capodrise,Terreno,Terreno agricolo,Revoca Seq.,33%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101090-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101092-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101093-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101094-S,immobili,Campania,Caserta,Casapulla,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101095-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101096-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101098-S,immobili,Campania,Caserta,Casapulla,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101099-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101100-S,immobili,Campania,Caserta,Capodrise,Terreno,Terreno agricolo,Revoca Seq.,33%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101101-S,immobili,Campania,Caserta,Casapulla,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101102-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101103-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101104-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101105-S,immobili,Campania,Caserta,Casapulla,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101106-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101107-S,immobili,Campania,Caserta,Valle di Maddaloni,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101108-S,immobili,Campania,Caserta,Orta di Atella,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101109-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101110-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101111-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101112-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101114-S,immobili,Campania,Caserta,Orta di Atella,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101115-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101116-S,immobili,Campania,Caserta,Capodrise,Terreno,Terreno agricolo,Confisca I,50%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101117-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101118-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101119-S,immobili,Campania,Caserta,Casapulla,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101120-S,immobili,Campania,Caserta,Capodrise,Terreno,Terreno agricolo,Confisca I,50%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-1049-S,immobili,Campania,Caserta,Sessa Aurunca,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-1076-S,immobili,Campania,Caserta,Villa Literno,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-1155-S,immobili,Campania,Caserta,Conca della Campania,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -6124,6 +6171,7 @@ I-IM-99886-S,immobili,Liguria,Imperia,Ospedaletti,Unità immobiliare per uso di 
 I-IS-50785-S,immobili,Molise,Isernia,Isernia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,83%,Procura della Repubblica,Napoli,Procedimento Penale
 I-IS-50787-S,immobili,Molise,Isernia,Isernia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-IS-81900-S,immobili,Molise,Isernia,Venafro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-KR-101128-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-KR-16799-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-KR-17270-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-KR-17271-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -7289,9 +7337,9 @@ I-MB-39839-S,immobili,Lombardia,Monza e Brianza,Giussano,Unità immobiliare per 
 I-MB-39840-S,immobili,Lombardia,Monza e Brianza,Giussano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-39843-S,immobili,Lombardia,Monza e Brianza,Giussano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-40733-S,immobili,Lombardia,Monza e Brianza,Correzzana,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-40925-S,immobili,Lombardia,Monza e Brianza,Roncello,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,75%,Tribunale,Monza,Misure di Prevenzione
-I-MB-41019-S,immobili,Lombardia,Monza e Brianza,Roncello,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,75%,Tribunale,Monza,Misure di Prevenzione
-I-MB-41025-S,immobili,Lombardia,Monza e Brianza,Roncello,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,75%,Tribunale,Monza,Misure di Prevenzione
+I-MB-40925-S,immobili,Lombardia,Monza e Brianza,Roncello,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,75%,Tribunale,Monza,Misure di Prevenzione
+I-MB-41019-S,immobili,Lombardia,Monza e Brianza,Roncello,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,75%,Tribunale,Monza,Misure di Prevenzione
+I-MB-41025-S,immobili,Lombardia,Monza e Brianza,Roncello,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,75%,Tribunale,Monza,Misure di Prevenzione
 I-MB-42413-S,immobili,Lombardia,Monza e Brianza,Ornago,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MB-42635-S,immobili,Lombardia,Monza e Brianza,Giussano,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Rinvio,0%,Tribunale,Monza,Misure di Prevenzione
 I-MB-42638-S,immobili,Lombardia,Monza e Brianza,Giussano,Unità immobiliare per uso di abitazione e assimilabile,Altro,Rinvio,0%,Tribunale,Monza,Misure di Prevenzione
@@ -8403,6 +8451,8 @@ I-MI-100712-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abi
 I-MI-100713-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-100787-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,50%,Procura della Repubblica,Genova,Procedimento Penale
 I-MI-100790-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,50%,Procura della Repubblica,Genova,Procedimento Penale
+I-MI-101033-S,immobili,Lombardia,Milano,Parabiago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,0%,Tribunale,Milano,Misure di Prevenzione
+I-MI-101035-S,immobili,Lombardia,Milano,Parabiago,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-10108-S,immobili,Lombardia,Milano,Tribiano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-10109-S,immobili,Lombardia,Milano,Tribiano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-10120-S,immobili,Lombardia,Milano,Tribiano,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -8759,10 +8809,10 @@ I-MI-56008-S,immobili,Lombardia,Milano,Peschiera Borromeo,Terreno,Terreno agrico
 I-MI-56009-S,immobili,Lombardia,Milano,Peschiera Borromeo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-56010-S,immobili,Lombardia,Milano,Peschiera Borromeo,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-56011-S,immobili,Lombardia,Milano,Peschiera Borromeo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-56016-S,immobili,Lombardia,Milano,San Vittore Olona,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-56017-S,immobili,Lombardia,Milano,San Vittore Olona,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-56020-S,immobili,Lombardia,Milano,San Vittore Olona,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-56021-S,immobili,Lombardia,Milano,San Vittore Olona,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-56016-S,immobili,Lombardia,Milano,San Vittore Olona,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-56017-S,immobili,Lombardia,Milano,San Vittore Olona,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-56020-S,immobili,Lombardia,Milano,San Vittore Olona,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-56021-S,immobili,Lombardia,Milano,San Vittore Olona,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-56028-S,immobili,Lombardia,Milano,Settala,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-56035-S,immobili,Lombardia,Milano,Settala,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-56036-S,immobili,Lombardia,Milano,Settala,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
@@ -9189,6 +9239,15 @@ I-MN-94967-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di ab
 I-MN-94968-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-MN-94969-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-MN-94970-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-MO-101048-S,immobili,Emilia Romagna,Modena,Finale Emilia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Modena,Misure di Prevenzione
+I-MO-101049-S,immobili,Emilia Romagna,Modena,Mirandola,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Modena,Misure di Prevenzione
+I-MO-101051-S,immobili,Emilia Romagna,Modena,Finale Emilia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Modena,Misure di Prevenzione
+I-MO-101052-S,immobili,Emilia Romagna,Modena,Mirandola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Modena,Misure di Prevenzione
+I-MO-101055-S,immobili,Emilia Romagna,Modena,Mirandola,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Modena,Misure di Prevenzione
+I-MO-101056-S,immobili,Emilia Romagna,Modena,Mirandola,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Modena,Misure di Prevenzione
+I-MO-101057-S,immobili,Emilia Romagna,Modena,San Felice sul Panaro,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Modena,Misure di Prevenzione
+I-MO-101058-S,immobili,Emilia Romagna,Modena,San Felice sul Panaro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Modena,Misure di Prevenzione
+I-MO-101059-S,immobili,Emilia Romagna,Modena,Mirandola,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Modena,Misure di Prevenzione
 I-MO-11592-S,immobili,Emilia Romagna,Modena,Maranello,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-MO-25802-S,immobili,Emilia Romagna,Modena,Castelnuovo Rangone,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 I-MO-25803-S,immobili,Emilia Romagna,Modena,Castelnuovo Rangone,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
@@ -14629,6 +14688,8 @@ I-RC-100895-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Altra unità 
 I-RC-100896-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Corte d'Assise d'Appello,Reggio Calabria,Procedimento Penale
 I-RC-100898-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Corte d'Assise d'Appello,Reggio Calabria,Procedimento Penale
 I-RC-100899-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Corte d'Assise d'Appello,Reggio Calabria,Procedimento Penale
+I-RC-101031-S,immobili,Calabria,Reggio Calabria,San Pietro di Caridà,Terreno,Terreno agricolo,Confisca II,100%,Corte di Appello,Reggio Calabria,Misure di Prevenzione
+I-RC-101060-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-10117-S,immobili,Calabria,Reggio Calabria,Rosarno,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-10221-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-10271-S,immobili,Calabria,Reggio Calabria,Africo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
@@ -15645,7 +15706,7 @@ I-RC-88950-S,immobili,Calabria,Reggio Calabria,Locri,Terreno,Terreno agricolo,Co
 I-RC-88952-S,immobili,Calabria,Reggio Calabria,Locri,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-RC-88953-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-RC-88955-S,immobili,Calabria,Reggio Calabria,Locri,Altra unità immobiliare,Altro,Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-RC-89571-S,immobili,Calabria,Reggio Calabria,Locri,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-89571-S,immobili,Calabria,Reggio Calabria,Locri,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-89572-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-89573-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-89574-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
