@@ -531,6 +531,7 @@ A-CL-85230-S,aziende,Sicilia,Caltanissetta,Vallelunga Pratameno,Società a respo
 A-CL-90963-S,aziende,Sicilia,Caltanissetta,Gela,Società a responsabilità limitata,Costruzioni,Confisca def.,0%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-91544-S,aziende,Sicilia,Caltanissetta,Gela,Impresa individuale,Alberghi e ristoranti,Confisca def.,0%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-97721-S,aziende,Sicilia,Caltanissetta,Gela,Società a responsabilità limitata,Costruzioni,Confisca II,60%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-CN-101212-S,aziende,Piemonte,Cuneo,Alba,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-CN-95876-S,aziende,Piemonte,Cuneo,Sommariva del Bosco,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 A-CO-71896-S,aziende,Lombardia,Como,Como,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-CO-74082-S,aziende,Lombardia,Como,Olgiate Comasco,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Como,Misure di Prevenzione
@@ -571,6 +572,7 @@ A-CS-74065-S,aziende,Calabria,Cosenza,Corigliano Calabro,Impresa individuale,"Co
 A-CS-79348-S,aziende,Calabria,Cosenza,Roggiano Gravina,Altro,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
 A-CS-83711-S,aziende,Calabria,Cosenza,Belvedere Marittimo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
 A-CT-100773-S,aziende,Sicilia,Catania,Catania,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+A-CT-101184-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-18177-S,aziende,Sicilia,Catania,Misterbianco,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,15%,Tribunale,Palermo,Misure di Prevenzione
 A-CT-22383-S,aziende,Sicilia,Catania,Fiumefreddo di Sicilia,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-36027-S,aziende,Sicilia,Catania,Catania,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
@@ -805,6 +807,7 @@ A-FI-86881-S,aziende,Toscana,Firenze,Firenze,Società a responsabilità limitata
 A-FI-86882-S,aziende,Toscana,Firenze,Firenze,Società a responsabilità limitata,Alberghi e ristoranti,,0%,Tribunale,Firenze,Misure di Prevenzione
 A-FI-86944-S,aziende,Toscana,Firenze,Firenze,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Firenze,Misure di Prevenzione
 A-FI-86946-S,aziende,Toscana,Firenze,Firenze,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",,0%,Tribunale,Firenze,Misure di Prevenzione
+A-FR-101300-S,aziende,Lazio,Frosinone,Ceccano,Società cooperativa,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 A-FR-32919-S,aziende,Lazio,Frosinone,Cassino,Impresa individuale,Attività manifatturiere,Confisca II,0%,Corte di Cassazione,Napoli,Procedimento Penale
 A-FR-53010-S,aziende,Lazio,Frosinone,Castro dei Volsci,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Frosinone,Misure di Prevenzione
 A-FR-53641-S,aziende,Lazio,Frosinone,Sora,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Frosinone,Misure di Prevenzione
@@ -885,6 +888,9 @@ A-LO-82857-S,aziende,Lombardia,Lodi,Guardamiglio,Società a responsabilità limi
 A-LO-82963-S,aziende,Lombardia,Lodi,Guardamiglio,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 A-LO-82968-S,aziende,Lombardia,Lodi,Guardamiglio,Società a responsabilità limitata,Costruzioni,Sequestro,25%,Procura della Repubblica,Piacenza,Procedimento Penale
 A-LT-100122-S,aziende,Lazio,Latina,Fondi,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca II,100%,Procura della Repubblica,Roma,Procedimento Penale
+A-LT-101145-S,aziende,Lazio,Latina,Fondi,Società cooperativa,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
+A-LT-101149-S,aziende,Lazio,Latina,Fondi,Società cooperativa a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
+A-LT-101165-S,aziende,Lazio,Latina,Fondi,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-13351-S,aziende,Lazio,Latina,Latina,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-13352-S,aziende,Lazio,Latina,Latina,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-13380-S,aziende,Lazio,Latina,Aprilia,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
@@ -979,6 +985,8 @@ A-MB-74313-S,aziende,Lombardia,Monza e Brianza,Meda,Impresa individuale,Alberghi
 A-MB-74315-S,aziende,Lombardia,Monza e Brianza,Barlassina,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Procura della Repubblica,Monza,Procedimento Penale
 A-MB-77911-S,aziende,Lombardia,Monza e Brianza,Seregno,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 A-MC-96865-S,aziende,Marche,Macerata,Porto Recanati,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Ancona,Misure di Prevenzione
+A-ME-101181-S,aziende,Sicilia,Messina,Montalbano Elicona,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,0%,Corte d'Assise d'Appello,Messina,Misure di Prevenzione
+A-ME-101182-S,aziende,Sicilia,Messina,Montalbano Elicona,Società in nome collettivo,Alberghi e ristoranti,Confisca def.,0%,Corte d'Assise d'Appello,Messina,Misure di Prevenzione
 A-ME-18473-S,aziende,Sicilia,Messina,Alì Terme,Altro,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-ME-20194-S,aziende,Sicilia,Messina,Giardini-Naxos,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,50%,Procura della Repubblica,Catania,Procedimento Penale
 A-ME-33575-S,aziende,Sicilia,Messina,Barcellona Pozzo di Gotto,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
@@ -2050,6 +2058,10 @@ A-RC-101124-S,aziende,Calabria,Reggio Calabria,Rosarno,Impresa individuale,Costr
 A-RC-101135-S,aziende,Calabria,Reggio Calabria,Melito di Porto Salvo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RC-101138-S,aziende,Calabria,Reggio Calabria,Melito di Porto Salvo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RC-101139-S,aziende,Calabria,Reggio Calabria,Melito di Porto Salvo,Impresa individuale,Costruzioni,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
+A-RC-101313-S,aziende,Calabria,Reggio Calabria,Cittanova,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+A-RC-101318-S,aziende,Calabria,Reggio Calabria,Cittanova,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+A-RC-101322-S,aziende,Calabria,Reggio Calabria,Cittanova,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca I,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+A-RC-101323-S,aziende,Calabria,Reggio Calabria,Cittanova,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-10206-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-10207-S,aziende,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-10387-S,aziende,Calabria,Reggio Calabria,Bianco,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -2230,6 +2242,11 @@ A-RC-98052-S,aziende,Calabria,Reggio Calabria,Melicucco,Società in accomandita 
 A-RC-9813-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,22%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-98140-S,aziende,Calabria,Reggio Calabria,Bianco,Società a responsabilità limitata,,,0%,Procura della Repubblica,Locri,Procedimento Penale
 A-RC-99995-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,50%,Corte di Appello,Reggio Calabria,Procedimento Penale
+A-RE-101220-S,aziende,Emilia Romagna,Reggio Emilia,Cadelbosco di Sopra,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Revoca Conf.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+A-RE-101224-S,aziende,Emilia Romagna,Reggio Emilia,Cadelbosco di Sopra,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Conf.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+A-RE-101232-S,aziende,Emilia Romagna,Reggio Emilia,Cadelbosco di Sopra,Società a responsabilità limitata,Costruzioni,Revoca Conf.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+A-RE-101235-S,aziende,Emilia Romagna,Reggio Emilia,Cadelbosco di Sopra,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+A-RE-101237-S,aziende,Emilia Romagna,Reggio Emilia,Reggio nell'Emilia,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-RE-12510-S,aziende,Emilia Romagna,Reggio Emilia,Brescello,Impresa individuale,Costruzioni,Confisca II,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-RE-12511-S,aziende,Emilia Romagna,Reggio Emilia,Brescello,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-RE-36701-S,aziende,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
@@ -2269,6 +2286,33 @@ A-RG-94328-S,aziende,Sicilia,Ragusa,Vittoria,Impresa individuale,"Commercio ingr
 A-RI-50451-S,aziende,Lazio,Rieti,Scandriglia,Impresa individuale,Attività finanziarie,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-RI-87713-S,aziende,Lazio,Rieti,Rieti,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-100131-S,aziende,Lazio,Roma,Fiumicino,Società a responsabilità limitata,Costruzioni,,0%,Tribunale,L'aquila,Misure di Prevenzione
+A-RM-101245-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101250-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101252-S,aziende,Lazio,Roma,Roma,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101253-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101254-S,aziende,Lazio,Roma,Roma,Associazione,"Altri servizi pubblici, sociali e personali",Confisca I,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101257-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101261-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101262-S,aziende,Lazio,Roma,Roma,Impresa individuale,Attività manifatturiere,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101264-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101266-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101267-S,aziende,Lazio,Roma,Roma,Impresa individuale,Alberghi e ristoranti,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101270-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101271-S,aziende,Lazio,Roma,Roma,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca I,99%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101272-S,aziende,Lazio,Roma,Roma,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101274-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101275-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101276-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101278-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101279-S,aziende,Lazio,Roma,Roma,Associazione,"Altri servizi pubblici, sociali e personali",Confisca I,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101280-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101282-S,aziende,Lazio,Roma,Roma,Società in nome collettivo,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101283-S,aziende,Lazio,Roma,Roma,Associazione,"Altri servizi pubblici, sociali e personali",Confisca I,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101284-S,aziende,Lazio,Roma,Roma,Altro,"Altri servizi pubblici, sociali e personali",Confisca I,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101289-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101291-S,aziende,Lazio,Roma,Roma,Associazione,"Altri servizi pubblici, sociali e personali",Confisca I,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101299-S,aziende,Lazio,Roma,Roma,Associazione,"Altri servizi pubblici, sociali e personali",Confisca I,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101315-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RM-10559-S,aziende,Lazio,Roma,Colleferro,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,20%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RM-10560-S,aziende,Lazio,Roma,Monte Porzio Catone,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RM-10561-S,aziende,Lazio,Roma,Monte Porzio Catone,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
