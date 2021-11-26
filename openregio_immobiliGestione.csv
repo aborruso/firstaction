@@ -1063,8 +1063,8 @@ I-BG-15716-S,immobili,Lombardia,Bergamo,Valbondione,Unità immobiliare per uso d
 I-BG-15717-S,immobili,Lombardia,Bergamo,Valbondione,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BG-16132-S,immobili,Lombardia,Bergamo,Osio Sotto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BG-16133-S,immobili,Lombardia,Bergamo,Osio Sotto,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
-I-BG-16158-S,immobili,Lombardia,Bergamo,Bonate Sotto,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
-I-BG-16159-S,immobili,Lombardia,Bergamo,Bonate Sotto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
+I-BG-16158-S,immobili,Lombardia,Bergamo,Bonate Sotto,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf. parziale,0%,Tribunale,Milano,Misure di Prevenzione
+I-BG-16159-S,immobili,Lombardia,Bergamo,Bonate Sotto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,0%,Tribunale,Milano,Misure di Prevenzione
 I-BG-32020-S,immobili,Lombardia,Bergamo,Treviolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-BG-32021-S,immobili,Lombardia,Bergamo,Treviolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-BG-32022-S,immobili,Lombardia,Bergamo,Dalmine,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
@@ -1910,6 +1910,17 @@ I-CE-101120-S,immobili,Campania,Caserta,Capodrise,Terreno,Terreno agricolo,Confi
 I-CE-101457-S,immobili,Campania,Caserta,Maddaloni,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-101458-S,immobili,Campania,Caserta,Maddaloni,Altra unità immobiliare,Altra unità  immobil. - non definito,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-101459-S,immobili,Campania,Caserta,Maddaloni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101473-S,immobili,Campania,Caserta,Arienzo,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101474-S,immobili,Campania,Caserta,Arienzo,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101475-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101477-S,immobili,Campania,Caserta,Teverola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101478-S,immobili,Campania,Caserta,Casal di Principe,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101480-S,immobili,Campania,Caserta,Teverola,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101482-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101483-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101485-S,immobili,Campania,Caserta,Casal di Principe,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101486-S,immobili,Campania,Caserta,Arienzo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-101487-S,immobili,Campania,Caserta,Arienzo,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-1049-S,immobili,Campania,Caserta,Sessa Aurunca,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-1076-S,immobili,Campania,Caserta,Villa Literno,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-1155-S,immobili,Campania,Caserta,Conca della Campania,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -5747,6 +5758,9 @@ I-FI-86794-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare per uso di abit
 I-FI-86795-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,0%,Tribunale,Firenze,Misure di Prevenzione
 I-FI-86796-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,0%,Tribunale,Firenze,Misure di Prevenzione
 I-FR-101347-S,immobili,Lazio,Frosinone,Ferentino,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
+I-FR-101504-S,immobili,Lazio,Frosinone,Anagni,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
+I-FR-101511-S,immobili,Lazio,Frosinone,Anagni,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
+I-FR-101515-S,immobili,Lazio,Frosinone,Anagni,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
 I-FR-10518-S,immobili,Lazio,Frosinone,Fiuggi,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Taranto,Procedimento Penale
 I-FR-10526-S,immobili,Lazio,Frosinone,Fiuggi,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Taranto,Procedimento Penale
 I-FR-10536-S,immobili,Lazio,Frosinone,Fiuggi,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Taranto,Procedimento Penale
@@ -5926,6 +5940,19 @@ I-GE-100789-S,immobili,Liguria,Genova,Lavagna,Unità immobiliare a destinazione 
 I-GE-100791-S,immobili,Liguria,Genova,Lavagna,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,50%,Procura della Repubblica,Genova,Procedimento Penale
 I-GE-100792-S,immobili,Liguria,Genova,Lavagna,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,50%,Procura della Repubblica,Genova,Procedimento Penale
 I-GE-100794-S,immobili,Liguria,Genova,Sestri Levante,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Procura della Repubblica,Genova,Procedimento Penale
+I-GE-101539-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,0%,Tribunale,Genova,Misure di Prevenzione
+I-GE-101542-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-GE-101544-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Altro,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-GE-101547-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-GE-101548-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Altro,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-GE-101551-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,0%,Tribunale,Genova,Misure di Prevenzione
+I-GE-101552-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-GE-101561-S,immobili,Liguria,Genova,Genova,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-GE-101567-S,immobili,Liguria,Genova,Genova,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-GE-101570-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-GE-101572-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-GE-101575-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-GE-101581-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
 I-GE-16081-S,immobili,Liguria,Genova,Santa Margherita Ligure,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GE-16082-S,immobili,Liguria,Genova,Santa Margherita Ligure,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GE-19497-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Genova,Misure di Prevenzione
@@ -6756,6 +6783,8 @@ I-LT-101174-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazio
 I-LT-101175-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-101176-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-101431-S,immobili,Lazio,Latina,Latina,Terreno,Terreno con fabbricato rurale,Revoca Conf.,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-101476-S,immobili,Lazio,Latina,Gaeta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-LT-101481-S,immobili,Lazio,Latina,Formia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-LT-1261-S,immobili,Lazio,Latina,Sperlonga,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-LT-1262-S,immobili,Lazio,Latina,Sperlonga,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-LT-1264-S,immobili,Lazio,Latina,Formia,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -11240,6 +11269,10 @@ I-OT-100213-S,immobili,Sardegna,Olbia-Tempio,Arzachena,Terreno,Terreno agricolo,
 I-OT-100218-S,immobili,Sardegna,Olbia-Tempio,Arzachena,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-OT-100219-S,immobili,Sardegna,Olbia-Tempio,Arzachena,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-OT-100220-S,immobili,Sardegna,Olbia-Tempio,Arzachena,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-101550-S,immobili,Sardegna,Olbia-Tempio,Aglientu,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-OT-101554-S,immobili,Sardegna,Olbia-Tempio,Aglientu,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-OT-101565-S,immobili,Sardegna,Olbia-Tempio,Aglientu,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-OT-101580-S,immobili,Sardegna,Olbia-Tempio,Aglientu,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
 I-OT-10541-S,immobili,Sardegna,Olbia-Tempio,Golfo Aranci,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Taranto,Procedimento Penale
 I-OT-17768-S,immobili,Sardegna,Olbia-Tempio,Olbia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-OT-17818-S,immobili,Sardegna,Olbia-Tempio,Olbia,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -11375,6 +11408,10 @@ I-PA-100904-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione
 I-PA-100906-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-100907-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-100908-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-101469-S,immobili,Sicilia,Palermo,Terrasini,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-101470-S,immobili,Sicilia,Palermo,Terrasini,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-101471-S,immobili,Sicilia,Palermo,Terrasini,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-101472-S,immobili,Sicilia,Palermo,Terrasini,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-1167-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-1168-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-1171-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per alloggio e usi collettivi,Altro,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -13027,7 +13064,7 @@ I-PA-75777-S,immobili,Sicilia,Palermo,Ciminna,Terreno,Terreno agricolo,Confisca 
 I-PA-75778-S,immobili,Sicilia,Palermo,Ciminna,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-76268-S,immobili,Sicilia,Palermo,Misilmeri,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-76376-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-76378-S,immobili,Sicilia,Palermo,Misilmeri,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-76378-S,immobili,Sicilia,Palermo,Misilmeri,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-76379-S,immobili,Sicilia,Palermo,Misilmeri,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-76698-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-PA-76700-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
@@ -14527,6 +14564,7 @@ I-PV-10066-S,immobili,Lombardia,Pavia,Montù Beccaria,Unità immobiliare a desti
 I-PV-10067-S,immobili,Lombardia,Pavia,Montù Beccaria,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PV-10068-S,immobili,Lombardia,Pavia,Montù Beccaria,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PV-10069-S,immobili,Lombardia,Pavia,Montù Beccaria,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PV-101562-S,immobili,Lombardia,Pavia,Pavia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
 I-PV-12588-S,immobili,Lombardia,Pavia,Portalbera,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,50%,Tribunale,Brindisi,Misure di Prevenzione
 I-PV-12589-S,immobili,Lombardia,Pavia,Portalbera,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Tribunale,Brindisi,Misure di Prevenzione
 I-PV-12590-S,immobili,Lombardia,Pavia,Portalbera,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Tribunale,Brindisi,Misure di Prevenzione
@@ -16039,6 +16077,13 @@ I-RM-101256-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione
 I-RM-101290-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-101422-S,immobili,Lazio,Roma,Mentana,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
 I-RM-101430-S,immobili,Lazio,Roma,Mentana,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-101498-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,50%,Tribunale,Roma,Misure di Prevenzione
+I-RM-101507-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-101513-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-101519-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,52%,Tribunale,Roma,Misure di Prevenzione
+I-RM-101522-S,immobili,Lazio,Roma,Guidonia Montecelio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Sequestro,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-101525-S,immobili,Lazio,Roma,Guidonia Montecelio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-101529-S,immobili,Lazio,Roma,Guidonia Montecelio,Unità immobiliare per uso di abitazione e assimilabile,Altro,Sequestro,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-10515-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Taranto,Procedimento Penale
 I-RM-10516-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Taranto,Procedimento Penale
 I-RM-10554-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Taranto,Procedimento Penale
@@ -17833,6 +17878,18 @@ I-SV-10024-S,immobili,Liguria,Savona,Pietra Ligure,Unità immobiliare a destinaz
 I-SV-10025-S,immobili,Liguria,Savona,Pietra Ligure,Terreno,Terreno - non definito,,0%,Tribunale,Milano,Misure di Prevenzione
 I-SV-10026-S,immobili,Liguria,Savona,Pietra Ligure,Terreno,Terreno - non definito,,30%,Tribunale,Milano,Misure di Prevenzione
 I-SV-100432-S,immobili,Liguria,Savona,Finale Ligure,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
+I-SV-101538-S,immobili,Liguria,Savona,Sassello,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-SV-101541-S,immobili,Liguria,Savona,Sassello,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-SV-101543-S,immobili,Liguria,Savona,Sassello,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-SV-101546-S,immobili,Liguria,Savona,Sassello,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-SV-101549-S,immobili,Liguria,Savona,Sassello,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-SV-101553-S,immobili,Liguria,Savona,Sassello,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-SV-101557-S,immobili,Liguria,Savona,Sassello,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-SV-101559-S,immobili,Liguria,Savona,Sassello,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-SV-101560-S,immobili,Liguria,Savona,Sassello,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-SV-101569-S,immobili,Liguria,Savona,Sassello,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-SV-101571-S,immobili,Liguria,Savona,Sassello,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
+I-SV-101579-S,immobili,Liguria,Savona,Sassello,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
 I-SV-25937-S,immobili,Liguria,Savona,Pontinvrea,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
 I-SV-25938-S,immobili,Liguria,Savona,Pontinvrea,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
 I-SV-25939-S,immobili,Liguria,Savona,Pontinvrea,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
