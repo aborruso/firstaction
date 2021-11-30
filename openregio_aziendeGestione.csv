@@ -817,7 +817,7 @@ A-FI-86881-S,aziende,Toscana,Firenze,Firenze,Società a responsabilità limitata
 A-FI-86882-S,aziende,Toscana,Firenze,Firenze,Società a responsabilità limitata,Alberghi e ristoranti,,0%,Tribunale,Firenze,Misure di Prevenzione
 A-FI-86944-S,aziende,Toscana,Firenze,Firenze,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Firenze,Misure di Prevenzione
 A-FI-86946-S,aziende,Toscana,Firenze,Firenze,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",,0%,Tribunale,Firenze,Misure di Prevenzione
-A-FR-101300-S,aziende,Lazio,Frosinone,Ceccano,Società cooperativa,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-FR-101300-S,aziende,Lazio,Frosinone,Ceccano,Società cooperativa,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-FR-32919-S,aziende,Lazio,Frosinone,Cassino,Impresa individuale,Attività manifatturiere,Confisca II,0%,Corte di Cassazione,Napoli,Procedimento Penale
 A-FR-53010-S,aziende,Lazio,Frosinone,Castro dei Volsci,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Frosinone,Misure di Prevenzione
 A-FR-53641-S,aziende,Lazio,Frosinone,Sora,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Frosinone,Misure di Prevenzione
@@ -937,7 +937,6 @@ A-LT-8011-S,aziende,Lazio,Latina,Cisterna di Latina,Società a responsabilità l
 A-LT-82077-S,aziende,Lazio,Latina,Minturno,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-LT-83146-S,aziende,Lazio,Latina,Latina,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,20%,Tribunale,Latina,Misure di Prevenzione
 A-LT-8597-S,aziende,Lazio,Latina,Formia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-A-LT-86634-S,aziende,Lazio,Latina,Cisterna di Latina,Società a responsabilità limitata,"Produzione e distribuzione di energia elettrica, gas e acqua",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-LT-86943-S,aziende,Lazio,Latina,Latina,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-8772-S,aziende,Lazio,Latina,Fondi,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-8773-S,aziende,Lazio,Latina,Fondi,Società in nome collettivo,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
@@ -2309,32 +2308,32 @@ A-RG-94328-S,aziende,Sicilia,Ragusa,Vittoria,Impresa individuale,"Commercio ingr
 A-RI-50451-S,aziende,Lazio,Rieti,Scandriglia,Impresa individuale,Attività finanziarie,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-RI-87713-S,aziende,Lazio,Rieti,Rieti,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-100131-S,aziende,Lazio,Roma,Fiumicino,Società a responsabilità limitata,Costruzioni,,0%,Tribunale,L'aquila,Misure di Prevenzione
-A-RM-101245-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101250-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101252-S,aziende,Lazio,Roma,Roma,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101253-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101254-S,aziende,Lazio,Roma,Roma,Associazione,"Altri servizi pubblici, sociali e personali",Confisca I,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101257-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101261-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101262-S,aziende,Lazio,Roma,Roma,Impresa individuale,Attività manifatturiere,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101264-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101245-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101250-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101252-S,aziende,Lazio,Roma,Roma,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101253-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101254-S,aziende,Lazio,Roma,Roma,Associazione,"Altri servizi pubblici, sociali e personali",Confisca II,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101257-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101261-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101262-S,aziende,Lazio,Roma,Roma,Impresa individuale,Attività manifatturiere,Confisca II,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101264-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-101266-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101267-S,aziende,Lazio,Roma,Roma,Impresa individuale,Alberghi e ristoranti,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101270-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101271-S,aziende,Lazio,Roma,Roma,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca I,99%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101272-S,aziende,Lazio,Roma,Roma,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101274-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101275-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101276-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101278-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101279-S,aziende,Lazio,Roma,Roma,Associazione,"Altri servizi pubblici, sociali e personali",Confisca I,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101280-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101282-S,aziende,Lazio,Roma,Roma,Società in nome collettivo,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101267-S,aziende,Lazio,Roma,Roma,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101270-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101271-S,aziende,Lazio,Roma,Roma,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca II,99%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101272-S,aziende,Lazio,Roma,Roma,Società cooperativa,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101274-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101275-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101276-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101278-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101279-S,aziende,Lazio,Roma,Roma,Associazione,"Altri servizi pubblici, sociali e personali",Confisca II,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101280-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101282-S,aziende,Lazio,Roma,Roma,Società in nome collettivo,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-101283-S,aziende,Lazio,Roma,Roma,Associazione,"Altri servizi pubblici, sociali e personali",Confisca I,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101284-S,aziende,Lazio,Roma,Roma,Altro,"Altri servizi pubblici, sociali e personali",Confisca I,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101289-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101291-S,aziende,Lazio,Roma,Roma,Associazione,"Altri servizi pubblici, sociali e personali",Confisca I,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101299-S,aziende,Lazio,Roma,Roma,Associazione,"Altri servizi pubblici, sociali e personali",Confisca I,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101284-S,aziende,Lazio,Roma,Roma,Altro,"Altri servizi pubblici, sociali e personali",Confisca II,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101289-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101291-S,aziende,Lazio,Roma,Roma,Associazione,"Altri servizi pubblici, sociali e personali",Confisca II,0%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101299-S,aziende,Lazio,Roma,Roma,Associazione,"Altri servizi pubblici, sociali e personali",Confisca II,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-101315-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RM-101415-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-RM-101423-S,aziende,Lazio,Roma,Guidonia Montecelio,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
