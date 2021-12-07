@@ -901,6 +901,7 @@ A-LE-84092-S,aziende,Puglia,Lecce,Aradeo,Società per azioni,Attività finanziar
 A-LE-84102-S,aziende,Puglia,Lecce,Surbo,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
 A-LE-85742-S,aziende,Puglia,Lecce,Botrugno,Società cooperativa a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Rinvio,100%,Tribunale,Salerno,Misure di Prevenzione
 A-LE-96482-S,aziende,Puglia,Lecce,Lecce,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
+A-LI-101836-S,aziende,Toscana,Livorno,San Vincenzo,Società a responsabilità limitata,Attività finanziarie,Confisca I,10%,Tribunale,Perugia,Misure di Prevenzione
 A-LI-54762-S,aziende,Toscana,Livorno,Piombino,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,99%,Procura della Repubblica,Firenze,Procedimento Penale
 A-LI-60341-S,aziende,Toscana,Livorno,Rosignano Marittimo,Società per azioni,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,1%,Tribunale,Roma,Misure di Prevenzione
 A-LI-75498-S,aziende,Toscana,Livorno,Rosignano Marittimo,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -1626,6 +1627,9 @@ A-PA-100728-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitat
 A-PA-100795-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-100901-S,aziende,Sicilia,Palermo,Carini,Società a responsabilità limitata,Costruzioni,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-100903-S,aziende,Sicilia,Palermo,Carini,Società cooperativa,"Altri servizi pubblici, sociali e personali",Revoca Seq.,0%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-101765-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-101776-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Revoca Conf.,0%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-101803-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1165-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1166-S,aziende,Sicilia,Palermo,Palermo,Società in nome collettivo,Costruzioni,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1169-S,aziende,Sicilia,Palermo,Palermo,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -2030,6 +2034,16 @@ A-PE-59330-S,aziende,Abruzzo,Pescara,Pescara,Società a responsabilità limitata
 A-PE-59332-S,aziende,Abruzzo,Pescara,Montesilvano,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Pescara,Procedimento Penale
 A-PE-75643-S,aziende,Abruzzo,Pescara,Montesilvano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Sequestro,100%,Procura della Repubblica,Roma,Procedimento Penale
 A-PE-93097-S,aziende,Abruzzo,Pescara,Pescara,Società per azioni,Attività finanziarie,Confisca def.,2%,Tribunale,Roma,Misure di Prevenzione
+A-PG-101818-S,aziende,Umbria,Perugia,Spoleto,Società a responsabilità limitata,Attività finanziarie,Confisca I,95%,Tribunale,Perugia,Misure di Prevenzione
+A-PG-101822-S,aziende,Umbria,Perugia,Spoleto,Società a responsabilità limitata,Attività finanziarie,Confisca I,85%,Tribunale,Perugia,Misure di Prevenzione
+A-PG-101823-S,aziende,Umbria,Perugia,Spoleto,Società a responsabilità limitata,Attività finanziarie,Confisca I,49%,Tribunale,Perugia,Misure di Prevenzione
+A-PG-101828-S,aziende,Umbria,Perugia,Spoleto,Società a responsabilità limitata,Attività finanziarie,Confisca I,100%,Tribunale,Perugia,Misure di Prevenzione
+A-PG-101830-S,aziende,Umbria,Perugia,Spoleto,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,40%,Tribunale,Perugia,Misure di Prevenzione
+A-PG-101831-S,aziende,Umbria,Perugia,Spoleto,Consorzio,"Altri servizi pubblici, sociali e personali",Confisca I,7%,Tribunale,Perugia,Misure di Prevenzione
+A-PG-101833-S,aziende,Umbria,Perugia,Spoleto,Società a responsabilità limitata,Costruzioni,Confisca I,95%,Tribunale,Perugia,Misure di Prevenzione
+A-PG-101835-S,aziende,Umbria,Perugia,Spoleto,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,50%,Tribunale,Perugia,Misure di Prevenzione
+A-PG-101839-S,aziende,Umbria,Perugia,Spoleto,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Perugia,Misure di Prevenzione
+A-PG-101840-S,aziende,Umbria,Perugia,Spoleto,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Perugia,Misure di Prevenzione
 A-PG-36261-S,aziende,Umbria,Perugia,Trevi,Impresa individuale,Attività svolte da famiglie e convivenze,Confisca II,100%,Tribunale,Perugia,Misure di Prevenzione
 A-PG-55083-S,aziende,Umbria,Perugia,Perugia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,90%,Procura della Repubblica,Firenze,Procedimento Penale
 A-PI-101652-S,aziende,Toscana,Pisa,Pisa,Impresa individuale,Alberghi e ristoranti,Revoca Seq.,0%,Procura della Repubblica,Firenze,Procedimento Penale
@@ -2182,7 +2196,7 @@ A-RC-57328-S,aziende,Calabria,Reggio Calabria,Rosarno,Impresa individuale,"Comme
 A-RC-57333-S,aziende,Calabria,Reggio Calabria,Rosarno,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RC-57381-S,aziende,Calabria,Reggio Calabria,Rosarno,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,30%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-63440-S,aziende,Calabria,Reggio Calabria,Brancaleone,Società in nome collettivo,Costruzioni,Confisca I,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-A-RC-63444-S,aziende,Calabria,Reggio Calabria,Brancaleone,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+A-RC-63444-S,aziende,Calabria,Reggio Calabria,Brancaleone,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-63627-S,aziende,Calabria,Reggio Calabria,Antonimina,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-6641-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società in nome collettivo,Costruzioni,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-69053-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -2509,8 +2523,8 @@ A-RM-61980-S,aziende,Lazio,Roma,Roma,Consorzio,Costruzioni,Confisca def.,23%,Tri
 A-RM-61998-S,aziende,Lazio,Roma,Roma,Consorzio,"Altri servizi pubblici, sociali e personali",Confisca def.,44%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-RM-62701-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Produzione e distribuzione di energia elettrica, gas e acqua",Confisca def.,15%,Tribunale,Trapani,Misure di Prevenzione
 A-RM-63018-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Rinvio,100%,Tribunale,Salerno,Misure di Prevenzione
-A-RM-63442-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-A-RM-63443-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Confisca I,75%,Tribunale,Reggio Calabria,Misure di Prevenzione
+A-RM-63442-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+A-RM-63443-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Confisca def.,75%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RM-6500-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-6517-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-67177-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
