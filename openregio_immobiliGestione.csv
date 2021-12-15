@@ -650,7 +650,6 @@ I-AO-44709-S,immobili,Valle d'Aosta,Aosta,Quart,Terreno,Terreno agricolo,Confisc
 I-AO-44710-S,immobili,Valle d'Aosta,Aosta,Quart,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Aosta,Misure di Prevenzione
 I-AO-44711-S,immobili,Valle d'Aosta,Aosta,Quart,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Aosta,Misure di Prevenzione
 I-AO-44712-S,immobili,Valle d'Aosta,Aosta,Quart,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Aosta,Misure di Prevenzione
-I-AO-56012-S,immobili,Valle d'Aosta,Aosta,Valtournenche,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-AO-56013-S,immobili,Valle d'Aosta,Aosta,Valtournenche,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-AO-56014-S,immobili,Valle d'Aosta,Aosta,Valtournenche,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-AO-56015-S,immobili,Valle d'Aosta,Aosta,Valtournenche,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -4364,6 +4363,15 @@ I-CT-101749-S,immobili,Sicilia,Catania,Adrano,Unità immobiliare per uso di abit
 I-CT-102142-S,immobili,Sicilia,Catania,Adrano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 I-CT-102147-S,immobili,Sicilia,Catania,Adrano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 I-CT-102149-S,immobili,Sicilia,Catania,Adrano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
+I-CT-102289-S,immobili,Sicilia,Catania,Paternò,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-102290-S,immobili,Sicilia,Catania,Paternò,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-102292-S,immobili,Sicilia,Catania,Mascali,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-102295-S,immobili,Sicilia,Catania,Catania,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-102299-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-102300-S,immobili,Sicilia,Catania,Mascali,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-102307-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-102314-S,immobili,Sicilia,Catania,Catania,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-102357-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-10831-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Milano,Misure di Prevenzione
 I-CT-20882-S,immobili,Sicilia,Catania,San Pietro Clarenza,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-20893-S,immobili,Sicilia,Catania,Ramacca,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Catania,Misure di Prevenzione
@@ -4825,21 +4833,12 @@ I-CT-87774-S,immobili,Sicilia,Catania,Aci Sant'Antonio,Unità immobiliare per us
 I-CT-87775-S,immobili,Sicilia,Catania,Aci Sant'Antonio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-88513-S,immobili,Sicilia,Catania,Nicolosi,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-88514-S,immobili,Sicilia,Catania,Nicolosi,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Catania,Misure di Prevenzione
-I-CT-89721-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Procedimento Penale
-I-CT-89725-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Procedimento Penale
-I-CT-89727-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Procedimento Penale
-I-CT-89735-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Catania,Procedimento Penale
-I-CT-90335-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-89721-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Catania,Procedimento Penale
+I-CT-89725-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Catania,Procedimento Penale
+I-CT-89727-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Catania,Procedimento Penale
+I-CT-89735-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Catania,Procedimento Penale
 I-CT-90964-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
-I-CT-92387-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
-I-CT-92423-S,immobili,Sicilia,Catania,Catania,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
-I-CT-92656-S,immobili,Sicilia,Catania,Mascali,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
-I-CT-92658-S,immobili,Sicilia,Catania,Mascali,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
-I-CT-92662-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Tribunale,Catania,Misure di Prevenzione
-I-CT-92663-S,immobili,Sicilia,Catania,Catania,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-93152-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
-I-CT-94058-S,immobili,Sicilia,Catania,Paternò,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
-I-CT-94061-S,immobili,Sicilia,Catania,Paternò,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-94927-S,immobili,Sicilia,Catania,Maniace,Terreno,Terreno edificabile,,0%,Tribunale,Catania,Misure di Prevenzione
 I-CT-94928-S,immobili,Sicilia,Catania,Maniace,Terreno,Terreno agricolo,,0%,Tribunale,Catania,Misure di Prevenzione
 I-CT-94980-S,immobili,Sicilia,Catania,Paternò,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
@@ -5466,8 +5465,8 @@ I-CZ-90854-S,immobili,Calabria,Catanzaro,San Sostene,Terreno,Terreno edificabile
 I-CZ-90855-S,immobili,Calabria,Catanzaro,San Sostene,Terreno,Terreno edificabile,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CZ-90856-S,immobili,Calabria,Catanzaro,San Sostene,Terreno,Terreno edificabile,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CZ-92474-S,immobili,Calabria,Catanzaro,Montepaone,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-CZ-95905-S,immobili,Calabria,Catanzaro,Davoli,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
-I-CZ-95906-S,immobili,Calabria,Catanzaro,Davoli,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-CZ-95905-S,immobili,Calabria,Catanzaro,Davoli,Terreno,Terreno con fabbricato rurale,Confisca II,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-CZ-95906-S,immobili,Calabria,Catanzaro,Davoli,Terreno,Terreno con fabbricato rurale,Confisca II,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CZ-97468-S,immobili,Calabria,Catanzaro,Martirano Lombardo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
 I-CZ-97469-S,immobili,Calabria,Catanzaro,Martirano Lombardo,Terreno,Terreno agricolo,Confisca def.,99%,Tribunale,Vibo Valentia,Misure di Prevenzione
 I-CZ-97470-S,immobili,Calabria,Catanzaro,Martirano Lombardo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
@@ -11620,7 +11619,7 @@ I-PA-101800-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abi
 I-PA-101805-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-101806-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-101807-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-102281-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-102281-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-1167-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-1168-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-1171-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per alloggio e usi collettivi,Altro,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -14965,6 +14964,7 @@ I-RC-101755-S,immobili,Calabria,Reggio Calabria,Villa San Giovanni,Unità immobi
 I-RC-101811-S,immobili,Calabria,Reggio Calabria,Sant'Eufemia d'Aspromonte,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-101814-S,immobili,Calabria,Reggio Calabria,Sant'Eufemia d'Aspromonte,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-10221-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-102285-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,0%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-10271-S,immobili,Calabria,Reggio Calabria,Africo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 I-RC-10272-S,immobili,Calabria,Reggio Calabria,Africo,Terreno,Terreno agricolo,Confisca def.,50%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 I-RC-10281-S,immobili,Calabria,Reggio Calabria,Africo,Terreno,Terreno agricolo,Confisca def.,25%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -15991,7 +15991,6 @@ I-RC-89573-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobil
 I-RC-89574-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-89576-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-89668-S,immobili,Calabria,Reggio Calabria,Bianco,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,75%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-89673-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,0%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-90016-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Terreno,Terreno agricolo,Revoca Conf.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-90018-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Altra unità immobiliare,Altro,Revoca Conf.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-90019-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Terreno,Terreno agricolo,Revoca Conf.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -16285,6 +16284,8 @@ I-RE-98920-S,immobili,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Terreno,Ter
 I-RE-98925-S,immobili,Emilia Romagna,Reggio Emilia,Gattatico,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-RE-98928-S,immobili,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-RE-98929-S,immobili,Emilia Romagna,Reggio Emilia,Gattatico,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RG-102320-S,immobili,Sicilia,Ragusa,Ragusa,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RG-102343-S,immobili,Sicilia,Ragusa,Ragusa,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
 I-RG-32663-S,immobili,Sicilia,Ragusa,Vittoria,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Corte di Appello,Palermo,Procedimento Penale
 I-RG-32664-S,immobili,Sicilia,Ragusa,Ragusa,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Corte di Appello,Palermo,Procedimento Penale
 I-RG-52161-S,immobili,Sicilia,Ragusa,Vittoria,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Ragusa,Misure di Prevenzione
@@ -16293,8 +16294,6 @@ I-RG-52167-S,immobili,Sicilia,Ragusa,Vittoria,Terreno,Terreno - non definito,Con
 I-RG-52202-S,immobili,Sicilia,Ragusa,Vittoria,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Ragusa,Misure di Prevenzione
 I-RG-60574-S,immobili,Sicilia,Ragusa,Vittoria,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Catania,Misure di Prevenzione
 I-RG-84737-S,immobili,Sicilia,Ragusa,Modica,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-I-RG-92374-S,immobili,Sicilia,Ragusa,Ragusa,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RG-92384-S,immobili,Sicilia,Ragusa,Ragusa,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
 I-RG-94309-S,immobili,Sicilia,Ragusa,Vittoria,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Revoca Seq.,100%,Tribunale,Ragusa,Misure di Prevenzione
 I-RG-94312-S,immobili,Sicilia,Ragusa,Vittoria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Ragusa,Misure di Prevenzione
 I-RG-94314-S,immobili,Sicilia,Ragusa,Vittoria,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Ragusa,Misure di Prevenzione
@@ -16312,11 +16311,28 @@ I-RG-94337-S,immobili,Sicilia,Ragusa,Vittoria,Unità immobiliare per uso di abit
 I-RG-94338-S,immobili,Sicilia,Ragusa,Vittoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Ragusa,Misure di Prevenzione
 I-RG-94339-S,immobili,Sicilia,Ragusa,Vittoria,Terreno,Terreno agricolo,Revoca Seq.,100%,Tribunale,Ragusa,Misure di Prevenzione
 I-RG-94341-S,immobili,Sicilia,Ragusa,Vittoria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Ragusa,Misure di Prevenzione
+I-RI-102324-S,immobili,Lazio,Rieti,Amatrice,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,50%,Tribunale,Catania,Misure di Prevenzione
+I-RI-102352-S,immobili,Lazio,Rieti,Amatrice,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,50%,Tribunale,Catania,Misure di Prevenzione
+I-RI-102403-S,immobili,Lazio,Rieti,Scandriglia,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RI-102418-S,immobili,Lazio,Rieti,Scandriglia,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RI-102572-S,immobili,Lazio,Rieti,Scandriglia,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RI-102574-S,immobili,Lazio,Rieti,Scandriglia,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RI-102645-S,immobili,Lazio,Rieti,Scandriglia,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RI-102695-S,immobili,Lazio,Rieti,Scandriglia,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RI-102702-S,immobili,Lazio,Rieti,Scandriglia,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RI-102810-S,immobili,Lazio,Rieti,Scandriglia,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RI-102913-S,immobili,Lazio,Rieti,Scandriglia,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RI-102962-S,immobili,Lazio,Rieti,Scandriglia,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RI-103007-S,immobili,Lazio,Rieti,Scandriglia,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RI-103059-S,immobili,Lazio,Rieti,Scandriglia,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RI-103167-S,immobili,Lazio,Rieti,Scandriglia,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RI-103231-S,immobili,Lazio,Rieti,Scandriglia,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RI-103237-S,immobili,Lazio,Rieti,Scandriglia,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RI-103249-S,immobili,Lazio,Rieti,Scandriglia,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RI-103267-S,immobili,Lazio,Rieti,Scandriglia,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-RI-86068-S,immobili,Lazio,Rieti,Rieti,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Sequ. parziale,100%,Tribunale,Roma,Misure di Prevenzione
 I-RI-86069-S,immobili,Lazio,Rieti,Rieti,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Sequ. parziale,100%,Tribunale,Roma,Misure di Prevenzione
 I-RI-86070-S,immobili,Lazio,Rieti,Rieti,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Sequ. parziale,100%,Tribunale,Roma,Misure di Prevenzione
-I-RI-92408-S,immobili,Lazio,Rieti,Amatrice,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
-I-RI-92420-S,immobili,Lazio,Rieti,Amatrice,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
 I-RI-95169-S,immobili,Lazio,Rieti,Leonessa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-RI-95172-S,immobili,Lazio,Rieti,Leonessa,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-RM-101256-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
@@ -16345,6 +16361,879 @@ I-RM-101906-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione 
 I-RM-101911-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-101919-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-101924-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102310-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102311-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102312-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102313-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102316-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102321-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102323-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102325-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102327-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102329-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102330-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102332-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102333-S,immobili,Lazio,Roma,Anzio,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102334-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102336-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102337-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102339-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102341-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102344-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102345-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102346-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102348-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102349-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102350-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102351-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102353-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102356-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102358-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102359-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102361-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102364-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102367-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102368-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102370-S,immobili,Lazio,Roma,Anzio,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
+I-RM-102372-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102373-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102374-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102375-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102376-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102377-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102378-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102379-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102380-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102381-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102382-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102383-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102384-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102385-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102386-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102387-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102388-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102389-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102390-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102391-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102392-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102393-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102394-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102395-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102396-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102397-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102398-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102399-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102400-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102401-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102402-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102404-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102405-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102406-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102407-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102408-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102410-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102411-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102412-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102413-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102414-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102415-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102417-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102419-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102420-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102421-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102422-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102423-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102424-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102425-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102426-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102427-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102428-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102429-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102430-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102431-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102432-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102433-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102434-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102435-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102436-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102437-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102438-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102439-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102440-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102441-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102442-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102444-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102445-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102446-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102447-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102448-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102449-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102451-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102453-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102454-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102455-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102456-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102457-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102458-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102459-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102462-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102463-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102464-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102465-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102466-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102467-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102468-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102469-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102470-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102471-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102472-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102473-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102474-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102475-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102476-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102477-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102478-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102479-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102480-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102481-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102482-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102483-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102484-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102485-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102486-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102487-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102488-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102489-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102490-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102492-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102493-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102494-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102495-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102496-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102497-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,200%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102498-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102499-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102500-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102501-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102502-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102503-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102505-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102506-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102507-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102508-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102509-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102510-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102512-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102513-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102514-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102515-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102516-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102517-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102518-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102519-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102520-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102521-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102522-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102523-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102525-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102526-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102527-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102528-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102529-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102530-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102531-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102532-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102533-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102534-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102535-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102536-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102537-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102538-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102539-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102540-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102541-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102542-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102543-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102544-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102545-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102546-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102547-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102548-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102549-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102550-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102551-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102552-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102553-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102554-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102555-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102556-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102557-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102558-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102559-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102560-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102561-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102562-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102563-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102564-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102565-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102566-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102567-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102568-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102569-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102570-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102571-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102573-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102575-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102576-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102577-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102578-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102579-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102580-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102581-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102582-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102583-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102584-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102585-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102586-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102588-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102589-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102590-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102591-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102592-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102593-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102594-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102595-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102596-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102598-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102599-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102600-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102601-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102602-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102603-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102604-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102605-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102606-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102607-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102608-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102609-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102611-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102612-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102613-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102614-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102615-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102616-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102617-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102618-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102619-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102620-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,200%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102621-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102622-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102623-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102624-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102625-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102626-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102627-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102628-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102629-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102630-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102631-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102632-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102633-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102634-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102635-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102636-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102637-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102638-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102639-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102640-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102641-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102642-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102643-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102644-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102646-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102648-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102649-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102650-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102651-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102652-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102653-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102654-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102655-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102656-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102657-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102659-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102660-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102661-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102662-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102663-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102664-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102665-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102666-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,200%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102667-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102668-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102669-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102670-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102671-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102672-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102673-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102674-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102675-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102676-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102677-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102678-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102679-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102680-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102681-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102682-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102683-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102684-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102685-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102686-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102687-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102688-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102689-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102690-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102691-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102692-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102693-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102694-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102696-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102697-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102698-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102699-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102701-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102703-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102704-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102705-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102706-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102707-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102708-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102709-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102710-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102711-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102712-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102713-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102714-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102715-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102716-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102717-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102719-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102720-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102721-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102722-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102723-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102724-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102725-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102726-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102727-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102728-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102729-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102730-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102731-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102732-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102733-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102734-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102735-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102736-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102737-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102738-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102739-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102740-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102741-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102742-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102743-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,200%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102745-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102746-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102747-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102748-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102749-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102750-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102751-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102752-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102753-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102754-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102755-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102756-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102757-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102758-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102759-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102760-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102761-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102762-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102763-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102764-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102765-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102766-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102767-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102768-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102769-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102770-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102771-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102773-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102775-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102776-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102777-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102778-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102780-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102781-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102782-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102783-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102784-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102786-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102787-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102788-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102789-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102790-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102791-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102792-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102793-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102794-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102795-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102796-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102797-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102798-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102799-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102800-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102801-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102802-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102803-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102804-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102805-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102806-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102807-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102808-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102809-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102811-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102812-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102813-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102814-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102815-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102817-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102818-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102819-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102820-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102821-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102822-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102823-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102824-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102825-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102827-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102828-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102829-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102830-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102831-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102833-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102834-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102835-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102836-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102837-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102838-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102839-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102840-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102841-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102842-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102844-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102845-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102846-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102848-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102849-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102850-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102851-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102852-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102853-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102854-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102855-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102856-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102857-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102858-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,200%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102859-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102860-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102861-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102862-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102863-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102864-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102865-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102866-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102867-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102868-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102869-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102870-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102871-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102872-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102873-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102874-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102875-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102876-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102877-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102878-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102879-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102880-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102881-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102882-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102883-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102884-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102885-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102886-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102887-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102888-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102889-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102890-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102891-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102892-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102893-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102895-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102896-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102897-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102898-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102899-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102900-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102901-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102902-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102903-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102904-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102905-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102906-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102907-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102908-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102909-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102910-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102911-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102912-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102914-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102915-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102916-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102917-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102918-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102919-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102920-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102921-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102922-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102923-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102924-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102925-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102926-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102927-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102928-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102929-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102930-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102931-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102932-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102933-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102934-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102935-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102936-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102937-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102938-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102939-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102940-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102941-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102942-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102943-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102944-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102945-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102947-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102948-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102949-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102950-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102951-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102952-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102953-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102954-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102955-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102956-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102957-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102958-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102959-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102960-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102963-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102964-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102965-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102966-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102967-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102969-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102970-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102971-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102972-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102973-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102974-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102975-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102976-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102977-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102978-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102979-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102980-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102981-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102982-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102983-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102985-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102986-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102987-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102988-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102989-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102990-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102991-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102992-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102993-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102994-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102995-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102996-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102997-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102998-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-102999-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103000-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103001-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103002-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103003-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103004-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103006-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103008-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103009-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103010-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103011-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103012-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103013-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103014-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103015-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103016-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103017-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103018-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103019-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103020-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103021-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103022-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103023-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103024-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103025-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103026-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103027-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103028-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103029-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103030-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103031-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103032-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103033-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103034-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103035-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103036-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103037-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103038-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103040-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103041-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103042-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103043-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103044-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103045-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103046-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103047-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103048-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103049-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103050-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103051-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103052-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103053-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103054-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103055-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103057-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103058-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103060-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103061-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103062-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103063-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103064-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103065-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103066-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103067-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103069-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103070-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103071-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103072-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103073-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103074-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103075-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103076-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103077-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103078-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103079-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103080-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103081-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103082-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103083-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103084-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103085-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103086-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103087-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103088-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103089-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103090-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103091-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103092-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103093-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103094-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103095-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103096-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103097-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103098-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103099-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103100-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103101-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103102-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103103-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103104-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103105-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103106-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103107-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103108-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103109-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103110-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103111-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103112-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103113-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103114-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103116-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103117-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103118-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103119-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103120-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103121-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103122-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103123-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103124-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103125-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103126-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103127-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103128-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103129-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103130-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,200%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103131-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103132-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103133-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103134-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103135-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,200%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103136-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103137-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103138-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103139-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103140-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103141-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103142-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103143-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103144-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103145-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103146-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103147-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103148-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103149-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103150-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103151-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103152-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103153-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103155-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103156-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103157-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103158-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103159-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103160-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103161-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103162-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103163-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103164-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103165-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103166-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103168-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103169-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103170-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103171-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103172-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103173-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103174-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103175-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103176-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103177-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103178-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103179-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103180-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103181-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103182-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103183-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103184-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103185-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103186-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103187-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103188-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103189-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103190-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103191-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103192-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103193-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103194-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103195-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103197-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103198-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103199-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103200-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103201-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103202-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103203-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103204-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103206-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103207-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103209-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103210-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103211-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103212-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103213-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103214-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103215-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103216-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103217-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103218-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103219-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103220-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103221-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103222-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103223-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103224-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103225-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103226-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103227-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103228-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103229-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103230-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103232-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103233-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103234-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103238-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103239-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103240-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103241-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103242-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103243-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103244-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103245-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103246-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103247-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103248-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103250-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103251-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103252-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103253-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103254-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103255-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103256-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103257-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103258-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103259-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103260-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103261-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103262-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103263-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103264-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103265-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103266-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103268-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103269-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103270-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103271-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
 I-RM-10515-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Taranto,Procedimento Penale
 I-RM-10516-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Taranto,Procedimento Penale
 I-RM-10554-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Taranto,Procedimento Penale
@@ -17194,40 +18083,6 @@ I-RM-92152-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e
 I-RM-92153-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Milano,Misure di Prevenzione
 I-RM-92154-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
 I-RM-92155-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-RM-92369-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92370-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92372-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92373-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92375-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92376-S,immobili,Lazio,Roma,Anzio,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92377-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92378-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92379-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92380-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92381-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92383-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92385-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92386-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92390-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92391-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92393-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92394-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92399-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92400-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92402-S,immobili,Lazio,Roma,Anzio,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92403-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92404-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92405-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92406-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92407-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92410-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92411-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92412-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92416-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92418-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92427-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92428-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-I-RM-92429-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
 I-RM-9283-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Livorno,Procedimento Penale
 I-RM-92990-S,immobili,Lazio,Roma,Fiumicino,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-92992-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione

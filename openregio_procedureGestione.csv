@@ -78,6 +78,7 @@ Calabria,Corte di Appello,Catanzaro,Procedimento Penale,Confisca def.,43/2007
 Calabria,Corte di Appello,Catanzaro,Procedimento Penale,Revoca Conf.,178/2013
 Calabria,Corte di Appello,Catanzaro,Procedimento Penale,Revoca Conf. parziale,184/2014
 Calabria,Procura della Repubblica,Catanzaro,Procedimento Penale,Confisca I,1255/2008
+Calabria,Procura della Repubblica,Catanzaro,Procedimento Penale,Confisca II,4151/2012
 Calabria,Procura della Repubblica,Catanzaro,Procedimento Penale,Confisca def.,1/2012
 Calabria,Procura della Repubblica,Catanzaro,Procedimento Penale,Confisca def.,1110/2009
 Calabria,Procura della Repubblica,Catanzaro,Procedimento Penale,Confisca def.,1182/2004
@@ -87,7 +88,6 @@ Calabria,Procura della Repubblica,Catanzaro,Procedimento Penale,Confisca def.,18
 Calabria,Procura della Repubblica,Catanzaro,Procedimento Penale,Confisca def.,199/2008
 Calabria,Procura della Repubblica,Catanzaro,Procedimento Penale,Confisca def.,306/2012
 Calabria,Procura della Repubblica,Catanzaro,Procedimento Penale,Confisca def.,4007/2007
-Calabria,Procura della Repubblica,Catanzaro,Procedimento Penale,Confisca def.,4151/2012
 Calabria,Procura della Repubblica,Catanzaro,Procedimento Penale,Confisca def.,4206/2012
 Calabria,Procura della Repubblica,Catanzaro,Procedimento Penale,Confisca def.,4836/2009
 Calabria,Procura della Repubblica,Catanzaro,Procedimento Penale,Confisca def.,5223/2012
@@ -677,7 +677,6 @@ Campania,Corte di Appello,Napoli,Procedimento Penale,Confisca def.,2/1998
 Campania,Corte di Appello,Napoli,Procedimento Penale,Confisca def.,2/2006
 Campania,Corte di Appello,Napoli,Procedimento Penale,Confisca def.,3/2009
 Campania,Corte di Appello,Napoli,Procedimento Penale,Confisca def.,56837/2004
-Campania,Corte di Cassazione,Napoli,Procedimento Penale,Sequestro,28136/2009
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca I,10688/2013
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca I,15505/2013
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca I,23713/2015
@@ -1089,6 +1088,7 @@ Campania,Tribunale,Napoli,Misure di Prevenzione,Revoca Seq.,279/2012
 Campania,Tribunale,Napoli,Misure di Prevenzione,Revoca Sequ. parziale,5/2015
 Campania,Tribunale,Napoli,Misure di Prevenzione,Revoca Sequ. parziale,98/2015
 Campania,Tribunale,Napoli,Misure di Prevenzione,Sequestro,168/2020
+Campania,Tribunale,Napoli,Procedimento Penale,Sequestro,5908/2008
 Campania,Procura della Repubblica,Nocera Inferiore,Procedimento Penale,Revoca Seq.,1826/1999
 Campania,Procura della Repubblica,Nola,Procedimento Penale,Confisca II,116570/2007
 Campania,Procura della Repubblica,Nola,Procedimento Penale,Confisca def.,110838/2010
@@ -1529,6 +1529,7 @@ Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca I,49/2017
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca I,84/2015
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca II,118/2017
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca II,127/2015
+Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca II,145/2016
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca II,15/2017
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca II,154/2018
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca II,193/2014
@@ -1884,7 +1885,6 @@ Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,37424/2
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,4272/2012
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,4366/2012
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,4712/2016
-Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,55192/2013
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,64/1998
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,860/2013
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca II,193/2012
@@ -1965,6 +1965,7 @@ Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,5152
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,51746/2005
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,52858/2010
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,53760/2009
+Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,55192/2013
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,64/1998
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,64/1999
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca def.,7003/1996
@@ -3231,11 +3232,11 @@ Sicilia,Procura della Repubblica,Catania,Procedimento Penale,Revoca Conf. parzia
 Sicilia,Tribunale,Catania,Misure di Prevenzione,Confisca I,171/2013
 Sicilia,Tribunale,Catania,Misure di Prevenzione,Confisca I,289/2009
 Sicilia,Tribunale,Catania,Misure di Prevenzione,Confisca I,53/2017
+Sicilia,Tribunale,Catania,Misure di Prevenzione,Confisca II,1/2016
 Sicilia,Tribunale,Catania,Misure di Prevenzione,Confisca II,173/2012
 Sicilia,Tribunale,Catania,Misure di Prevenzione,Confisca def.,1/1998
 Sicilia,Tribunale,Catania,Misure di Prevenzione,Confisca def.,1/2005
 Sicilia,Tribunale,Catania,Misure di Prevenzione,Confisca def.,1/2011
-Sicilia,Tribunale,Catania,Misure di Prevenzione,Confisca def.,1/2016
 Sicilia,Tribunale,Catania,Misure di Prevenzione,Confisca def.,102/1997
 Sicilia,Tribunale,Catania,Misure di Prevenzione,Confisca def.,103/2016
 Sicilia,Tribunale,Catania,Misure di Prevenzione,Confisca def.,106/1987
@@ -3382,7 +3383,7 @@ Sicilia,Tribunale,Catania,Misure di Prevenzione,Revoca Conf. parziale,29/2014
 Sicilia,Tribunale,Catania,Misure di Prevenzione,Revoca Conf. parziale,53/2011
 Sicilia,Tribunale,Catania,Misure di Prevenzione,Revoca Seq.,207/2018
 Sicilia,Tribunale,Catania,Misure di Prevenzione,Revoca Seq.,34/2020
-Sicilia,Tribunale,Catania,Procedimento Penale,Confisca def.,11844/2008
+Sicilia,Tribunale,Catania,Procedimento Penale,Confisca II,11844/2008
 Sicilia,Tribunale,Catania,Procedimento Penale,Confisca def.,5/1999
 Sicilia,Tribunale,Catania,Procedimento Penale,Confisca def.,7189/2000
 Sicilia,Tribunale,Catania,Procedimento Penale,Confisca def.,85/2000
