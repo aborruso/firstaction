@@ -1072,6 +1072,9 @@ I-BA-9946-S,immobili,Puglia,Bari,Bitonto,Unità immobiliare per uso di abitazion
 I-BG-10047-S,immobili,Lombardia,Bergamo,Albino,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,100%,Tribunale,Milano,Misure di Prevenzione
 I-BG-100704-S,immobili,Lombardia,Bergamo,Scanzorosciate,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Milano,Misure di Prevenzione
 I-BG-100705-S,immobili,Lombardia,Bergamo,Scanzorosciate,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Milano,Misure di Prevenzione
+I-BG-103273-S,immobili,Lombardia,Bergamo,Cologno al Serio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
+I-BG-103274-S,immobili,Lombardia,Bergamo,Cologno al Serio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
+I-BG-103275-S,immobili,Lombardia,Bergamo,Cologno al Serio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
 I-BG-15714-S,immobili,Lombardia,Bergamo,Valbondione,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BG-15715-S,immobili,Lombardia,Bergamo,Valbondione,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BG-15716-S,immobili,Lombardia,Bergamo,Valbondione,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -1674,7 +1677,6 @@ I-BT-72991-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare a d
 I-BT-72992-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca I,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-82201-S,immobili,Puglia,Barletta-Andria-Trani,Barletta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Trani,Procedimento Penale
 I-BT-84374-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85047-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-85101-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Revoca Sequ. parziale,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-85102-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Revoca Sequ. parziale,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-85103-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Revoca Sequ. parziale,100%,Tribunale,Trani,Misure di Prevenzione
@@ -1687,32 +1689,6 @@ I-BT-85115-S,immobili,Puglia,Barletta-Andria-Trani,Trani,Terreno,Terreno - non d
 I-BT-85116-S,immobili,Puglia,Barletta-Andria-Trani,Trani,Terreno,Terreno - non definito,Revoca Sequ. parziale,0%,Tribunale,Trani,Misure di Prevenzione
 I-BT-85117-S,immobili,Puglia,Barletta-Andria-Trani,Trani,Terreno,Terreno - non definito,Revoca Sequ. parziale,0%,Tribunale,Trani,Misure di Prevenzione
 I-BT-85118-S,immobili,Puglia,Barletta-Andria-Trani,Trani,Terreno,Terreno - non definito,Revoca Sequ. parziale,0%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85169-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85184-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno - non definito,Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85186-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno - non definito,Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85187-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno - non definito,Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85188-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno - non definito,Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85189-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno - non definito,Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85190-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85191-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85192-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf. parziale,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85193-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85194-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85195-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85196-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85197-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85198-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85199-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85200-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85201-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85202-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85203-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85204-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85205-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85206-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85236-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85239-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-85240-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno - non definito,Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-90177-S,immobili,Puglia,Barletta-Andria-Trani,Canosa di Puglia,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-BT-90627-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-92033-S,immobili,Puglia,Barletta-Andria-Trani,Canosa di Puglia,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,,0%,Procura della Repubblica,Milano,Procedimento Penale
@@ -12273,7 +12249,6 @@ I-PA-40033-S,immobili,Sicilia,Palermo,Carini,Terreno,Terreno agricolo,Confisca d
 I-PA-40051-S,immobili,Sicilia,Palermo,Terrasini,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,25%,Procura della Repubblica,Palermo,Procedimento Penale
 I-PA-40284-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-40288-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-40330-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-40433-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-40437-S,immobili,Sicilia,Palermo,Monreale,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-40446-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
