@@ -53,7 +53,6 @@ I-AG-2-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.
 I-AG-20-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-20977-S,immobili,Sicilia,Agrigento,Campobello di Licata,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-20978-S,immobili,Sicilia,Agrigento,Campobello di Licata,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-20979-S,immobili,Sicilia,Agrigento,Campobello di Licata,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-21-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-21034-S,immobili,Sicilia,Agrigento,Realmonte,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-21035-S,immobili,Sicilia,Agrigento,Realmonte,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
@@ -13132,10 +13131,10 @@ I-PA-72471-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione 
 I-PA-72472-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-72475-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-72477-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-72608-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-72626-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-72608-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-72626-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-72627-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-72629-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno - non definito,Confisca def.,25%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-72629-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,25%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-72630-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno - non definito,Confisca def.,25%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-72631-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno - non definito,Confisca def.,25%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-72632-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno - non definito,Confisca def.,0%,Tribunale,Palermo,Misure di Prevenzione
