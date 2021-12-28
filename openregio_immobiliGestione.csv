@@ -72,7 +72,6 @@ I-AG-21522-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno edificabile,Confis
 I-AG-21538-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-22-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-23-S,immobili,Sicilia,Agrigento,Menfi,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-23423-S,immobili,Sicilia,Agrigento,Agrigento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-24-S,immobili,Sicilia,Agrigento,Menfi,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-24406-S,immobili,Sicilia,Agrigento,Aragona,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-24409-S,immobili,Sicilia,Agrigento,Aragona,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
@@ -9205,8 +9204,6 @@ I-MI-92149-S,immobili,Lombardia,Milano,Sesto San Giovanni,Unità immobiliare per
 I-MI-92434-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-92435-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-92436-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MI-95838-S,immobili,Lombardia,Milano,Villa Cortese,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-95839-S,immobili,Lombardia,Milano,Villa Cortese,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-95967-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-MI-97751-S,immobili,Lombardia,Milano,Assago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
 I-MI-97752-S,immobili,Lombardia,Milano,Assago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
@@ -13017,16 +13014,6 @@ I-PA-71255-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione 
 I-PA-71256-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-71258-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-71259-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-71272-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-71273-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-71274-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-71275-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-71276-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-71277-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-71278-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-71279-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-71280-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-71281-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-71656-S,immobili,Sicilia,Palermo,Termini Imerese,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-71657-S,immobili,Sicilia,Palermo,Monreale,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-71658-S,immobili,Sicilia,Palermo,Monreale,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -21016,9 +21003,6 @@ I-TP-87685-S,immobili,Sicilia,Trapani,Valderice,Unità immobiliare per uso di ab
 I-TP-87686-S,immobili,Sicilia,Trapani,Valderice,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-87687-S,immobili,Sicilia,Trapani,Valderice,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-87688-S,immobili,Sicilia,Trapani,Valderice,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-90706-S,immobili,Sicilia,Trapani,Alcamo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-90710-S,immobili,Sicilia,Trapani,Alcamo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-90711-S,immobili,Sicilia,Trapani,Alcamo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-90712-S,immobili,Sicilia,Trapani,Alcamo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-90713-S,immobili,Sicilia,Trapani,Alcamo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-90714-S,immobili,Sicilia,Trapani,Alcamo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
