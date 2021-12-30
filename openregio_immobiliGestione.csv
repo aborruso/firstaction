@@ -1100,7 +1100,7 @@ I-BG-76544-S,immobili,Lombardia,Bergamo,Valbondione,Unità immobiliare per uso d
 I-BG-76545-S,immobili,Lombardia,Bergamo,Valbondione,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BG-78012-S,immobili,Lombardia,Bergamo,Treviglio,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BG-78013-S,immobili,Lombardia,Bergamo,Treviglio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-BG-84712-S,immobili,Lombardia,Bergamo,San Giovanni Bianco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Milano,Misure di Prevenzione
+I-BG-84712-S,immobili,Lombardia,Bergamo,San Giovanni Bianco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BG-86523-S,immobili,Lombardia,Bergamo,Alzano Lombardo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 I-BG-86712-S,immobili,Lombardia,Bergamo,Alzano Lombardo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 I-BG-86911-S,immobili,Lombardia,Bergamo,Trescore Balneario,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Padova,Procedimento Penale
@@ -1115,9 +1115,9 @@ I-BG-90510-S,immobili,Lombardia,Bergamo,San Paolo d'Argon,Unità immobiliare per
 I-BG-90511-S,immobili,Lombardia,Bergamo,San Paolo d'Argon,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Bergamo,Procedimento Penale
 I-BG-91438-S,immobili,Lombardia,Bergamo,Bergamo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BG-91439-S,immobili,Lombardia,Bergamo,Bergamo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
-I-BG-92136-S,immobili,Lombardia,Bergamo,San Giovanni Bianco,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-BG-92137-S,immobili,Lombardia,Bergamo,San Giovanni Bianco,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-BG-92138-S,immobili,Lombardia,Bergamo,San Giovanni Bianco,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
+I-BG-92136-S,immobili,Lombardia,Bergamo,San Giovanni Bianco,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-BG-92137-S,immobili,Lombardia,Bergamo,San Giovanni Bianco,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-BG-92138-S,immobili,Lombardia,Bergamo,San Giovanni Bianco,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BG-94882-S,immobili,Lombardia,Bergamo,Trescore Balneario,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
 I-BG-94883-S,immobili,Lombardia,Bergamo,Trescore Balneario,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
 I-BG-94884-S,immobili,Lombardia,Bergamo,Trescore Balneario,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
@@ -5221,6 +5221,12 @@ I-CZ-15537-S,immobili,Calabria,Catanzaro,Lamezia Terme,Unità immobiliare per us
 I-CZ-16012-S,immobili,Calabria,Catanzaro,Cropani,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Verona,Misure di Prevenzione
 I-CZ-16013-S,immobili,Calabria,Catanzaro,Cropani,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Verona,Misure di Prevenzione
 I-CZ-18313-S,immobili,Calabria,Catanzaro,Lamezia Terme,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-CZ-18356-S,immobili,Calabria,Catanzaro,Simeri Crichi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-CZ-18372-S,immobili,Calabria,Catanzaro,Simeri Crichi,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-CZ-18373-S,immobili,Calabria,Catanzaro,Simeri Crichi,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-CZ-18385-S,immobili,Calabria,Catanzaro,Simeri Crichi,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-CZ-18397-S,immobili,Calabria,Catanzaro,Simeri Crichi,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-CZ-18398-S,immobili,Calabria,Catanzaro,Simeri Crichi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-CZ-18435-S,immobili,Calabria,Catanzaro,San Mango d'Aquino,Altra unità immobiliare,Ex fabbricato rurale,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-18436-S,immobili,Calabria,Catanzaro,Lamezia Terme,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-32763-S,immobili,Calabria,Catanzaro,Catanzaro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
@@ -9172,17 +9178,17 @@ I-MI-91243-S,immobili,Lombardia,Milano,Cambiago,Unità immobiliare per uso di ab
 I-MI-91525-S,immobili,Lombardia,Milano,Rho,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-92108-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
 I-MI-92109-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
-I-MI-92139-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-92140-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-92141-S,immobili,Lombardia,Milano,Sesto San Giovanni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-92142-S,immobili,Lombardia,Milano,Sesto San Giovanni,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-92143-S,immobili,Lombardia,Milano,Sesto San Giovanni,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-92144-S,immobili,Lombardia,Milano,Sesto San Giovanni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-92145-S,immobili,Lombardia,Milano,Sesto San Giovanni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-92146-S,immobili,Lombardia,Milano,Sesto San Giovanni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-92147-S,immobili,Lombardia,Milano,Sesto San Giovanni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-92148-S,immobili,Lombardia,Milano,Sesto San Giovanni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-92149-S,immobili,Lombardia,Milano,Sesto San Giovanni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-92139-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-92140-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-92141-S,immobili,Lombardia,Milano,Sesto San Giovanni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-92142-S,immobili,Lombardia,Milano,Sesto San Giovanni,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-92143-S,immobili,Lombardia,Milano,Sesto San Giovanni,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-92144-S,immobili,Lombardia,Milano,Sesto San Giovanni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-92145-S,immobili,Lombardia,Milano,Sesto San Giovanni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-92146-S,immobili,Lombardia,Milano,Sesto San Giovanni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-92147-S,immobili,Lombardia,Milano,Sesto San Giovanni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-92148-S,immobili,Lombardia,Milano,Sesto San Giovanni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-92149-S,immobili,Lombardia,Milano,Sesto San Giovanni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-92434-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-92435-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-92436-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -9395,6 +9401,7 @@ I-NA-10304-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abita
 I-NA-10305-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-10306-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-103283-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-103297-S,immobili,Campania,Napoli,Boscotrecase,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-104-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-105-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-106-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -11326,6 +11333,8 @@ I-OT-101554-S,immobili,Sardegna,Olbia-Tempio,Aglientu,Unità immobiliare per uso
 I-OT-101565-S,immobili,Sardegna,Olbia-Tempio,Aglientu,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
 I-OT-101580-S,immobili,Sardegna,Olbia-Tempio,Aglientu,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
 I-OT-101826-S,immobili,Sardegna,Olbia-Tempio,Loiri Porto San Paolo,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca I,100%,Tribunale,Perugia,Misure di Prevenzione
+I-OT-103294-S,immobili,Sardegna,Olbia-Tempio,Arzachena,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
+I-OT-103296-S,immobili,Sardegna,Olbia-Tempio,Arzachena,Unità immobiliare per uso di abitazione e assimilabile,Villa,Revoca Seq.,0%,Tribunale,Palermo,Misure di Prevenzione
 I-OT-10541-S,immobili,Sardegna,Olbia-Tempio,Golfo Aranci,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Taranto,Procedimento Penale
 I-OT-17768-S,immobili,Sardegna,Olbia-Tempio,Olbia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-OT-17818-S,immobili,Sardegna,Olbia-Tempio,Olbia,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -11384,30 +11393,30 @@ I-OT-8057-S,immobili,Sardegna,Olbia-Tempio,Arzachena,Unità immobiliare per uso 
 I-OT-80748-S,immobili,Sardegna,Olbia-Tempio,San Teodoro,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-OT-81890-S,immobili,Sardegna,Olbia-Tempio,San Teodoro,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-OT-87747-S,immobili,Sardegna,Olbia-Tempio,Budoni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Tribunale,Roma,Misure di Prevenzione
-I-OT-92156-S,immobili,Sardegna,Olbia-Tempio,Olbia,Altra unità immobiliare,Altra unità  immobil. - non definito,,100%,Tribunale,Milano,Misure di Prevenzione
-I-OT-92157-S,immobili,Sardegna,Olbia-Tempio,Olbia,Altra unità immobiliare,Altra unità  immobil. - non definito,,100%,Tribunale,Milano,Misure di Prevenzione
-I-OT-92158-S,immobili,Sardegna,Olbia-Tempio,Olbia,Altra unità immobiliare,Altra unità  immobil. - non definito,,100%,Tribunale,Milano,Misure di Prevenzione
-I-OT-92159-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-OT-92160-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-OT-92161-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-OT-92162-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-OT-92163-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-OT-92164-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-OT-92165-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-OT-92166-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-OT-92167-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-OT-92168-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-OT-92169-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-OT-92170-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-OT-92171-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-OT-92172-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-OT-92173-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-OT-92174-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-OT-92175-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-OT-92176-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-OT-92177-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-OT-92178-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-OT-92179-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92156-S,immobili,Sardegna,Olbia-Tempio,Olbia,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92157-S,immobili,Sardegna,Olbia-Tempio,Olbia,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92158-S,immobili,Sardegna,Olbia-Tempio,Olbia,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92159-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92160-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92161-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92162-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92163-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92164-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92165-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92166-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92167-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92168-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92169-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92170-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92171-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92172-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92173-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92174-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92175-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92176-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92177-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92178-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-OT-92179-S,immobili,Sardegna,Olbia-Tempio,Olbia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-OT-92719-S,immobili,Sardegna,Olbia-Tempio,San Teodoro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Nuoro,Misure di Prevenzione
 I-OT-92723-S,immobili,Sardegna,Olbia-Tempio,Palau,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Nuoro,Misure di Prevenzione
 I-OT-92728-S,immobili,Sardegna,Olbia-Tempio,Palau,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Nuoro,Misure di Prevenzione
@@ -13578,8 +13587,8 @@ I-PA-91532-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abit
 I-PA-91533-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-91534-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-91535-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92150-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Milano,Misure di Prevenzione
-I-PA-92151-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Milano,Misure di Prevenzione
+I-PA-92150-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PA-92151-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PA-92480-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-92481-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-92482-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Palermo,Misure di Prevenzione
@@ -17901,10 +17910,10 @@ I-RM-9187-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e 
 I-RM-9188-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-9189-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-9192-S,immobili,Lazio,Roma,Roma,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-92152-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,,100%,Tribunale,Milano,Misure di Prevenzione
-I-RM-92153-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Milano,Misure di Prevenzione
-I-RM-92154-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
-I-RM-92155-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,,100%,Tribunale,Milano,Misure di Prevenzione
+I-RM-92152-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-RM-92153-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-RM-92154-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-RM-92155-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-RM-9283-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Livorno,Procedimento Penale
 I-RM-92990-S,immobili,Lazio,Roma,Fiumicino,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-92992-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
