@@ -1803,7 +1803,7 @@ I-CA-94754-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare per uso di a
 I-CA-94755-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
 I-CB-10842-S,immobili,Molise,Campobasso,Campomarino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-CB-85046-S,immobili,Molise,Campobasso,Tufara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Rimini,Misure di Prevenzione
-I-CB-86864-S,immobili,Molise,Campobasso,Campomarino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Milano,Misure di Prevenzione
+I-CB-86864-S,immobili,Molise,Campobasso,Campomarino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 I-CE-101068-S,immobili,Campania,Caserta,Casapulla,Unità immobiliare a destinazione commerciale e industriale,Fabbricato/Locale per esercizi sportivi,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-101069-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-101070-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -9130,9 +9130,9 @@ I-MI-86694-S,immobili,Lombardia,Milano,Milano,Terreno,Terreno agricolo,Confisca 
 I-MI-86707-S,immobili,Lombardia,Milano,Zelo Surrigone,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-86724-S,immobili,Lombardia,Milano,Bollate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-86726-S,immobili,Lombardia,Milano,Bollate,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-86865-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Milano,Misure di Prevenzione
-I-MI-86866-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Milano,Misure di Prevenzione
-I-MI-86867-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Milano,Misure di Prevenzione
+I-MI-86865-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-86866-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-86867-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-86927-S,immobili,Lombardia,Milano,Corsico,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-86948-S,immobili,Lombardia,Milano,Vermezzo,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-86949-S,immobili,Lombardia,Milano,Corsico,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
