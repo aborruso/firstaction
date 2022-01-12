@@ -161,7 +161,7 @@ A-BA-95703-S,aziende,Puglia,Bari,Bari,Impresa individuale,"Commercio ingrosso-de
 A-BA-95707-S,aziende,Puglia,Bari,Bari,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 A-BA-96021-S,aziende,Puglia,Bari,Molfetta,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,98%,Tribunale,Bari,Misure di Prevenzione
 A-BA-96022-S,aziende,Puglia,Bari,Molfetta,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
-A-BG-101388-S,aziende,Lombardia,Bergamo,Bergamo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-BG-101388-S,aziende,Lombardia,Bergamo,Bergamo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-BG-21021-S,aziende,Lombardia,Bergamo,Fornovo San Giovanni,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,90%,Procura della Repubblica,Milano,Procedimento Penale
 A-BG-34362-S,aziende,Lombardia,Bergamo,Mozzanica,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-BG-35380-S,aziende,Lombardia,Bergamo,Trescore Balneario,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
@@ -217,13 +217,13 @@ A-BR-48152-S,aziende,Puglia,Brindisi,San Vito dei Normanni,Associazione,"Altri s
 A-BR-83721-S,aziende,Puglia,Brindisi,San Pancrazio Salentino,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
 A-BR-86834-S,aziende,Puglia,Brindisi,Fasano,Società in nome collettivo,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Brindisi,Misure di Prevenzione
 A-BS-101123-S,aziende,Lombardia,Brescia,Cologne,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
-A-BS-101378-S,aziende,Lombardia,Brescia,Brescia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-A-BS-101387-S,aziende,Lombardia,Brescia,Brescia,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-A-BS-101393-S,aziende,Lombardia,Brescia,Brescia,Impresa individuale,Alberghi e ristoranti,Confisca def.,0%,Tribunale,Caltanissetta,Misure di Prevenzione
-A-BS-101397-S,aziende,Lombardia,Brescia,Brescia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-A-BS-101406-S,aziende,Lombardia,Brescia,Brescia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-A-BS-101414-S,aziende,Lombardia,Brescia,Brescia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-A-BS-101418-S,aziende,Lombardia,Brescia,Brescia,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-BS-101378-S,aziende,Lombardia,Brescia,Brescia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-BS-101387-S,aziende,Lombardia,Brescia,Brescia,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-BS-101393-S,aziende,Lombardia,Brescia,Brescia,Impresa individuale,Alberghi e ristoranti,Confisca II,0%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-BS-101397-S,aziende,Lombardia,Brescia,Brescia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-BS-101406-S,aziende,Lombardia,Brescia,Brescia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-BS-101414-S,aziende,Lombardia,Brescia,Brescia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-BS-101418-S,aziende,Lombardia,Brescia,Brescia,Società in accomandita semplice,Alberghi e ristoranti,Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-BS-17024-S,aziende,Lombardia,Brescia,Padenghe sul Garda,Impresa individuale,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
 A-BS-17026-S,aziende,Lombardia,Brescia,Lonato del Garda,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
 A-BS-17027-S,aziende,Lombardia,Brescia,Desenzano del Garda,Società in nome collettivo,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
@@ -500,7 +500,7 @@ A-CI-9262-S,aziende,Sardegna,Carbonia-Iglesias,Iglesias,Società in accomandita 
 A-CL-100235-S,aziende,Sicilia,Caltanissetta,Caltanissetta,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-100240-S,aziende,Sicilia,Caltanissetta,Caltanissetta,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-100242-S,aziende,Sicilia,Caltanissetta,Mussomeli,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,34%,Tribunale,Caltanissetta,Misure di Prevenzione
-A-CL-101411-S,aziende,Sicilia,Caltanissetta,Gela,Impresa individuale,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,0%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-CL-101411-S,aziende,Sicilia,Caltanissetta,Gela,Impresa individuale,"Trasporti, magazzinaggio e comunicazioni",Confisca II,0%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-101689-S,aziende,Sicilia,Caltanissetta,Gela,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-101742-S,aziende,Sicilia,Caltanissetta,Gela,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-18784-S,aziende,Sicilia,Caltanissetta,Mussomeli,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -816,6 +816,8 @@ A-FG-95619-S,aziende,Puglia,Foggia,Foggia,Società a responsabilità limitata,"C
 A-FG-96637-S,aziende,Puglia,Foggia,Ordona,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 A-FG-96667-S,aziende,Puglia,Foggia,Ordona,Società semplice,"Agricoltura, caccia e silvicoltura",Revoca Conf.,100%,Tribunale,Foggia,Misure di Prevenzione
 A-FG-96691-S,aziende,Puglia,Foggia,Ordona,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
+A-FI-103347-S,aziende,Toscana,Firenze,Firenze,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,50%,Tribunale,Firenze,Misure di Prevenzione
+A-FI-103348-S,aziende,Toscana,Firenze,Firenze,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,0%,Tribunale,Firenze,Misure di Prevenzione
 A-FI-10558-S,aziende,Toscana,Firenze,Sesto Fiorentino,Società a responsabilità limitata,Attività finanziarie,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-FI-33630-S,aziende,Toscana,Firenze,Sesto Fiorentino,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 A-FI-40169-S,aziende,Toscana,Firenze,Firenze,Società a responsabilità limitata,Costruzioni,Confisca def.,20%,Procura della Repubblica,Palermo,Procedimento Penale
@@ -1080,9 +1082,9 @@ A-MI-10097-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata
 A-MI-10098-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,55%,Tribunale,Milano,Misure di Prevenzione
 A-MI-10099-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,30%,Tribunale,Milano,Misure di Prevenzione
 A-MI-10100-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,95%,Tribunale,Milano,Misure di Prevenzione
-A-MI-101384-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-A-MI-101398-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Sanità e assistenza sociale,Confisca def.,60%,Tribunale,Caltanissetta,Misure di Prevenzione
-A-MI-101416-S,aziende,Lombardia,Milano,Milano,Società per azioni,Attività finanziarie,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-MI-101384-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Attività manifatturiere,Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-MI-101398-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Sanità e assistenza sociale,Confisca II,60%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-MI-101416-S,aziende,Lombardia,Milano,Milano,Società per azioni,Attività finanziarie,Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-MI-101540-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
 A-MI-101566-S,aziende,Lombardia,Milano,Settimo Milanese,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Conf.,0%,Tribunale,Genova,Misure di Prevenzione
 A-MI-101886-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
@@ -2079,6 +2081,8 @@ A-PR-74777-S,aziende,Emilia Romagna,Parma,Parma,Società a responsabilità limit
 A-PR-86519-S,aziende,Emilia Romagna,Parma,Torrile,Società a responsabilità limitata,,,100%,Tribunale,Agrigento,Misure di Prevenzione
 A-PR-97863-S,aziende,Emilia Romagna,Parma,Parma,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca def.,0%,Tribunale,Napoli,Misure di Prevenzione
 A-PR-98812-S,aziende,Emilia Romagna,Parma,Parma,Società a responsabilità limitata,Costruzioni,Confisca def.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+A-PT-103342-S,aziende,Toscana,Pistoia,Montecatini-Terme,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
+A-PT-103343-S,aziende,Toscana,Pistoia,Montecatini-Terme,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
 A-PT-59383-S,aziende,Toscana,Pistoia,Montecatini-Terme,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
 A-PT-59390-S,aziende,Toscana,Pistoia,Monsummano Terme,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
 A-PT-90536-S,aziende,Toscana,Pistoia,Montecatini-Terme,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,0%,Tribunale,Pistoia,Misure di Prevenzione
@@ -2370,7 +2374,7 @@ A-RM-101289-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri
 A-RM-101291-S,aziende,Lazio,Roma,Roma,Associazione,"Altri servizi pubblici, sociali e personali",Confisca II,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-101299-S,aziende,Lazio,Roma,Roma,Associazione,"Altri servizi pubblici, sociali e personali",Confisca II,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-101315-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-A-RM-101415-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-RM-101415-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-RM-101423-S,aziende,Lazio,Roma,Guidonia Montecelio,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-101514-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-101526-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Sequestro,0%,Tribunale,Roma,Misure di Prevenzione
@@ -2422,6 +2426,7 @@ A-RM-103115-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attiv
 A-RM-103196-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-103205-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-103236-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-103341-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
 A-RM-10559-S,aziende,Lazio,Roma,Colleferro,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,20%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RM-10560-S,aziende,Lazio,Roma,Monte Porzio Catone,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RM-10561-S,aziende,Lazio,Roma,Monte Porzio Catone,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale

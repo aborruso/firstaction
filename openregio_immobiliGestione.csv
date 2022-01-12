@@ -1449,11 +1449,11 @@ I-BS-100622-S,immobili,Lombardia,Brescia,Brescia,Unità immobiliare per uso di a
 I-BS-100860-S,immobili,Lombardia,Brescia,Desenzano del Garda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-BS-100864-S,immobili,Lombardia,Brescia,Desenzano del Garda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-BS-100881-S,immobili,Lombardia,Brescia,Desenzano del Garda,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
-I-BS-101389-S,immobili,Lombardia,Brescia,Lonato del Garda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-BS-101394-S,immobili,Lombardia,Brescia,Lonato del Garda,Altra unità immobiliare,Altro,Confisca def.,2%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-BS-101399-S,immobili,Lombardia,Brescia,Lonato del Garda,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-BS-101407-S,immobili,Lombardia,Brescia,Lonato del Garda,Altra unità immobiliare,Altro,Confisca def.,2%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-BS-101417-S,immobili,Lombardia,Brescia,Lonato del Garda,Unità immobiliare per alloggio e usi collettivi,Opificio,Confisca def.,2%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-BS-101389-S,immobili,Lombardia,Brescia,Lonato del Garda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-BS-101394-S,immobili,Lombardia,Brescia,Lonato del Garda,Altra unità immobiliare,Altro,Confisca II,2%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-BS-101399-S,immobili,Lombardia,Brescia,Lonato del Garda,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-BS-101407-S,immobili,Lombardia,Brescia,Lonato del Garda,Altra unità immobiliare,Altro,Confisca II,2%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-BS-101417-S,immobili,Lombardia,Brescia,Lonato del Garda,Unità immobiliare per alloggio e usi collettivi,Opificio,Confisca II,2%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-BS-14059-S,immobili,Lombardia,Brescia,Sirmione,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,55%,Tribunale,Verona,Misure di Prevenzione
 I-BS-14060-S,immobili,Lombardia,Brescia,Sirmione,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,54%,Tribunale,Verona,Misure di Prevenzione
 I-BS-22740-S,immobili,Lombardia,Brescia,Chiari,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -11489,6 +11489,9 @@ I-PA-101805-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abi
 I-PA-101806-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-101807-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-102281-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-103301-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Revoca Conf.,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-103309-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno edificabile,Confisca II,50%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-103311-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-1167-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-1168-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-1171-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per alloggio e usi collettivi,Altro,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -14502,6 +14505,10 @@ I-PR-98910-S,immobili,Emilia Romagna,Parma,Soragna,Unità immobiliare a destinaz
 I-PR-98919-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-PR-98922-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-PR-98926-S,immobili,Emilia Romagna,Parma,Soragna,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PT-103324-S,immobili,Toscana,Pistoia,Montecatini-Terme,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
+I-PT-103327-S,immobili,Toscana,Pistoia,Montecatini-Terme,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
+I-PT-103329-S,immobili,Toscana,Pistoia,Montecatini-Terme,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
+I-PT-103338-S,immobili,Toscana,Pistoia,Montecatini-Terme,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
 I-PT-51265-S,immobili,Toscana,Pistoia,Montecatini-Terme,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-PT-51270-S,immobili,Toscana,Pistoia,Montecatini-Terme,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-PT-51271-S,immobili,Toscana,Pistoia,Montecatini-Terme,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
