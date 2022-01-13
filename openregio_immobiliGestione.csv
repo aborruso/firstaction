@@ -585,6 +585,10 @@ I-AN-100482-S,immobili,Marche,Ancona,Senigallia,Altra unità immobiliare,Altro,C
 I-AN-100483-S,immobili,Marche,Ancona,Senigallia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Ancona,Misure di Prevenzione
 I-AN-101179-S,immobili,Marche,Ancona,Falconara Marittima,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Ancona,Misure di Prevenzione
 I-AN-101180-S,immobili,Marche,Ancona,Falconara Marittima,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Ancona,Misure di Prevenzione
+I-AN-103350-S,immobili,Marche,Ancona,Falconara Marittima,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Ancona,Misure di Prevenzione
+I-AN-103351-S,immobili,Marche,Ancona,Falconara Marittima,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Ancona,Misure di Prevenzione
+I-AN-103352-S,immobili,Marche,Ancona,Falconara Marittima,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Ancona,Misure di Prevenzione
+I-AN-103353-S,immobili,Marche,Ancona,Falconara Marittima,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Ancona,Misure di Prevenzione
 I-AN-78646-S,immobili,Marche,Ancona,Ancona,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,81%,Tribunale,Ancona,Misure di Prevenzione
 I-AN-78647-S,immobili,Marche,Ancona,Falconara Marittima,Terreno,Terreno - non definito,Confisca def.,0%,Tribunale,Ancona,Misure di Prevenzione
 I-AN-83437-S,immobili,Marche,Ancona,Ancona,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Procura della Repubblica,Ancona,Procedimento Penale
@@ -6858,6 +6862,13 @@ I-LT-101176-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca I,10
 I-LT-101431-S,immobili,Lazio,Latina,Latina,Terreno,Terreno con fabbricato rurale,Revoca Conf.,0%,Tribunale,Latina,Misure di Prevenzione
 I-LT-101476-S,immobili,Lazio,Latina,Gaeta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-LT-101481-S,immobili,Lazio,Latina,Formia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-LT-103354-S,immobili,Lazio,Latina,Castelforte,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-103355-S,immobili,Lazio,Latina,Santi Cosma e Damiano,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-103356-S,immobili,Lazio,Latina,Castelforte,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca II,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-103357-S,immobili,Lazio,Latina,Santi Cosma e Damiano,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-103359-S,immobili,Lazio,Latina,Castelforte,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-103360-S,immobili,Lazio,Latina,Castelforte,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-103361-S,immobili,Lazio,Latina,Castelforte,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-1261-S,immobili,Lazio,Latina,Sperlonga,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-LT-1262-S,immobili,Lazio,Latina,Sperlonga,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-LT-1264-S,immobili,Lazio,Latina,Formia,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -17056,6 +17067,25 @@ I-RM-103268-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione 
 I-RM-103269-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-103270-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
 I-RM-103271-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103377-S,immobili,Lazio,Roma,Monte Compatri,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103378-S,immobili,Lazio,Roma,Monte Compatri,Altra unità immobiliare,Altro,Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103379-S,immobili,Lazio,Roma,Monte Compatri,Altra unità immobiliare,Altro,Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103381-S,immobili,Lazio,Roma,Monte Compatri,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103383-S,immobili,Lazio,Roma,Monte Compatri,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103384-S,immobili,Lazio,Roma,Monte Compatri,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103385-S,immobili,Lazio,Roma,Monte Compatri,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103386-S,immobili,Lazio,Roma,Monte Compatri,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103387-S,immobili,Lazio,Roma,Monte Compatri,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103388-S,immobili,Lazio,Roma,Monte Compatri,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103390-S,immobili,Lazio,Roma,Monte Compatri,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103391-S,immobili,Lazio,Roma,Monte Compatri,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103392-S,immobili,Lazio,Roma,Monte Compatri,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103393-S,immobili,Lazio,Roma,Monte Compatri,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103394-S,immobili,Lazio,Roma,Monte Compatri,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103396-S,immobili,Lazio,Roma,Monte Compatri,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103397-S,immobili,Lazio,Roma,Monte Compatri,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103398-S,immobili,Lazio,Roma,Monte Compatri,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-103400-S,immobili,Lazio,Roma,Monte Compatri,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-10515-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Taranto,Procedimento Penale
 I-RM-10516-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Taranto,Procedimento Penale
 I-RM-10554-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Taranto,Procedimento Penale
@@ -21502,6 +21532,8 @@ I-VR-25602-S,immobili,Veneto,Verona,San Giovanni Ilarione,Terreno,Terreno agrico
 I-VR-25603-S,immobili,Veneto,Verona,San Giovanni Ilarione,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Vicenza,Misure di Prevenzione
 I-VR-25604-S,immobili,Veneto,Verona,San Giovanni Ilarione,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Vicenza,Misure di Prevenzione
 I-VR-86741-S,immobili,Veneto,Verona,Verona,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Verona,Procedimento Penale
+I-VT-103365-S,immobili,Lazio,Viterbo,Monterosi,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-VT-103368-S,immobili,Lazio,Viterbo,Monterosi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 I-VT-39126-S,immobili,Lazio,Viterbo,Soriano nel Cimino,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-VT-39140-S,immobili,Lazio,Viterbo,Soriano nel Cimino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-VT-39141-S,immobili,Lazio,Viterbo,Soriano nel Cimino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,99%,Tribunale,Latina,Misure di Prevenzione
