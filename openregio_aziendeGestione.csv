@@ -169,8 +169,8 @@ A-BG-74124-S,aziende,Lombardia,Bergamo,Bergamo,Società a responsabilità limita
 A-BG-75862-S,aziende,Lombardia,Bergamo,Alzano Lombardo,Società a responsabilità limitata,Attività finanziarie,Sequestro,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-BG-80082-S,aziende,Lombardia,Bergamo,Bergamo,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-BG-82710-S,aziende,Lombardia,Bergamo,Treviglio,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
-A-BG-82742-S,aziende,Lombardia,Bergamo,Sarnico,Impresa individuale,Costruzioni,,100%,Procura della Repubblica,Brescia,Procedimento Penale
-A-BG-82846-S,aziende,Lombardia,Bergamo,Credaro,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Procura della Repubblica,Brescia,Procedimento Penale
+A-BG-82742-S,aziende,Lombardia,Bergamo,Sarnico,Impresa individuale,Costruzioni,Revoca Conf. parziale,100%,Procura della Repubblica,Brescia,Procedimento Penale
+A-BG-82846-S,aziende,Lombardia,Bergamo,Credaro,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Revoca Conf. parziale,100%,Procura della Repubblica,Brescia,Procedimento Penale
 A-BG-82863-S,aziende,Lombardia,Bergamo,Bergamo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 A-BG-95947-S,aziende,Lombardia,Bergamo,Treviolo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Revoca Conf.,75%,Procura della Repubblica,Brescia,Procedimento Penale
 A-BI-83710-S,aziende,Piemonte,Biella,Dorzano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Revoca Conf. parziale,100%,Procura della Repubblica,Torino,Procedimento Penale
@@ -232,13 +232,13 @@ A-BS-27808-S,aziende,Lombardia,Brescia,Bedizzole,Società a responsabilità limi
 A-BS-31835-S,aziende,Lombardia,Brescia,Brescia,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 A-BS-35361-S,aziende,Lombardia,Brescia,Brescia,Società in nome collettivo,"Altri servizi pubblici, sociali e personali",Confisca def.,50%,Procura della Repubblica,Brescia,Procedimento Penale
 A-BS-35374-S,aziende,Lombardia,Brescia,Casto,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
-A-BS-82721-S,aziende,Lombardia,Brescia,Rovato,Società a responsabilità limitata,Attività finanziarie,,100%,Procura della Repubblica,Brescia,Procedimento Penale
-A-BS-82722-S,aziende,Lombardia,Brescia,Rovato,Società a responsabilità limitata,Attività finanziarie,,100%,Procura della Repubblica,Brescia,Procedimento Penale
-A-BS-82723-S,aziende,Lombardia,Brescia,Palazzolo sull'Oglio,Società a responsabilità limitata,Costruzioni,,100%,Procura della Repubblica,Brescia,Procedimento Penale
-A-BS-82732-S,aziende,Lombardia,Brescia,Rovato,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",,100%,Procura della Repubblica,Brescia,Procedimento Penale
-A-BS-82737-S,aziende,Lombardia,Brescia,Rudiano,Impresa individuale,Costruzioni,,100%,Procura della Repubblica,Brescia,Procedimento Penale
-A-BS-82741-S,aziende,Lombardia,Brescia,Erbusco,Società a responsabilità limitata,Costruzioni,,100%,Procura della Repubblica,Brescia,Procedimento Penale
-A-BS-82847-S,aziende,Lombardia,Brescia,Rovato,Società a responsabilità limitata,Costruzioni,,0%,Procura della Repubblica,Brescia,Procedimento Penale
+A-BS-82721-S,aziende,Lombardia,Brescia,Rovato,Società a responsabilità limitata,Attività finanziarie,Revoca Conf. parziale,100%,Procura della Repubblica,Brescia,Procedimento Penale
+A-BS-82722-S,aziende,Lombardia,Brescia,Rovato,Società a responsabilità limitata,Attività finanziarie,Revoca Conf. parziale,100%,Procura della Repubblica,Brescia,Procedimento Penale
+A-BS-82723-S,aziende,Lombardia,Brescia,Palazzolo sull'Oglio,Società a responsabilità limitata,Costruzioni,Revoca Conf. parziale,100%,Procura della Repubblica,Brescia,Procedimento Penale
+A-BS-82732-S,aziende,Lombardia,Brescia,Rovato,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Conf. parziale,100%,Procura della Repubblica,Brescia,Procedimento Penale
+A-BS-82737-S,aziende,Lombardia,Brescia,Rudiano,Impresa individuale,Costruzioni,Revoca Conf. parziale,100%,Procura della Repubblica,Brescia,Procedimento Penale
+A-BS-82741-S,aziende,Lombardia,Brescia,Erbusco,Società a responsabilità limitata,Costruzioni,Revoca Conf. parziale,100%,Procura della Repubblica,Brescia,Procedimento Penale
+A-BS-82847-S,aziende,Lombardia,Brescia,Rovato,Società a responsabilità limitata,Costruzioni,Revoca Conf. parziale,0%,Procura della Repubblica,Brescia,Procedimento Penale
 A-BS-89674-S,aziende,Lombardia,Brescia,Cologne,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Tribunale,Reggio Calabria,Procedimento Penale
 A-BS-90872-S,aziende,Lombardia,Brescia,Torbole Casaglia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-BS-92596-S,aziende,Lombardia,Brescia,Verolanuova,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,0%,Tribunale,Brescia,Misure di Prevenzione
@@ -1210,9 +1210,9 @@ A-MI-80444-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata
 A-MI-81356-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,40%,Tribunale,Milano,Misure di Prevenzione
 A-MI-81582-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,1%,Corte di Appello,Milano,Procedimento Penale
 A-MI-82711-S,aziende,Lombardia,Milano,Inzago,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
-A-MI-82739-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,100%,Procura della Repubblica,Brescia,Procedimento Penale
-A-MI-82740-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Attività manifatturiere,,100%,Procura della Repubblica,Brescia,Procedimento Penale
-A-MI-82743-S,aziende,Lombardia,Milano,Milano,Società cooperativa a responsabilità limitata,Costruzioni,,100%,Procura della Repubblica,Brescia,Procedimento Penale
+A-MI-82739-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Revoca Conf. parziale,100%,Procura della Repubblica,Brescia,Procedimento Penale
+A-MI-82740-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Attività manifatturiere,Revoca Conf. parziale,100%,Procura della Repubblica,Brescia,Procedimento Penale
+A-MI-82743-S,aziende,Lombardia,Milano,Milano,Società cooperativa a responsabilità limitata,Costruzioni,Revoca Conf. parziale,100%,Procura della Repubblica,Brescia,Procedimento Penale
 A-MI-82769-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Sondrio,Misure di Prevenzione
 A-MI-82872-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 A-MI-82882-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Attività finanziarie,Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
@@ -3158,7 +3158,7 @@ A-TP-73122-S,aziende,Sicilia,Trapani,Castelvetrano,Impresa individuale,"Agricolt
 A-TP-74843-S,aziende,Sicilia,Trapani,Castelvetrano,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca II,100%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-74844-S,aziende,Sicilia,Trapani,Castelvetrano,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-76336-S,aziende,Sicilia,Trapani,Salemi,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,80%,Tribunale,Trapani,Misure di Prevenzione
-A-TP-79271-S,aziende,Sicilia,Trapani,Castelvetrano,Società a responsabilità limitata,Costruzioni,Confisca II,100%,Tribunale,Trapani,Misure di Prevenzione
+A-TP-79271-S,aziende,Sicilia,Trapani,Castelvetrano,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-81451-S,aziende,Sicilia,Trapani,Santa Ninfa,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,0%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-83566-S,aziende,Sicilia,Trapani,Partanna,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,0%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-83568-S,aziende,Sicilia,Trapani,Partanna,Società cooperativa,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
