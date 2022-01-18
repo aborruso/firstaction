@@ -554,6 +554,8 @@ A-CN-101212-S,aziende,Piemonte,Cuneo,Alba,Società a responsabilità limitata,"A
 A-CN-95876-S,aziende,Piemonte,Cuneo,Sommariva del Bosco,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 A-CO-102057-S,aziende,Lombardia,Como,Appiano Gentile,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 A-CO-102097-S,aziende,Lombardia,Como,Cadorago,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
+A-CO-103591-S,aziende,Lombardia,Como,Appiano Gentile,Società in accomandita semplice,"Agricoltura, caccia e silvicoltura",Confisca II,0%,Tribunale,Reggio Calabria,Misure di Prevenzione
+A-CO-103592-S,aziende,Lombardia,Como,Appiano Gentile,Società in nome collettivo,"Produzione e distribuzione di energia elettrica, gas e acqua",Confisca II,0%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-CO-71896-S,aziende,Lombardia,Como,Como,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-CO-74082-S,aziende,Lombardia,Como,Olgiate Comasco,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Como,Misure di Prevenzione
 A-CO-85749-S,aziende,Lombardia,Como,Como,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Rinvio,100%,Tribunale,Salerno,Misure di Prevenzione
@@ -737,6 +739,7 @@ A-CT-96848-S,aziende,Sicilia,Catania,Catania,Impresa individuale,Alberghi e rist
 A-CT-99421-S,aziende,Sicilia,Catania,Militello in Val di Catania,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-99544-S,aziende,Sicilia,Catania,Militello in Val di Catania,Società in accomandita semplice,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-99655-S,aziende,Sicilia,Catania,Militello in Val di Catania,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+A-CZ-103445-S,aziende,Calabria,Catanzaro,Marcellinara,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,50%,Tribunale,Firenze,Misure di Prevenzione
 A-CZ-13987-S,aziende,Calabria,Catanzaro,Catanzaro,Impresa individuale,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 A-CZ-13988-S,aziende,Calabria,Catanzaro,Catanzaro,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 A-CZ-39340-S,aziende,Calabria,Catanzaro,Guardavalle,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -2060,6 +2063,8 @@ A-PG-101840-S,aziende,Umbria,Perugia,Spoleto,Società a responsabilità limitata
 A-PG-36261-S,aziende,Umbria,Perugia,Trevi,Impresa individuale,Attività svolte da famiglie e convivenze,Confisca II,100%,Tribunale,Perugia,Misure di Prevenzione
 A-PG-55083-S,aziende,Umbria,Perugia,Perugia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,90%,Procura della Repubblica,Firenze,Procedimento Penale
 A-PI-101652-S,aziende,Toscana,Pisa,Pisa,Impresa individuale,Alberghi e ristoranti,Revoca Seq.,0%,Procura della Repubblica,Firenze,Procedimento Penale
+A-PI-103438-S,aziende,Toscana,Pisa,Santa Croce sull'Arno,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
+A-PI-103443-S,aziende,Toscana,Pisa,Santa Croce sull'Arno,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 A-PI-50994-S,aziende,Toscana,Pisa,Ponsacco,Società in accomandita semplice,Costruzioni,Sequestro,33%,Procura della Repubblica,Napoli,Procedimento Penale
 A-PI-5101-S,aziende,Toscana,Pisa,Pisa,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-PI-97607-S,aziende,Toscana,Pisa,Pisa,Società a responsabilità limitata,"Produzione e distribuzione di energia elettrica, gas e acqua",Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -2127,6 +2132,9 @@ A-RC-101677-S,aziende,Calabria,Reggio Calabria,Siderno,Società in nome colletti
 A-RC-101754-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Corte di Appello,Reggio Calabria,Procedimento Penale
 A-RC-10206-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-10207-S,aziende,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+A-RC-103455-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
+A-RC-103469-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
+A-RC-103593-S,aziende,Calabria,Reggio Calabria,Gioia Tauro,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca II,0%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-10387-S,aziende,Calabria,Reggio Calabria,Bianco,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-11098-S,aziende,Calabria,Reggio Calabria,Bianco,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-RC-12229-S,aziende,Calabria,Reggio Calabria,Gioia Tauro,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -2309,6 +2317,7 @@ A-RE-101224-S,aziende,Emilia Romagna,Reggio Emilia,Cadelbosco di Sopra,Società 
 A-RE-101232-S,aziende,Emilia Romagna,Reggio Emilia,Cadelbosco di Sopra,Società a responsabilità limitata,Costruzioni,Revoca Conf.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-RE-101235-S,aziende,Emilia Romagna,Reggio Emilia,Cadelbosco di Sopra,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-RE-101237-S,aziende,Emilia Romagna,Reggio Emilia,Reggio nell'Emilia,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+A-RE-103503-S,aziende,Emilia Romagna,Reggio Emilia,Reggio nell'Emilia,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
 A-RE-12510-S,aziende,Emilia Romagna,Reggio Emilia,Brescello,Impresa individuale,Costruzioni,Confisca II,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-RE-12511-S,aziende,Emilia Romagna,Reggio Emilia,Brescello,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-RE-36701-S,aziende,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
@@ -2836,6 +2845,8 @@ A-RN-103285-S,aziende,Emilia Romagna,Rimini,Rimini,Società a responsabilità li
 A-RN-103286-S,aziende,Emilia Romagna,Rimini,Rimini,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
 A-RN-103290-S,aziende,Emilia Romagna,Rimini,Rimini,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,50%,Tribunale,Bologna,Misure di Prevenzione
 A-RN-103291-S,aziende,Emilia Romagna,Rimini,Rimini,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,50%,Tribunale,Bologna,Misure di Prevenzione
+A-RN-103594-S,aziende,Emilia Romagna,Rimini,Rimini,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
+A-RN-103595-S,aziende,Emilia Romagna,Rimini,Rimini,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
 A-RN-11498-S,aziende,Emilia Romagna,Rimini,Riccione,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Rimini,Misure di Prevenzione
 A-RN-17770-S,aziende,Emilia Romagna,Rimini,Rimini,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RN-41352-S,aziende,Emilia Romagna,Rimini,Bellaria-Igea Marina,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,50%,Tribunale,Milano,Misure di Prevenzione
