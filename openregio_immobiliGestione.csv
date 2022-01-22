@@ -7305,7 +7305,7 @@ I-LU-91507-S,immobili,Toscana,Lucca,Lucca,Unità immobiliare per uso di abitazio
 I-LU-91508-S,immobili,Toscana,Lucca,Lucca,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-LU-91509-S,immobili,Toscana,Lucca,Lucca,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-LU-93196-S,immobili,Toscana,Lucca,Pietrasanta,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
-I-MB-100407-S,immobili,Lombardia,Monza e Brianza,Brugherio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,0%,Tribunale,Milano,Misure di Prevenzione
+I-MB-100407-S,immobili,Lombardia,Monza e Brianza,Brugherio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 I-MB-100408-S,immobili,Lombardia,Monza e Brianza,Brugherio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Milano,Misure di Prevenzione
 I-MB-100409-S,immobili,Lombardia,Monza e Brianza,Brugherio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 I-MB-100412-S,immobili,Lombardia,Monza e Brianza,Brugherio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
@@ -8549,7 +8549,6 @@ I-MI-33705-S,immobili,Lombardia,Milano,Turbigo,Unità immobiliare per uso di abi
 I-MI-33974-S,immobili,Lombardia,Milano,Cesano Boscone,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-33994-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,83%,Tribunale,Milano,Misure di Prevenzione
 I-MI-34050-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
-I-MI-34282-S,immobili,Lombardia,Milano,Settimo Milanese,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-34283-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-34284-S,immobili,Lombardia,Milano,Pessano con Bornago,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-34332-S,immobili,Lombardia,Milano,Lacchiarella,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,77%,Tribunale,Milano,Misure di Prevenzione
@@ -11904,8 +11903,6 @@ I-PA-4642-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abita
 I-PA-4643-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-4644-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per alloggio e usi collettivi,Unità  per allog. e usi coll. - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-4645-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per alloggio e usi collettivi,Unità  per allog. e usi coll. - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-4694-S,immobili,Sicilia,Palermo,Petralia Sottana,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-PA-4717-S,immobili,Sicilia,Palermo,Petralia Sottana,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-PA-47975-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-48119-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-48257-S,immobili,Sicilia,Palermo,Castelbuono,Terreno,Terreno agricolo,Confisca def.,9%,Procura della Repubblica,Palermo,Procedimento Penale
