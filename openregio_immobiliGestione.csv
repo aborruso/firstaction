@@ -554,6 +554,8 @@ I-AN-103350-S,immobili,Marche,Ancona,Falconara Marittima,Unità immobiliare a de
 I-AN-103351-S,immobili,Marche,Ancona,Falconara Marittima,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Ancona,Misure di Prevenzione
 I-AN-103352-S,immobili,Marche,Ancona,Falconara Marittima,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Ancona,Misure di Prevenzione
 I-AN-103353-S,immobili,Marche,Ancona,Falconara Marittima,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Ancona,Misure di Prevenzione
+I-AN-103749-S,immobili,Marche,Ancona,Falconara Marittima,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Ancona,Misure di Prevenzione
+I-AN-103750-S,immobili,Marche,Ancona,Falconara Marittima,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Ancona,Misure di Prevenzione
 I-AN-78646-S,immobili,Marche,Ancona,Ancona,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,81%,Tribunale,Ancona,Misure di Prevenzione
 I-AN-78647-S,immobili,Marche,Ancona,Falconara Marittima,Terreno,Terreno - non definito,Confisca def.,0%,Tribunale,Ancona,Misure di Prevenzione
 I-AN-83437-S,immobili,Marche,Ancona,Ancona,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Procura della Repubblica,Ancona,Procedimento Penale
@@ -1306,6 +1308,13 @@ I-BO-84424-S,immobili,Emilia Romagna,Bologna,San Giovanni in Persiceto,Unità im
 I-BO-84425-S,immobili,Emilia Romagna,Bologna,San Giovanni in Persiceto,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,0%,Tribunale,Bologna,Misure di Prevenzione
 I-BO-84426-S,immobili,Emilia Romagna,Bologna,San Giovanni in Persiceto,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf. parziale,0%,Tribunale,Bologna,Misure di Prevenzione
 I-BO-94286-S,immobili,Emilia Romagna,Bologna,Bologna,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Tribunale,Matera,Misure di Prevenzione
+I-BR-103955-S,immobili,Puglia,Brindisi,Ostuni,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
+I-BR-103964-S,immobili,Puglia,Brindisi,Ostuni,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Bologna,Misure di Prevenzione
+I-BR-103966-S,immobili,Puglia,Brindisi,Ostuni,Altra unità immobiliare,Altro,Confisca def.,50%,Tribunale,Bologna,Misure di Prevenzione
+I-BR-103970-S,immobili,Puglia,Brindisi,Ostuni,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
+I-BR-103977-S,immobili,Puglia,Brindisi,Ostuni,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Bologna,Misure di Prevenzione
+I-BR-103982-S,immobili,Puglia,Brindisi,Ostuni,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
+I-BR-103984-S,immobili,Puglia,Brindisi,Ostuni,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
 I-BR-10878-S,immobili,Puglia,Brindisi,Torre Santa Susanna,Terreno,Terreno agricolo,Confisca def.,7%,Tribunale,Brindisi,Misure di Prevenzione
 I-BR-10879-S,immobili,Puglia,Brindisi,Torre Santa Susanna,Altra unità immobiliare,Ex fabbricato rurale,Confisca def.,7%,Tribunale,Brindisi,Misure di Prevenzione
 I-BR-10880-S,immobili,Puglia,Brindisi,Torre Santa Susanna,Altra unità immobiliare,Ex fabbricato rurale,Confisca def.,7%,Tribunale,Brindisi,Misure di Prevenzione
@@ -6126,6 +6135,9 @@ I-KR-101128-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Terreno,Terreno ag
 I-KR-103498-S,immobili,Calabria,Crotone,Cutro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
 I-KR-103504-S,immobili,Calabria,Crotone,Cutro,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
 I-KR-103545-S,immobili,Calabria,Crotone,Cutro,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
+I-KR-103948-S,immobili,Calabria,Crotone,Cutro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
+I-KR-103956-S,immobili,Calabria,Crotone,Cutro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
+I-KR-103957-S,immobili,Calabria,Crotone,Cutro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
 I-KR-16799-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-KR-17270-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-KR-17271-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -7610,6 +7622,7 @@ I-MC-103586-S,immobili,Marche,Macerata,Civitanova Marche,Terreno,Terreno agricol
 I-MC-103587-S,immobili,Marche,Macerata,Civitanova Marche,Altra unità immobiliare,Altro,Revoca Seq.,0%,Tribunale,Ancona,Misure di Prevenzione
 I-MC-103588-S,immobili,Marche,Macerata,Civitanova Marche,Altra unità immobiliare,Altro,Revoca Seq.,0%,Tribunale,Ancona,Misure di Prevenzione
 I-MC-103589-S,immobili,Marche,Macerata,Civitanova Marche,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Ancona,Misure di Prevenzione
+I-MC-103746-S,immobili,Marche,Macerata,Civitanova Marche,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Ancona,Misure di Prevenzione
 I-MC-75808-S,immobili,Marche,Macerata,Pioraco,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MC-75809-S,immobili,Marche,Macerata,Pioraco,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MC-75810-S,immobili,Marche,Macerata,Pioraco,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -8278,7 +8291,7 @@ I-MI-13171-S,immobili,Lombardia,Milano,Zibido San Giacomo,Terreno,Terreno agrico
 I-MI-13607-S,immobili,Lombardia,Milano,Lainate,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-13608-S,immobili,Lombardia,Milano,Lainate,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-13609-S,immobili,Lombardia,Milano,Lainate,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-13610-S,immobili,Lombardia,Milano,Lainate,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-13610-S,immobili,Lombardia,Milano,Lainate,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-13611-S,immobili,Lombardia,Milano,Peschiera Borromeo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-13612-S,immobili,Lombardia,Milano,Peschiera Borromeo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-13613-S,immobili,Lombardia,Milano,Peschiera Borromeo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -11142,6 +11155,7 @@ I-PA-102281-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abi
 I-PA-103301-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Revoca Conf.,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-103309-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno edificabile,Confisca II,50%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-103311-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-103998-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-1167-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-1168-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-1171-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per alloggio e usi collettivi,Altro,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -13909,6 +13923,20 @@ I-PR-101648-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di 
 I-PR-101651-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,0%,Procura della Repubblica,Firenze,Procedimento Penale
 I-PR-101655-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Procura della Repubblica,Firenze,Procedimento Penale
 I-PR-101664-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Firenze,Procedimento Penale
+I-PR-103952-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Bologna,Misure di Prevenzione
+I-PR-103953-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Terreno,Terreno edificabile,Confisca def.,33%,Tribunale,Bologna,Misure di Prevenzione
+I-PR-103958-S,immobili,Emilia Romagna,Parma,Soragna,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,33%,Tribunale,Bologna,Misure di Prevenzione
+I-PR-103959-S,immobili,Emilia Romagna,Parma,Soragna,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,33%,Tribunale,Bologna,Misure di Prevenzione
+I-PR-103960-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
+I-PR-103961-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Bologna,Misure di Prevenzione
+I-PR-103963-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
+I-PR-103969-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
+I-PR-103974-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
+I-PR-103975-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Bologna,Misure di Prevenzione
+I-PR-103978-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Bologna,Misure di Prevenzione
+I-PR-103979-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
+I-PR-103980-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Terreno,Terreno edificabile,Confisca def.,33%,Tribunale,Bologna,Misure di Prevenzione
+I-PR-103987-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
 I-PR-37889-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-37890-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-37891-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Bologna,Procedimento Penale
