@@ -295,6 +295,7 @@ A-CE-101490-S,aziende,Campania,Caserta,Caserta,Società a responsabilità limita
 A-CE-102158-S,aziende,Campania,Caserta,Santa Maria a Vico,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-CE-102235-S,aziende,Campania,Caserta,San Felice a Cancello,Impresa individuale,Alberghi e ristoranti,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-CE-102252-S,aziende,Campania,Caserta,Santa Maria a Vico,Società a responsabilità limitata,Costruzioni,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+A-CE-104090-S,aziende,Campania,Caserta,Frignano,Società in accomandita semplice,"Agricoltura, caccia e silvicoltura",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 A-CE-1111-S,aziende,Campania,Caserta,Casal di Principe,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-CE-13155-S,aziende,Campania,Caserta,Aversa,Società a responsabilità limitata,Costruzioni,Confisca def.,10%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-CE-13156-S,aziende,Campania,Caserta,Villa di Briano,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -1265,6 +1266,7 @@ A-NA-101460-S,aziende,Campania,Napoli,Napoli,Impresa individuale,"Commercio ingr
 A-NA-101854-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Costruzioni,Confisca II,12%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-NA-10284-S,aziende,Campania,Napoli,Napoli,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-10361-S,aziende,Campania,Napoli,Castellammare di Stabia,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-104075-S,aziende,Campania,Napoli,Afragola,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-11785-S,aziende,Campania,Napoli,Bacoli,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-12291-S,aziende,Campania,Napoli,Pozzuoli,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-12292-S,aziende,Campania,Napoli,Pozzuoli,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,50%,Tribunale,Napoli,Misure di Prevenzione
@@ -1646,6 +1648,11 @@ A-PA-102282-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Commercio ing
 A-PA-103992-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-103993-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Altri servizi pubblici, sociali e personali",Revoca Conf.,0%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-103997-S,aziende,Sicilia,Palermo,Bagheria,Impresa individuale,"Altri servizi pubblici, sociali e personali",Revoca Conf.,0%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-104042-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-104045-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-104047-S,aziende,Sicilia,Palermo,Palermo,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-104051-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,67%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-104063-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1165-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1166-S,aziende,Sicilia,Palermo,Palermo,Società in nome collettivo,Costruzioni,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1169-S,aziende,Sicilia,Palermo,Palermo,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
