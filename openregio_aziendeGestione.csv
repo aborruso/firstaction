@@ -924,7 +924,7 @@ A-LO-70984-S,aziende,Lombardia,Lodi,Lodi,Impresa individuale,"Altri servizi pubb
 A-LO-82794-S,aziende,Lombardia,Lodi,Guardamiglio,Società a responsabilità limitata,Attività manifatturiere,Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 A-LO-82857-S,aziende,Lombardia,Lodi,Guardamiglio,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 A-LO-82963-S,aziende,Lombardia,Lodi,Guardamiglio,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
-A-LO-82968-S,aziende,Lombardia,Lodi,Guardamiglio,Società a responsabilità limitata,Costruzioni,Sequestro,25%,Procura della Repubblica,Piacenza,Procedimento Penale
+A-LO-82968-S,aziende,Lombardia,Lodi,Guardamiglio,Società a responsabilità limitata,Costruzioni,Confisca def.,25%,Procura della Repubblica,Piacenza,Procedimento Penale
 A-LT-100122-S,aziende,Lazio,Latina,Fondi,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca II,100%,Procura della Repubblica,Roma,Procedimento Penale
 A-LT-101145-S,aziende,Lazio,Latina,Fondi,Società cooperativa,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-101149-S,aziende,Lazio,Latina,Fondi,Società cooperativa a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
@@ -1267,7 +1267,7 @@ A-MS-72191-S,aziende,Toscana,Massa-Carrara,Carrara,Società a responsabilità li
 A-MS-73938-S,aziende,Toscana,Massa-Carrara,Massa,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca I,100%,Tribunale,La Spezia,Misure di Prevenzione
 A-MS-82887-S,aziende,Toscana,Massa-Carrara,Pontremoli,Società a responsabilità limitata,Attività finanziarie,Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 A-MS-82966-S,aziende,Toscana,Massa-Carrara,Carrara,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
-A-MS-82969-S,aziende,Toscana,Massa-Carrara,Pontremoli,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
+A-MS-82969-S,aziende,Toscana,Massa-Carrara,Pontremoli,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 A-NA-100398-S,aziende,Campania,Napoli,Giugliano in Campania,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-101460-S,aziende,Campania,Napoli,Napoli,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-101854-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Costruzioni,Confisca II,12%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -2064,7 +2064,7 @@ A-PC-82880-S,aziende,Emilia Romagna,Piacenza,Piacenza,Società a responsabilità
 A-PC-82881-S,aziende,Emilia Romagna,Piacenza,Piacenza,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 A-PC-82886-S,aziende,Emilia Romagna,Piacenza,Piacenza,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 A-PC-82888-S,aziende,Emilia Romagna,Piacenza,Piacenza,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Sequestro,70%,Procura della Repubblica,Piacenza,Procedimento Penale
-A-PC-82964-S,aziende,Emilia Romagna,Piacenza,Piacenza,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
+A-PC-82964-S,aziende,Emilia Romagna,Piacenza,Piacenza,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,33%,Procura della Repubblica,Piacenza,Procedimento Penale
 A-PD-42791-S,aziende,Veneto,Padova,Limena,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
 A-PD-81359-S,aziende,Veneto,Padova,Montegrotto Terme,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Padova,Procedimento Penale
 A-PD-81706-S,aziende,Veneto,Padova,Ponte San Nicolò,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Padova,Procedimento Penale
@@ -2124,6 +2124,10 @@ A-PT-103702-S,aziende,Toscana,Pistoia,Pistoia,Società a responsabilità limitat
 A-PT-59383-S,aziende,Toscana,Pistoia,Montecatini-Terme,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
 A-PT-59390-S,aziende,Toscana,Pistoia,Monsummano Terme,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
 A-PT-90536-S,aziende,Toscana,Pistoia,Montecatini-Terme,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,0%,Tribunale,Pistoia,Misure di Prevenzione
+A-PU-104424-S,aziende,Marche,Pesaro e Urbino,Fano,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Pesaro,Misure di Prevenzione
+A-PU-104426-S,aziende,Marche,Pesaro e Urbino,Mondolfo,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Pesaro,Misure di Prevenzione
+A-PU-104432-S,aziende,Marche,Pesaro e Urbino,Fano,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Pesaro,Misure di Prevenzione
+A-PU-104434-S,aziende,Marche,Pesaro e Urbino,Fano,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Pesaro,Misure di Prevenzione
 A-PU-75113-S,aziende,Marche,Pesaro e Urbino,Fano,Società a responsabilità limitata,Costruzioni,,100%,Procura della Repubblica,Palermo,Procedimento Penale
 A-PU-75114-S,aziende,Marche,Pesaro e Urbino,Pesaro,Società per azioni,Costruzioni,,100%,Procura della Repubblica,Palermo,Procedimento Penale
 A-PV-32382-S,aziende,Lombardia,Pavia,Sannazzaro de' Burgondi,Società a responsabilità limitata,Costruzioni,Confisca def.,20%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -2192,6 +2196,7 @@ A-RC-29150-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Impresa individ
 A-RC-29153-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Impresa individuale,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-3486-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società in nome collettivo,"Pesca, piscicoltura e servizi connessi",Confisca def.,20%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-35576-S,aziende,Calabria,Reggio Calabria,Siderno,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,50%,Tribunale,Reggio Calabria,Misure di Prevenzione
+A-RC-3572-S,aziende,Calabria,Reggio Calabria,Rosarno,Impresa individuale,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-3575-S,aziende,Calabria,Reggio Calabria,Rosarno,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,49%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-36130-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-36132-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -2536,8 +2541,8 @@ A-RM-49505-S,aziende,Lazio,Roma,Roma,Società per azioni,Costruzioni,Confisca de
 A-RM-50040-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 A-RM-50333-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-RM-50454-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Attività finanziarie,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-A-RM-50460-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Attività finanziarie,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-A-RM-50464-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-RM-50460-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Attività finanziarie,Revoca Conf. parziale,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-RM-50464-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Revoca Conf. parziale,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-RM-50933-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-RM-5225-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,90%,Procura della Repubblica,Napoli,Procedimento Penale
 A-RM-53012-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Frosinone,Misure di Prevenzione
@@ -3006,6 +3011,7 @@ A-SP-82885-S,aziende,Liguria,La Spezia,La Spezia,Società a responsabilità limi
 A-SP-82962-S,aziende,Liguria,La Spezia,La Spezia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Sequestro,45%,Procura della Repubblica,Piacenza,Procedimento Penale
 A-SP-94468-S,aziende,Liguria,La Spezia,La Spezia,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,99%,Tribunale,La Spezia,Misure di Prevenzione
 A-SP-94501-S,aziende,Liguria,La Spezia,La Spezia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
+A-SR-104409-S,aziende,Sicilia,Siracusa,Augusta,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-SR-24570-S,aziende,Sicilia,Siracusa,Siracusa,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 A-SR-32169-S,aziende,Sicilia,Siracusa,Augusta,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-SR-54429-S,aziende,Sicilia,Siracusa,Augusta,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,45%,Tribunale,Siracusa,Misure di Prevenzione

@@ -560,6 +560,7 @@ I-AN-104000-S,immobili,Marche,Ancona,Ancona,Unità immobiliare per uso di abitaz
 I-AN-104004-S,immobili,Marche,Ancona,Ancona,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Corte di Appello,Perugia,Procedimento Penale
 I-AN-104010-S,immobili,Marche,Ancona,Ancona,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Corte di Appello,Perugia,Procedimento Penale
 I-AN-104015-S,immobili,Marche,Ancona,Ancona,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,0%,Corte di Appello,Perugia,Procedimento Penale
+I-AN-104428-S,immobili,Marche,Ancona,Ripe,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Pesaro,Misure di Prevenzione
 I-AN-78646-S,immobili,Marche,Ancona,Ancona,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,81%,Tribunale,Ancona,Misure di Prevenzione
 I-AN-78647-S,immobili,Marche,Ancona,Falconara Marittima,Terreno,Terreno - non definito,Confisca def.,0%,Tribunale,Ancona,Misure di Prevenzione
 I-AN-83437-S,immobili,Marche,Ancona,Ancona,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Procura della Repubblica,Ancona,Procedimento Penale
@@ -14273,6 +14274,12 @@ I-PT-88588-S,immobili,Toscana,Pistoia,Montale,Unità immobiliare per uso di abit
 I-PT-90534-S,immobili,Toscana,Pistoia,Montale,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Pistoia,Misure di Prevenzione
 I-PT-95298-S,immobili,Toscana,Pistoia,Montale,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
 I-PT-99985-S,immobili,Toscana,Pistoia,Buggiano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,100%,Tribunale,Firenze,Misure di Prevenzione
+I-PU-104425-S,immobili,Marche,Pesaro e Urbino,Fano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,0%,Tribunale,Pesaro,Misure di Prevenzione
+I-PU-104427-S,immobili,Marche,Pesaro e Urbino,San Costanzo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Pesaro,Misure di Prevenzione
+I-PU-104429-S,immobili,Marche,Pesaro e Urbino,Fano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,0%,Tribunale,Pesaro,Misure di Prevenzione
+I-PU-104430-S,immobili,Marche,Pesaro e Urbino,Fano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,0%,Tribunale,Pesaro,Misure di Prevenzione
+I-PU-104431-S,immobili,Marche,Pesaro e Urbino,Fano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,0%,Tribunale,Pesaro,Misure di Prevenzione
+I-PU-104435-S,immobili,Marche,Pesaro e Urbino,San Costanzo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Pesaro,Misure di Prevenzione
 I-PU-13200-S,immobili,Marche,Pesaro e Urbino,Fano,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Procura della Repubblica,Pesaro,Procedimento Penale
 I-PU-13201-S,immobili,Marche,Pesaro e Urbino,Fano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Pesaro,Procedimento Penale
 I-PU-13202-S,immobili,Marche,Pesaro e Urbino,Cartoceto,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Procura della Repubblica,Pesaro,Procedimento Penale
