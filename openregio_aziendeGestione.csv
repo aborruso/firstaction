@@ -1,4 +1,6 @@
 s_bene,genere,nome_regione,nome_provincia,nome_comune,categoria,sottocategoria,provvedimento,quota_confiscata,ufficio_giudiziario,distretto,tipologia_procedura
+A-AG-104587-S,aziende,Sicilia,Agrigento,Siculiana,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+A-AG-104593-S,aziende,Sicilia,Agrigento,Ribera,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-AG-18406-S,aziende,Sicilia,Agrigento,Campobello di Licata,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
 A-AG-1869-S,aziende,Sicilia,Agrigento,Ravanusa,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,1%,Procura della Repubblica,Milano,Procedimento Penale
 A-AG-19051-S,aziende,Abruzzo,Agrigento,Abano Terme,Altro,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,33%,Tribunale,Palermo,Misure di Prevenzione
@@ -1687,6 +1689,7 @@ A-PA-104045-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitat
 A-PA-104047-S,aziende,Sicilia,Palermo,Palermo,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-104051-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,67%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-104063-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-104565-S,aziende,Sicilia,Palermo,Ficarazzi,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1165-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1166-S,aziende,Sicilia,Palermo,Palermo,Società in nome collettivo,Costruzioni,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1169-S,aziende,Sicilia,Palermo,Palermo,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
