@@ -164,6 +164,7 @@ A-BA-95707-S,aziende,Puglia,Bari,Bari,Società in accomandita semplice,Alberghi 
 A-BA-96021-S,aziende,Puglia,Bari,Molfetta,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,98%,Tribunale,Bari,Misure di Prevenzione
 A-BA-96022-S,aziende,Puglia,Bari,Molfetta,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 A-BG-101388-S,aziende,Lombardia,Bergamo,Bergamo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-BG-105108-S,aziende,Lombardia,Bergamo,Bergamo,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-BG-21021-S,aziende,Lombardia,Bergamo,Fornovo San Giovanni,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,90%,Procura della Repubblica,Milano,Procedimento Penale
 A-BG-34362-S,aziende,Lombardia,Bergamo,Mozzanica,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-BG-35380-S,aziende,Lombardia,Bergamo,Trescore Balneario,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
@@ -184,6 +185,9 @@ A-BN-2040-S,aziende,Campania,Benevento,Benevento,Società a responsabilità limi
 A-BN-75744-S,aziende,Campania,Benevento,Arpaia,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-BN-89283-S,aziende,Campania,Benevento,Telese Terme,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 A-BN-89778-S,aziende,Campania,Benevento,San Giorgio del Sannio,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-BO-104740-S,aziende,Emilia Romagna,Bologna,Bologna,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
+A-BO-104760-S,aziende,Emilia Romagna,Bologna,Crespellano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,56%,Tribunale,Bologna,Misure di Prevenzione
+A-BO-104790-S,aziende,Emilia Romagna,Bologna,Bologna,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,51%,Tribunale,Bologna,Misure di Prevenzione
 A-BO-4767-S,aziende,Emilia Romagna,Bologna,Anzola dell'Emilia,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
 A-BO-4782-S,aziende,Emilia Romagna,Bologna,Crevalcore,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
 A-BO-4815-S,aziende,Emilia Romagna,Bologna,San Giorgio di Piano,Società a responsabilità limitata,Costruzioni,Confisca I,33%,Tribunale,Latina,Misure di Prevenzione
@@ -1210,8 +1214,6 @@ A-MI-69336-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata
 A-MI-70503-S,aziende,Lombardia,Milano,Milano,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-70504-S,aziende,Lombardia,Milano,Milano,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-70778-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
-A-MI-70783-S,aziende,Lombardia,Milano,Bareggio,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-A-MI-70784-S,aziende,Lombardia,Milano,Motta Visconti,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-70981-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,68%,Tribunale,Cremona,Misure di Prevenzione
 A-MI-70983-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Cremona,Misure di Prevenzione
 A-MI-70985-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Cremona,Misure di Prevenzione
@@ -1303,6 +1305,21 @@ A-NA-104347-S,aziende,Campania,Napoli,Villaricca,Società cooperativa,"Trasporti
 A-NA-104350-S,aziende,Campania,Napoli,Giugliano in Campania,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Revoca Seq.,0%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-104365-S,aziende,Campania,Napoli,Napoli,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-104368-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Revoca Seq.,0%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-104707-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Sequestro,5%,Tribunale,Napoli,Procedimento Penale
+A-NA-104709-S,aziende,Campania,Napoli,Qualiano,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,100%,Tribunale,Napoli,Procedimento Penale
+A-NA-104710-S,aziende,Campania,Napoli,Roccarainola,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,Napoli,Procedimento Penale
+A-NA-105098-S,aziende,Campania,Napoli,Marano di Napoli,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Sequestro,100%,Tribunale,Napoli,Procedimento Penale
+A-NA-105099-S,aziende,Campania,Napoli,Marano di Napoli,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Sequestro,100%,Tribunale,Napoli,Procedimento Penale
+A-NA-105100-S,aziende,Campania,Napoli,Pozzuoli,Impresa individuale,"Altri servizi pubblici, sociali e personali",Sequestro,100%,Tribunale,Napoli,Procedimento Penale
+A-NA-105101-S,aziende,Campania,Napoli,Calvizzano,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Sequestro,100%,Tribunale,Napoli,Procedimento Penale
+A-NA-105102-S,aziende,Campania,Napoli,Marano di Napoli,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Sequestro,100%,Tribunale,Napoli,Procedimento Penale
+A-NA-105103-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Sequestro,100%,Tribunale,Napoli,Procedimento Penale
+A-NA-105104-S,aziende,Campania,Napoli,Quarto,Impresa individuale,"Altri servizi pubblici, sociali e personali",Sequestro,100%,Tribunale,Napoli,Procedimento Penale
+A-NA-105181-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Costruzioni,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-105185-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Attività manifatturiere,Sequestro,50%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-105203-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Sequestro,50%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-105227-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Attività finanziarie,Sequestro,39%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-105239-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-11785-S,aziende,Campania,Napoli,Bacoli,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-12291-S,aziende,Campania,Napoli,Pozzuoli,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-12292-S,aziende,Campania,Napoli,Pozzuoli,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,50%,Tribunale,Napoli,Misure di Prevenzione
@@ -1690,6 +1707,18 @@ A-PA-104047-S,aziende,Sicilia,Palermo,Palermo,Società in accomandita semplice,"
 A-PA-104051-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,67%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-104063-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-104565-S,aziende,Sicilia,Palermo,Ficarazzi,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-104809-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-104810-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-104835-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-104846-S,aziende,Sicilia,Palermo,Palermo,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-104891-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-104984-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-104990-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-104994-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-105018-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-105077-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-105088-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-105095-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1165-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1166-S,aziende,Sicilia,Palermo,Palermo,Società in nome collettivo,Costruzioni,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1169-S,aziende,Sicilia,Palermo,Palermo,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -3080,6 +3109,7 @@ A-TE-71497-S,aziende,Abruzzo,Teramo,Mosciano Sant'Angelo,Società a responsabili
 A-TE-71498-S,aziende,Abruzzo,Teramo,Mosciano Sant'Angelo,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca def.,47%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-TE-71500-S,aziende,Abruzzo,Teramo,Giulianova,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-TE-71501-S,aziende,Abruzzo,Teramo,Giulianova,Società in accomandita semplice,"Agricoltura, caccia e silvicoltura",Confisca def.,24%,Tribunale,Reggio Calabria,Misure di Prevenzione
+A-TN-105178-S,aziende,Trentino Alto Adige,Trento,Trento,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-TN-29742-S,aziende,Trentino Alto Adige,Trento,Riva del Garda,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,20%,Corte di Appello,Trento,Misure di Prevenzione
 A-TO-100033-S,aziende,Piemonte,Torino,Torino,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-10854-S,aziende,Piemonte,Torino,Caselle Torinese,Società a responsabilità limitata,Estrazione di minerali,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione

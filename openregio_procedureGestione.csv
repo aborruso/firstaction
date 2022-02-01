@@ -753,7 +753,6 @@ Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca def.,33375
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca def.,33886/2012
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca def.,34058/2014
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca def.,35419/2006
-Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca def.,35964/2007
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca def.,36019/2010
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca def.,36044/2014
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca def.,367291/2008
@@ -821,6 +820,7 @@ Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca def.,8875/
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca def.,8942/2003
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca def.,9010/2010
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca def.,9086/1992
+Campania,Procura della Repubblica,Napoli,Procedimento Penale,Impugnazione,35964/2007
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Revoca Conf.,41657/2012
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Revoca Conf.,45702/2012
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Revoca Conf. parziale,45232/2010
@@ -832,6 +832,7 @@ Campania,Procura della Repubblica,Napoli,Procedimento Penale,Revoca Seq.,48710/2
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Revoca Sequ. parziale,16547/2016
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Revoca Sequ. parziale,17682/2016
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Revoca Sequ. parziale,8349/2016
+Campania,Procura della Repubblica,Napoli,Procedimento Penale,Sequestro,25889/2017
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Sequestro,48244/2014
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,1/2018
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,125/2013
@@ -1096,6 +1097,9 @@ Campania,Tribunale,Napoli,Misure di Prevenzione,Revoca Seq.,279/2012
 Campania,Tribunale,Napoli,Misure di Prevenzione,Revoca Sequ. parziale,5/2015
 Campania,Tribunale,Napoli,Misure di Prevenzione,Revoca Sequ. parziale,98/2015
 Campania,Tribunale,Napoli,Misure di Prevenzione,Sequestro,168/2020
+Campania,Tribunale,Napoli,Procedimento Penale,Confisca I,29956/2017
+Campania,Tribunale,Napoli,Procedimento Penale,Sequestro,12188/2015
+Campania,Tribunale,Napoli,Procedimento Penale,Sequestro,37787/2017
 Campania,Tribunale,Napoli,Procedimento Penale,Sequestro,5908/2008
 Campania,Procura della Repubblica,Nocera Inferiore,Procedimento Penale,Revoca Seq.,1826/1999
 Campania,Procura della Repubblica,Nola,Procedimento Penale,Confisca II,116570/2007
@@ -1345,6 +1349,7 @@ Emilia Romagna,Tribunale,Bologna,Misure di Prevenzione,Confisca def.,9/2000
 Emilia Romagna,Tribunale,Bologna,Misure di Prevenzione,Confisca def.,9/2011
 Emilia Romagna,Tribunale,Bologna,Misure di Prevenzione,Confisca def.,9/2015
 Emilia Romagna,Tribunale,Bologna,Misure di Prevenzione,Revoca Conf.,5/2014
+Emilia Romagna,Tribunale,Bologna,Misure di Prevenzione,Revoca Sequ. parziale,12/2016
 Emilia Romagna,Tribunale,Bologna,Misure di Prevenzione,Rinvio,12/2014
 Emilia Romagna,Procura della Repubblica,Ferrara,Procedimento Penale,Confisca def.,2674/2000
 Emilia Romagna,Tribunale,Ferrara,Misure di Prevenzione,Confisca def.,1/2014
@@ -3759,6 +3764,7 @@ Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,145/2010
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,145/2018
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,146/2012
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,146/2013
+Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,147/2007
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,147/2011
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,148/1993
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,148/2002
@@ -3819,6 +3825,7 @@ Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,171/1983
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,171/2001
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,171/2014
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,172/2002
+Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,172/2017
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,173/2007
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,173/2009
 Sicilia,Tribunale,Palermo,Misure di Prevenzione,Confisca def.,174/1982
