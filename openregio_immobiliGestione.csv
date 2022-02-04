@@ -783,7 +783,6 @@ I-AV-52778-S,immobili,Campania,Avellino,Altavilla Irpina,Terreno,Terreno agricol
 I-AV-52779-S,immobili,Campania,Avellino,Altavilla Irpina,Terreno,Terreno agricolo,Sequestro,100%,Procura della Repubblica,Avellino,Procedimento Penale
 I-AV-6360-S,immobili,Campania,Avellino,Santo Stefano del Sole,Terreno,Terreno agricolo,Confisca def.,50%,Procura della Repubblica,Roma,Procedimento Penale
 I-AV-6361-S,immobili,Campania,Avellino,Santo Stefano del Sole,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,50%,Procura della Repubblica,Roma,Procedimento Penale
-I-AV-77705-S,immobili,Campania,Avellino,Mirabella Eclano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-AV-79603-S,immobili,Campania,Avellino,Aiello del Sabato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-AV-79604-S,immobili,Campania,Avellino,Aiello del Sabato,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-AV-88597-S,immobili,Campania,Avellino,Avella,Terreno,Terreno con fabbricato rurale,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
@@ -802,8 +801,6 @@ I-AV-88663-S,immobili,Campania,Avellino,Avella,Terreno,Terreno con fabbricato ru
 I-AV-88664-S,immobili,Campania,Avellino,Avella,Terreno,Terreno con fabbricato rurale,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-AV-88671-S,immobili,Campania,Avellino,Avella,Terreno,Terreno con fabbricato rurale,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-AV-88674-S,immobili,Campania,Avellino,Avella,Terreno,Terreno con fabbricato rurale,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-AV-91521-S,immobili,Campania,Avellino,Mirabella Eclano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-AV-91522-S,immobili,Campania,Avellino,Mirabella Eclano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-BA-101705-S,immobili,Puglia,Bari,Bari,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-101711-S,immobili,Puglia,Bari,Bari,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-101715-S,immobili,Puglia,Bari,Bari,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Bari,Misure di Prevenzione
@@ -3982,9 +3979,6 @@ I-CO-57193-S,immobili,Lombardia,Como,Cabiate,Altra unità immobiliare,Altro,Conf
 I-CO-57194-S,immobili,Lombardia,Como,Cabiate,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-CO-57195-S,immobili,Lombardia,Como,Cabiate,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-CO-57196-S,immobili,Lombardia,Como,Cabiate,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-CO-70344-S,immobili,Lombardia,Como,Locate Varesino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Como,Misure di Prevenzione
-I-CO-70345-S,immobili,Lombardia,Como,Locate Varesino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Como,Misure di Prevenzione
-I-CO-70347-S,immobili,Lombardia,Como,Locate Varesino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Como,Misure di Prevenzione
 I-CO-72216-S,immobili,Lombardia,Como,Eupilio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
 I-CO-72218-S,immobili,Lombardia,Como,Eupilio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf. parziale,50%,Procura della Repubblica,Milano,Procedimento Penale
 I-CO-73962-S,immobili,Lombardia,Como,Mariano Comense,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
@@ -5883,6 +5877,16 @@ I-FR-104516-S,immobili,Lazio,Frosinone,Ferentino,Terreno,Terreno agricolo,Confis
 I-FR-104521-S,immobili,Lazio,Frosinone,Ferentino,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Frosinone,Misure di Prevenzione
 I-FR-10518-S,immobili,Lazio,Frosinone,Fiuggi,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Taranto,Procedimento Penale
 I-FR-10526-S,immobili,Lazio,Frosinone,Fiuggi,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Taranto,Procedimento Penale
+I-FR-105279-S,immobili,Lazio,Frosinone,Cassino,Terreno,Terreno edificabile,Confisca II,100%,Tribunale,Frosinone,Misure di Prevenzione
+I-FR-105280-S,immobili,Lazio,Frosinone,Cassino,Terreno,Terreno edificabile,Confisca II,100%,Tribunale,Frosinone,Misure di Prevenzione
+I-FR-105281-S,immobili,Lazio,Frosinone,Cassino,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Frosinone,Misure di Prevenzione
+I-FR-105282-S,immobili,Lazio,Frosinone,Cassino,Terreno,Terreno edificabile,Confisca II,100%,Tribunale,Frosinone,Misure di Prevenzione
+I-FR-105283-S,immobili,Lazio,Frosinone,Cassino,Terreno,Terreno edificabile,Confisca II,100%,Tribunale,Frosinone,Misure di Prevenzione
+I-FR-105284-S,immobili,Lazio,Frosinone,Sant'Elia Fiumerapido,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Frosinone,Misure di Prevenzione
+I-FR-105285-S,immobili,Lazio,Frosinone,Cassino,Terreno,Terreno edificabile,Confisca II,100%,Tribunale,Frosinone,Misure di Prevenzione
+I-FR-105286-S,immobili,Lazio,Frosinone,Sant'Elia Fiumerapido,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Frosinone,Misure di Prevenzione
+I-FR-105287-S,immobili,Lazio,Frosinone,Cassino,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Frosinone,Misure di Prevenzione
+I-FR-105288-S,immobili,Lazio,Frosinone,Cassino,Terreno,Terreno edificabile,Confisca II,100%,Tribunale,Frosinone,Misure di Prevenzione
 I-FR-10536-S,immobili,Lazio,Frosinone,Fiuggi,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Taranto,Procedimento Penale
 I-FR-13806-S,immobili,Lazio,Frosinone,Frosinone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Frosinone,Misure di Prevenzione
 I-FR-13807-S,immobili,Lazio,Frosinone,Frosinone,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Frosinone,Misure di Prevenzione
@@ -10263,9 +10267,6 @@ I-NA-87321-S,immobili,Campania,Napoli,Nola,Unità immobiliare per uso di abitazi
 I-NA-87322-S,immobili,Campania,Napoli,Nola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-87422-S,immobili,Campania,Napoli,Torre del Greco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-87789-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-87790-S,immobili,Campania,Napoli,Pompei,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-87791-S,immobili,Campania,Napoli,Pompei,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-87792-S,immobili,Campania,Napoli,Pompei,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-87793-S,immobili,Campania,Napoli,Boscoreale,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-87794-S,immobili,Campania,Napoli,Castellammare di Stabia,Terreno,Terreno con fabbricato rurale,Confisca def.,50%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-87795-S,immobili,Campania,Napoli,Castellammare di Stabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
@@ -10275,10 +10276,7 @@ I-NA-87798-S,immobili,Campania,Napoli,Boscoreale,Terreno,Terreno agricolo,Confis
 I-NA-87799-S,immobili,Campania,Napoli,Castellammare di Stabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-87800-S,immobili,Campania,Napoli,Boscoreale,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-87801-S,immobili,Campania,Napoli,Boscoreale,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-87802-S,immobili,Campania,Napoli,Pompei,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-87803-S,immobili,Campania,Napoli,Pompei,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-87804-S,immobili,Campania,Napoli,Boscoreale,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-87805-S,immobili,Campania,Napoli,Pompei,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-87806-S,immobili,Campania,Napoli,Boscoreale,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-87807-S,immobili,Campania,Napoli,Boscoreale,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-87808-S,immobili,Campania,Napoli,Boscoreale,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
@@ -10287,7 +10285,6 @@ I-NA-87811-S,immobili,Campania,Napoli,Castellammare di Stabia,Terreno,Terreno ag
 I-NA-87812-S,immobili,Campania,Napoli,Castellammare di Stabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-87813-S,immobili,Campania,Napoli,Castellammare di Stabia,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-87814-S,immobili,Campania,Napoli,Pompei,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-87816-S,immobili,Campania,Napoli,Pompei,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-87817-S,immobili,Campania,Napoli,Castellammare di Stabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-87818-S,immobili,Campania,Napoli,Boscoreale,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-87867-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -15459,6 +15456,7 @@ I-RC-43710-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terre
 I-RC-43712-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43713-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43714-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-43715-S,immobili,Calabria,Reggio Calabria,San Ferdinando,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43716-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43717-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43719-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -15920,9 +15918,6 @@ I-RC-86291-S,immobili,Calabria,Reggio Calabria,Villa San Giovanni,Terreno,Terren
 I-RC-86292-S,immobili,Calabria,Reggio Calabria,Villa San Giovanni,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-86309-S,immobili,Calabria,Reggio Calabria,Villa San Giovanni,Altra unità immobiliare,Altro,Revoca Sequ. parziale,0%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-86537-S,immobili,Calabria,Reggio Calabria,Rosarno,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-87086-S,immobili,Calabria,Reggio Calabria,Benestare,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
-I-RC-87087-S,immobili,Calabria,Reggio Calabria,Benestare,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
-I-RC-87088-S,immobili,Calabria,Reggio Calabria,Benestare,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
 I-RC-87657-S,immobili,Calabria,Reggio Calabria,Cinquefrondi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-87658-S,immobili,Calabria,Reggio Calabria,Cinquefrondi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-87662-S,immobili,Calabria,Reggio Calabria,Cinquefrondi,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -19253,7 +19248,7 @@ I-TA-84335-S,immobili,Puglia,Taranto,Statte,Terreno,Terreno agricolo,Confisca de
 I-TA-89675-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 I-TA-89679-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 I-TA-90476-S,immobili,Puglia,Taranto,Taranto,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
-I-TA-90477-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare per uso di abitazione e assimilabile,Altro,Revoca Seq.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-90477-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare per uso di abitazione e assimilabile,Altro,Revoca Seq.,0%,Tribunale,Taranto,Misure di Prevenzione
 I-TA-90479-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 I-TA-90497-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 I-TA-90503-S,immobili,Puglia,Taranto,Taranto,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
@@ -21440,7 +21435,6 @@ I-VA-73616-S,immobili,Lombardia,Varese,Lonate Pozzolo,Terreno,Terreno - non defi
 I-VA-76396-S,immobili,Lombardia,Varese,Masciago Primo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-VA-76397-S,immobili,Lombardia,Varese,Masciago Primo,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-VA-76398-S,immobili,Lombardia,Varese,Casalzuigno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-VA-76399-S,immobili,Lombardia,Varese,Casalzuigno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-VA-76400-S,immobili,Lombardia,Varese,Casalzuigno,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-VA-79788-S,immobili,Lombardia,Varese,Sesto Calende,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-VA-82218-S,immobili,Lombardia,Varese,Varese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
