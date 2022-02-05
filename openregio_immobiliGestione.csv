@@ -3305,9 +3305,6 @@ I-CL-58370-S,immobili,Sicilia,Caltanissetta,Resuttano,Terreno,Terreno - non defi
 I-CL-60277-S,immobili,Sicilia,Caltanissetta,Mussomeli,Terreno,Terreno agricolo,Confisca def.,20%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-60278-S,immobili,Sicilia,Caltanissetta,Mussomeli,Terreno,Terreno agricolo,Confisca def.,20%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-60302-S,immobili,Sicilia,Caltanissetta,Mussomeli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,12%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-60577-S,immobili,Sicilia,Caltanissetta,Mazzarino,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Catania,Misure di Prevenzione
-I-CL-60596-S,immobili,Sicilia,Caltanissetta,Mazzarino,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Catania,Misure di Prevenzione
-I-CL-60599-S,immobili,Sicilia,Caltanissetta,Mazzarino,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca II,100%,Tribunale,Catania,Misure di Prevenzione
 I-CL-61025-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-61026-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-61219-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -4368,8 +4365,8 @@ I-CT-39977-S,immobili,Sicilia,Catania,Palagonia,Unità immobiliare per uso di ab
 I-CT-39978-S,immobili,Sicilia,Catania,Palagonia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-47953-S,immobili,Sicilia,Catania,Acireale,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-48684-S,immobili,Sicilia,Catania,Calatabiano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
-I-CT-49243-S,immobili,Sicilia,Catania,San Cono,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Catania,Misure di Prevenzione
-I-CT-49244-S,immobili,Sicilia,Catania,San Cono,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-49243-S,immobili,Sicilia,Catania,San Cono,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-49244-S,immobili,Sicilia,Catania,San Cono,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-56527-S,immobili,Sicilia,Catania,Palagonia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-57178-S,immobili,Sicilia,Catania,Grammichele,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-57179-S,immobili,Sicilia,Catania,Grammichele,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
@@ -14262,10 +14259,10 @@ I-PG-11730-S,immobili,Umbria,Perugia,Bastia Umbra,Unità immobiliare per uso di 
 I-PG-11731-S,immobili,Umbria,Perugia,Bastia Umbra,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Perugia,Misure di Prevenzione
 I-PG-11746-S,immobili,Umbria,Perugia,Assisi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Perugia,Misure di Prevenzione
 I-PG-20100-S,immobili,Umbria,Perugia,Perugia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Firenze,Procedimento Penale
-I-PG-36257-S,immobili,Umbria,Perugia,Trevi,Terreno,Terreno - non definito,Confisca II,100%,Tribunale,Perugia,Misure di Prevenzione
-I-PG-36258-S,immobili,Umbria,Perugia,Trevi,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Tribunale,Perugia,Misure di Prevenzione
-I-PG-36259-S,immobili,Umbria,Perugia,Trevi,Altra unità immobiliare,Altro,Confisca II,100%,Tribunale,Perugia,Misure di Prevenzione
-I-PG-36260-S,immobili,Umbria,Perugia,Trevi,Altra unità immobiliare,Altro,Confisca II,100%,Tribunale,Perugia,Misure di Prevenzione
+I-PG-36257-S,immobili,Umbria,Perugia,Trevi,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Perugia,Misure di Prevenzione
+I-PG-36258-S,immobili,Umbria,Perugia,Trevi,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Perugia,Misure di Prevenzione
+I-PG-36259-S,immobili,Umbria,Perugia,Trevi,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Perugia,Misure di Prevenzione
+I-PG-36260-S,immobili,Umbria,Perugia,Trevi,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Perugia,Misure di Prevenzione
 I-PG-54296-S,immobili,Umbria,Perugia,Trevi,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-PG-54298-S,immobili,Umbria,Perugia,Bastia Umbra,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-PG-54304-S,immobili,Umbria,Perugia,Bastia Umbra,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -16317,7 +16314,6 @@ I-RG-52161-S,immobili,Sicilia,Ragusa,Vittoria,Unità immobiliare per uso di abit
 I-RG-52166-S,immobili,Sicilia,Ragusa,Vittoria,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Ragusa,Misure di Prevenzione
 I-RG-52167-S,immobili,Sicilia,Ragusa,Vittoria,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Ragusa,Misure di Prevenzione
 I-RG-52202-S,immobili,Sicilia,Ragusa,Vittoria,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Ragusa,Misure di Prevenzione
-I-RG-60574-S,immobili,Sicilia,Ragusa,Vittoria,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Catania,Misure di Prevenzione
 I-RG-84737-S,immobili,Sicilia,Ragusa,Modica,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RG-94309-S,immobili,Sicilia,Ragusa,Vittoria,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Revoca Seq.,100%,Tribunale,Ragusa,Misure di Prevenzione
 I-RG-94312-S,immobili,Sicilia,Ragusa,Vittoria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Ragusa,Misure di Prevenzione
