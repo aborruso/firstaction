@@ -748,6 +748,8 @@ A-CT-99421-S,aziende,Sicilia,Catania,Militello in Val di Catania,Impresa individ
 A-CT-99544-S,aziende,Sicilia,Catania,Militello in Val di Catania,Società in accomandita semplice,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-99655-S,aziende,Sicilia,Catania,Militello in Val di Catania,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CZ-103445-S,aziende,Calabria,Catanzaro,Marcellinara,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,50%,Tribunale,Firenze,Misure di Prevenzione
+A-CZ-105317-S,aziende,Calabria,Catanzaro,Soverato,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,50%,Tribunale,Catanzaro,Misure di Prevenzione
+A-CZ-105318-S,aziende,Calabria,Catanzaro,Guardavalle,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 A-CZ-13987-S,aziende,Calabria,Catanzaro,Catanzaro,Impresa individuale,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 A-CZ-13988-S,aziende,Calabria,Catanzaro,Catanzaro,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 A-CZ-39340-S,aziende,Calabria,Catanzaro,Guardavalle,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -1040,6 +1042,10 @@ A-ME-104389-S,aziende,Sicilia,Messina,Messina,Impresa individuale,"Altri servizi
 A-ME-104392-S,aziende,Sicilia,Messina,Messina,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Procura della Repubblica,Messina,Procedimento Penale
 A-ME-104399-S,aziende,Sicilia,Messina,Messina,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca II,50%,Procura della Repubblica,Messina,Procedimento Penale
 A-ME-104405-S,aziende,Sicilia,Messina,Messina,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,50%,Procura della Repubblica,Messina,Procedimento Penale
+A-ME-105327-S,aziende,Sicilia,Messina,Cesarò,Società semplice,"Agricoltura, caccia e silvicoltura",Confisca I,100%,Tribunale,Catania,Misure di Prevenzione
+A-ME-105340-S,aziende,Sicilia,Messina,Cesarò,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca I,100%,Tribunale,Catania,Misure di Prevenzione
+A-ME-105347-S,aziende,Sicilia,Messina,Cesarò,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Catania,Misure di Prevenzione
+A-ME-105361-S,aziende,Sicilia,Messina,Cesarò,Società semplice,"Agricoltura, caccia e silvicoltura",Confisca I,100%,Tribunale,Catania,Misure di Prevenzione
 A-ME-18473-S,aziende,Sicilia,Messina,Alì Terme,Altro,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-ME-20194-S,aziende,Sicilia,Messina,Giardini-Naxos,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,50%,Procura della Repubblica,Catania,Procedimento Penale
 A-ME-33575-S,aziende,Sicilia,Messina,Barcellona Pozzo di Gotto,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
@@ -1132,7 +1138,7 @@ A-MI-13604-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata
 A-MI-15282-S,aziende,Lombardia,Milano,Legnano,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,50%,Tribunale,Catanzaro,Misure di Prevenzione
 A-MI-15753-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,10%,Tribunale,Milano,Misure di Prevenzione
 A-MI-15992-S,aziende,Lombardia,Milano,Milano,Società in accomandita semplice,Attività finanziarie,Confisca def.,65%,Tribunale,Milano,Misure di Prevenzione
-A-MI-16459-S,aziende,Lombardia,Milano,Trezzano sul Naviglio,Società in accomandita semplice,Costruzioni,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+A-MI-16459-S,aziende,Lombardia,Milano,Trezzano sul Naviglio,Società in accomandita semplice,Costruzioni,Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
 A-MI-16797-S,aziende,Lombardia,Milano,Milano,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-16946-S,aziende,Lombardia,Milano,Milano,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 A-MI-17241-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -3045,6 +3051,8 @@ A-SA-98796-S,aziende,Campania,Salerno,Cava de' Tirreni,Società a responsabilit�
 A-SA-98799-S,aziende,Campania,Salerno,Cava de' Tirreni,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-98801-S,aziende,Campania,Salerno,Cava de' Tirreni,Società a responsabilità limitata,Costruzioni,Confisca def.,50%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-99800-S,aziende,Campania,Salerno,Campagna,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Conf.,100%,Corte di Appello,Salerno,Misure di Prevenzione
+A-SI-105303-S,aziende,Toscana,Siena,Piancastagnaio,Impresa individuale,Attività manifatturiere,Confisca def.,100%,Corte di Appello,Firenze,Misure di Prevenzione
+A-SI-105308-S,aziende,Toscana,Siena,Piancastagnaio,Impresa individuale,Attività manifatturiere,Confisca def.,100%,Corte di Appello,Firenze,Misure di Prevenzione
 A-SI-98187-S,aziende,Toscana,Siena,Sinalunga,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
 A-SI-98190-S,aziende,Toscana,Siena,Sinalunga,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
 A-SI-98220-S,aziende,Toscana,Siena,Sinalunga,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
