@@ -2613,7 +2613,7 @@ I-CE-89777-S,immobili,Campania,Caserta,Santa Maria la Fossa,Terreno,Terreno agri
 I-CE-89779-S,immobili,Campania,Caserta,Santa Maria la Fossa,Terreno,Terreno agricolo,Revoca Seq.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-90267-S,immobili,Campania,Caserta,Cesa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-CE-90279-S,immobili,Campania,Caserta,Cesa,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-CE-90334-S,immobili,Campania,Caserta,Casal di Principe,Terreno,Terreno con fabbricato rurale,Confisca def.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-90334-S,immobili,Campania,Caserta,Casal di Principe,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-90517-S,immobili,Campania,Caserta,Parete,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-90519-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-90524-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -5312,7 +5312,6 @@ I-CZ-55933-S,immobili,Calabria,Catanzaro,San Sostene,Terreno,Terreno - non defin
 I-CZ-61949-S,immobili,Calabria,Catanzaro,Lamezia Terme,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Procura della Repubblica,Lamezia Terme,Procedimento Penale
 I-CZ-61950-S,immobili,Calabria,Catanzaro,Lamezia Terme,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Procura della Repubblica,Lamezia Terme,Procedimento Penale
 I-CZ-61951-S,immobili,Calabria,Catanzaro,Lamezia Terme,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Procura della Repubblica,Lamezia Terme,Procedimento Penale
-I-CZ-61968-S,immobili,Calabria,Catanzaro,Gizzeria,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Lamezia Terme,Procedimento Penale
 I-CZ-63700-S,immobili,Calabria,Catanzaro,Lamezia Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-63701-S,immobili,Calabria,Catanzaro,Lamezia Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-63736-S,immobili,Calabria,Catanzaro,Lamezia Terme,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
@@ -8102,13 +8101,10 @@ I-ME-80039-S,immobili,Sicilia,Messina,Rometta,Terreno,Terreno agricolo,Confisca 
 I-ME-80040-S,immobili,Sicilia,Messina,Rometta,Terreno,Terreno agricolo,Confisca def.,50%,Procura della Repubblica,Messina,Procedimento Penale
 I-ME-80041-S,immobili,Sicilia,Messina,Rometta,Terreno,Terreno agricolo,Confisca def.,50%,Procura della Repubblica,Messina,Procedimento Penale
 I-ME-80042-S,immobili,Sicilia,Messina,Rometta,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Messina,Procedimento Penale
-I-ME-80072-S,immobili,Sicilia,Messina,Roccella Valdemone,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-80106-S,immobili,Sicilia,Messina,Roccella Valdemone,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-80107-S,immobili,Sicilia,Messina,Rometta,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Messina,Procedimento Penale
 I-ME-80112-S,immobili,Sicilia,Messina,Spadafora,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Messina,Procedimento Penale
 I-ME-80113-S,immobili,Sicilia,Messina,Spadafora,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Messina,Procedimento Penale
 I-ME-80114-S,immobili,Sicilia,Messina,Spadafora,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Procura della Repubblica,Messina,Procedimento Penale
-I-ME-80165-S,immobili,Sicilia,Messina,Roccella Valdemone,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-80334-S,immobili,Sicilia,Messina,Spadafora,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Messina,Procedimento Penale
 I-ME-80337-S,immobili,Sicilia,Messina,Spadafora,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Messina,Procedimento Penale
 I-ME-80339-S,immobili,Sicilia,Messina,Spadafora,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Messina,Procedimento Penale
@@ -8217,20 +8213,11 @@ I-ME-84233-S,immobili,Sicilia,Messina,Roccella Valdemone,Unità immobiliare a de
 I-ME-84305-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84306-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84307-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84313-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84316-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84317-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84322-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84323-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84324-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84367-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84368-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84369-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84371-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84372-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84373-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84375-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84376-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84382-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84383-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84384-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
@@ -8239,8 +8226,6 @@ I-ME-84386-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricol
 I-ME-84394-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84395-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84396-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84397-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84399-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84402-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84403-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84404-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
@@ -8250,10 +8235,6 @@ I-ME-84407-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricol
 I-ME-84408-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84409-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84410-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84416-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84417-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84418-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84419-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84448-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84452-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84453-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Messina,Misure di Prevenzione
@@ -8278,11 +8259,6 @@ I-ME-84584-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricol
 I-ME-84585-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84588-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84594-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84693-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84694-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84695-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84696-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84697-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84698-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84699-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84700-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
@@ -8297,23 +8273,12 @@ I-ME-84708-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricol
 I-ME-84709-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84710-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84711-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84714-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84715-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84774-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84780-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84795-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84800-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84804-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84846-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84852-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84855-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-84857-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-85006-S,immobili,Sicilia,Messina,Roccella Valdemone,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-85009-S,immobili,Sicilia,Messina,Roccella Valdemone,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-85073-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-85074-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-85076-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-85077-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-85078-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-85079-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-85080-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
@@ -11436,7 +11401,6 @@ I-PA-101800-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abi
 I-PA-101805-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-101806-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-101807-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-102281-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-103301-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Revoca Conf.,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-103309-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno edificabile,Confisca II,50%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-103311-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -11732,6 +11696,7 @@ I-PA-105093-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abi
 I-PA-105094-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-105096-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-105418-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-105454-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-1167-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-1168-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-1171-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per alloggio e usi collettivi,Altro,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -18492,8 +18457,6 @@ I-RN-49883-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso 
 I-RN-49886-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,,Tribunale,Rimini,Misure di Prevenzione
 I-RN-49887-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Rimini,Misure di Prevenzione
 I-RN-49909-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,,Tribunale,Rimini,Misure di Prevenzione
-I-RN-76911-S,immobili,Emilia Romagna,Rimini,Bellaria-Igea Marina,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
-I-RN-76912-S,immobili,Emilia Romagna,Rimini,Bellaria-Igea Marina,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
 I-RN-77864-S,immobili,Emilia Romagna,Rimini,Bellaria-Igea Marina,Terreno,Terreno - non definito,Confisca def.,50%,Tribunale,Cosenza,Misure di Prevenzione
 I-RN-84824-S,immobili,Emilia Romagna,Rimini,Rimini,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Rimini,Misure di Prevenzione
 I-RN-85040-S,immobili,Emilia Romagna,Rimini,Rimini,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Rimini,Misure di Prevenzione
@@ -19025,7 +18988,7 @@ I-SR-24932-S,immobili,Sicilia,Siracusa,Noto,Unità immobiliare per uso di abitaz
 I-SR-34794-S,immobili,Sicilia,Siracusa,Augusta,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-SR-35540-S,immobili,Sicilia,Siracusa,Augusta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-35572-S,immobili,Sicilia,Siracusa,Avola,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
-I-SR-35625-S,immobili,Sicilia,Siracusa,Carlentini,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Siracusa,Misure di Prevenzione
+I-SR-35625-S,immobili,Sicilia,Siracusa,Carlentini,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-35642-S,immobili,Sicilia,Siracusa,Augusta,Terreno,Terreno con fabbricato rurale,Confisca def.,50%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-35961-S,immobili,Sicilia,Siracusa,Augusta,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-35962-S,immobili,Sicilia,Siracusa,Augusta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Siracusa,Misure di Prevenzione
@@ -19042,14 +19005,13 @@ I-SR-54235-S,immobili,Sicilia,Siracusa,Lentini,Unità immobiliare a destinazione
 I-SR-54353-S,immobili,Sicilia,Siracusa,Avola,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-54355-S,immobili,Sicilia,Siracusa,Augusta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-54421-S,immobili,Sicilia,Siracusa,Noto,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
-I-SR-54427-S,immobili,Sicilia,Siracusa,Augusta,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-54490-S,immobili,Sicilia,Siracusa,Noto,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-54491-S,immobili,Sicilia,Siracusa,Noto,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-54492-S,immobili,Sicilia,Siracusa,Noto,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-54550-S,immobili,Sicilia,Siracusa,Siracusa,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
-I-SR-54947-S,immobili,Sicilia,Siracusa,Carlentini,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Siracusa,Misure di Prevenzione
-I-SR-54948-S,immobili,Sicilia,Siracusa,Carlentini,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Siracusa,Misure di Prevenzione
-I-SR-54949-S,immobili,Sicilia,Siracusa,Carlentini,Altra unità immobiliare,Altro,Confisca II,100%,Tribunale,Siracusa,Misure di Prevenzione
+I-SR-54947-S,immobili,Sicilia,Siracusa,Carlentini,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
+I-SR-54948-S,immobili,Sicilia,Siracusa,Carlentini,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
+I-SR-54949-S,immobili,Sicilia,Siracusa,Carlentini,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-55781-S,immobili,Sicilia,Siracusa,Augusta,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-SR-57392-S,immobili,Sicilia,Siracusa,Augusta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-SR-57401-S,immobili,Sicilia,Siracusa,Augusta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione

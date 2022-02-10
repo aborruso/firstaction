@@ -1705,14 +1705,12 @@ A-NU-92730-S,aziende,Sardegna,Nuoro,Nuoro,Società a responsabilità limitata,"A
 A-OG-72646-S,aziende,Sardegna,Ogliastra,Cardedu,Società a responsabilità limitata,Alberghi e ristoranti,Sequestro,75%,Procura della Repubblica,Cagliari,Procedimento Penale
 A-OT-17769-S,aziende,Sardegna,Olbia-Tempio,Olbia,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-PA-100728-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
-A-PA-100795-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-100795-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-100901-S,aziende,Sicilia,Palermo,Carini,Società a responsabilità limitata,Costruzioni,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-100903-S,aziende,Sicilia,Palermo,Carini,Società cooperativa,"Altri servizi pubblici, sociali e personali",Revoca Seq.,0%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-101765-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-101776-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Revoca Conf.,0%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-101803-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
-A-PA-102280-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
-A-PA-102282-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-103992-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-103993-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Altri servizi pubblici, sociali e personali",Revoca Conf.,0%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-103997-S,aziende,Sicilia,Palermo,Bagheria,Impresa individuale,"Altri servizi pubblici, sociali e personali",Revoca Conf.,0%,Tribunale,Palermo,Misure di Prevenzione
@@ -1734,6 +1732,8 @@ A-PA-105018-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitat
 A-PA-105077-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-105088-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-105095-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-105452-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-105453-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1165-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1166-S,aziende,Sicilia,Palermo,Palermo,Società in nome collettivo,Costruzioni,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1169-S,aziende,Sicilia,Palermo,Palermo,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -2093,7 +2093,7 @@ A-PA-96497-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Altri servizi 
 A-PA-96510-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,0%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-96512-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca I,0%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-96529-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,0%,Tribunale,Palermo,Misure di Prevenzione
-A-PA-96558-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-96558-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-96560-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-96575-S,aziende,Sicilia,Palermo,Palermo,Società in nome collettivo,"Altri servizi pubblici, sociali e personali",Revoca Conf.,0%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-96861-S,aziende,Sicilia,Palermo,Palermo,Società in nome collettivo,Attività manifatturiere,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
