@@ -9122,7 +9122,7 @@ I-MN-94966-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di ab
 I-MN-94967-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-MN-94968-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-MN-94969-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
-I-MN-94970-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-MN-94970-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-MO-101048-S,immobili,Emilia Romagna,Modena,Finale Emilia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Modena,Misure di Prevenzione
 I-MO-101049-S,immobili,Emilia Romagna,Modena,Mirandola,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Modena,Misure di Prevenzione
 I-MO-101051-S,immobili,Emilia Romagna,Modena,Finale Emilia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Modena,Misure di Prevenzione
@@ -9197,9 +9197,9 @@ I-MT-94307-S,immobili,Basilicata,Matera,Ferrandina,Terreno,Terreno agricolo,Conf
 I-MT-94308-S,immobili,Basilicata,Matera,Ferrandina,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Matera,Misure di Prevenzione
 I-NA-100-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-10005-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-100395-S,immobili,Campania,Napoli,Villaricca,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Rinvio,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-100396-S,immobili,Campania,Napoli,Villaricca,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Rinvio,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-100397-S,immobili,Campania,Napoli,Villaricca,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Rinvio,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-100395-S,immobili,Campania,Napoli,Villaricca,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-100396-S,immobili,Campania,Napoli,Villaricca,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-100397-S,immobili,Campania,Napoli,Villaricca,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-100528-S,immobili,Campania,Napoli,Terzigno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-100529-S,immobili,Campania,Napoli,Terzigno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-100530-S,immobili,Campania,Napoli,Terzigno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
@@ -15019,6 +15019,10 @@ I-RC-105571-S,immobili,Calabria,Reggio Calabria,Scilla,Unità immobiliare per us
 I-RC-105593-S,immobili,Calabria,Reggio Calabria,Scilla,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 I-RC-105600-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 I-RC-105625-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RC-105654-S,immobili,Calabria,Reggio Calabria,Gioiosa Ionica,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-105655-S,immobili,Calabria,Reggio Calabria,Gioiosa Ionica,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-105656-S,immobili,Calabria,Reggio Calabria,Gioiosa Ionica,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-105659-S,immobili,Calabria,Reggio Calabria,Gioiosa Ionica,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-10581-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-11093-S,immobili,Calabria,Reggio Calabria,Marina di Gioiosa Ionica,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-RC-11099-S,immobili,Calabria,Reggio Calabria,Bianco,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
@@ -17504,6 +17508,7 @@ I-RM-40835-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Confisca de
 I-RM-4144-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-41645-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-RM-41656-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-RM-41786-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RM-41816-S,immobili,Lazio,Roma,Roma,Terreno,Terreno - non definito,Confisca def.,3%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-RM-41817-S,immobili,Lazio,Roma,Roma,Terreno,Terreno - non definito,Confisca def.,3%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-RM-41818-S,immobili,Lazio,Roma,Roma,Terreno,Terreno - non definito,Confisca def.,3%,Procura della Repubblica,Catanzaro,Procedimento Penale
