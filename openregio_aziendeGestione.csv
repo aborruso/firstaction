@@ -248,7 +248,7 @@ A-BS-82741-S,aziende,Lombardia,Brescia,Erbusco,Società a responsabilità limita
 A-BS-82847-S,aziende,Lombardia,Brescia,Rovato,Società a responsabilità limitata,Costruzioni,Revoca Conf. parziale,0%,Procura della Repubblica,Brescia,Procedimento Penale
 A-BS-89674-S,aziende,Lombardia,Brescia,Cologne,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Tribunale,Reggio Calabria,Procedimento Penale
 A-BS-90872-S,aziende,Lombardia,Brescia,Torbole Casaglia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-A-BS-92596-S,aziende,Lombardia,Brescia,Verolanuova,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,0%,Tribunale,Brescia,Misure di Prevenzione
+A-BS-92596-S,aziende,Lombardia,Brescia,Verolanuova,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,30%,Tribunale,Brescia,Misure di Prevenzione
 A-BT-100678-S,aziende,Puglia,Barletta-Andria-Trani,Bisceglie,Società a responsabilità limitata,"Produzione e distribuzione di energia elettrica, gas e acqua",Confisca II,100%,Tribunale,Rimini,Misure di Prevenzione
 A-BT-100688-S,aziende,Puglia,Barletta-Andria-Trani,Bisceglie,Società per azioni,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Tribunale,Rimini,Misure di Prevenzione
 A-BT-10477-S,aziende,Puglia,Barletta-Andria-Trani,Trani,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,10%,Corte di Appello,Bari,Misure di Prevenzione
@@ -1151,7 +1151,6 @@ A-MI-105724-S,aziende,Lombardia,Milano,Milano,Società per azioni,Attività fina
 A-MI-105793-S,aziende,Lombardia,Milano,Milano,Società cooperativa a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,1%,Tribunale,Perugia,Misure di Prevenzione
 A-MI-11106-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-MI-12869-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-A-MI-13290-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,50%,Tribunale,Milano,Misure di Prevenzione
 A-MI-13345-S,aziende,Lombardia,Milano,Milano,Società per azioni,Attività finanziarie,Confisca def.,1%,Tribunale,Latina,Misure di Prevenzione
 A-MI-13604-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca def.,96%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-15282-S,aziende,Lombardia,Milano,Legnano,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,50%,Tribunale,Catanzaro,Misure di Prevenzione
@@ -1807,7 +1806,7 @@ A-PA-33558-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata
 A-PA-33559-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-33957-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-34078-S,aziende,Sicilia,Palermo,Belmonte Mezzagno,Società in nome collettivo,Costruzioni,Confisca def.,50%,Tribunale,Palermo,Misure di Prevenzione
-A-PA-34114-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca I,0%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-34114-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,0%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-34256-S,aziende,Sicilia,Palermo,Castellana Sicula,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-34484-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-34733-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -3118,6 +3117,7 @@ A-SR-54953-S,aziende,Sicilia,Siracusa,Carlentini,Impresa individuale,"Altri serv
 A-SR-60063-S,aziende,Sicilia,Siracusa,Siracusa,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-SR-61510-S,aziende,Sicilia,Siracusa,Augusta,Società in accomandita semplice,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-SR-83983-S,aziende,Sicilia,Siracusa,Siracusa,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
+A-SV-105875-S,aziende,Liguria,Savona,Loano,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",,0%,Tribunale,Savona,Misure di Prevenzione
 A-SV-59912-S,aziende,Liguria,Savona,Ceriale,Società a responsabilità limitata,Costruzioni,Confisca def.,52%,Tribunale,Savona,Misure di Prevenzione
 A-SV-60212-S,aziende,Liguria,Savona,Alassio,Società a responsabilità limitata,Attività finanziarie,Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
 A-SV-93486-S,aziende,Liguria,Savona,Loano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Savona,Misure di Prevenzione
