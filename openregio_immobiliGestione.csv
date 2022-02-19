@@ -600,10 +600,9 @@ I-AO-31713-S,immobili,Valle d'Aosta,Aosta,Gaby,Terreno,Terreno agricolo,Confisca
 I-AO-44705-S,immobili,Valle d'Aosta,Aosta,Quart,Altra unità immobiliare,Altro,Confisca def.,1%,Tribunale,Aosta,Misure di Prevenzione
 I-AO-44706-S,immobili,Valle d'Aosta,Aosta,Quart,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,15%,Tribunale,Aosta,Misure di Prevenzione
 I-AO-44708-S,immobili,Valle d'Aosta,Aosta,Quart,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,15%,Tribunale,Aosta,Misure di Prevenzione
-I-AQ-100125-S,immobili,Abruzzo,L'Aquila,L'Aquila,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,L'aquila,Misure di Prevenzione
-I-AQ-100126-S,immobili,Abruzzo,L'Aquila,Scoppito,Terreno,Terreno edificabile,,0%,Tribunale,L'aquila,Misure di Prevenzione
-I-AQ-100127-S,immobili,Abruzzo,L'Aquila,Scoppito,Terreno,Terreno edificabile,,0%,Tribunale,L'aquila,Misure di Prevenzione
-I-AQ-100128-S,immobili,Abruzzo,L'Aquila,Scoppito,Terreno,Terreno edificabile,,0%,Tribunale,L'aquila,Misure di Prevenzione
+I-AQ-100125-S,immobili,Abruzzo,L'Aquila,L'Aquila,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
+I-AQ-100126-S,immobili,Abruzzo,L'Aquila,Scoppito,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
+I-AQ-100127-S,immobili,Abruzzo,L'Aquila,Scoppito,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
 I-AQ-101328-S,immobili,Abruzzo,L'Aquila,Avezzano,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
 I-AQ-101329-S,immobili,Abruzzo,L'Aquila,Avezzano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
 I-AQ-101331-S,immobili,Abruzzo,L'Aquila,Avezzano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
@@ -5529,12 +5528,12 @@ I-EN-75854-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,Conf
 I-EN-75906-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
 I-EN-75910-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Enna,Misure di Prevenzione
 I-EN-78872-S,immobili,Sicilia,Enna,Aidone,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Enna,Misure di Prevenzione
-I-EN-78961-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Enna,Misure di Prevenzione
-I-EN-78963-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Enna,Misure di Prevenzione
-I-EN-78965-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Enna,Misure di Prevenzione
-I-EN-78991-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Enna,Misure di Prevenzione
-I-EN-78994-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Enna,Misure di Prevenzione
-I-EN-78995-S,immobili,Sicilia,Enna,Enna,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Enna,Misure di Prevenzione
+I-EN-78961-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
+I-EN-78963-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
+I-EN-78965-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
+I-EN-78991-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
+I-EN-78994-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
+I-EN-78995-S,immobili,Sicilia,Enna,Enna,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
 I-EN-8488-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-EN-8489-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-EN-8490-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
