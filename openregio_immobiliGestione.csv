@@ -18609,12 +18609,16 @@ I-RO-86529-S,immobili,Veneto,Rovigo,Occhiobello,Unità immobiliare per uso di ab
 I-RO-86731-S,immobili,Veneto,Rovigo,Occhiobello,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Venezia,Misure di Prevenzione
 I-RO-86732-S,immobili,Veneto,Rovigo,Occhiobello,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Venezia,Misure di Prevenzione
 I-RO-86733-S,immobili,Veneto,Rovigo,Occhiobello,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Venezia,Misure di Prevenzione
-I-SA-101448-S,immobili,Campania,Salerno,Capaccio,Unità immobiliare per uso di abitazione e assimilabile,Villa,,0%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-101448-S,immobili,Campania,Salerno,Capaccio,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-103634-S,immobili,Campania,Salerno,Mercato San Severino,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-103635-S,immobili,Campania,Salerno,Mercato San Severino,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-103642-S,immobili,Campania,Salerno,Mercato San Severino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-103663-S,immobili,Campania,Salerno,Mercato San Severino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-103664-S,immobili,Campania,Salerno,Mercato San Severino,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-105930-S,immobili,Campania,Salerno,Capaccio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-105931-S,immobili,Campania,Salerno,Capaccio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-105932-S,immobili,Campania,Salerno,Capaccio,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-105933-S,immobili,Campania,Salerno,Capaccio,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-1357-S,immobili,Campania,Salerno,Pellezzano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-1358-S,immobili,Campania,Salerno,Salerno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-18243-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
@@ -18895,8 +18899,8 @@ I-SA-79948-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno - non definito,Conf
 I-SA-81735-S,immobili,Campania,Salerno,Scafati,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-SA-81736-S,immobili,Campania,Salerno,Scafati,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-SA-82798-S,immobili,Campania,Salerno,Capaccio,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
-I-SA-82799-S,immobili,Campania,Salerno,Capaccio,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Salerno,Misure di Prevenzione
-I-SA-82800-S,immobili,Campania,Salerno,Capaccio,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,0%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-82799-S,immobili,Campania,Salerno,Capaccio,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-82800-S,immobili,Campania,Salerno,Capaccio,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-85692-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Rinvio,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-85693-S,immobili,Campania,Salerno,Battipaglia,Terreno,Terreno agricolo,Rinvio,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-85694-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Rinvio,100%,Tribunale,Salerno,Misure di Prevenzione
