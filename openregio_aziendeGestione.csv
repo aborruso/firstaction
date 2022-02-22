@@ -929,6 +929,7 @@ A-LE-84102-S,aziende,Puglia,Lecce,Surbo,Società in accomandita semplice,Albergh
 A-LE-85742-S,aziende,Puglia,Lecce,Botrugno,Società cooperativa a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Rinvio,100%,Tribunale,Salerno,Misure di Prevenzione
 A-LE-96482-S,aziende,Puglia,Lecce,Lecce,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
 A-LI-101836-S,aziende,Toscana,Livorno,San Vincenzo,Società a responsabilità limitata,Attività finanziarie,Confisca I,10%,Tribunale,Perugia,Misure di Prevenzione
+A-LI-106119-S,aziende,Toscana,Livorno,Collesalvetti,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 A-LI-54762-S,aziende,Toscana,Livorno,Piombino,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,99%,Procura della Repubblica,Firenze,Procedimento Penale
 A-LI-60341-S,aziende,Toscana,Livorno,Rosignano Marittimo,Società per azioni,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,1%,Tribunale,Roma,Misure di Prevenzione
 A-LI-75498-S,aziende,Toscana,Livorno,Rosignano Marittimo,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -1005,7 +1006,6 @@ A-LT-95718-S,aziende,Lazio,Latina,Fondi,Società a responsabilità limitata,Albe
 A-LT-95732-S,aziende,Lazio,Latina,Itri,Impresa individuale,"Altri servizi pubblici, sociali e personali",Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-95742-S,aziende,Lazio,Latina,Terracina,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-96253-S,aziende,Lazio,Latina,Formia,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Latina,Misure di Prevenzione
-A-LT-96256-S,aziende,Lazio,Latina,Formia,Società a responsabilità limitata,Estrazione di minerali,Confisca II,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-96257-S,aziende,Lazio,Latina,Spigno Saturnia,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-97663-S,aziende,Lazio,Latina,Terracina,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-LT-97673-S,aziende,Lazio,Latina,Terracina,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -3098,6 +3098,7 @@ A-SI-98235-S,aziende,Toscana,Siena,Sinalunga,Società a responsabilità limitata
 A-SI-98248-S,aziende,Toscana,Siena,Sinalunga,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
 A-SO-82772-S,aziende,Lombardia,Sondrio,Cosio Valtellino,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,65%,Tribunale,Sondrio,Misure di Prevenzione
 A-SO-82774-S,aziende,Lombardia,Sondrio,Cosio Valtellino,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Sondrio,Misure di Prevenzione
+A-SP-106118-S,aziende,Liguria,La Spezia,La Spezia,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca def.,8%,Tribunale,La Spezia,Misure di Prevenzione
 A-SP-25970-S,aziende,Liguria,La Spezia,Arcola,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca I,100%,Tribunale,La Spezia,Misure di Prevenzione
 A-SP-3492-S,aziende,Liguria,La Spezia,La Spezia,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-SP-73937-S,aziende,Liguria,La Spezia,Arcola,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca I,100%,Tribunale,La Spezia,Misure di Prevenzione
@@ -3365,7 +3366,6 @@ A-VA-58233-S,aziende,Lombardia,Varese,Busto Arsizio,Società a responsabilità l
 A-VA-72267-S,aziende,Lombardia,Varese,Varese,Società in nome collettivo,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-VA-72268-S,aziende,Lombardia,Varese,Samarate,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-VA-76375-S,aziende,Lombardia,Varese,Varese,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-A-VA-76377-S,aziende,Lombardia,Varese,Varese,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
 A-VA-92189-S,aziende,Lombardia,Varese,Fagnano Olona,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Varese,Misure di Prevenzione
 A-VA-95178-S,aziende,Lombardia,Varese,Saronno,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,33%,Tribunale,Latina,Misure di Prevenzione
 A-VC-68484-S,aziende,Piemonte,Vercelli,Arborio,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
