@@ -607,14 +607,14 @@ I-AQ-101328-S,immobili,Abruzzo,L'Aquila,Avezzano,Terreno,Terreno edificabile,Con
 I-AQ-101329-S,immobili,Abruzzo,L'Aquila,Avezzano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
 I-AQ-101331-S,immobili,Abruzzo,L'Aquila,Avezzano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
 I-AQ-101333-S,immobili,Abruzzo,L'Aquila,Avezzano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
-I-AQ-101334-S,immobili,Abruzzo,L'Aquila,Avezzano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
+I-AQ-101334-S,immobili,Abruzzo,L'Aquila,Avezzano,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,L'aquila,Misure di Prevenzione
 I-AQ-101336-S,immobili,Abruzzo,L'Aquila,Avezzano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
 I-AQ-101337-S,immobili,Abruzzo,L'Aquila,Avezzano,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
 I-AQ-101339-S,immobili,Abruzzo,L'Aquila,Avezzano,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
 I-AQ-101340-S,immobili,Abruzzo,L'Aquila,Avezzano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
 I-AQ-101341-S,immobili,Abruzzo,L'Aquila,Avezzano,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,L'aquila,Misure di Prevenzione
 I-AQ-101343-S,immobili,Abruzzo,L'Aquila,Avezzano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
-I-AQ-101344-S,immobili,Abruzzo,L'Aquila,Avezzano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
+I-AQ-101344-S,immobili,Abruzzo,L'Aquila,Avezzano,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,L'aquila,Misure di Prevenzione
 I-AQ-101346-S,immobili,Abruzzo,L'Aquila,Avezzano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
 I-AQ-101349-S,immobili,Abruzzo,L'Aquila,Avezzano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
 I-AQ-101350-S,immobili,Abruzzo,L'Aquila,Avezzano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
@@ -1063,7 +1063,7 @@ I-BG-70310-S,immobili,Lombardia,Bergamo,Brembate,Unità immobiliare per uso di a
 I-BG-70664-S,immobili,Lombardia,Bergamo,Urgnano,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,0%,Tribunale,Bergamo,Misure di Prevenzione
 I-BG-70665-S,immobili,Lombardia,Bergamo,Grumello del Monte,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,0%,Tribunale,Bergamo,Misure di Prevenzione
 I-BG-70666-S,immobili,Lombardia,Bergamo,Grumello del Monte,Altra unità immobiliare,Altro,Confisca I,0%,Tribunale,Bergamo,Misure di Prevenzione
-I-BG-70667-S,immobili,Lombardia,Bergamo,San Paolo d'Argon,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,0%,Tribunale,Bergamo,Misure di Prevenzione
+I-BG-70667-S,immobili,Lombardia,Bergamo,San Paolo d'Argon,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,0%,Tribunale,Bergamo,Misure di Prevenzione
 I-BG-70668-S,immobili,Lombardia,Bergamo,San Paolo d'Argon,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,0%,Tribunale,Bergamo,Misure di Prevenzione
 I-BG-70691-S,immobili,Lombardia,Bergamo,Dalmine,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BG-70694-S,immobili,Lombardia,Bergamo,Suisio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bergamo,Misure di Prevenzione
@@ -7628,13 +7628,6 @@ I-MB-52120-S,immobili,Lombardia,Monza e Brianza,Bovisio-Masciago,Unità immobili
 I-MB-52121-S,immobili,Lombardia,Monza e Brianza,Bovisio-Masciago,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-52122-S,immobili,Lombardia,Monza e Brianza,Desio,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-52123-S,immobili,Lombardia,Monza e Brianza,Desio,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-52125-S,immobili,Lombardia,Monza e Brianza,Desio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-52126-S,immobili,Lombardia,Monza e Brianza,Desio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-52127-S,immobili,Lombardia,Monza e Brianza,Desio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-52128-S,immobili,Lombardia,Monza e Brianza,Desio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-52129-S,immobili,Lombardia,Monza e Brianza,Desio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-52130-S,immobili,Lombardia,Monza e Brianza,Desio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-52131-S,immobili,Lombardia,Monza e Brianza,Desio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-52133-S,immobili,Lombardia,Monza e Brianza,Seregno,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-52134-S,immobili,Lombardia,Monza e Brianza,Seregno,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-52135-S,immobili,Lombardia,Monza e Brianza,Seregno,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -7660,16 +7653,10 @@ I-MB-52454-S,immobili,Lombardia,Monza e Brianza,Seregno,Unità immobiliare per u
 I-MB-52460-S,immobili,Lombardia,Monza e Brianza,Seregno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-52462-S,immobili,Lombardia,Monza e Brianza,Seregno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-52466-S,immobili,Lombardia,Monza e Brianza,Seregno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-52469-S,immobili,Lombardia,Monza e Brianza,Desio,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-52470-S,immobili,Lombardia,Monza e Brianza,Desio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-52471-S,immobili,Lombardia,Monza e Brianza,Desio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-52472-S,immobili,Lombardia,Monza e Brianza,Desio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-52473-S,immobili,Lombardia,Monza e Brianza,Desio,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-52511-S,immobili,Lombardia,Monza e Brianza,Cesano Maderno,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-52512-S,immobili,Lombardia,Monza e Brianza,Cesano Maderno,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-52513-S,immobili,Lombardia,Monza e Brianza,Cesano Maderno,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-52514-S,immobili,Lombardia,Monza e Brianza,Cesano Maderno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-52680-S,immobili,Lombardia,Monza e Brianza,Lissone,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-52864-S,immobili,Lombardia,Monza e Brianza,Muggiò,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-MB-52865-S,immobili,Lombardia,Monza e Brianza,Muggiò,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-MB-52866-S,immobili,Lombardia,Monza e Brianza,Muggiò,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -8904,7 +8891,7 @@ I-MI-76556-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione 
 I-MI-76559-S,immobili,Lombardia,Milano,Milano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-MI-76571-S,immobili,Lombardia,Milano,Milano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-MI-76572-S,immobili,Lombardia,Milano,Milano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
-I-MI-76742-S,immobili,Lombardia,Milano,Trezzano sul Naviglio,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Rinvio,100%,Tribunale,Torino,Misure di Prevenzione
+I-MI-76742-S,immobili,Lombardia,Milano,Trezzano sul Naviglio,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-MI-77114-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-MI-77116-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-MI-77348-S,immobili,Lombardia,Milano,Sesto San Giovanni,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,0%,Tribunale,Sondrio,Misure di Prevenzione
@@ -14574,6 +14561,62 @@ I-PR-103978-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Terreno,Terreno 
 I-PR-103979-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
 I-PR-103980-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Terreno,Terreno edificabile,Confisca def.,33%,Tribunale,Bologna,Misure di Prevenzione
 I-PR-103987-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
+I-PR-106332-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106334-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106337-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106338-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106339-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106340-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106342-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106347-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106349-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106350-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106352-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106353-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106355-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106358-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106359-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106360-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106361-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106362-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106363-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106364-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106366-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106371-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106377-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106378-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106379-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106380-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106381-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106382-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106385-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106386-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106387-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106389-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106392-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106393-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Seq.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106394-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106396-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106398-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106402-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106404-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106408-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106410-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106411-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106413-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106415-S,immobili,Emilia Romagna,Parma,Parma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106416-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106417-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106420-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106422-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106423-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106426-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106427-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106428-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106429-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106430-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106432-S,immobili,Emilia Romagna,Parma,Montechiarugolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-PR-106433-S,immobili,Emilia Romagna,Parma,Salsomaggiore Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-PR-37889-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-37890-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Bologna,Procedimento Penale
 I-PR-37891-S,immobili,Emilia Romagna,Parma,Sorbolo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Bologna,Procedimento Penale
@@ -15221,7 +15264,6 @@ I-RC-16729-S,immobili,Calabria,Reggio Calabria,Siderno,Unità immobiliare per us
 I-RC-16730-S,immobili,Calabria,Reggio Calabria,Siderno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,67%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-17337-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-17490-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-18001-S,immobili,Calabria,Reggio Calabria,Gioiosa Ionica,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-RC-18017-S,immobili,Calabria,Reggio Calabria,Cittanova,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-18044-S,immobili,Calabria,Reggio Calabria,Candidoni,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-18046-S,immobili,Calabria,Reggio Calabria,Siderno,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -16008,7 +16050,6 @@ I-RC-81335-S,immobili,Calabria,Reggio Calabria,Palmi,Unità immobiliare per uso 
 I-RC-81578-S,immobili,Calabria,Reggio Calabria,Melicucco,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 I-RC-81672-S,immobili,Calabria,Reggio Calabria,Melicucco,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 I-RC-81674-S,immobili,Calabria,Reggio Calabria,Melicucco,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
-I-RC-83262-S,immobili,Calabria,Reggio Calabria,Gioiosa Ionica,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-RC-83515-S,immobili,Calabria,Reggio Calabria,Africo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-RC-83519-S,immobili,Calabria,Reggio Calabria,Africo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-RC-83520-S,immobili,Calabria,Reggio Calabria,Africo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -16242,6 +16283,41 @@ I-RE-104228-S,immobili,Emilia Romagna,Reggio Emilia,Bagnolo in Piano,Unità immo
 I-RE-104234-S,immobili,Emilia Romagna,Reggio Emilia,Bagnolo in Piano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-RE-104236-S,immobili,Emilia Romagna,Reggio Emilia,Bagnolo in Piano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-RE-10592-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
+I-RE-106341-S,immobili,Emilia Romagna,Reggio Emilia,Poviglio,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106343-S,immobili,Emilia Romagna,Reggio Emilia,Castelnovo di Sotto,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106345-S,immobili,Emilia Romagna,Reggio Emilia,Castelnovo di Sotto,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106346-S,immobili,Emilia Romagna,Reggio Emilia,Castelnovo di Sotto,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106348-S,immobili,Emilia Romagna,Reggio Emilia,Castelnovo di Sotto,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106356-S,immobili,Emilia Romagna,Reggio Emilia,Boretto,Altra unità immobiliare,Altro,Revoca Seq.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106357-S,immobili,Emilia Romagna,Reggio Emilia,Castelnovo di Sotto,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106365-S,immobili,Emilia Romagna,Reggio Emilia,Castelnovo di Sotto,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106367-S,immobili,Emilia Romagna,Reggio Emilia,Castelnovo di Sotto,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106369-S,immobili,Emilia Romagna,Reggio Emilia,Castelnovo di Sotto,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106370-S,immobili,Emilia Romagna,Reggio Emilia,Reggio nell'Emilia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106374-S,immobili,Emilia Romagna,Reggio Emilia,Castelnovo di Sotto,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106375-S,immobili,Emilia Romagna,Reggio Emilia,Castelnovo di Sotto,Unità immobiliare per uso di abitazione e assimilabile,Villa,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106376-S,immobili,Emilia Romagna,Reggio Emilia,Castelnovo di Sotto,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106384-S,immobili,Emilia Romagna,Reggio Emilia,Albinea,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106390-S,immobili,Emilia Romagna,Reggio Emilia,Castelnovo di Sotto,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106391-S,immobili,Emilia Romagna,Reggio Emilia,Albinea,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106395-S,immobili,Emilia Romagna,Reggio Emilia,Castelnovo di Sotto,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106399-S,immobili,Emilia Romagna,Reggio Emilia,Castelnovo di Sotto,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106400-S,immobili,Emilia Romagna,Reggio Emilia,Castelnovo di Sotto,Unità immobiliare per uso di abitazione e assimilabile,Villa,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106401-S,immobili,Emilia Romagna,Reggio Emilia,Albinea,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106403-S,immobili,Emilia Romagna,Reggio Emilia,Boretto,Altra unità immobiliare,Altro,Revoca Seq.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106405-S,immobili,Emilia Romagna,Reggio Emilia,Reggio nell'Emilia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106406-S,immobili,Emilia Romagna,Reggio Emilia,Castelnovo di Sotto,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106409-S,immobili,Emilia Romagna,Reggio Emilia,Albinea,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106412-S,immobili,Emilia Romagna,Reggio Emilia,Poviglio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106414-S,immobili,Emilia Romagna,Reggio Emilia,Castelnovo di Sotto,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106418-S,immobili,Emilia Romagna,Reggio Emilia,Albinea,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106421-S,immobili,Emilia Romagna,Reggio Emilia,Castelnovo di Sotto,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106424-S,immobili,Emilia Romagna,Reggio Emilia,Albinea,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106425-S,immobili,Emilia Romagna,Reggio Emilia,Castelnovo di Sotto,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106431-S,immobili,Emilia Romagna,Reggio Emilia,Castelnovo di Sotto,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106434-S,immobili,Emilia Romagna,Reggio Emilia,Castelnovo di Sotto,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106435-S,immobili,Emilia Romagna,Reggio Emilia,Castelnovo di Sotto,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-106437-S,immobili,Emilia Romagna,Reggio Emilia,Boretto,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Revoca Seq.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-RE-12493-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-RE-12494-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-RE-12495-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
@@ -17727,7 +17803,6 @@ I-RM-54351-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e
 I-RM-54352-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-5448-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-5449-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-54645-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-54874-S,immobili,Lazio,Roma,Tivoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Firenze,Procedimento Penale
 I-RM-5616-S,immobili,Lazio,Roma,Santa Marinella,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-5617-S,immobili,Lazio,Roma,Santa Marinella,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -18596,6 +18671,8 @@ I-RN-102046-S,immobili,Emilia Romagna,Rimini,Rimini,Unità immobiliare per uso d
 I-RN-102051-S,immobili,Emilia Romagna,Rimini,Rimini,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Rimini,Procedimento Penale
 I-RN-104752-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
 I-RN-104768-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
+I-RN-106372-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RN-106419-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-RN-1291-S,immobili,Emilia Romagna,Rimini,Montescudo - Monte Colombo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Rimini,Misure di Prevenzione
 I-RN-3694-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Rimini,Misure di Prevenzione
 I-RN-3695-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Rimini,Misure di Prevenzione
@@ -19068,6 +19145,13 @@ I-SI-98241-S,immobili,Toscana,Siena,Sinalunga,Unità immobiliare a destinazione 
 I-SI-98242-S,immobili,Toscana,Siena,Sinalunga,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
 I-SI-98244-S,immobili,Toscana,Siena,Sinalunga,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
 I-SI-98247-S,immobili,Toscana,Siena,Sinalunga,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
+I-SO-106335-S,immobili,Lombardia,Sondrio,Cosio Valtellino,Terreno,Terreno agricolo,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-SO-106336-S,immobili,Lombardia,Sondrio,Cosio Valtellino,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-SO-106344-S,immobili,Lombardia,Sondrio,Cosio Valtellino,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-SO-106354-S,immobili,Lombardia,Sondrio,Cosio Valtellino,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-SO-106397-S,immobili,Lombardia,Sondrio,Cosio Valtellino,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-SO-106436-S,immobili,Lombardia,Sondrio,Cosio Valtellino,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-SO-106438-S,immobili,Lombardia,Sondrio,Cosio Valtellino,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-SO-34881-S,immobili,Lombardia,Sondrio,Traona,Unità immobiliare per alloggio e usi collettivi,Opificio,Confisca def.,22%,Tribunale,Sondrio,Misure di Prevenzione
 I-SO-34882-S,immobili,Lombardia,Sondrio,Traona,Terreno,Terreno agricolo,Confisca def.,28%,Tribunale,Sondrio,Misure di Prevenzione
 I-SO-34883-S,immobili,Lombardia,Sondrio,Traona,Terreno,Terreno agricolo,Confisca def.,28%,Tribunale,Sondrio,Misure di Prevenzione
@@ -19105,6 +19189,8 @@ I-SO-97902-S,immobili,Lombardia,Sondrio,Traona,Unità immobiliare a destinazione
 I-SO-97903-S,immobili,Lombardia,Sondrio,Traona,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Sondrio,Misure di Prevenzione
 I-SO-97904-S,immobili,Lombardia,Sondrio,Traona,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Sondrio,Misure di Prevenzione
 I-SP-106120-S,immobili,Liguria,La Spezia,Arcola,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,,100%,Tribunale,La Spezia,Misure di Prevenzione
+I-SP-106333-S,immobili,Liguria,La Spezia,Ameglia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-SP-106383-S,immobili,Liguria,La Spezia,Ameglia,Altra unità immobiliare,Altro,Revoca Conf.,0%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-SP-36494-S,immobili,Liguria,La Spezia,Borghetto di Vara,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-SP-72714-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,La Spezia,Procedimento Penale
 I-SP-72715-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,La Spezia,Procedimento Penale
