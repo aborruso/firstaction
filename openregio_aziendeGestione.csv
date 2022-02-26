@@ -1004,8 +1004,6 @@ A-LT-95716-S,aziende,Lazio,Latina,Fondi,Impresa individuale,Alberghi e ristorant
 A-LT-95718-S,aziende,Lazio,Latina,Fondi,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-95732-S,aziende,Lazio,Latina,Itri,Impresa individuale,"Altri servizi pubblici, sociali e personali",Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-95742-S,aziende,Lazio,Latina,Terracina,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
-A-LT-96253-S,aziende,Lazio,Latina,Formia,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Latina,Misure di Prevenzione
-A-LT-96257-S,aziende,Lazio,Latina,Spigno Saturnia,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-97663-S,aziende,Lazio,Latina,Terracina,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-LT-97673-S,aziende,Lazio,Latina,Terracina,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-LT-99844-S,aziende,Lazio,Latina,Terracina,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
@@ -1656,7 +1654,6 @@ A-NA-93375-S,aziende,Campania,Napoli,Villaricca,Società a responsabilità limit
 A-NA-94700-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Revoca Conf.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-NA-94950-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-96254-S,aziende,Campania,Napoli,Quarto,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Latina,Misure di Prevenzione
-A-NA-96258-S,aziende,Campania,Napoli,Quarto,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Latina,Misure di Prevenzione
 A-NA-96395-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-96396-S,aziende,Campania,Napoli,Pozzuoli,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-96397-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -1745,6 +1742,9 @@ A-PA-105088-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitat
 A-PA-105095-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-105452-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-105453-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-106542-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-106543-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-106544-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,Alberghi e ristoranti,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1165-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1166-S,aziende,Sicilia,Palermo,Palermo,Società in nome collettivo,Costruzioni,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1169-S,aziende,Sicilia,Palermo,Palermo,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
