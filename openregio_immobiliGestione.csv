@@ -1062,11 +1062,8 @@ I-BG-68992-S,immobili,Lombardia,Bergamo,Valleve,Unità immobiliare per uso di ab
 I-BG-68993-S,immobili,Lombardia,Bergamo,Valleve,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BG-68994-S,immobili,Lombardia,Bergamo,Valleve,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BG-70310-S,immobili,Lombardia,Bergamo,Brembate,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Monza,Procedimento Penale
-I-BG-70664-S,immobili,Lombardia,Bergamo,Urgnano,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,0%,Tribunale,Bergamo,Misure di Prevenzione
-I-BG-70665-S,immobili,Lombardia,Bergamo,Grumello del Monte,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,0%,Tribunale,Bergamo,Misure di Prevenzione
-I-BG-70666-S,immobili,Lombardia,Bergamo,Grumello del Monte,Altra unità immobiliare,Altro,Confisca I,0%,Tribunale,Bergamo,Misure di Prevenzione
-I-BG-70667-S,immobili,Lombardia,Bergamo,San Paolo d'Argon,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,0%,Tribunale,Bergamo,Misure di Prevenzione
-I-BG-70668-S,immobili,Lombardia,Bergamo,San Paolo d'Argon,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,0%,Tribunale,Bergamo,Misure di Prevenzione
+I-BG-70667-S,immobili,Lombardia,Bergamo,San Paolo d'Argon,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Bergamo,Misure di Prevenzione
+I-BG-70668-S,immobili,Lombardia,Bergamo,San Paolo d'Argon,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Bergamo,Misure di Prevenzione
 I-BG-70691-S,immobili,Lombardia,Bergamo,Dalmine,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BG-70694-S,immobili,Lombardia,Bergamo,Suisio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bergamo,Misure di Prevenzione
 I-BG-70695-S,immobili,Lombardia,Bergamo,Suisio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Bergamo,Misure di Prevenzione
@@ -1738,6 +1735,8 @@ I-CA-100986-S,immobili,Sardegna,Cagliari,Sestu,Terreno,Terreno agricolo,Confisca
 I-CA-100987-S,immobili,Sardegna,Cagliari,Sestu,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Cagliari,Misure di Prevenzione
 I-CA-100988-S,immobili,Sardegna,Cagliari,Sestu,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Cagliari,Misure di Prevenzione
 I-CA-100989-S,immobili,Sardegna,Cagliari,Pula,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Cagliari,Misure di Prevenzione
+I-CA-107726-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,0%,Corte di Appello,Cagliari,Misure di Prevenzione
+I-CA-107727-S,immobili,Sardegna,Cagliari,Quartu Sant'Elena,Terreno,Terreno - non definito,Confisca def.,0%,Corte di Appello,Cagliari,Misure di Prevenzione
 I-CA-13443-S,immobili,Sardegna,Cagliari,Sestu,Unità immobiliare per uso di abitazione e assimilabile,Villa,Rinvio,100%,Procura della Repubblica,Cagliari,Procedimento Penale
 I-CA-13449-S,immobili,Sardegna,Cagliari,Settimo San Pietro,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Cagliari,Procedimento Penale
 I-CA-13450-S,immobili,Sardegna,Cagliari,Settimo San Pietro,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Cagliari,Procedimento Penale
@@ -1929,6 +1928,93 @@ I-CE-104141-S,immobili,Campania,Caserta,Frignano,Terreno,Terreno agricolo,Confis
 I-CE-1049-S,immobili,Campania,Caserta,Sessa Aurunca,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-105294-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-CE-1076-S,immobili,Campania,Caserta,Villa Literno,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107899-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107900-S,immobili,Campania,Caserta,Capua,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107901-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107902-S,immobili,Campania,Caserta,Capua,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107906-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107907-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107908-S,immobili,Campania,Caserta,Capua,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Sequestro,50%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107910-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107911-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107912-S,immobili,Campania,Caserta,Castel di Sasso,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107916-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107917-S,immobili,Campania,Caserta,Capua,Altra unità immobiliare,Altro,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107919-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107920-S,immobili,Campania,Caserta,Castel di Sasso,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107922-S,immobili,Campania,Caserta,Capua,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107924-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107925-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107926-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107929-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107931-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107932-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno edificabile,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107933-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107936-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107937-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107940-S,immobili,Campania,Caserta,Sessa Aurunca,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107941-S,immobili,Campania,Caserta,Capua,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107944-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,50%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107946-S,immobili,Campania,Caserta,Capua,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107947-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107948-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107949-S,immobili,Campania,Caserta,Sessa Aurunca,Altra unità immobiliare,Altro,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107950-S,immobili,Campania,Caserta,Capua,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107951-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107953-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107957-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107960-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107962-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107963-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107964-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107969-S,immobili,Campania,Caserta,Castel di Sasso,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107970-S,immobili,Campania,Caserta,Capua,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107972-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107973-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno edificabile,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107974-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107975-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107976-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107980-S,immobili,Campania,Caserta,Capua,Altra unità immobiliare,Altro,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107982-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno con fabbricato rurale,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107983-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107984-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107985-S,immobili,Campania,Caserta,Capua,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107989-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107990-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,50%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107993-S,immobili,Campania,Caserta,Castel di Sasso,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107994-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107998-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-107999-S,immobili,Campania,Caserta,Capua,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108000-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108001-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108002-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108004-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108005-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108006-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108007-S,immobili,Campania,Caserta,Castel di Sasso,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108010-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108012-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108013-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108018-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108020-S,immobili,Campania,Caserta,Capua,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108024-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108025-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108026-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108028-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108030-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108031-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108033-S,immobili,Campania,Caserta,Castel di Sasso,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108036-S,immobili,Campania,Caserta,Camigliano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108038-S,immobili,Campania,Caserta,Castel di Sasso,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108039-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108040-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108041-S,immobili,Campania,Caserta,Vitulazio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108042-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108043-S,immobili,Campania,Caserta,Castel di Sasso,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108044-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108048-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,50%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108049-S,immobili,Campania,Caserta,Camigliano,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-108052-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-1155-S,immobili,Campania,Caserta,Conca della Campania,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-12310-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-12311-S,immobili,Campania,Caserta,Capua,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -2803,6 +2889,7 @@ I-CE-96222-S,immobili,Campania,Caserta,Parete,Unità immobiliare a destinazione 
 I-CE-96225-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-96226-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-96495-S,immobili,Campania,Caserta,Caserta,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CE-97020-S,immobili,Campania,Caserta,Sessa Aurunca,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
 I-CE-97507-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-97510-S,immobili,Campania,Caserta,Grazzanise,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-97511-S,immobili,Campania,Caserta,Vitulazio,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -2883,6 +2970,8 @@ I-CE-99963-S,immobili,Campania,Caserta,Mondragone,Unità immobiliare a destinazi
 I-CH-105458-S,immobili,Abruzzo,Chieti,Chieti,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,L'aquila,Misure di Prevenzione
 I-CH-105459-S,immobili,Abruzzo,Chieti,Chieti,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,L'aquila,Misure di Prevenzione
 I-CH-105462-S,immobili,Abruzzo,Chieti,Chieti,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,L'aquila,Misure di Prevenzione
+I-CH-107733-S,immobili,Abruzzo,Chieti,Francavilla al Mare,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,L'aquila,Misure di Prevenzione
+I-CH-107734-S,immobili,Abruzzo,Chieti,Francavilla al Mare,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,L'aquila,Misure di Prevenzione
 I-CH-36419-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-36421-S,immobili,Abruzzo,Chieti,Pizzoferrato,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-CH-42987-S,immobili,Abruzzo,Chieti,San Salvo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Varese,Misure di Prevenzione
@@ -6099,6 +6188,66 @@ I-FR-93265-S,immobili,Lazio,Frosinone,Ferentino,Terreno,Terreno agricolo,Confisc
 I-FR-93266-S,immobili,Lazio,Frosinone,Ferentino,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Frosinone,Misure di Prevenzione
 I-FR-93267-S,immobili,Lazio,Frosinone,Ferentino,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Frosinone,Misure di Prevenzione
 I-FR-93268-S,immobili,Lazio,Frosinone,Ferentino,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Frosinone,Misure di Prevenzione
+I-FR-96277-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96278-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96279-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96280-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96281-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96282-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96283-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96284-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96311-S,immobili,Lazio,Frosinone,Casalvieri,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96312-S,immobili,Lazio,Frosinone,Casalvieri,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96313-S,immobili,Lazio,Frosinone,Casalvieri,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96314-S,immobili,Lazio,Frosinone,Casalvieri,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96315-S,immobili,Lazio,Frosinone,Casalvieri,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96316-S,immobili,Lazio,Frosinone,Casalvieri,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96320-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96321-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96322-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96323-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96324-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96325-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96326-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96327-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96328-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96329-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96330-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96331-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96332-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96333-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96334-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96335-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96336-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96337-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96338-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96339-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96340-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96341-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96342-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96343-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96344-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-96345-S,immobili,Lazio,Frosinone,Casalvieri,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-97023-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-97024-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-97025-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-97026-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-97027-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-97028-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-97029-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-97030-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-97031-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-97032-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-97033-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-97034-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-97035-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-97036-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-97037-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-97038-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-97039-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-97040-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-97041-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-FR-97042-S,immobili,Lazio,Frosinone,Coreno Ausonio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
 I-FR-97509-S,immobili,Lazio,Frosinone,Piedimonte San Germano,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-FR-97513-S,immobili,Lazio,Frosinone,Piedimonte San Germano,Unità immobiliare per alloggio e usi collettivi,Fabbricato annesso a speciali esigenze commerciali,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-FR-97521-S,immobili,Lazio,Frosinone,Piedimonte San Germano,Unità immobiliare per alloggio e usi collettivi,Fabbricato annesso a speciali esigenze commerciali,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -7429,6 +7578,65 @@ I-LT-96219-S,immobili,Lazio,Latina,Sperlonga,Unità immobiliare a destinazione c
 I-LT-96220-S,immobili,Lazio,Latina,Formia,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-LT-96223-S,immobili,Lazio,Latina,Sperlonga,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-LT-96224-S,immobili,Lazio,Latina,Sperlonga,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-LT-96299-S,immobili,Lazio,Latina,Formia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,20%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96300-S,immobili,Lazio,Latina,Formia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96301-S,immobili,Lazio,Latina,Formia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96302-S,immobili,Lazio,Latina,Formia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96303-S,immobili,Lazio,Latina,Spigno Saturnia,Altra unità immobiliare,Altro,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96304-S,immobili,Lazio,Latina,Spigno Saturnia,Altra unità immobiliare,Altro,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96305-S,immobili,Lazio,Latina,Formia,Altra unità immobiliare,Altro,Confisca II,16%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96306-S,immobili,Lazio,Latina,Formia,Altra unità immobiliare,Altro,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96307-S,immobili,Lazio,Latina,Formia,Altra unità immobiliare,Altro,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96308-S,immobili,Lazio,Latina,Formia,Altra unità immobiliare,Altro,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96309-S,immobili,Lazio,Latina,Formia,Altra unità immobiliare,Altro,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96310-S,immobili,Lazio,Latina,Formia,Altra unità immobiliare,Altro,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96346-S,immobili,Lazio,Latina,Minturno,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96347-S,immobili,Lazio,Latina,Minturno,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96348-S,immobili,Lazio,Latina,Minturno,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96349-S,immobili,Lazio,Latina,Minturno,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96350-S,immobili,Lazio,Latina,Minturno,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96351-S,immobili,Lazio,Latina,Minturno,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96352-S,immobili,Lazio,Latina,Minturno,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96981-S,immobili,Lazio,Latina,Minturno,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96982-S,immobili,Lazio,Latina,Minturno,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96983-S,immobili,Lazio,Latina,Minturno,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96984-S,immobili,Lazio,Latina,Minturno,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96985-S,immobili,Lazio,Latina,Minturno,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96986-S,immobili,Lazio,Latina,Minturno,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96987-S,immobili,Lazio,Latina,Minturno,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96988-S,immobili,Lazio,Latina,Minturno,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96989-S,immobili,Lazio,Latina,Minturno,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96990-S,immobili,Lazio,Latina,Minturno,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96991-S,immobili,Lazio,Latina,Minturno,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96992-S,immobili,Lazio,Latina,Minturno,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96993-S,immobili,Lazio,Latina,Minturno,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96994-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96995-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96996-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96997-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96998-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96999-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-97000-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-97001-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-97002-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-97003-S,immobili,Lazio,Latina,Spigno Saturnia,Altra unità immobiliare,Ex fabbricato rurale,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-97004-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-97005-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-97006-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-97007-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-97008-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-97009-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-97010-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-97011-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-97012-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-97013-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-97014-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-97015-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-97016-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-97017-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-97018-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-97019-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-97022-S,immobili,Lazio,Latina,Formia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
 I-LT-97182-S,immobili,Lazio,Latina,Latina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-97527-S,immobili,Lazio,Latina,Minturno,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-LT-97529-S,immobili,Lazio,Latina,Minturno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -8546,7 +8754,7 @@ I-MI-17366-S,immobili,Lombardia,Milano,Pregnana Milanese,Unità immobiliare per 
 I-MI-17367-S,immobili,Lombardia,Milano,Pregnana Milanese,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,66%,Tribunale,Crotone,Misure di Prevenzione
 I-MI-17368-S,immobili,Lombardia,Milano,Pregnana Milanese,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,66%,Tribunale,Crotone,Misure di Prevenzione
 I-MI-17454-S,immobili,Lombardia,Milano,Bollate,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-17455-S,immobili,Lombardia,Milano,Bollate,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-17455-S,immobili,Lombardia,Milano,Bollate,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-18422-S,immobili,Lombardia,Milano,Gessate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
 I-MI-18423-S,immobili,Lombardia,Milano,Bellinzago Lombardo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
 I-MI-1858-S,immobili,Lombardia,Milano,Sesto San Giovanni,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -8630,7 +8838,6 @@ I-MI-32146-S,immobili,Lombardia,Milano,Marcallo con Casone,Altra unità immobili
 I-MI-32147-S,immobili,Lombardia,Milano,Marcallo con Casone,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-32148-S,immobili,Lombardia,Milano,Corbetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-32149-S,immobili,Lombardia,Milano,Marcallo con Casone,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-33974-S,immobili,Lombardia,Milano,Cesano Boscone,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-33994-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,83%,Tribunale,Milano,Misure di Prevenzione
 I-MI-34283-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-34284-S,immobili,Lombardia,Milano,Pessano con Bornago,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -8791,7 +8998,6 @@ I-MI-70786-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per alloggio e 
 I-MI-71052-S,immobili,Lombardia,Milano,Cassano d'Adda,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-71053-S,immobili,Lombardia,Milano,Cassano d'Adda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-71361-S,immobili,Lombardia,Milano,Cesano Boscone,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-I-MI-71984-S,immobili,Lombardia,Milano,Cesano Boscone,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-71988-S,immobili,Lombardia,Milano,Buccinasco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-71989-S,immobili,Lombardia,Milano,Buccinasco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-71991-S,immobili,Lombardia,Milano,Buccinasco,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
@@ -9381,7 +9587,7 @@ I-NA-105446-S,immobili,Campania,Napoli,Calvizzano,Unità immobiliare per uso di 
 I-NA-105450-S,immobili,Campania,Napoli,Marano di Napoli,Altra unità immobiliare,Altro,Sequestro,100%,Tribunale,Napoli,Procedimento Penale
 I-NA-105451-S,immobili,Campania,Napoli,Marano di Napoli,Altra unità immobiliare,Altro,Sequestro,100%,Tribunale,Napoli,Procedimento Penale
 I-NA-105471-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-105472-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-105472-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-105502-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-105503-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-105504-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -14222,6 +14428,7 @@ I-PD-8146-S,immobili,Veneto,Padova,Limena,Unità immobiliare a destinazione comm
 I-PD-8147-S,immobili,Veneto,Padova,Limena,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-PD-8148-S,immobili,Veneto,Padova,Limena,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-PD-8149-S,immobili,Veneto,Padova,Padova,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-PE-107729-S,immobili,Abruzzo,Pescara,Pescara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,L'aquila,Misure di Prevenzione
 I-PE-13161-S,immobili,Abruzzo,Pescara,Torre de' Passeri,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Pescara,Misure di Prevenzione
 I-PE-13163-S,immobili,Abruzzo,Pescara,Torre de' Passeri,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,10%,Tribunale,Pescara,Misure di Prevenzione
 I-PE-13164-S,immobili,Abruzzo,Pescara,Torre de' Passeri,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,10%,Tribunale,Pescara,Misure di Prevenzione
