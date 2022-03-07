@@ -12085,7 +12085,7 @@ I-PA-23995-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Altro,Con
 I-PA-23996-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Altro,Confisca def.,50%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-24069-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-24078-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-24079-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-24079-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-24307-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-24420-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-24580-S,immobili,Sicilia,Palermo,Campofelice di Roccella,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
@@ -20263,9 +20263,9 @@ I-TP-105491-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno agricolo,,0%,Trib
 I-TP-105492-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno agricolo,,0%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-105493-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno agricolo,,0%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-105498-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno agricolo,,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-106554-S,immobili,Sicilia,Trapani,Erice,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-106555-S,immobili,Sicilia,Trapani,Erice,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-106556-S,immobili,Sicilia,Trapani,San Vito Lo Capo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,0%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-106554-S,immobili,Sicilia,Trapani,Erice,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-106555-S,immobili,Sicilia,Trapani,Erice,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-106556-S,immobili,Sicilia,Trapani,San Vito Lo Capo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-106562-S,immobili,Sicilia,Trapani,San Vito Lo Capo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-18956-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,,100%,Tribunale,Palermo,Misure di Prevenzione
 I-TP-19059-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
