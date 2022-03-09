@@ -9936,7 +9936,7 @@ I-NA-49695-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abita
 I-NA-49697-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-49699-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-49773-S,immobili,Campania,Napoli,Ercolano,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-50003-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-50003-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,33%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-50008-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-50014-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-501-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
@@ -12139,12 +12139,9 @@ I-PA-3023-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitaz
 I-PA-30487-S,immobili,Sicilia,Palermo,Altavilla Milicia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-30489-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-30491-S,immobili,Sicilia,Palermo,Campofelice di Roccella,Terreno,Terreno agricolo,Confisca def.,25%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-30492-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-30494-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-30495-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-30496-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-30497-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,20%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-30500-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-30501-S,immobili,Sicilia,Palermo,Campofelice di Roccella,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-30509-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-30511-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,50%,Tribunale,Palermo,Misure di Prevenzione
@@ -17716,6 +17713,16 @@ I-RM-106528-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione 
 I-RM-106532-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-106533-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-106534-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-108102-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-108111-S,immobili,Lazio,Roma,Roma,Terreno,Terreno edificabile,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-108113-S,immobili,Lazio,Roma,Roma,Terreno,Terreno edificabile,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-108115-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-108117-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-108118-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-108124-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-108126-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-108130-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-108131-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-11089-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-RM-11090-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-RM-11091-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
@@ -19870,7 +19877,7 @@ I-TO-1365-S,immobili,Piemonte,Torino,Salassa,Unità immobiliare per uso di abita
 I-TO-1366-S,immobili,Piemonte,Torino,Salassa,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-1397-S,immobili,Piemonte,Torino,Volpiano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-1398-S,immobili,Piemonte,Torino,Volpiano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-I-TO-16642-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Torino,Misure di Prevenzione
+I-TO-16642-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-16705-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-16706-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-16707-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
@@ -22183,6 +22190,7 @@ I-VT-106488-S,immobili,Lazio,Viterbo,Bassano Romano,Unità immobiliare per uso d
 I-VT-106494-S,immobili,Lazio,Viterbo,Bassano Romano,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
 I-VT-106501-S,immobili,Lazio,Viterbo,Sutri,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-VT-106524-S,immobili,Lazio,Viterbo,Sutri,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-VT-108119-S,immobili,Lazio,Viterbo,Monterosi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 I-VT-39126-S,immobili,Lazio,Viterbo,Soriano nel Cimino,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-VT-39140-S,immobili,Lazio,Viterbo,Soriano nel Cimino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-VT-39141-S,immobili,Lazio,Viterbo,Soriano nel Cimino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
