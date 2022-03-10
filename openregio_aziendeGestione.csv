@@ -546,7 +546,7 @@ A-CL-62000-S,aziende,Sicilia,Caltanissetta,Caltanissetta,Consorzio,Costruzioni,C
 A-CL-62001-S,aziende,Sicilia,Caltanissetta,Caltanissetta,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-65227-S,aziende,Sicilia,Caltanissetta,Montedoro,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-65228-S,aziende,Sicilia,Caltanissetta,Montedoro,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-A-CL-67919-S,aziende,Sicilia,Caltanissetta,Gela,Impresa individuale,Costruzioni,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-CL-67919-S,aziende,Sicilia,Caltanissetta,Gela,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-67922-S,aziende,Sicilia,Caltanissetta,Gela,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-67929-S,aziende,Sicilia,Caltanissetta,Gela,Società cooperativa a responsabilità limitata,Costruzioni,Confisca I,33%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-7022-S,aziende,Sicilia,Caltanissetta,Gela,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -821,7 +821,6 @@ A-FC-897-S,aziende,Emilia Romagna,Forlì-Cesena,Cesena,Società a responsabilit�
 A-FE-103288-S,aziende,Emilia Romagna,Ferrara,Comacchio,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,99%,Tribunale,Bologna,Misure di Prevenzione
 A-FE-104546-S,aziende,Emilia Romagna,Ferrara,Jolanda di Savoia,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,0%,Tribunale,Bologna,Misure di Prevenzione
 A-FE-3533-S,aziende,Emilia Romagna,Ferrara,Comacchio,Società a responsabilità limitata,"Pesca, piscicoltura e servizi connessi",Confisca def.,99%,Tribunale,Modena,Misure di Prevenzione
-A-FE-81649-S,aziende,Emilia Romagna,Ferrara,Argenta,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,90%,Corte di Appello,Milano,Procedimento Penale
 A-FG-17323-S,aziende,Puglia,Foggia,Foggia,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,50%,Tribunale,Foggia,Misure di Prevenzione
 A-FG-48673-S,aziende,Puglia,Foggia,Lucera,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 A-FG-48711-S,aziende,Puglia,Foggia,Lucera,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
@@ -1151,8 +1150,6 @@ A-MI-15753-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata
 A-MI-15992-S,aziende,Lombardia,Milano,Milano,Società in accomandita semplice,Attività finanziarie,Confisca def.,65%,Tribunale,Milano,Misure di Prevenzione
 A-MI-16797-S,aziende,Lombardia,Milano,Milano,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-16946-S,aziende,Lombardia,Milano,Milano,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-A-MI-17241-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-A-MI-17242-S,aziende,Lombardia,Milano,Carugate,Società cooperativa,Costruzioni,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 A-MI-1886-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-21904-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,10%,Tribunale,Trapani,Misure di Prevenzione
 A-MI-22790-S,aziende,Lombardia,Milano,Milano,Società in accomandita semplice,Costruzioni,Confisca def.,10%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -1217,7 +1214,7 @@ A-MI-59613-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata
 A-MI-61976-S,aziende,Lombardia,Milano,Milano,Società per azioni,Attività finanziarie,Confisca def.,35%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-MI-61986-S,aziende,Lombardia,Milano,Milano,Società per azioni,Attività finanziarie,Confisca def.,1%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-MI-64344-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
-A-MI-68041-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-MI-68041-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-MI-68616-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,8%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-68978-S,aziende,Lombardia,Milano,Settimo Milanese,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MI-68986-S,aziende,Lombardia,Milano,Rho,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -1292,7 +1289,6 @@ A-MS-104479-S,aziende,Toscana,Massa-Carrara,Carrara,Società a responsabilità l
 A-MS-104484-S,aziende,Toscana,Massa-Carrara,Carrara,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
 A-MS-106137-S,aziende,Toscana,Massa-Carrara,Pontremoli,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 A-MS-106142-S,aziende,Toscana,Massa-Carrara,Massa,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
-A-MS-106143-S,aziende,Toscana,Massa-Carrara,Bagnone,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 A-MS-106152-S,aziende,Toscana,Massa-Carrara,Massa,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 A-MS-106154-S,aziende,Toscana,Massa-Carrara,Massa,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 A-MS-106155-S,aziende,Toscana,Massa-Carrara,Carrara,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
@@ -2006,7 +2002,7 @@ A-PA-7046-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,Costruzioni,Conf
 A-PA-7047-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-71074-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,Estrazione di minerali,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-71257-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
-A-PA-71668-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-71668-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,Attività manifatturiere,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-71872-S,aziende,Sicilia,Palermo,Carini,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-71873-S,aziende,Sicilia,Palermo,Palermo,Società in nome collettivo,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-72460-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Attività finanziarie,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -3101,7 +3097,6 @@ A-SO-82774-S,aziende,Lombardia,Sondrio,Cosio Valtellino,Società a responsabilit
 A-SP-106118-S,aziende,Liguria,La Spezia,La Spezia,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca def.,8%,Tribunale,La Spezia,Misure di Prevenzione
 A-SP-106138-S,aziende,Liguria,La Spezia,La Spezia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 A-SP-106139-S,aziende,Liguria,La Spezia,Santo Stefano di Magra,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
-A-SP-106140-S,aziende,Liguria,La Spezia,La Spezia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 A-SP-106145-S,aziende,Liguria,La Spezia,La Spezia,Società per azioni,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 A-SP-106146-S,aziende,Liguria,La Spezia,La Spezia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 A-SP-106147-S,aziende,Liguria,La Spezia,La Spezia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
