@@ -304,6 +304,7 @@ A-CE-105422-S,aziende,Campania,Caserta,Sessa Aurunca,Società a responsabilità 
 A-CE-105449-S,aziende,Campania,Caserta,Sessa Aurunca,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Sequestro,100%,Tribunale,Napoli,Procedimento Penale
 A-CE-107935-S,aziende,Campania,Caserta,Vitulazio,Società in accomandita semplice,Costruzioni,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-CE-108034-S,aziende,Campania,Caserta,Vitulazio,Società a responsabilità limitata,Attività manifatturiere,Sequestro,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+A-CE-108153-S,aziende,Campania,Caserta,Mondragone,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Napoli,Procedimento Penale
 A-CE-1111-S,aziende,Campania,Caserta,Casal di Principe,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-CE-13155-S,aziende,Campania,Caserta,Aversa,Società a responsabilità limitata,Costruzioni,Confisca def.,10%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-CE-13156-S,aziende,Campania,Caserta,Villa di Briano,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -949,6 +950,7 @@ A-LT-105540-S,aziende,Lazio,Latina,Aprilia,Società a responsabilità limitata,C
 A-LT-105549-S,aziende,Lazio,Latina,Latina,Società per azioni,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 A-LT-105614-S,aziende,Lazio,Latina,Latina,Società a responsabilità limitata,"Produzione e distribuzione di energia elettrica, gas e acqua",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 A-LT-105617-S,aziende,Lazio,Latina,Cisterna di Latina,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-LT-108157-S,aziende,Lazio,Latina,Formia,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Napoli,Procedimento Penale
 A-LT-13351-S,aziende,Lazio,Latina,Latina,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-13352-S,aziende,Lazio,Latina,Latina,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-13380-S,aziende,Lazio,Latina,Aprilia,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
@@ -1291,10 +1293,8 @@ A-MS-106137-S,aziende,Toscana,Massa-Carrara,Pontremoli,Società a responsabilit�
 A-MS-106142-S,aziende,Toscana,Massa-Carrara,Massa,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 A-MS-106152-S,aziende,Toscana,Massa-Carrara,Massa,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 A-MS-106154-S,aziende,Toscana,Massa-Carrara,Massa,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
-A-MS-106155-S,aziende,Toscana,Massa-Carrara,Carrara,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 A-MS-106156-S,aziende,Toscana,Massa-Carrara,Carrara,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 A-MS-106157-S,aziende,Toscana,Massa-Carrara,Massa,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
-A-MS-106158-S,aziende,Toscana,Massa-Carrara,Massa,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 A-MS-108054-S,aziende,Toscana,Massa-Carrara,Massa,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 A-MS-31868-S,aziende,Toscana,Massa-Carrara,Licciana Nardi,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,50%,Corte di Appello,Genova,Procedimento Penale
 A-MS-72191-S,aziende,Toscana,Massa-Carrara,Carrara,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
