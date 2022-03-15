@@ -1738,6 +1738,7 @@ A-PA-106543-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Altri servizi
 A-PA-106544-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,Alberghi e ristoranti,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-106619-S,aziende,Sicilia,Palermo,Bagheria,Società a responsabilità limitata,Estrazione di minerali,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-108073-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-108164-S,aziende,Sicilia,Palermo,Castronovo di Sicilia,Impresa individuale,"Agricoltura, caccia e silvicoltura",Revoca Conf.,0%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1165-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1166-S,aziende,Sicilia,Palermo,Palermo,Società in nome collettivo,Costruzioni,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1169-S,aziende,Sicilia,Palermo,Palermo,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -2658,7 +2659,6 @@ A-RM-49427-S,aziende,Lazio,Roma,Roma,Società cooperativa a responsabilità limi
 A-RM-49505-S,aziende,Lazio,Roma,Roma,Società per azioni,Costruzioni,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-RM-50040-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 A-RM-50333-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-A-RM-50454-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Attività finanziarie,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-RM-50460-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Attività finanziarie,Revoca Conf. parziale,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-RM-50464-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Revoca Conf. parziale,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-RM-50933-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -3198,6 +3198,7 @@ A-TO-95996-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,
 A-TO-96966-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,13%,Procura della Repubblica,Torino,Procedimento Penale
 A-TP-105494-S,aziende,Sicilia,Trapani,Marsala,Impresa individuale,Alberghi e ristoranti,,0%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-105495-S,aziende,Sicilia,Trapani,Marsala,Impresa individuale,"Pesca, piscicoltura e servizi connessi",,0%,Tribunale,Trapani,Misure di Prevenzione
+A-TP-108219-S,aziende,Sicilia,Trapani,Castelvetrano,Società a responsabilità limitata,Costruzioni,Confisca def.,5%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-18963-S,aziende,Sicilia,Trapani,Marsala,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Marsala,Procedimento Penale
 A-TP-18965-S,aziende,Sicilia,Trapani,Marsala,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,48%,Tribunale,Marsala,Procedimento Penale
 A-TP-19259-S,aziende,Sicilia,Trapani,Castelvetrano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
@@ -3348,7 +3349,6 @@ A-TP-92935-S,aziende,Sicilia,Trapani,Castelvetrano,Società in accomandita sempl
 A-TP-92937-S,aziende,Sicilia,Trapani,Castelvetrano,Società in accomandita semplice,Costruzioni,Revoca Seq.,100%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-94929-S,aziende,Sicilia,Trapani,Alcamo,Società semplice,"Agricoltura, caccia e silvicoltura",,0%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-94972-S,aziende,Sicilia,Trapani,Marsala,Società cooperativa,"Agricoltura, caccia e silvicoltura",Confisca def.,99%,Procura della Repubblica,Marsala,Procedimento Penale
-A-TP-96077-S,aziende,Sicilia,Trapani,Castelvetrano,Società a responsabilità limitata,Costruzioni,,0%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-97939-S,aziende,Sicilia,Trapani,Mazara del Vallo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-97951-S,aziende,Sicilia,Trapani,Mazara del Vallo,Società a responsabilità limitata,Costruzioni,Confisca def.,84%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-97952-S,aziende,Sicilia,Trapani,Mazara del Vallo,Società a responsabilità limitata,Costruzioni,Confisca def.,89%,Tribunale,Trapani,Misure di Prevenzione
