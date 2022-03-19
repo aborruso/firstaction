@@ -204,15 +204,15 @@ I-AG-60246-S,immobili,Sicilia,Agrigento,Sambuca di Sicilia,Unità immobiliare a 
 I-AG-60247-S,immobili,Sicilia,Agrigento,Sambuca di Sicilia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-60249-S,immobili,Sicilia,Agrigento,Sambuca di Sicilia,Terreno,Terreno - non definito,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-60250-S,immobili,Sicilia,Agrigento,Sambuca di Sicilia,Terreno,Terreno - non definito,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-60286-S,immobili,Sicilia,Agrigento,Naro,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-60287-S,immobili,Sicilia,Agrigento,Naro,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-60288-S,immobili,Sicilia,Agrigento,Naro,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-60286-S,immobili,Sicilia,Agrigento,Naro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-60287-S,immobili,Sicilia,Agrigento,Naro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-60288-S,immobili,Sicilia,Agrigento,Naro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-60289-S,immobili,Sicilia,Agrigento,Naro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-60290-S,immobili,Sicilia,Agrigento,Naro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-60291-S,immobili,Sicilia,Agrigento,Naro,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-60291-S,immobili,Sicilia,Agrigento,Naro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-60293-S,immobili,Sicilia,Agrigento,Bivona,Terreno,Terreno - non definito,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-60294-S,immobili,Sicilia,Agrigento,Naro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-60295-S,immobili,Sicilia,Agrigento,Naro,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-60295-S,immobili,Sicilia,Agrigento,Naro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-60296-S,immobili,Sicilia,Agrigento,Naro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-60297-S,immobili,Sicilia,Agrigento,Naro,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-60305-S,immobili,Sicilia,Agrigento,Bivona,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
@@ -18965,6 +18965,8 @@ I-SA-105930-S,immobili,Campania,Salerno,Capaccio,Unità immobiliare per uso di a
 I-SA-105931-S,immobili,Campania,Salerno,Capaccio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-105932-S,immobili,Campania,Salerno,Capaccio,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-105933-S,immobili,Campania,Salerno,Capaccio,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-108316-S,immobili,Campania,Salerno,Sarno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-108317-S,immobili,Campania,Salerno,Sarno,Altra unità immobiliare,Ex fabbricato rurale,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-1357-S,immobili,Campania,Salerno,Pellezzano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-1358-S,immobili,Campania,Salerno,Salerno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-18243-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
@@ -20169,7 +20171,7 @@ I-TO-86460-S,immobili,Piemonte,Torino,Prascorsano,Altra unità immobiliare,Altro
 I-TO-86461-S,immobili,Piemonte,Torino,Prascorsano,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
 I-TO-86462-S,immobili,Piemonte,Torino,Prascorsano,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
 I-TO-86463-S,immobili,Piemonte,Torino,Prascorsano,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
-I-TO-86464-S,immobili,Piemonte,Torino,Pinerolo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-86464-S,immobili,Piemonte,Torino,Pinerolo,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-86511-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,82%,Tribunale,Torino,Misure di Prevenzione
 I-TO-86538-S,immobili,Piemonte,Torino,Cuorgnè,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-86539-S,immobili,Piemonte,Torino,Cuorgnè,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
@@ -21964,7 +21966,7 @@ I-VA-76400-S,immobili,Lombardia,Varese,Casalzuigno,Terreno,Terreno - non definit
 I-VA-79788-S,immobili,Lombardia,Varese,Sesto Calende,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-VA-82218-S,immobili,Lombardia,Varese,Varese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-VA-86299-S,immobili,Lombardia,Varese,Castellanza,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Milano,Misure di Prevenzione
-I-VA-86301-S,immobili,Lombardia,Varese,Castellanza,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Milano,Misure di Prevenzione
+I-VA-86301-S,immobili,Lombardia,Varese,Castellanza,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Milano,Misure di Prevenzione
 I-VA-86528-S,immobili,Lombardia,Varese,Tradate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-VA-86708-S,immobili,Lombardia,Varese,Tradate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-VA-86709-S,immobili,Lombardia,Varese,Tradate,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
