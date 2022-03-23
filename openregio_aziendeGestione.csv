@@ -516,7 +516,7 @@ A-CL-101411-S,aziende,Sicilia,Caltanissetta,Gela,Impresa individuale,"Trasporti,
 A-CL-101689-S,aziende,Sicilia,Caltanissetta,Gela,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-101742-S,aziende,Sicilia,Caltanissetta,Gela,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-18784-S,aziende,Sicilia,Caltanissetta,Mussomeli,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-A-CL-1893-S,aziende,Sicilia,Caltanissetta,Delia,Società cooperativa,"Altri servizi pubblici, sociali e personali",Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
+A-CL-1893-S,aziende,Sicilia,Caltanissetta,Delia,Società cooperativa,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-CL-22787-S,aziende,Sicilia,Caltanissetta,Resuttano,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-22788-S,aziende,Sicilia,Caltanissetta,Resuttano,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-23354-S,aziende,Sicilia,Caltanissetta,Bompensiere,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -1740,6 +1740,10 @@ A-PA-106544-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,Alberghi e ris
 A-PA-106619-S,aziende,Sicilia,Palermo,Bagheria,Società a responsabilità limitata,Estrazione di minerali,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-108073-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-108164-S,aziende,Sicilia,Palermo,Castronovo di Sicilia,Impresa individuale,"Agricoltura, caccia e silvicoltura",Revoca Conf.,0%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-108339-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Revoca Seq.,0%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-108364-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-108377-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-108399-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1165-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1166-S,aziende,Sicilia,Palermo,Palermo,Società in nome collettivo,Costruzioni,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-1169-S,aziende,Sicilia,Palermo,Palermo,Società in accomandita semplice,Alberghi e ristoranti,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -3359,6 +3363,8 @@ A-TR-857-S,aziende,Umbria,Terni,Terni,Società a responsabilità limitata,"Attiv
 A-TV-102335-S,aziende,Veneto,Treviso,Castelfranco Veneto,Società a responsabilità limitata,Costruzioni,Confisca II,50%,Tribunale,Catania,Misure di Prevenzione
 A-TV-80094-S,aziende,Veneto,Treviso,Castelfranco Veneto,Società a responsabilità limitata,Costruzioni,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
 A-UD-102355-S,aziende,Friuli Venezia Giulia,Udine,Palmanova,Società a responsabilità limitata,Attività manifatturiere,Confisca II,50%,Tribunale,Catania,Misure di Prevenzione
+A-UD-108351-S,aziende,Friuli Venezia Giulia,Udine,Tavagnacco,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+A-UD-108373-S,aziende,Friuli Venezia Giulia,Udine,Martignacco,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-UD-80096-S,aziende,Friuli Venezia Giulia,Udine,Palmanova,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
 A-VA-104480-S,aziende,Lombardia,Varese,Varese,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
 A-VA-34958-S,aziende,Lombardia,Varese,Busto Arsizio,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Varese,Misure di Prevenzione
