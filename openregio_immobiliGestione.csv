@@ -620,8 +620,8 @@ I-AQ-101349-S,immobili,Abruzzo,L'Aquila,Avezzano,Unità immobiliare per uso di a
 I-AQ-101350-S,immobili,Abruzzo,L'Aquila,Avezzano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
 I-AQ-101353-S,immobili,Abruzzo,L'Aquila,Avezzano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
 I-AQ-101355-S,immobili,Abruzzo,L'Aquila,Avezzano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
-I-AQ-101879-S,immobili,Abruzzo,L'Aquila,Oricola,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-AQ-101907-S,immobili,Abruzzo,L'Aquila,Oricola,Unità immobiliare per alloggio e usi collettivi,Opificio,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-AQ-101879-S,immobili,Abruzzo,L'Aquila,Oricola,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-AQ-101907-S,immobili,Abruzzo,L'Aquila,Oricola,Unità immobiliare per alloggio e usi collettivi,Opificio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-AQ-18924-S,immobili,Abruzzo,L'Aquila,Rivisondoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Misure di Prevenzione
 I-AQ-2696-S,immobili,Abruzzo,L'Aquila,Castel di Sangro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-AQ-3565-S,immobili,Abruzzo,L'Aquila,Carsoli,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -16806,21 +16806,21 @@ I-RM-101519-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione 
 I-RM-101522-S,immobili,Lazio,Roma,Guidonia Montecelio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Sequestro,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-101525-S,immobili,Lazio,Roma,Guidonia Montecelio,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-101529-S,immobili,Lazio,Roma,Guidonia Montecelio,Unità immobiliare per uso di abitazione e assimilabile,Altro,Sequestro,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-101870-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-101872-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-101873-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-101874-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-101876-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-101884-S,immobili,Lazio,Roma,Anzio,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-101888-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-101893-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-101896-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-101897-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-101901-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-101906-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-101911-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-101919-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-101924-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-101870-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-101872-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-101873-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-101874-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-101876-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-101884-S,immobili,Lazio,Roma,Anzio,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-101888-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-101893-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-101896-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-101897-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-101901-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-101906-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-101911-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-101919-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-101924-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-102310-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
 I-RM-102311-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
 I-RM-102312-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,25%,Tribunale,Catania,Misure di Prevenzione
@@ -19181,7 +19181,6 @@ I-SA-63232-S,immobili,Campania,Salerno,Angri,Unità immobiliare per uso di abita
 I-SA-63233-S,immobili,Campania,Salerno,Angri,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-63234-S,immobili,Campania,Salerno,Angri,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-63235-S,immobili,Campania,Salerno,Roccadaspide,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
-I-SA-63548-S,immobili,Campania,Salerno,Pagani,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-63554-S,immobili,Campania,Salerno,Eboli,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-63555-S,immobili,Campania,Salerno,Eboli,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-63556-S,immobili,Campania,Salerno,Eboli,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione

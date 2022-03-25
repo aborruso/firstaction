@@ -2519,31 +2519,31 @@ A-RM-101528-S,aziende,Lazio,Roma,Tivoli,Impresa individuale,"Commercio ingrosso-
 A-RM-101531-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Sequestro,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-101532-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Sequestro,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-101533-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Sequestro,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101868-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101869-S,aziende,Lazio,Roma,Fiumicino,Società in accomandita semplice,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101875-S,aziende,Lazio,Roma,Roma,Società cooperativa,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101877-S,aziende,Lazio,Roma,Roma,Società cooperativa,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101878-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101880-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101868-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101869-S,aziende,Lazio,Roma,Fiumicino,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101875-S,aziende,Lazio,Roma,Roma,Società cooperativa,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101877-S,aziende,Lazio,Roma,Roma,Società cooperativa,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101878-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101880-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-101883-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101887-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101889-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101887-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101889-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-101890-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101891-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,92%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101894-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101895-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101899-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101900-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101904-S,aziende,Lazio,Roma,Roma,Società cooperativa,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101891-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101894-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101895-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101899-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101900-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101904-S,aziende,Lazio,Roma,Roma,Società cooperativa,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-101908-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101909-S,aziende,Lazio,Roma,Roma,Società in nome collettivo,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101912-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101909-S,aziende,Lazio,Roma,Roma,Società in nome collettivo,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101912-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-101915-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-101917-S,aziende,Lazio,Roma,Roma,Società cooperativa,Alberghi e ristoranti,Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101920-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101920-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-101921-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101922-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-101926-S,aziende,Lazio,Roma,Roma,Società cooperativa,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101922-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-101926-S,aziende,Lazio,Roma,Roma,Società cooperativa,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-102338-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Catania,Misure di Prevenzione
 A-RM-102363-S,aziende,Lazio,Roma,Roma,Società per azioni,Attività finanziarie,Confisca II,50%,Tribunale,Catania,Misure di Prevenzione
 A-RM-102371-S,aziende,Lazio,Roma,Ardea,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,100%,Tribunale,Catania,Misure di Prevenzione
