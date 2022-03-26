@@ -493,7 +493,7 @@ A-CE-97612-S,aziende,Campania,Caserta,Villa Literno,Società in accomandita semp
 A-CE-97616-S,aziende,Campania,Caserta,Trentola-Ducenta,Società a responsabilità limitata,"Produzione e distribuzione di energia elettrica, gas e acqua",Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-CE-97630-S,aziende,Campania,Caserta,Trentola-Ducenta,Impresa individuale,"Altri servizi pubblici, sociali e personali",Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-CH-107736-S,aziende,Abruzzo,Chieti,Francavilla al Mare,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,L'aquila,Misure di Prevenzione
-A-CH-107737-S,aziende,Abruzzo,Chieti,Francavilla al Mare,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,L'aquila,Misure di Prevenzione
+A-CH-107737-S,aziende,Abruzzo,Chieti,Francavilla al Mare,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,90%,Tribunale,L'aquila,Misure di Prevenzione
 A-CH-1087-S,aziende,Abruzzo,Chieti,Agrigento,Altro,Attività finanziarie,Confisca I,6%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-CH-30034-S,aziende,Abruzzo,Chieti,Agrigento,Altro,Attività finanziarie,Confisca def.,1%,Tribunale,Salerno,Misure di Prevenzione
 A-CH-30036-S,aziende,Abruzzo,Chieti,Agrigento,Altro,Alberghi e ristoranti,Confisca def.,1%,Tribunale,Salerno,Misure di Prevenzione
@@ -2004,6 +2004,7 @@ A-PA-69645-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata
 A-PA-69646-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-69647-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-69648-S,aziende,Sicilia,Palermo,Belmonte Mezzagno,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-70156-S,aziende,Sicilia,Palermo,Palermo,Società in nome collettivo,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,50%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-7046-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,Costruzioni,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-7047-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-71074-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,Estrazione di minerali,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -2143,7 +2144,7 @@ A-PC-82964-S,aziende,Emilia Romagna,Piacenza,Piacenza,Società a responsabilità
 A-PD-42791-S,aziende,Veneto,Padova,Limena,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
 A-PD-81359-S,aziende,Veneto,Padova,Montegrotto Terme,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Padova,Procedimento Penale
 A-PD-81706-S,aziende,Veneto,Padova,Ponte San Nicolò,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Padova,Procedimento Penale
-A-PE-107735-S,aziende,Abruzzo,Pescara,Pescara,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,L'aquila,Misure di Prevenzione
+A-PE-107735-S,aziende,Abruzzo,Pescara,Pescara,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,33%,Tribunale,L'aquila,Misure di Prevenzione
 A-PE-59321-S,aziende,Abruzzo,Pescara,Pescara,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Pescara,Procedimento Penale
 A-PE-59325-S,aziende,Abruzzo,Pescara,Pescara,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Pescara,Procedimento Penale
 A-PE-59330-S,aziende,Abruzzo,Pescara,Pescara,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Pescara,Procedimento Penale
