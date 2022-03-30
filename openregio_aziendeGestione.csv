@@ -123,6 +123,8 @@ A-AV-94949-S,aziende,Campania,Avellino,Montefusco,Società a responsabilità lim
 A-AV-97542-S,aziende,Campania,Avellino,Cervinara,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-BA-10114-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 A-BA-101718-S,aziende,Puglia,Bari,Bari,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Tribunale,Bari,Misure di Prevenzione
+A-BA-118485-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca II,100%,Tribunale,Lecce,Misure di Prevenzione
+A-BA-118525-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca II,100%,Tribunale,Lecce,Misure di Prevenzione
 A-BA-13401-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 A-BA-13414-S,aziende,Puglia,Bari,Triggiano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 A-BA-13789-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,Sanità e assistenza sociale,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
@@ -571,6 +573,8 @@ A-CO-71896-S,aziende,Lombardia,Como,Como,Società a responsabilità limitata,Cos
 A-CO-74082-S,aziende,Lombardia,Como,Olgiate Comasco,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Como,Misure di Prevenzione
 A-CO-85749-S,aziende,Lombardia,Como,Como,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Rinvio,100%,Tribunale,Salerno,Misure di Prevenzione
 A-CO-85751-S,aziende,Lombardia,Como,Como,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Rinvio,100%,Tribunale,Salerno,Misure di Prevenzione
+A-CR-118572-S,aziende,Lombardia,Cremona,Chieve,Società a responsabilità limitata,Attività manifatturiere,Confisca II,100%,Tribunale,Cremona,Procedimento Penale
+A-CR-118577-S,aziende,Lombardia,Cremona,Crema,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Cremona,Procedimento Penale
 A-CR-70980-S,aziende,Lombardia,Cremona,Crema,Società a responsabilità limitata,Costruzioni,Confisca def.,50%,Tribunale,Cremona,Misure di Prevenzione
 A-CR-70982-S,aziende,Lombardia,Cremona,Spino d'Adda,Società semplice,"Agricoltura, caccia e silvicoltura",Confisca def.,99%,Tribunale,Cremona,Misure di Prevenzione
 A-CR-74017-S,aziende,Lombardia,Cremona,Chieve,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Cremona,Misure di Prevenzione
@@ -1145,6 +1149,7 @@ A-MI-105624-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitat
 A-MI-105724-S,aziende,Lombardia,Milano,Milano,Società per azioni,Attività finanziarie,Confisca II,100%,Tribunale,Perugia,Misure di Prevenzione
 A-MI-105793-S,aziende,Lombardia,Milano,Milano,Società cooperativa a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,1%,Tribunale,Perugia,Misure di Prevenzione
 A-MI-11106-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+A-MI-118575-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,Costruzioni,Confisca II,100%,Tribunale,Cremona,Procedimento Penale
 A-MI-12869-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 A-MI-13345-S,aziende,Lombardia,Milano,Milano,Società per azioni,Attività finanziarie,Confisca def.,1%,Tribunale,Latina,Misure di Prevenzione
 A-MI-13604-S,aziende,Lombardia,Milano,Milano,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca def.,96%,Procura della Repubblica,Milano,Procedimento Penale
@@ -2609,10 +2614,16 @@ A-RM-108108-S,aziende,Lazio,Roma,Monte Compatri,Impresa individuale,Alberghi e r
 A-RM-108112-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-108120-S,aziende,Lazio,Roma,Rocca Priora,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-108132-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-114846-S,aziende,Lazio,Roma,Velletri,Società in nome collettivo,"Produzione e distribuzione di energia elettrica, gas e acqua",Confisca II,95%,Tribunale,Reggio Calabria,Procedimento Penale
+A-RM-114848-S,aziende,Lazio,Roma,Albano Laziale,Impresa individuale,Costruzioni,Confisca II,100%,Tribunale,Reggio Calabria,Procedimento Penale
 A-RM-11643-S,aziende,Lazio,Roma,Roma,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 A-RM-11661-S,aziende,Lazio,Roma,Sacrofano,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,10%,Procura della Repubblica,Roma,Procedimento Penale
 A-RM-11663-S,aziende,Lazio,Roma,Roma,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 A-RM-11672-S,aziende,Lazio,Roma,Roma,Impresa individuale,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+A-RM-118546-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca II,100%,Tribunale,Lecce,Misure di Prevenzione
+A-RM-118573-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Confisca II,100%,Tribunale,Cremona,Procedimento Penale
+A-RM-118574-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Cremona,Procedimento Penale
+A-RM-118576-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Cremona,Procedimento Penale
 A-RM-13357-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-RM-15420-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
 A-RM-15978-S,aziende,Lazio,Roma,Roma,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -3125,12 +3136,16 @@ A-SR-54953-S,aziende,Sicilia,Siracusa,Carlentini,Impresa individuale,"Altri serv
 A-SR-60063-S,aziende,Sicilia,Siracusa,Siracusa,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-SR-61510-S,aziende,Sicilia,Siracusa,Augusta,Società in accomandita semplice,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-SR-83983-S,aziende,Sicilia,Siracusa,Siracusa,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
-A-SV-105875-S,aziende,Liguria,Savona,Loano,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",,0%,Tribunale,Savona,Misure di Prevenzione
+A-SV-105875-S,aziende,Liguria,Savona,Loano,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,0%,Tribunale,Savona,Misure di Prevenzione
 A-SV-59912-S,aziende,Liguria,Savona,Ceriale,Società a responsabilità limitata,Costruzioni,Confisca def.,52%,Tribunale,Savona,Misure di Prevenzione
 A-SV-60212-S,aziende,Liguria,Savona,Alassio,Società a responsabilità limitata,Attività finanziarie,Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
 A-SV-93486-S,aziende,Liguria,Savona,Loano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Savona,Misure di Prevenzione
 A-SV-94878-S,aziende,Liguria,Savona,Albenga,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,100%,Tribunale,Savona,Misure di Prevenzione
 A-TA-101725-S,aziende,Puglia,Taranto,Taranto,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+A-TA-115273-S,aziende,Puglia,Taranto,Fragagnano,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
+A-TA-118509-S,aziende,Puglia,Taranto,Taranto,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Sequestro,100%,Tribunale,Lecce,Misure di Prevenzione
+A-TA-118543-S,aziende,Puglia,Taranto,Taranto,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca II,100%,Tribunale,Lecce,Misure di Prevenzione
+A-TA-118562-S,aziende,Puglia,Taranto,Taranto,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca II,100%,Tribunale,Lecce,Misure di Prevenzione
 A-TA-13848-S,aziende,Puglia,Taranto,Pulsano,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,33%,Tribunale,Taranto,Misure di Prevenzione
 A-TA-19388-S,aziende,Puglia,Taranto,Taranto,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 A-TA-19737-S,aziende,Puglia,Taranto,Massafra,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,90%,Tribunale,Taranto,Misure di Prevenzione
