@@ -6346,10 +6346,8 @@ I-GE-60000-S,immobili,Liguria,Genova,San Colombano Certenoli,Terreno,Terreno - n
 I-GE-60003-S,immobili,Liguria,Genova,San Colombano Certenoli,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-60006-S,immobili,Liguria,Genova,San Colombano Certenoli,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-60008-S,immobili,Liguria,Genova,San Colombano Certenoli,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
-I-GE-70938-S,immobili,Liguria,Genova,Genova,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Cremona,Misure di Prevenzione
 I-GE-70939-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf. parziale,100%,Tribunale,Cremona,Misure di Prevenzione
 I-GE-70940-S,immobili,Liguria,Genova,Genova,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Cremona,Misure di Prevenzione
-I-GE-70941-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Cremona,Misure di Prevenzione
 I-GE-70942-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Cremona,Misure di Prevenzione
 I-GE-72291-S,immobili,Liguria,Genova,Sant'Olcese,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-72296-S,immobili,Liguria,Genova,Sant'Olcese,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
@@ -6421,7 +6419,6 @@ I-GE-80550-S,immobili,Liguria,Genova,Santa Margherita Ligure,Unità immobiliare 
 I-GE-86471-S,immobili,Liguria,Genova,Mignanego,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-87670-S,immobili,Liguria,Genova,Lavagna,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-90551-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
-I-GE-91282-S,immobili,Liguria,Genova,Genova,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-91286-S,immobili,Liguria,Genova,Genova,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-92110-S,immobili,Liguria,Genova,Lavagna,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-92111-S,immobili,Liguria,Genova,Sestri Levante,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
@@ -9759,7 +9756,7 @@ I-NA-2604-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitaz
 I-NA-2605-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-26402-S,immobili,Campania,Napoli,Casamicciola Terme,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-26404-S,immobili,Campania,Napoli,Casamicciola Terme,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2641-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-2641-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Conf.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-2644-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-2645-S,immobili,Campania,Napoli,Afragola,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-2655-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
@@ -9875,7 +9872,7 @@ I-NA-3913-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitaz
 I-NA-39249-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,82%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-39250-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-39251-S,immobili,Campania,Napoli,Ischia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,56%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-39253-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-39253-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-39255-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-39502-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,,Tribunale,Napoli,Misure di Prevenzione
 I-NA-40377-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
