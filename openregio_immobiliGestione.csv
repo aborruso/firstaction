@@ -869,6 +869,7 @@ I-BA-118673-S,immobili,Puglia,Bari,Gravina in Puglia,Unità immobiliare per uso 
 I-BA-118674-S,immobili,Puglia,Bari,Gravina in Puglia,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-118675-S,immobili,Puglia,Bari,Gravina in Puglia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-11868-S,immobili,Puglia,Bari,Casamassima,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
+I-BA-118680-S,immobili,Puglia,Bari,Gravina in Puglia,Terreno,Terreno - non definito,Confisca def.,0%,Tribunale,Bari,Misure di Prevenzione
 I-BA-11869-S,immobili,Puglia,Bari,Casamassima,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-11876-S,immobili,Puglia,Bari,Cassano delle Murge,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-11877-S,immobili,Puglia,Bari,Cassano delle Murge,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
@@ -5556,8 +5557,8 @@ I-EN-118649-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno agricolo,Confisca def
 I-EN-118650-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
 I-EN-118651-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
 I-EN-118652-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Enna,Misure di Prevenzione
-I-EN-118653-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Enna,Misure di Prevenzione
-I-EN-118654-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
+I-EN-118653-S,immobili,Sicilia,Enna,Piazza Armerina,Altra unità immobiliare,Ex fabbricato rurale,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
+I-EN-118654-S,immobili,Sicilia,Enna,Aidone,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
 I-EN-118655-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
 I-EN-118656-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
 I-EN-118657-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
@@ -6533,7 +6534,8 @@ I-GR-93094-S,immobili,Toscana,Grosseto,Civitella Paganico,Terreno,Terreno agrico
 I-GR-93106-S,immobili,Toscana,Grosseto,Civitella Paganico,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-GR-93129-S,immobili,Toscana,Grosseto,Civitella Paganico,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-GR-93140-S,immobili,Toscana,Grosseto,Civitella Paganico,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-I-IM-118670-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Procura della Repubblica,Imperia,Procedimento Penale
+I-IM-118670-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,0%,Procura della Repubblica,Imperia,Procedimento Penale
+I-IM-118681-S,immobili,Liguria,Imperia,Sanremo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Imperia,Procedimento Penale
 I-IM-35513-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-35763-S,immobili,Liguria,Imperia,Bordighera,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-64734-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
@@ -6563,10 +6565,10 @@ I-IM-72948-S,immobili,Liguria,Imperia,Bordighera,Terreno,Terreno agricolo,Confis
 I-IM-72951-S,immobili,Liguria,Imperia,Bordighera,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-72952-S,immobili,Liguria,Imperia,Bordighera,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-77750-S,immobili,Liguria,Imperia,Bordighera,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,0%,Tribunale,Imperia,Misure di Prevenzione
-I-IM-92101-S,immobili,Liguria,Imperia,Sanremo,Altra unità immobiliare,Altro,,0%,Procura della Repubblica,Imperia,Procedimento Penale
-I-IM-92102-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Procura della Repubblica,Imperia,Procedimento Penale
-I-IM-92103-S,immobili,Liguria,Imperia,Sanremo,Terreno,Terreno agricolo,,0%,Procura della Repubblica,Imperia,Procedimento Penale
-I-IM-92104-S,immobili,Liguria,Imperia,Sanremo,Terreno,Terreno agricolo,,0%,Procura della Repubblica,Imperia,Procedimento Penale
+I-IM-92101-S,immobili,Liguria,Imperia,Sanremo,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Imperia,Procedimento Penale
+I-IM-92102-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Imperia,Procedimento Penale
+I-IM-92103-S,immobili,Liguria,Imperia,Sanremo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Imperia,Procedimento Penale
+I-IM-92104-S,immobili,Liguria,Imperia,Sanremo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Imperia,Procedimento Penale
 I-IM-94925-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-IM-94926-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-IM-99886-S,immobili,Liguria,Imperia,Ospedaletti,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Torino,Misure di Prevenzione
@@ -12151,6 +12153,7 @@ I-PA-21353-S,immobili,Sicilia,Palermo,Prizzi,Unità immobiliare per uso di abita
 I-PA-21449-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-21450-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-21452-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-21460-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Villa,,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-21463-S,immobili,Sicilia,Palermo,Misilmeri,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-21464-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-21465-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -12636,6 +12639,8 @@ I-PA-39390-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca 
 I-PA-39391-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-39392-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-39457-S,immobili,Sicilia,Palermo,Ficarazzi,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-39496-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-39497-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-39513-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-39514-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-39517-S,immobili,Sicilia,Palermo,Pollina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
