@@ -2592,9 +2592,6 @@ I-CE-75618-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare a destinazio
 I-CE-75619-S,immobili,Campania,Caserta,Marcianise,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
 I-CE-75620-S,immobili,Campania,Caserta,Marcianise,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
 I-CE-75621-S,immobili,Campania,Caserta,Marcianise,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-CE-75628-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-CE-75630-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-CE-75631-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
 I-CE-75636-S,immobili,Campania,Caserta,Marcianise,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
 I-CE-75639-S,immobili,Campania,Caserta,Marcianise,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
 I-CE-76166-S,immobili,Campania,Caserta,Mondragone,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -6588,18 +6585,14 @@ I-GR-93106-S,immobili,Toscana,Grosseto,Civitella Paganico,Terreno,Terreno agrico
 I-GR-93129-S,immobili,Toscana,Grosseto,Civitella Paganico,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-GR-93140-S,immobili,Toscana,Grosseto,Civitella Paganico,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-IM-118670-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,0%,Procura della Repubblica,Imperia,Procedimento Penale
-I-IM-118681-S,immobili,Liguria,Imperia,Sanremo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Imperia,Procedimento Penale
+I-IM-118681-S,immobili,Liguria,Imperia,Sanremo,Terreno,Terreno agricolo,Revoca Sequ. parziale,100%,Procura della Repubblica,Imperia,Procedimento Penale
 I-IM-118759-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
 I-IM-118760-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
-I-IM-119102-S,immobili,Liguria,Imperia,Mendatica,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Genova,Misure di Prevenzione
 I-IM-119103-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Genova,Misure di Prevenzione
 I-IM-119105-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Genova,Misure di Prevenzione
 I-IM-119106-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Genova,Misure di Prevenzione
 I-IM-119107-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Genova,Misure di Prevenzione
-I-IM-119108-S,immobili,Liguria,Imperia,Sanremo,Terreno,Terreno agricolo,,100%,Tribunale,Genova,Misure di Prevenzione
 I-IM-119109-S,immobili,Liguria,Imperia,Sanremo,Terreno,Terreno agricolo,,100%,Tribunale,Genova,Misure di Prevenzione
-I-IM-119110-S,immobili,Liguria,Imperia,Sanremo,Terreno,Terreno agricolo,,100%,Tribunale,Genova,Misure di Prevenzione
-I-IM-119111-S,immobili,Liguria,Imperia,Sanremo,Terreno,Terreno agricolo,,100%,Tribunale,Genova,Misure di Prevenzione
 I-IM-35513-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-35763-S,immobili,Liguria,Imperia,Bordighera,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
 I-IM-64734-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Imperia,Misure di Prevenzione
@@ -6632,7 +6625,7 @@ I-IM-77750-S,immobili,Liguria,Imperia,Bordighera,Unità immobiliare per uso di a
 I-IM-92101-S,immobili,Liguria,Imperia,Sanremo,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Imperia,Procedimento Penale
 I-IM-92102-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Imperia,Procedimento Penale
 I-IM-92103-S,immobili,Liguria,Imperia,Sanremo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Imperia,Procedimento Penale
-I-IM-92104-S,immobili,Liguria,Imperia,Sanremo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Imperia,Procedimento Penale
+I-IM-92104-S,immobili,Liguria,Imperia,Sanremo,Terreno,Terreno agricolo,Revoca Sequ. parziale,100%,Procura della Repubblica,Imperia,Procedimento Penale
 I-IM-94925-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-IM-94926-S,immobili,Liguria,Imperia,Sanremo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-IM-99886-S,immobili,Liguria,Imperia,Ospedaletti,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,100%,Tribunale,Torino,Misure di Prevenzione
