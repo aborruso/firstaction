@@ -176,7 +176,7 @@ A-BG-82710-S,aziende,Lombardia,Bergamo,Treviglio,Società a responsabilità limi
 A-BG-82742-S,aziende,Lombardia,Bergamo,Sarnico,Impresa individuale,Costruzioni,Revoca Conf. parziale,100%,Procura della Repubblica,Brescia,Procedimento Penale
 A-BG-82846-S,aziende,Lombardia,Bergamo,Credaro,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Revoca Conf. parziale,100%,Procura della Repubblica,Brescia,Procedimento Penale
 A-BG-82863-S,aziende,Lombardia,Bergamo,Bergamo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-A-BG-95947-S,aziende,Lombardia,Bergamo,Treviolo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Revoca Conf.,75%,Procura della Repubblica,Brescia,Procedimento Penale
+A-BG-95947-S,aziende,Lombardia,Bergamo,Treviolo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,25%,Procura della Repubblica,Brescia,Procedimento Penale
 A-BI-83710-S,aziende,Piemonte,Biella,Dorzano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Revoca Conf. parziale,100%,Procura della Repubblica,Torino,Procedimento Penale
 A-BI-83719-S,aziende,Piemonte,Biella,Cavaglià,Impresa individuale,Costruzioni,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
 A-BI-83720-S,aziende,Piemonte,Biella,Cavaglià,Società a responsabilità limitata,Costruzioni,Confisca def.,25%,Procura della Repubblica,Torino,Procedimento Penale
@@ -1606,6 +1606,7 @@ A-NA-83208-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,
 A-NA-83219-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Attività manifatturiere,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-83228-S,aziende,Campania,Napoli,Napoli,Impresa individuale,Attività manifatturiere,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-83234-S,aziende,Campania,Napoli,Napoli,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-84050-S,aziende,Campania,Napoli,San Giorgio a Cremano,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-85660-S,aziende,Campania,Napoli,Napoli,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-85663-S,aziende,Campania,Napoli,Napoli,Impresa individuale,"Produzione e distribuzione di energia elettrica, gas e acqua",Confisca I,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-8573-S,aziende,Campania,Napoli,Afragola,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
