@@ -2104,6 +2104,9 @@ I-CE-118936-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abi
 I-CE-118995-S,immobili,Campania,Caserta,Aversa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Sequestro,100%,Tribunale,Napoli,Misure di Prevenzione
 I-CE-12310-S,immobili,Campania,Caserta,Santa Maria Capua Vetere,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-12311-S,immobili,Campania,Caserta,Capua,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-124412-S,immobili,Campania,Caserta,Curti,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-124413-S,immobili,Campania,Caserta,Curti,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,99%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-124417-S,immobili,Campania,Caserta,Curti,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-1289-S,immobili,Campania,Caserta,Lusciano,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,33%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-1297-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Corte di Appello,Napoli,Misure di Prevenzione
 I-CE-1302-S,immobili,Campania,Caserta,Castel Volturno,Terreno,Terreno agricolo,Confisca def.,100%,Corte di Appello,Napoli,Misure di Prevenzione
@@ -6107,6 +6110,7 @@ I-FR-105817-S,immobili,Lazio,Frosinone,Cassino,Terreno,Terreno edificabile,Confi
 I-FR-105823-S,immobili,Lazio,Frosinone,Cassino,Terreno,Terreno edificabile,Confisca II,100%,Tribunale,Perugia,Misure di Prevenzione
 I-FR-105825-S,immobili,Lazio,Frosinone,Cassino,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Perugia,Misure di Prevenzione
 I-FR-105827-S,immobili,Lazio,Frosinone,Cassino,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Perugia,Misure di Prevenzione
+I-FR-124408-S,immobili,Lazio,Frosinone,Frosinone,Terreno,Terreno - non definito,,100%,Tribunale,Frosinone,Misure di Prevenzione
 I-FR-13806-S,immobili,Lazio,Frosinone,Frosinone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Frosinone,Misure di Prevenzione
 I-FR-13807-S,immobili,Lazio,Frosinone,Frosinone,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Frosinone,Misure di Prevenzione
 I-FR-13808-S,immobili,Lazio,Frosinone,Frosinone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Frosinone,Misure di Prevenzione
@@ -13620,15 +13624,6 @@ I-PA-72181-S,immobili,Sicilia,Palermo,Gangi,Terreno,Terreno agricolo,Confisca I,
 I-PA-72182-S,immobili,Sicilia,Palermo,Gangi,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-PA-72183-S,immobili,Sicilia,Palermo,Gangi,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-PA-72184-S,immobili,Sicilia,Palermo,Gangi,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-PA-72237-S,immobili,Sicilia,Palermo,Polizzi Generosa,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-PA-72238-S,immobili,Sicilia,Palermo,Polizzi Generosa,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-PA-72239-S,immobili,Sicilia,Palermo,Polizzi Generosa,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-PA-72240-S,immobili,Sicilia,Palermo,Polizzi Generosa,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-PA-72241-S,immobili,Sicilia,Palermo,Polizzi Generosa,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-PA-72242-S,immobili,Sicilia,Palermo,Polizzi Generosa,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-PA-72243-S,immobili,Sicilia,Palermo,Polizzi Generosa,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-PA-72244-S,immobili,Sicilia,Palermo,Polizzi Generosa,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-PA-72245-S,immobili,Sicilia,Palermo,Polizzi Generosa,Altra unità immobiliare,Ex fabbricato rurale,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-PA-72283-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-72284-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-72285-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
