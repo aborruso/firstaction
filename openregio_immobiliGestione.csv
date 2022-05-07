@@ -3033,8 +3033,8 @@ I-CE-97626-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Co
 I-CE-97627-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-97628-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-97631-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-99751-S,immobili,Campania,Caserta,Pontelatone,Terreno,Terreno - non definito,,0%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-I-CE-99752-S,immobili,Campania,Caserta,Pontelatone,Terreno,Terreno - non definito,,0%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
+I-CE-99751-S,immobili,Campania,Caserta,Pontelatone,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
+I-CE-99752-S,immobili,Campania,Caserta,Pontelatone,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
 I-CE-99958-S,immobili,Campania,Caserta,Mondragone,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-99963-S,immobili,Campania,Caserta,Mondragone,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CH-105458-S,immobili,Abruzzo,Chieti,Chieti,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,L'aquila,Misure di Prevenzione
@@ -7803,7 +7803,7 @@ I-LU-91508-S,immobili,Toscana,Lucca,Lucca,Unità immobiliare per uso di abitazio
 I-LU-91509-S,immobili,Toscana,Lucca,Lucca,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-LU-93196-S,immobili,Toscana,Lucca,Pietrasanta,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-MB-100407-S,immobili,Lombardia,Monza e Brianza,Brugherio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
-I-MB-100408-S,immobili,Lombardia,Monza e Brianza,Brugherio,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Milano,Misure di Prevenzione
+I-MB-100408-S,immobili,Lombardia,Monza e Brianza,Brugherio,Terreno,Terreno agricolo,Confisca II,4%,Tribunale,Milano,Misure di Prevenzione
 I-MB-100409-S,immobili,Lombardia,Monza e Brianza,Brugherio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 I-MB-100412-S,immobili,Lombardia,Monza e Brianza,Brugherio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 I-MB-100413-S,immobili,Lombardia,Monza e Brianza,Brugherio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
