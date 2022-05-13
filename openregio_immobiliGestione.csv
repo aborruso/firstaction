@@ -2110,7 +2110,7 @@ I-CE-124417-S,immobili,Campania,Caserta,Curti,Unità immobiliare a destinazione 
 I-CE-1289-S,immobili,Campania,Caserta,Lusciano,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,33%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-1297-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Corte di Appello,Napoli,Misure di Prevenzione
 I-CE-1302-S,immobili,Campania,Caserta,Castel Volturno,Terreno,Terreno agricolo,Confisca def.,100%,Corte di Appello,Napoli,Misure di Prevenzione
-I-CE-13284-S,immobili,Campania,Caserta,Santa Maria la Fossa,Terreno,Terreno agricolo,Confisca def.,100%,Corte di Appello,Napoli,Misure di Prevenzione
+I-CE-13284-S,immobili,Campania,Caserta,Santa Maria la Fossa,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-18913-S,immobili,Campania,Caserta,San Cipriano d'Aversa,Terreno,Terreno agricolo,Confisca def.,50%,Procura della Repubblica,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-18916-S,immobili,Campania,Caserta,Casapesenna,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-18969-S,immobili,Campania,Caserta,San Cipriano d'Aversa,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -8226,6 +8226,8 @@ I-ME-106540-S,immobili,Sicilia,Messina,Barcellona Pozzo di Gotto,Unità immobili
 I-ME-106559-S,immobili,Sicilia,Messina,Barcellona Pozzo di Gotto,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Messina,Misure di Prevenzione
 I-ME-106565-S,immobili,Sicilia,Messina,Furnari,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-106597-S,immobili,Sicilia,Messina,Furnari,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
+I-ME-128217-S,immobili,Sicilia,Messina,Terme Vigliatore,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-ME-128440-S,immobili,Sicilia,Messina,Terme Vigliatore,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-ME-21305-S,immobili,Sicilia,Messina,Capizzi,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
 I-ME-21306-S,immobili,Sicilia,Messina,Capizzi,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
 I-ME-21307-S,immobili,Sicilia,Messina,Capizzi,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
@@ -12554,6 +12556,1000 @@ I-PA-126046-S,immobili,Sicilia,Palermo,Caccamo,Terreno,Terreno agricolo,Confisca
 I-PA-126047-S,immobili,Sicilia,Palermo,Caccamo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-126048-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-126049-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127452-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127453-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127454-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127455-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127456-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127457-S,immobili,Sicilia,Palermo,Santa Flavia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127458-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127459-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127460-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127461-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127462-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127463-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127464-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127465-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127466-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127467-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127468-S,immobili,Sicilia,Palermo,Santa Flavia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127469-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127470-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127471-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127472-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127473-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127474-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127475-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127476-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127477-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127478-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127479-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127480-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127481-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127483-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127484-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127485-S,immobili,Sicilia,Palermo,Casteldaccia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127486-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127487-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127488-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127489-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127490-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127491-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127492-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127493-S,immobili,Sicilia,Palermo,Casteldaccia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127494-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127495-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127496-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127497-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127498-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127499-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127500-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127501-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127502-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127503-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127504-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127505-S,immobili,Sicilia,Palermo,Casteldaccia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127506-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127507-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127508-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127509-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127510-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127511-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127512-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127513-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127514-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127515-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127516-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127517-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127518-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127519-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127520-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127521-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127522-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127523-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127524-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127525-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127526-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127527-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127528-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127529-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127530-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127531-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127532-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127533-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127534-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127535-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127536-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127537-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127538-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127539-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127540-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127541-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127542-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127543-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127544-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127545-S,immobili,Sicilia,Palermo,Casteldaccia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127546-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127547-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127548-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127549-S,immobili,Sicilia,Palermo,Casteldaccia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127550-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127551-S,immobili,Sicilia,Palermo,Casteldaccia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127552-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127553-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127554-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127555-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127556-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127557-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127558-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127559-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127560-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127561-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127562-S,immobili,Sicilia,Palermo,Santa Flavia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127563-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127564-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127565-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127566-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127567-S,immobili,Sicilia,Palermo,Caccamo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127568-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127569-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127570-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127571-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127572-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127573-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127574-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127575-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127576-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127577-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127578-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127579-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127580-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127581-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127583-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127584-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127585-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127586-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127587-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127588-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127589-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127590-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127591-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127592-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127593-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127594-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127595-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127596-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127597-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127598-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127599-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127600-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127601-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127602-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127603-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127604-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127605-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127606-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127607-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127608-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127609-S,immobili,Sicilia,Palermo,Casteldaccia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127610-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127611-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127612-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127613-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127614-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127615-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127616-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127617-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127618-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127619-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127620-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127621-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127622-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127623-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127624-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127625-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127626-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127627-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127628-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127629-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127630-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127631-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127632-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127633-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127634-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127635-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127636-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127637-S,immobili,Sicilia,Palermo,Casteldaccia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127638-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127639-S,immobili,Sicilia,Palermo,Casteldaccia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127640-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127641-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127642-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127643-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127644-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127645-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127646-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127647-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127648-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127649-S,immobili,Sicilia,Palermo,Casteldaccia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127650-S,immobili,Sicilia,Palermo,Caccamo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127651-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127652-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127653-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127654-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127655-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127656-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127657-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127658-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127659-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127660-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127661-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127662-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127663-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127664-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127665-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127666-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127667-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127668-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127669-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127670-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127671-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127672-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127673-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,67%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127674-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127675-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127676-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127677-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127678-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127679-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127680-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127681-S,immobili,Sicilia,Palermo,Caccamo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127682-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127683-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127684-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127685-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127686-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127687-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127688-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127689-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127690-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127691-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127692-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127693-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127694-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127695-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127696-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127697-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127698-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127699-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127700-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127701-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127702-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127703-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127704-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127705-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127706-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127707-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127708-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127709-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127710-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127711-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127712-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127713-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127714-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127715-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127716-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127717-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127718-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127719-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127720-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127721-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127722-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127723-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127724-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127725-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127726-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127727-S,immobili,Sicilia,Palermo,Caccamo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127728-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,67%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127729-S,immobili,Sicilia,Palermo,Misilmeri,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127730-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127731-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127732-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127733-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127734-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127735-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127736-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127737-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127738-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127739-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127740-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127741-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127742-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127743-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127744-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127745-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127746-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127747-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127748-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127749-S,immobili,Sicilia,Palermo,Termini Imerese,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127750-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127751-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127752-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127753-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127754-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127755-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127756-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127757-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127758-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127759-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127760-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127761-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127762-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127763-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127764-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127765-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127766-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127767-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127768-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127769-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127770-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127771-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127772-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127773-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127774-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127775-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127776-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127777-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127778-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127779-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127780-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127781-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127782-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127783-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127784-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127785-S,immobili,Sicilia,Palermo,Misilmeri,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127786-S,immobili,Sicilia,Palermo,Misilmeri,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127787-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127788-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127789-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127790-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127791-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127792-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127793-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127794-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127795-S,immobili,Sicilia,Palermo,Bagheria,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127796-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127797-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127798-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127799-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127800-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127801-S,immobili,Sicilia,Palermo,Termini Imerese,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127802-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127803-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127804-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127805-S,immobili,Sicilia,Palermo,Termini Imerese,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127806-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127807-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127808-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127809-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127810-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127811-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127812-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127813-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127814-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127815-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127816-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127817-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127818-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127819-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127820-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127821-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127822-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127823-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127824-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127825-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127826-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,67%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127827-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127828-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127829-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127830-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127831-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127832-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127833-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127834-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127835-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127836-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127837-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127838-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127839-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127840-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127841-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127842-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127843-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127844-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127845-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127846-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127847-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127848-S,immobili,Sicilia,Palermo,Misilmeri,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127849-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127850-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127851-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127852-S,immobili,Sicilia,Palermo,Misilmeri,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127853-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127854-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127855-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127856-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127857-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127858-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127859-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127860-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127861-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127862-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127863-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127864-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127865-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127866-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127867-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127868-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127869-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127870-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127871-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127872-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127873-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127874-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127875-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127876-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127877-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127878-S,immobili,Sicilia,Palermo,Termini Imerese,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127879-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127880-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127881-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127882-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127883-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127884-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127885-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127886-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127887-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127888-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127889-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127890-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127891-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127892-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127893-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127894-S,immobili,Sicilia,Palermo,Misilmeri,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127895-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127896-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127897-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127898-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127899-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127900-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127901-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127902-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127903-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127904-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127905-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127906-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127907-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127908-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127909-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127910-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127911-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127912-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127913-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127914-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127915-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127916-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127917-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127918-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127919-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127920-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127921-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127922-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127923-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127924-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127925-S,immobili,Sicilia,Palermo,Misilmeri,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127926-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127927-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127928-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127929-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127930-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127931-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127932-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127933-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127934-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127935-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127936-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127937-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127938-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127939-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127940-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127941-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127942-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127943-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127944-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127945-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127946-S,immobili,Sicilia,Palermo,Termini Imerese,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127947-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127948-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127949-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127950-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127951-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127952-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127953-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,67%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127954-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127955-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127956-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127957-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127958-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127959-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127960-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127961-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127962-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127963-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127964-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127965-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127966-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127967-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127968-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127969-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127970-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127971-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127972-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127973-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127974-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127975-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127976-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127977-S,immobili,Sicilia,Palermo,Bolognetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127978-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127979-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127980-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127981-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127982-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127983-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127984-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127985-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127986-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127987-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127988-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127989-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127990-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127991-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127992-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127993-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127994-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127995-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127996-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127997-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127998-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-127999-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128000-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128001-S,immobili,Sicilia,Palermo,Bolognetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128002-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128003-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128004-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128005-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128006-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128007-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128008-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128009-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128010-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128011-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128012-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128013-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128014-S,immobili,Sicilia,Palermo,Santa Flavia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128015-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128016-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128017-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128018-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128019-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128020-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128021-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128022-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128023-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128024-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128025-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128026-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128027-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128028-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128029-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128030-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128031-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128032-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128033-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128034-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128035-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128036-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128037-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128038-S,immobili,Sicilia,Palermo,Bolognetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128039-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128040-S,immobili,Sicilia,Palermo,Bagheria,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128041-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128042-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128043-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128044-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128045-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128046-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128047-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128048-S,immobili,Sicilia,Palermo,Santa Flavia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128049-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128050-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128051-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128052-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128053-S,immobili,Sicilia,Palermo,Altofonte,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128054-S,immobili,Sicilia,Palermo,Bolognetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128055-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128056-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128057-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128058-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128059-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128060-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128061-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128062-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128063-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128064-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128065-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128066-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128067-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128068-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128069-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128070-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128071-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128072-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128073-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128074-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128075-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128076-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128077-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128078-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128079-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128080-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128081-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128082-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128083-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128084-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128085-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128086-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128087-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128088-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128089-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128090-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128091-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128092-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128093-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128094-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128095-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128096-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128097-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128098-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128099-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128100-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128101-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,93%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128102-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128103-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128104-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128105-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128106-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128107-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128108-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128109-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128110-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128111-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128112-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128113-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128114-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128115-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128116-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128117-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128118-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128119-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128120-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128121-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128122-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128123-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128124-S,immobili,Sicilia,Palermo,Bolognetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128125-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,67%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128126-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128127-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128128-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128129-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128130-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128131-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128132-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128133-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128134-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128135-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128136-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128137-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128138-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128139-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128140-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128141-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128142-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128143-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128144-S,immobili,Sicilia,Palermo,Bolognetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128145-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128147-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128148-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128149-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128150-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128151-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128152-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128153-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128154-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128155-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128156-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128157-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128158-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128159-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128160-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128161-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128162-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128163-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128164-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128165-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128166-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128167-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128168-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128169-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128170-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128171-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128172-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128173-S,immobili,Sicilia,Palermo,Bolognetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128174-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128175-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128176-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128177-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128178-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128179-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128180-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128181-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128182-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128183-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128184-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128185-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128186-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128187-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128188-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128189-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128190-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128191-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128192-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128193-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128194-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128195-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128196-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128197-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128198-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128199-S,immobili,Sicilia,Palermo,Termini Imerese,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128200-S,immobili,Sicilia,Palermo,Casteldaccia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128201-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128202-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128203-S,immobili,Sicilia,Palermo,Bolognetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128204-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128205-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128206-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128207-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128208-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128209-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128210-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128211-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128212-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128213-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128214-S,immobili,Sicilia,Palermo,Altofonte,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128215-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128216-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128218-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128219-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128220-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128221-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128222-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128223-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128224-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128225-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128226-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128227-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128228-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128229-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128230-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128231-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128232-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128233-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128234-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128235-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128236-S,immobili,Sicilia,Palermo,Termini Imerese,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128237-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128238-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128239-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128240-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128241-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128242-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128243-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128244-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128245-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128246-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128247-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128248-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128249-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128250-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128251-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128252-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128253-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128254-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128255-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128256-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128257-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128258-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128259-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128260-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128261-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128262-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128263-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128264-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128265-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128266-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128267-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128268-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128269-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128270-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128271-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128272-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128273-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128274-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128275-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128276-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128277-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128278-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128279-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128280-S,immobili,Sicilia,Palermo,Trabia,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128281-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128282-S,immobili,Sicilia,Palermo,Altofonte,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128283-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128284-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128285-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128286-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128288-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128289-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128290-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,67%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128291-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,67%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128292-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128293-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128294-S,immobili,Sicilia,Palermo,Bolognetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128295-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128296-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128297-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128298-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128299-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128300-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128301-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128302-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128303-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128304-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128305-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128306-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128307-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128308-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128309-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128310-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128311-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128312-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128313-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128314-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128315-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128316-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128317-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128318-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128319-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128320-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128321-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128322-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128323-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128324-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128325-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128326-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128327-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128328-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128329-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128330-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128331-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128332-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128333-S,immobili,Sicilia,Palermo,Altofonte,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128334-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128335-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128336-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128337-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128338-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128339-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128340-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128341-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128342-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128343-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128344-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128345-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128346-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128347-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128348-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128349-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128350-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128351-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128352-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128353-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128354-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128355-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128356-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128357-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128358-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128359-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128360-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128361-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128362-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128363-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128364-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128365-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128366-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128367-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128368-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128369-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128370-S,immobili,Sicilia,Palermo,Termini Imerese,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128371-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128372-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128373-S,immobili,Sicilia,Palermo,Termini Imerese,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128374-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128375-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128376-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128377-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128378-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128379-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128380-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128381-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128382-S,immobili,Sicilia,Palermo,Bagheria,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128383-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128384-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128385-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128386-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128387-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128388-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128389-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128390-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128391-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128392-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128393-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128394-S,immobili,Sicilia,Palermo,Bagheria,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128395-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128396-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128397-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128398-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128399-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128400-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128401-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128402-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128403-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128404-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128405-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128406-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128407-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128408-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128409-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128410-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128411-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128412-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128413-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128414-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128415-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128416-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128417-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128418-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128419-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128420-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128421-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128422-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128423-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128424-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128425-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128426-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128427-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128428-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128429-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128430-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128431-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128432-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,67%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128433-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128434-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128435-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128436-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128437-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128438-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128439-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128441-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128442-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128443-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128444-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128445-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128446-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128447-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128448-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128449-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128450-S,immobili,Sicilia,Palermo,Altofonte,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-128451-S,immobili,Sicilia,Palermo,Termini Imerese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-18053-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-18137-S,immobili,Sicilia,Palermo,Ciminna,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-18304-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -14891,7 +15887,7 @@ I-PA-97855-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abit
 I-PA-97958-S,immobili,Sicilia,Palermo,Casteldaccia,Terreno,Terreno con fabbricato rurale,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-97959-S,immobili,Sicilia,Palermo,Casteldaccia,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-97960-S,immobili,Sicilia,Palermo,Casteldaccia,Terreno,Terreno con fabbricato rurale,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-98098-S,immobili,Sicilia,Palermo,Campofelice di Roccella,Unità immobiliare per uso di abitazione e assimilabile,Villa,,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-98098-S,immobili,Sicilia,Palermo,Campofelice di Roccella,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-9811-S,immobili,Sicilia,Palermo,Partinico,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-98121-S,immobili,Sicilia,Palermo,Altavilla Milicia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-98128-S,immobili,Sicilia,Palermo,Altavilla Milicia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
