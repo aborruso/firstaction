@@ -1008,8 +1008,8 @@ A-LT-95716-S,aziende,Lazio,Latina,Fondi,Impresa individuale,Alberghi e ristorant
 A-LT-95718-S,aziende,Lazio,Latina,Fondi,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-95732-S,aziende,Lazio,Latina,Itri,Impresa individuale,"Altri servizi pubblici, sociali e personali",Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-95742-S,aziende,Lazio,Latina,Terracina,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
-A-LT-97663-S,aziende,Lazio,Latina,Terracina,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-LT-97673-S,aziende,Lazio,Latina,Terracina,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-LT-97663-S,aziende,Lazio,Latina,Terracina,Impresa individuale,Alberghi e ristoranti,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
+A-LT-97673-S,aziende,Lazio,Latina,Terracina,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 A-LT-99844-S,aziende,Lazio,Latina,Terracina,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-LU-118837-S,aziende,Toscana,Lucca,Montecarlo,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
 A-LU-36322-S,aziende,Toscana,Lucca,Lucca,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Firenze,Procedimento Penale
@@ -2904,7 +2904,7 @@ A-RM-89446-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Albergh
 A-RM-89976-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,55%,Tribunale,Roma,Misure di Prevenzione
 A-RM-90063-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-90066-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-90067-S,aziende,Lazio,Roma,Roma,Società in accomandita semplice,Alberghi e ristoranti,Revoca Seq.,33%,Tribunale,Roma,Misure di Prevenzione
+A-RM-90067-S,aziende,Lazio,Roma,Roma,Società in accomandita semplice,Alberghi e ristoranti,Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-90079-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-90080-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-90085-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
@@ -2957,19 +2957,19 @@ A-RM-95167-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Altri 
 A-RM-95168-S,aziende,Lazio,Roma,Castel Gandolfo,Società in accomandita semplice,Attività manifatturiere,Confisca def.,33%,Tribunale,Latina,Misure di Prevenzione
 A-RM-95184-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-RM-95189-S,aziende,Lazio,Roma,Roma,Società per azioni,Attività finanziarie,Confisca def.,7%,Tribunale,Latina,Misure di Prevenzione
-A-RM-95220-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-95229-S,aziende,Lazio,Roma,Roma,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-95232-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-95234-S,aziende,Lazio,Roma,Roma,Società in accomandita semplice,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-95220-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-95229-S,aziende,Lazio,Roma,Roma,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-95232-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-95234-S,aziende,Lazio,Roma,Roma,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-95237-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-95240-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-95241-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-95240-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-95241-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-95248-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-95252-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-95253-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-95252-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-95253-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-95255-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-95261-S,aziende,Lazio,Roma,Civitavecchia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-95265-S,aziende,Lazio,Roma,Fiumicino,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-95261-S,aziende,Lazio,Roma,Civitavecchia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+A-RM-95265-S,aziende,Lazio,Roma,Fiumicino,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Seq.,0%,Tribunale,Roma,Misure di Prevenzione
 A-RM-95724-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
 A-RM-95763-S,aziende,Lazio,Roma,Roma,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
 A-RM-95765-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Latina,Misure di Prevenzione
