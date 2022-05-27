@@ -1020,6 +1020,8 @@ A-LU-86584-S,aziende,Toscana,Lucca,Viareggio,Società a responsabilità limitata
 A-LU-90638-S,aziende,Toscana,Lucca,Pietrasanta,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,50%,Procura della Repubblica,Lucca,Procedimento Penale
 A-LU-90639-S,aziende,Toscana,Lucca,Seravezza,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,10%,Procura della Repubblica,Lucca,Procedimento Penale
 A-MB-105726-S,aziende,Lombardia,Monza e Brianza,Lissone,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,47%,Tribunale,Perugia,Misure di Prevenzione
+A-MB-130663-S,aziende,Lombardia,Monza e Brianza,Sovico,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,99%,Procura della Repubblica,Milano,Procedimento Penale
+A-MB-130675-S,aziende,Lombardia,Monza e Brianza,Villasanta,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,51%,Procura della Repubblica,Milano,Procedimento Penale
 A-MB-1885-S,aziende,Lombardia,Monza e Brianza,Lissone,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MB-34701-S,aziende,Lombardia,Monza e Brianza,Lissone,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MB-39689-S,aziende,Lombardia,Monza e Brianza,Seregno,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -1033,8 +1035,6 @@ A-MB-51290-S,aziende,Lombardia,Monza e Brianza,Caponago,Società a responsabilit
 A-MB-56111-S,aziende,Lombardia,Monza e Brianza,Monza,Impresa individuale,Costruzioni,Confisca def.,100%,Procura della Repubblica,Caltanissetta,Procedimento Penale
 A-MB-58474-S,aziende,Lombardia,Monza e Brianza,Giussano,Associazione,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MB-68921-S,aziende,Lombardia,Monza e Brianza,Bernareggio,Società in nome collettivo,Alberghi e ristoranti,Confisca I,100%,Procura della Repubblica,Monza,Procedimento Penale
-A-MB-70600-S,aziende,Lombardia,Monza e Brianza,Villasanta,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,51%,Procura della Repubblica,Milano,Procedimento Penale
-A-MB-70614-S,aziende,Lombardia,Monza e Brianza,Sovico,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,99%,Procura della Repubblica,Milano,Procedimento Penale
 A-MB-72189-S,aziende,Lombardia,Monza e Brianza,Monza,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MB-74311-S,aziende,Lombardia,Monza e Brianza,Barlassina,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Monza,Procedimento Penale
 A-MB-74312-S,aziende,Lombardia,Monza e Brianza,Barlassina,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Monza,Procedimento Penale
@@ -2216,7 +2216,6 @@ A-PO-95293-S,aziende,Toscana,Prato,Montemurlo,Società a responsabilità limitat
 A-PR-103951-S,aziende,Emilia Romagna,Parma,Parma,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
 A-PR-103985-S,aziende,Emilia Romagna,Parma,Salsomaggiore Terme,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,33%,Tribunale,Bologna,Misure di Prevenzione
 A-PR-105276-S,aziende,Emilia Romagna,Parma,Parma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
-A-PR-106144-S,aziende,Emilia Romagna,Parma,Parma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 A-PR-106577-S,aziende,Emilia Romagna,Parma,Sorbolo,Impresa individuale,"Agricoltura, caccia e silvicoltura",Revoca Seq.,0%,Tribunale,Bologna,Misure di Prevenzione
 A-PR-106584-S,aziende,Emilia Romagna,Parma,Sorbolo,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
 A-PR-106589-S,aziende,Emilia Romagna,Parma,Sorbolo,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
