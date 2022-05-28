@@ -339,6 +339,7 @@ Calabria,Procura della Repubblica,Reggio Calabria,Procedimento Penale,Revoca Seq
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca I,118/2012
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca I,14/2016
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca I,24/2018
+Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca I,63/2004
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca I,74/2014
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca I,75/2015
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca I,8/2017
@@ -528,7 +529,6 @@ Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,60/2010
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,61/2000
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,61/2007
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,62/2010
-Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,63/2004
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,63/2011
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,64/2012
 Calabria,Tribunale,Reggio Calabria,Misure di Prevenzione,Confisca def.,64/2016
@@ -1446,6 +1446,7 @@ Friuli Venezia Giulia,Tribunale,Udine,Misure di Prevenzione,Confisca def.,2/2017
 Lazio,Procura della Repubblica,Cassino,Procedimento Penale,Confisca def.,2170/2017
 Lazio,Procura della Repubblica,Civitavecchia,Procedimento Penale,Confisca def.,1512/2002
 Lazio,Procura della Repubblica,Civitavecchia,Procedimento Penale,Confisca def.,5979/2015
+Lazio,Tribunale,Frosinone,Misure di Prevenzione,,9/2009
 Lazio,Tribunale,Frosinone,Misure di Prevenzione,Confisca I,27/2017
 Lazio,Tribunale,Frosinone,Misure di Prevenzione,Confisca I,7/2014
 Lazio,Tribunale,Frosinone,Misure di Prevenzione,Confisca II,6/2017
@@ -1459,7 +1460,6 @@ Lazio,Tribunale,Frosinone,Misure di Prevenzione,Confisca def.,25/2009
 Lazio,Tribunale,Frosinone,Misure di Prevenzione,Confisca def.,5/2014
 Lazio,Tribunale,Frosinone,Misure di Prevenzione,Confisca def.,6/2010
 Lazio,Tribunale,Frosinone,Misure di Prevenzione,Confisca def.,8/2014
-Lazio,Tribunale,Frosinone,Misure di Prevenzione,Confisca def.,9/2009
 Lazio,Tribunale,Frosinone,Misure di Prevenzione,Confisca def.,909/2009
 Lazio,Tribunale,Frosinone,Misure di Prevenzione,Revoca Conf.,10/2014
 Lazio,Tribunale,Frosinone,Misure di Prevenzione,Revoca Conf.,25/2015
@@ -1589,7 +1589,7 @@ Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca II,34/2016
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca II,43/2013
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca II,47/2017
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca II,50/2017
-Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca II,66/2019
+Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca II,62/2016
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca def.,1/2015
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca def.,100/2012
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca def.,101/2003
@@ -1668,7 +1668,6 @@ Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca def.,6/2017
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca def.,60/2015
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca def.,60/2017
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca def.,62/2012
-Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca def.,62/2016
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca def.,63/2012
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca def.,65/2015
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca def.,69/2015
@@ -1697,6 +1696,7 @@ Lazio,Tribunale,Roma,Misure di Prevenzione,Revoca Conf.,30/2013
 Lazio,Tribunale,Roma,Misure di Prevenzione,Revoca Conf.,33/2016
 Lazio,Tribunale,Roma,Misure di Prevenzione,Revoca Conf.,35/2017
 Lazio,Tribunale,Roma,Misure di Prevenzione,Revoca Conf.,60/2016
+Lazio,Tribunale,Roma,Misure di Prevenzione,Revoca Conf.,66/2019
 Lazio,Tribunale,Roma,Misure di Prevenzione,Revoca Conf.,72/2014
 Lazio,Tribunale,Roma,Misure di Prevenzione,Revoca Conf. parziale,132/2016
 Lazio,Tribunale,Roma,Misure di Prevenzione,Revoca Conf. parziale,18/2016
@@ -2063,7 +2063,6 @@ Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,21/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,3/2021
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,44/2014
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,44/2020
-Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,45/2016
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,53/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,56/2018
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,58/2020
@@ -2242,6 +2241,7 @@ Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,43/2007
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,43/2011
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,45/2010
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,45/2015
+Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,45/2016
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,46/2017
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,48/2014
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,49/2014
@@ -3087,6 +3087,7 @@ Sardegna,Procura della Repubblica,Cagliari,Procedimento Penale,Confisca def.,850
 Sardegna,Procura della Repubblica,Cagliari,Procedimento Penale,Revoca Seq.,10618/2007
 Sardegna,Procura della Repubblica,Cagliari,Procedimento Penale,Rinvio,9086/2009
 Sardegna,Procura della Repubblica,Cagliari,Procedimento Penale,Sequestro,12247/2014
+Sardegna,Tribunale,Cagliari,Misure di Prevenzione,Confisca I,17/2019
 Sardegna,Tribunale,Cagliari,Misure di Prevenzione,Confisca I,30/2012
 Sardegna,Tribunale,Cagliari,Misure di Prevenzione,Confisca I,6/2018
 Sardegna,Tribunale,Cagliari,Misure di Prevenzione,Confisca I,8/2016
@@ -3098,7 +3099,6 @@ Sardegna,Tribunale,Cagliari,Misure di Prevenzione,Confisca def.,13/2016
 Sardegna,Tribunale,Cagliari,Misure di Prevenzione,Confisca def.,15/2015
 Sardegna,Tribunale,Cagliari,Misure di Prevenzione,Confisca def.,16/2015
 Sardegna,Tribunale,Cagliari,Misure di Prevenzione,Confisca def.,17/2016
-Sardegna,Tribunale,Cagliari,Misure di Prevenzione,Confisca def.,17/2019
 Sardegna,Tribunale,Cagliari,Misure di Prevenzione,Confisca def.,23/2012
 Sardegna,Tribunale,Cagliari,Misure di Prevenzione,Confisca def.,23/2013
 Sardegna,Tribunale,Cagliari,Misure di Prevenzione,Confisca def.,23/2014
@@ -4518,6 +4518,7 @@ Toscana,Tribunale,Firenze,Misure di Prevenzione,,27/2019
 Toscana,Tribunale,Firenze,Misure di Prevenzione,Confisca I,17/2019
 Toscana,Tribunale,Firenze,Misure di Prevenzione,Confisca I,40/2019
 Toscana,Tribunale,Firenze,Misure di Prevenzione,Confisca I,43/2020
+Toscana,Tribunale,Firenze,Misure di Prevenzione,Confisca I,44/2020
 Toscana,Tribunale,Firenze,Misure di Prevenzione,Confisca II,11/2016
 Toscana,Tribunale,Firenze,Misure di Prevenzione,Confisca II,5/2014
 Toscana,Tribunale,Firenze,Misure di Prevenzione,Confisca II,8/2014
@@ -4528,7 +4529,6 @@ Toscana,Tribunale,Firenze,Misure di Prevenzione,Confisca def.,12/2018
 Toscana,Tribunale,Firenze,Misure di Prevenzione,Confisca def.,13/2016
 Toscana,Tribunale,Firenze,Misure di Prevenzione,Confisca def.,37/2019
 Toscana,Tribunale,Firenze,Misure di Prevenzione,Confisca def.,4/2015
-Toscana,Tribunale,Firenze,Misure di Prevenzione,Confisca def.,44/2020
 Toscana,Tribunale,Firenze,Misure di Prevenzione,Confisca def.,6/2016
 Toscana,Tribunale,Firenze,Misure di Prevenzione,Confisca def.,8/2015
 Toscana,Tribunale,Firenze,Misure di Prevenzione,Confisca def.,8/2018
@@ -4541,8 +4541,8 @@ Toscana,Procura della Repubblica,Livorno,Procedimento Penale,Confisca def.,3701/
 Toscana,Procura della Repubblica,Livorno,Procedimento Penale,Confisca def.,4330/2012
 Toscana,Tribunale,Livorno,Misure di Prevenzione,Confisca def.,3/2015
 Toscana,Tribunale,Livorno,Misure di Prevenzione,Confisca def.,5/2015
+Toscana,Procura della Repubblica,Lucca,Procedimento Penale,Confisca I,3387/2012
 Toscana,Procura della Repubblica,Lucca,Procedimento Penale,Confisca def.,12/2016
-Toscana,Procura della Repubblica,Lucca,Procedimento Penale,Confisca def.,3387/2012
 Toscana,Procura della Repubblica,Lucca,Procedimento Penale,Confisca def.,6043/2016
 Toscana,Tribunale,Lucca,Misure di Prevenzione,Confisca def.,18/2013
 Toscana,Tribunale,Lucca,Misure di Prevenzione,Confisca def.,19/2016
