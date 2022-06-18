@@ -1,4 +1,6 @@
 s_bene,genere,nome_regione,nome_provincia,nome_comune,categoria,sottocategoria,provvedimento,quota_confiscata,ufficio_giudiziario,distretto,tipologia_procedura
+,aziende,Calabria,Reggio Calabria,Gioiosa Ionica,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
+,aziende,Calabria,Reggio Calabria,Gioiosa Ionica,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-AG-104587-S,aziende,Sicilia,Agrigento,Siculiana,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-AG-104593-S,aziende,Sicilia,Agrigento,Ribera,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-AG-18406-S,aziende,Sicilia,Agrigento,Campobello di Licata,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
@@ -388,7 +390,6 @@ A-CE-51173-S,aziende,Campania,Caserta,Casal di Principe,Impresa individuale,"Att
 A-CE-51174-S,aziende,Campania,Caserta,Aversa,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-CE-51177-S,aziende,Campania,Caserta,San Cipriano d'Aversa,Società in nome collettivo,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-CE-51179-S,aziende,Campania,Caserta,Villa di Briano,Impresa individuale,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Procura della Repubblica,Napoli,Procedimento Penale
-A-CE-521-S,aziende,Campania,Caserta,Curti,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-CE-522-S,aziende,Campania,Caserta,Curti,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,25%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-CE-529-S,aziende,Campania,Caserta,Aversa,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,75%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-CE-5331-S,aziende,Campania,Caserta,Pignataro Maggiore,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Corte di Appello,Napoli,Misure di Prevenzione
@@ -1019,8 +1020,6 @@ A-LU-86584-S,aziende,Toscana,Lucca,Viareggio,Società a responsabilità limitata
 A-LU-90638-S,aziende,Toscana,Lucca,Pietrasanta,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,50%,Procura della Repubblica,Lucca,Procedimento Penale
 A-LU-90639-S,aziende,Toscana,Lucca,Seravezza,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,10%,Procura della Repubblica,Lucca,Procedimento Penale
 A-MB-105726-S,aziende,Lombardia,Monza e Brianza,Lissone,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,47%,Tribunale,Perugia,Misure di Prevenzione
-A-MB-130663-S,aziende,Lombardia,Monza e Brianza,Sovico,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,99%,Procura della Repubblica,Milano,Procedimento Penale
-A-MB-130675-S,aziende,Lombardia,Monza e Brianza,Villasanta,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,51%,Procura della Repubblica,Milano,Procedimento Penale
 A-MB-1885-S,aziende,Lombardia,Monza e Brianza,Lissone,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MB-34701-S,aziende,Lombardia,Monza e Brianza,Lissone,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MB-39689-S,aziende,Lombardia,Monza e Brianza,Seregno,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -1034,6 +1033,8 @@ A-MB-51290-S,aziende,Lombardia,Monza e Brianza,Caponago,Società a responsabilit
 A-MB-56111-S,aziende,Lombardia,Monza e Brianza,Monza,Impresa individuale,Costruzioni,Confisca def.,100%,Procura della Repubblica,Caltanissetta,Procedimento Penale
 A-MB-58474-S,aziende,Lombardia,Monza e Brianza,Giussano,Associazione,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MB-68921-S,aziende,Lombardia,Monza e Brianza,Bernareggio,Società in nome collettivo,Alberghi e ristoranti,Confisca I,100%,Procura della Repubblica,Monza,Procedimento Penale
+A-MB-70600-S,aziende,Lombardia,Monza e Brianza,Villasanta,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,51%,Procura della Repubblica,Milano,Procedimento Penale
+A-MB-70614-S,aziende,Lombardia,Monza e Brianza,Sovico,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,99%,Procura della Repubblica,Milano,Procedimento Penale
 A-MB-72189-S,aziende,Lombardia,Monza e Brianza,Monza,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-MB-74311-S,aziende,Lombardia,Monza e Brianza,Barlassina,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Monza,Procedimento Penale
 A-MB-74312-S,aziende,Lombardia,Monza e Brianza,Barlassina,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Monza,Procedimento Penale
@@ -1352,7 +1353,6 @@ A-NA-119000-S,aziende,Campania,Napoli,Giugliano in Campania,Società in accomand
 A-NA-12291-S,aziende,Campania,Napoli,Pozzuoli,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-12292-S,aziende,Campania,Napoli,Pozzuoli,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,50%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-12315-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,25%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-A-NA-124423-S,aziende,Campania,Napoli,Torre Annunziata,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-1290-S,aziende,Campania,Napoli,Pompei,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,25%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-13126-S,aziende,Campania,Napoli,Napoli,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-18911-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -2187,7 +2187,6 @@ A-PG-105819-S,aziende,Umbria,Perugia,Perugia,Società a responsabilità limitata
 A-PG-105820-S,aziende,Umbria,Perugia,Citerna,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Perugia,Misure di Prevenzione
 A-PG-105824-S,aziende,Umbria,Perugia,Perugia,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,100%,Tribunale,Perugia,Misure di Prevenzione
 A-PG-105829-S,aziende,Umbria,Perugia,Citerna,Società a responsabilità limitata,Costruzioni,Confisca II,100%,Tribunale,Perugia,Misure di Prevenzione
-A-PG-130686-S,aziende,Umbria,Perugia,Trevi,Impresa individuale,Costruzioni,Revoca Conf.,0%,Tribunale,Perugia,Misure di Prevenzione
 A-PG-36261-S,aziende,Umbria,Perugia,Trevi,Impresa individuale,Attività svolte da famiglie e convivenze,Confisca def.,100%,Tribunale,Perugia,Misure di Prevenzione
 A-PG-55083-S,aziende,Umbria,Perugia,Perugia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,90%,Procura della Repubblica,Firenze,Procedimento Penale
 A-PI-101652-S,aziende,Toscana,Pisa,Pisa,Impresa individuale,Alberghi e ristoranti,Revoca Seq.,0%,Procura della Repubblica,Firenze,Procedimento Penale
@@ -2287,7 +2286,6 @@ A-RC-12229-S,aziende,Calabria,Reggio Calabria,Gioia Tauro,Società a responsabil
 A-RC-12734-S,aziende,Calabria,Reggio Calabria,Rizziconi,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-12735-S,aziende,Calabria,Reggio Calabria,Gioia Tauro,Consorzio,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,14%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-12870-S,aziende,Calabria,Reggio Calabria,Villa San Giovanni,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-A-RC-130734-S,aziende,Calabria,Reggio Calabria,Cittanova,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-130890-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società a responsabilità limitata,Costruzioni,Confisca def.,50%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-13291-S,aziende,Calabria,Reggio Calabria,Platì,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 A-RC-14043-S,aziende,Calabria,Reggio Calabria,Gioia Tauro,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,20%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -2390,10 +2388,8 @@ A-RC-76763-S,aziende,Calabria,Reggio Calabria,Careri,Impresa individuale,Costruz
 A-RC-77562-S,aziende,Calabria,Reggio Calabria,Stignano,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-77564-S,aziende,Calabria,Reggio Calabria,Stignano,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-7780-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Impresa individuale,Costruzioni,Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-A-RC-78743-S,aziende,Calabria,Reggio Calabria,Gioiosa Ionica,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
-A-RC-78744-S,aziende,Calabria,Reggio Calabria,Gioiosa Ionica,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RC-78745-S,aziende,Calabria,Reggio Calabria,Gioiosa Ionica,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
-A-RC-78746-S,aziende,Calabria,Reggio Calabria,Gioiosa Ionica,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
+A-RC-78746-S,aziende,Calabria,Reggio Calabria,Gioiosa Ionica,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RC-78767-S,aziende,Calabria,Reggio Calabria,Gioiosa Ionica,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RC-79218-S,aziende,Calabria,Reggio Calabria,Caulonia,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-79675-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -3228,8 +3224,6 @@ A-TO-96966-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,
 A-TP-105494-S,aziende,Sicilia,Trapani,Marsala,Impresa individuale,Alberghi e ristoranti,,0%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-105495-S,aziende,Sicilia,Trapani,Marsala,Impresa individuale,"Pesca, piscicoltura e servizi connessi",,0%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-108219-S,aziende,Sicilia,Trapani,Castelvetrano,Società a responsabilità limitata,Costruzioni,Confisca def.,5%,Tribunale,Trapani,Misure di Prevenzione
-A-TP-130811-S,aziende,Sicilia,Trapani,Campobello di Mazara,Impresa individuale,Attività svolte da famiglie e convivenze,Sequestro,100%,Tribunale,Trapani,Misure di Prevenzione
-A-TP-130818-S,aziende,Sicilia,Trapani,Campobello di Mazara,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-18963-S,aziende,Sicilia,Trapani,Marsala,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Marsala,Procedimento Penale
 A-TP-18965-S,aziende,Sicilia,Trapani,Marsala,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,48%,Tribunale,Marsala,Procedimento Penale
 A-TP-19259-S,aziende,Sicilia,Trapani,Castelvetrano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
@@ -3258,6 +3252,7 @@ A-TP-34378-S,aziende,Sicilia,Trapani,Buseto Palizzolo,Società a responsabilità
 A-TP-3455-S,aziende,Sicilia,Trapani,Marsala,Impresa individuale,Attività manifatturiere,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 A-TP-34642-S,aziende,Sicilia,Trapani,Trapani,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-34992-S,aziende,Sicilia,Trapani,Castellammare del Golfo,Società a responsabilità limitata,Costruzioni,Confisca def.,50%,Procura della Repubblica,Trapani,Procedimento Penale
+A-TP-3806-S,aziende,Sicilia,Trapani,Campobello di Mazara,Impresa individuale,Attività svolte da famiglie e convivenze,Sequestro,100%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-38980-S,aziende,Sicilia,Trapani,Castellammare del Golfo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-38981-S,aziende,Sicilia,Trapani,Castellammare del Golfo,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,50%,Tribunale,Trapani,Misure di Prevenzione
 A-TP-38982-S,aziende,Sicilia,Trapani,Castellammare del Golfo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
