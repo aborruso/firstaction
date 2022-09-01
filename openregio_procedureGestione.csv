@@ -1874,6 +1874,7 @@ Lombardia,Procura della Repubblica,Brescia,Procedimento Penale,Confisca def.,920
 Lombardia,Procura della Repubblica,Brescia,Procedimento Penale,Confisca def.,9609/2016
 Lombardia,Procura della Repubblica,Brescia,Procedimento Penale,Revoca Conf.,1/2010
 Lombardia,Procura della Repubblica,Brescia,Procedimento Penale,Revoca Sequ. parziale,28516/2014
+Lombardia,Tribunale,Brescia,Misure di Prevenzione,Confisca I,43/2021
 Lombardia,Tribunale,Brescia,Misure di Prevenzione,Confisca I,9/2015
 Lombardia,Tribunale,Brescia,Misure di Prevenzione,Confisca II,18/2016
 Lombardia,Tribunale,Brescia,Misure di Prevenzione,Confisca II,7/2018
@@ -2069,7 +2070,6 @@ Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,129/2019
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,21/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,3/2021
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,44/2014
-Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,44/2020
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,53/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,58/2020
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,73/2019
@@ -2084,10 +2084,10 @@ Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,112/2015
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,116/2018
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,117/2018
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,124/2020
-Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,134/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,134/2019
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,147/2019
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,27/2019
+Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,44/2020
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,46/2020
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,48/2015
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca II,64/2019
@@ -2135,6 +2135,7 @@ Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,131/2002
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,131/2017
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,134/1997
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,134/2007
+Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,134/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,135/2018
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,135/2019
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,136/2018
@@ -2723,6 +2724,8 @@ Piemonte,Tribunale,Torino,Misure di Prevenzione,Revoca Seq.,27/2015
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Revoca Seq.,35/2014
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Sequestro,21/2020
 Piemonte,Tribunale,Torino,Procedimento Penale,Confisca II,26238/2013
+Piemonte,Tribunale,Torino,Procedimento Penale,Confisca def.,14590/2017
+Piemonte,Tribunale,Torino,Procedimento Penale,Confisca def.,23067/2011
 Piemonte,Tribunale,Torino,Procedimento Penale,Confisca def.,6211/2013
 Piemonte,Tribunale,Torino,Procedimento Penale,Revoca Conf.,3587/1994
 Piemonte,Tribunale,Torino,Procedimento Penale,Revoca Sequ. parziale,27007/2016
@@ -4648,6 +4651,7 @@ Veneto,Procura della Repubblica,Venezia,Procedimento Penale,Confisca def.,6716/2
 Veneto,Procura della Repubblica,Venezia,Procedimento Penale,Confisca def.,7755/2013
 Veneto,Tribunale,Venezia,Misure di Prevenzione,Confisca I,30/2016
 Veneto,Tribunale,Venezia,Misure di Prevenzione,Confisca I,4/2019
+Veneto,Tribunale,Venezia,Misure di Prevenzione,Confisca I,51/2021
 Veneto,Tribunale,Venezia,Misure di Prevenzione,Confisca I,52/2020
 Veneto,Tribunale,Venezia,Misure di Prevenzione,Confisca I,65/2020
 Veneto,Tribunale,Venezia,Misure di Prevenzione,Confisca I,77/2020
@@ -4658,6 +4662,7 @@ Veneto,Tribunale,Venezia,Misure di Prevenzione,Confisca def.,1/1994
 Veneto,Tribunale,Venezia,Misure di Prevenzione,Confisca def.,1/1995
 Veneto,Tribunale,Venezia,Misure di Prevenzione,Confisca def.,1/1999
 Veneto,Tribunale,Venezia,Misure di Prevenzione,Confisca def.,1/2016
+Veneto,Tribunale,Venezia,Misure di Prevenzione,Confisca def.,1/2017
 Veneto,Tribunale,Venezia,Misure di Prevenzione,Confisca def.,11/2019
 Veneto,Tribunale,Venezia,Misure di Prevenzione,Confisca def.,15/2010
 Veneto,Tribunale,Venezia,Misure di Prevenzione,Confisca def.,2/1995
