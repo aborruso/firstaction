@@ -8676,7 +8676,6 @@ I-MI-106159-S,immobili,Lombardia,Milano,Cuggiono,Terreno,Terreno - non definito,
 I-MI-106160-S,immobili,Lombardia,Milano,Cuggiono,Terreno,Terreno - non definito,,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-106161-S,immobili,Lombardia,Milano,Cuggiono,Terreno,Terreno - non definito,,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-106162-S,immobili,Lombardia,Milano,Cuggiono,Terreno,Terreno - non definito,Sequestro,0%,Procura della Repubblica,Milano,Procedimento Penale
-I-MI-10829-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-10830-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-10840-S,immobili,Lombardia,Milano,Cinisello Balsamo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-11499-S,immobili,Lombardia,Milano,Milano,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -8991,11 +8990,6 @@ I-MI-52589-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abit
 I-MI-52863-S,immobili,Lombardia,Milano,Bareggio,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-MI-53978-S,immobili,Lombardia,Milano,Cuggiono,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-54181-S,immobili,Lombardia,Milano,Legnano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Varese,Misure di Prevenzione
-I-MI-55975-S,immobili,Lombardia,Milano,Peschiera Borromeo,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-56008-S,immobili,Lombardia,Milano,Peschiera Borromeo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-56009-S,immobili,Lombardia,Milano,Peschiera Borromeo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-56010-S,immobili,Lombardia,Milano,Peschiera Borromeo,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-56011-S,immobili,Lombardia,Milano,Peschiera Borromeo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-56016-S,immobili,Lombardia,Milano,San Vittore Olona,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-56017-S,immobili,Lombardia,Milano,San Vittore Olona,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-56020-S,immobili,Lombardia,Milano,San Vittore Olona,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -14404,6 +14398,9 @@ I-PA-131714-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abi
 I-PA-131725-S,immobili,Sicilia,Palermo,Misilmeri,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-131726-S,immobili,Sicilia,Palermo,Misilmeri,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-131727-S,immobili,Sicilia,Palermo,Misilmeri,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-131840-S,immobili,Sicilia,Palermo,Altavilla Milicia,Altra unità immobiliare,Altro,,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-131841-S,immobili,Sicilia,Palermo,Altavilla Milicia,Terreno,Terreno - non definito,,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-131842-S,immobili,Sicilia,Palermo,Altavilla Milicia,Terreno,Terreno - non definito,,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-16017-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PA-18053-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-18137-S,immobili,Sicilia,Palermo,Ciminna,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
