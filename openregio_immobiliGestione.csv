@@ -8537,7 +8537,6 @@ I-ME-83041-S,immobili,Sicilia,Messina,Roccella Valdemone,Unità immobiliare per 
 I-ME-83492-S,immobili,Sicilia,Messina,Santa Lucia del Mela,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-83494-S,immobili,Sicilia,Messina,Santa Lucia del Mela,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-83495-S,immobili,Sicilia,Messina,Santa Lucia del Mela,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-83521-S,immobili,Sicilia,Messina,Taormina,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Procura della Repubblica,Messina,Procedimento Penale
 I-ME-84231-S,immobili,Sicilia,Messina,Roccella Valdemone,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84233-S,immobili,Sicilia,Messina,Roccella Valdemone,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-84394-S,immobili,Sicilia,Messina,Roccella Valdemone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
@@ -20232,6 +20231,7 @@ I-RM-13185-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e
 I-RM-13186-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-13187-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-13188-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-131882-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,75%,Tribunale,Roma,Misure di Prevenzione
 I-RM-13189-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-13192-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,50%,Tribunale,Roma,Misure di Prevenzione
 I-RM-13292-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -20415,8 +20415,8 @@ I-RM-49115-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerci
 I-RM-49118-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-50370-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,,Procura della Repubblica,Bologna,Procedimento Penale
 I-RM-50420-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-RM-51262-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,75%,Tribunale,Roma,Misure di Prevenzione
-I-RM-51263-S,immobili,Lazio,Roma,Roma,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-51262-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,75%,Tribunale,Roma,Misure di Prevenzione
+I-RM-51263-S,immobili,Lazio,Roma,Roma,Terreno,Terreno - non definito,Confisca def.,75%,Tribunale,Roma,Misure di Prevenzione
 I-RM-5147-S,immobili,Lazio,Roma,Velletri,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-5148-S,immobili,Lazio,Roma,Velletri,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-5149-S,immobili,Lazio,Roma,Velletri,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -20579,11 +20579,11 @@ I-RM-59493-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e
 I-RM-60634-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-6144-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Corte di Appello,Roma,Procedimento Penale
 I-RM-6145-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Corte di Appello,Roma,Procedimento Penale
-I-RM-6203-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,75%,Tribunale,Roma,Misure di Prevenzione
+I-RM-6203-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,75%,Tribunale,Roma,Misure di Prevenzione
 I-RM-6303-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,75%,Tribunale,Roma,Misure di Prevenzione
 I-RM-6304-S,immobili,Lazio,Roma,Roma,Terreno,Terreno - non definito,Confisca def.,75%,Tribunale,Roma,Misure di Prevenzione
 I-RM-63153-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-6316-S,immobili,Lazio,Roma,Roma,Terreno,Terreno edificabile,Confisca def.,75%,Tribunale,Roma,Misure di Prevenzione
+I-RM-6316-S,immobili,Lazio,Roma,Roma,Terreno,Terreno - non definito,Confisca def.,75%,Tribunale,Roma,Misure di Prevenzione
 I-RM-6495-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-6507-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-65114-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
