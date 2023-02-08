@@ -3002,9 +3002,9 @@ I-CE-97631-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Co
 I-CE-99751-S,immobili,Campania,Caserta,Pontelatone,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
 I-CE-99958-S,immobili,Campania,Caserta,Mondragone,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-99963-S,immobili,Campania,Caserta,Mondragone,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-CH-105458-S,immobili,Abruzzo,Chieti,Chieti,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,L'aquila,Misure di Prevenzione
-I-CH-105459-S,immobili,Abruzzo,Chieti,Chieti,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,L'aquila,Misure di Prevenzione
-I-CH-105462-S,immobili,Abruzzo,Chieti,Chieti,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,L'aquila,Misure di Prevenzione
+I-CH-105458-S,immobili,Abruzzo,Chieti,Chieti,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
+I-CH-105459-S,immobili,Abruzzo,Chieti,Chieti,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
+I-CH-105462-S,immobili,Abruzzo,Chieti,Chieti,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,L'aquila,Misure di Prevenzione
 I-CH-107733-S,immobili,Abruzzo,Chieti,Francavilla al Mare,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,L'aquila,Misure di Prevenzione
 I-CH-107734-S,immobili,Abruzzo,Chieti,Francavilla al Mare,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,L'aquila,Misure di Prevenzione
 I-CH-108429-S,immobili,Abruzzo,Chieti,Francavilla al Mare,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,L'aquila,Misure di Prevenzione
@@ -5934,8 +5934,6 @@ I-FI-23140-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare a destinazione 
 I-FI-23141-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 I-FI-23142-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 I-FI-75942-S,immobili,Toscana,Firenze,Campi Bisenzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
-I-FI-8221-S,immobili,Toscana,Firenze,Bagno a Ripoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
-I-FI-8222-S,immobili,Toscana,Firenze,Bagno a Ripoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 I-FI-86794-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Firenze,Misure di Prevenzione
 I-FI-86795-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,0%,Tribunale,Firenze,Misure di Prevenzione
 I-FI-86796-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,0%,Tribunale,Firenze,Misure di Prevenzione
@@ -8720,7 +8718,6 @@ I-MI-15743-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abit
 I-MI-16083-S,immobili,Lombardia,Milano,Basiglio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-16084-S,immobili,Lombardia,Milano,Basiglio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-16205-S,immobili,Lombardia,Milano,San Vittore Olona,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-16213-S,immobili,Lombardia,Milano,Pioltello,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-16396-S,immobili,Lombardia,Milano,San Donato Milanese,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-16549-S,immobili,Lombardia,Milano,Abbiategrasso,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-16550-S,immobili,Lombardia,Milano,Vermezzo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
@@ -23623,7 +23620,7 @@ I-TP-73140-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Con
 I-TP-73141-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-73142-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-73143-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-73384-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-73384-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,2%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-73385-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,20%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-73386-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,20%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-73389-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
