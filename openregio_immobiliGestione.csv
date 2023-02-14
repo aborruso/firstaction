@@ -14323,6 +14323,8 @@ I-PA-131841-S,immobili,Sicilia,Palermo,Altavilla Milicia,Terreno,Terreno - non d
 I-PA-131842-S,immobili,Sicilia,Palermo,Altavilla Milicia,Terreno,Terreno - non definito,,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-131919-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per alloggio e usi collettivi,"Scuola, Laboratorio Scientifico",,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-131927-S,immobili,Sicilia,Palermo,Bagheria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-131955-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-131956-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-16017-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PA-18053-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-18137-S,immobili,Sicilia,Palermo,Ciminna,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -17450,19 +17452,19 @@ I-PV-131035-S,immobili,Lombardia,Pavia,Cassolnovo,Unità immobiliare per uso di 
 I-PV-131400-S,immobili,Lombardia,Pavia,Val di Nizza,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Procedimento Penale
 I-PV-131401-S,immobili,Lombardia,Pavia,Val di Nizza,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Milano,Procedimento Penale
 I-PV-131402-S,immobili,Lombardia,Pavia,Val di Nizza,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Procedimento Penale
-I-PV-131503-S,immobili,Lombardia,Pavia,Vigevano,Altra unità immobiliare,Altro,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
-I-PV-131504-S,immobili,Lombardia,Pavia,Vigevano,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
-I-PV-131505-S,immobili,Lombardia,Pavia,Vigevano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
-I-PV-131506-S,immobili,Lombardia,Pavia,Vigevano,Altra unità immobiliare,Altro,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
-I-PV-131507-S,immobili,Lombardia,Pavia,Vigevano,Altra unità immobiliare,Altro,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
-I-PV-131508-S,immobili,Lombardia,Pavia,Gambolò,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
-I-PV-131509-S,immobili,Lombardia,Pavia,Vigevano,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
-I-PV-131510-S,immobili,Lombardia,Pavia,Vigevano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
-I-PV-131511-S,immobili,Lombardia,Pavia,Vigevano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
-I-PV-131512-S,immobili,Lombardia,Pavia,Vigevano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
-I-PV-131513-S,immobili,Lombardia,Pavia,Gambolò,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
-I-PV-131514-S,immobili,Lombardia,Pavia,Vigevano,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
-I-PV-131515-S,immobili,Lombardia,Pavia,Vigevano,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
+I-PV-131503-S,immobili,Lombardia,Pavia,Vigevano,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PV-131504-S,immobili,Lombardia,Pavia,Vigevano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PV-131505-S,immobili,Lombardia,Pavia,Vigevano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PV-131506-S,immobili,Lombardia,Pavia,Vigevano,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PV-131507-S,immobili,Lombardia,Pavia,Vigevano,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PV-131508-S,immobili,Lombardia,Pavia,Gambolò,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PV-131509-S,immobili,Lombardia,Pavia,Vigevano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PV-131510-S,immobili,Lombardia,Pavia,Vigevano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PV-131511-S,immobili,Lombardia,Pavia,Vigevano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PV-131512-S,immobili,Lombardia,Pavia,Vigevano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PV-131513-S,immobili,Lombardia,Pavia,Gambolò,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PV-131514-S,immobili,Lombardia,Pavia,Vigevano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PV-131515-S,immobili,Lombardia,Pavia,Vigevano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PV-16410-S,immobili,Lombardia,Pavia,Chignolo Po,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PV-16457-S,immobili,Lombardia,Pavia,Vigevano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PV-28163-S,immobili,Lombardia,Pavia,Brallo di Pregola,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -17496,7 +17498,6 @@ I-PV-76291-S,immobili,Lombardia,Pavia,Pavia,Terreno,Terreno - non definito,Rinvi
 I-PV-76292-S,immobili,Lombardia,Pavia,Pavia,Terreno,Terreno - non definito,Rinvio,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-PV-76293-S,immobili,Lombardia,Pavia,Pavia,Terreno,Terreno - non definito,Rinvio,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-PV-79616-S,immobili,Lombardia,Pavia,Torrevecchia Pia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-PV-82026-S,immobili,Lombardia,Pavia,Giussago,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PV-86957-S,immobili,Lombardia,Pavia,Landriano,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
 I-PV-86958-S,immobili,Lombardia,Pavia,Landriano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
 I-PV-86959-S,immobili,Lombardia,Pavia,Landriano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Sequ. parziale,100%,Procura della Repubblica,Milano,Procedimento Penale
