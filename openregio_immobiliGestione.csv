@@ -3118,14 +3118,6 @@ I-CH-88235-S,immobili,Abruzzo,Chieti,Vasto,Unità immobiliare per uso di abitazi
 I-CH-88236-S,immobili,Abruzzo,Chieti,Vasto,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Chieti,Misure di Prevenzione
 I-CI-100558-S,immobili,Sardegna,Carbonia-Iglesias,Sant'Antioco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Cagliari,Misure di Prevenzione
 I-CI-100604-S,immobili,Sardegna,Carbonia-Iglesias,Portoscuso,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Cagliari,Misure di Prevenzione
-I-CI-21058-S,immobili,Sardegna,Carbonia-Iglesias,Fluminimaggiore,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
-I-CI-21059-S,immobili,Sardegna,Carbonia-Iglesias,Fluminimaggiore,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
-I-CI-21060-S,immobili,Sardegna,Carbonia-Iglesias,Fluminimaggiore,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
-I-CI-21061-S,immobili,Sardegna,Carbonia-Iglesias,Fluminimaggiore,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
-I-CI-21062-S,immobili,Sardegna,Carbonia-Iglesias,Fluminimaggiore,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
-I-CI-21063-S,immobili,Sardegna,Carbonia-Iglesias,Fluminimaggiore,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
-I-CI-21064-S,immobili,Sardegna,Carbonia-Iglesias,Fluminimaggiore,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
-I-CI-21067-S,immobili,Sardegna,Carbonia-Iglesias,Fluminimaggiore,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
 I-CI-21069-S,immobili,Sardegna,Carbonia-Iglesias,Fluminimaggiore,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
 I-CI-21070-S,immobili,Sardegna,Carbonia-Iglesias,Fluminimaggiore,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
 I-CI-21071-S,immobili,Sardegna,Carbonia-Iglesias,Fluminimaggiore,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
@@ -14302,8 +14294,8 @@ I-PA-130586-S,immobili,Sicilia,Palermo,Bolognetta,Terreno,Terreno agricolo,Confi
 I-PA-130587-S,immobili,Sicilia,Palermo,Polizzi Generosa,Altra unità immobiliare,Altro,Confisca def.,33%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-130588-S,immobili,Sicilia,Palermo,Bolognetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-130589-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-130857-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-130858-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Ex fabbricato rurale,,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-130857-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-130858-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Ex fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-131004-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-131006-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-131699-S,immobili,Sicilia,Palermo,Villafrati,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -23411,180 +23403,6 @@ I-TP-6880-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno - non definito,Conf
 I-TP-69093-S,immobili,Sicilia,Trapani,Mazara del Vallo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-69095-S,immobili,Sicilia,Trapani,Mazara del Vallo,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-69116-S,immobili,Sicilia,Trapani,Erice,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69347-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69348-S,immobili,Sicilia,Trapani,Mazara del Vallo,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69349-S,immobili,Sicilia,Trapani,Mazara del Vallo,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69350-S,immobili,Sicilia,Trapani,Mazara del Vallo,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69351-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69352-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69353-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69354-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69355-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69356-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69357-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69358-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69359-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69360-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69361-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69362-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69363-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69364-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69365-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69366-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69367-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69368-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69369-S,immobili,Sicilia,Trapani,Campobello di Mazara,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69370-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69382-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69386-S,immobili,Sicilia,Trapani,Castelvetrano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69387-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69388-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69389-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69390-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69391-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69392-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69393-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69394-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69395-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69396-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69397-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69398-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69399-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69400-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69401-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69402-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69403-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69404-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69405-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69406-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69407-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69408-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69409-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69410-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69411-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69412-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69413-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69414-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69415-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69416-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69417-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69418-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69419-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69420-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69421-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69422-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69423-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69424-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69425-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69426-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69427-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69428-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69429-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69430-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69431-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69432-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69433-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69434-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69435-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69436-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69437-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69438-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69439-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69440-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69441-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69442-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69443-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69444-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69445-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69446-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69447-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69448-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69449-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69450-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69451-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69452-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69453-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69454-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69455-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69456-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69457-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69458-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69459-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69460-S,immobili,Sicilia,Trapani,Campobello di Mazara,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69461-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno con fabbricato rurale,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69462-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69463-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69464-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69465-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69466-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69467-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69468-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69469-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69470-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno con fabbricato rurale,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69471-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69472-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69473-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69474-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69475-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69476-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69477-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69478-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69479-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69480-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69481-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69482-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69483-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69484-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69485-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69486-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69487-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69488-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69489-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69490-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69491-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69492-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69493-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69494-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69495-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69496-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69497-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69498-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69499-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69500-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69501-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69502-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69503-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69504-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69505-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69506-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69507-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69508-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69509-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69510-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69511-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69512-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69513-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69514-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69515-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69516-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69517-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69518-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69519-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno con fabbricato rurale,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69520-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69521-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69522-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69523-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69524-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69525-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69526-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69527-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69528-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69529-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69530-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69531-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69532-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69533-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-69534-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-7052-S,immobili,Sicilia,Trapani,Poggioreale,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-TP-7053-S,immobili,Sicilia,Trapani,Poggioreale,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-TP-7054-S,immobili,Sicilia,Trapani,Poggioreale,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -23705,10 +23523,8 @@ I-TP-83865-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agric
 I-TP-83867-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-83868-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-83869-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-83874-S,immobili,Sicilia,Trapani,Castelvetrano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-83875-S,immobili,Sicilia,Trapani,Castelvetrano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,0%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-83892-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-83893-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,0%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-83893-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-84612-S,immobili,Sicilia,Trapani,Erice,Altra unità immobiliare,Altro,Confisca def.,50%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-84613-S,immobili,Sicilia,Trapani,Erice,Terreno,Terreno - non definito,Confisca def.,50%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-84614-S,immobili,Sicilia,Trapani,Trapani,Terreno,Terreno - non definito,Confisca def.,50%,Tribunale,Trapani,Misure di Prevenzione
@@ -23867,16 +23683,53 @@ I-TP-92943-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Con
 I-TP-92944-S,immobili,Sicilia,Trapani,Castelvetrano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,50%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-92947-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno con fabbricato rurale,Confisca def.,67%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-92948-S,immobili,Sicilia,Trapani,Castelvetrano,Altra unità immobiliare,Altro,Revoca Seq.,50%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93313-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93315-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93319-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93331-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93332-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93333-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-93334-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-93335-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93336-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93337-S,immobili,Sicilia,Trapani,Trapani,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93342-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93343-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93344-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93345-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93346-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-93347-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-93348-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-93349-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-93350-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-93351-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93352-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93353-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93354-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93355-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93356-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93357-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93358-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93359-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93360-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93361-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93362-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93363-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93364-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93365-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93366-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93367-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93368-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93369-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93370-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93371-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93372-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-93373-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-93491-S,immobili,Sicilia,Trapani,Castellammare del Golfo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-93493-S,immobili,Sicilia,Trapani,Castellammare del Golfo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-93494-S,immobili,Sicilia,Trapani,Castellammare del Golfo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-94934-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-94936-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-96458-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-96459-S,immobili,Sicilia,Trapani,Mazara del Vallo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,0%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-96461-S,immobili,Sicilia,Trapani,Mazara del Vallo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,0%,Tribunale,Trapani,Misure di Prevenzione
