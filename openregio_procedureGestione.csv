@@ -849,7 +849,6 @@ Campania,Procura della Repubblica,Napoli,Procedimento Penale,Sequestro,43894/201
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Sequestro,48244/2014
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,1/2018
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,125/2013
-Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,137/2001
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,156/2014
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,159/2016
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,165/2018
@@ -920,6 +919,7 @@ Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,134/2009
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,134/2012
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,135/2009
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,136/1999
+Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,137/2001
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,138/1999
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,139/2006
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,14/2005
@@ -1671,7 +1671,6 @@ Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca def.,50/2009
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca def.,57/2014
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca def.,57/2015
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca def.,6/2017
-Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca def.,60/2015
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca def.,60/2017
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca def.,62/2012
 Lazio,Tribunale,Roma,Misure di Prevenzione,Confisca def.,63/2012
@@ -1715,6 +1714,7 @@ Lazio,Tribunale,Roma,Misure di Prevenzione,Revoca Conf. parziale,27/2002
 Lazio,Tribunale,Roma,Misure di Prevenzione,Revoca Conf. parziale,29/2014
 Lazio,Tribunale,Roma,Misure di Prevenzione,Revoca Conf. parziale,5/2014
 Lazio,Tribunale,Roma,Misure di Prevenzione,Revoca Conf. parziale,58/1994
+Lazio,Tribunale,Roma,Misure di Prevenzione,Revoca Conf. parziale,60/2015
 Lazio,Tribunale,Roma,Misure di Prevenzione,Revoca Conf. parziale,92/2014
 Lazio,Tribunale,Roma,Misure di Prevenzione,Revoca Seq.,197/2020
 Lazio,Tribunale,Roma,Misure di Prevenzione,Revoca Sequ. parziale,250/2013
@@ -2077,6 +2077,7 @@ Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,44/2014
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,53/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,58/2020
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,73/2019
+Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,77/2021
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,87/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,89/2020
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,92/2020
@@ -2681,6 +2682,7 @@ Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,7/2012
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,70/2013
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,71/2013
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,73/2015
+Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,73/2018
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,74/2012
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,74/2014
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,75/2013
@@ -4470,7 +4472,6 @@ Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,42/2013
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,43/2012
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,44/2011
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,45/2014
-Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,46/2015
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,47/1997
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,47/2010
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Confisca def.,48/2010
@@ -4519,6 +4520,7 @@ Sicilia,Tribunale,Trapani,Misure di Prevenzione,Revoca Conf. parziale,10/2008
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Revoca Conf. parziale,13/2012
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Revoca Conf. parziale,26/2014
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Revoca Conf. parziale,44/2010
+Sicilia,Tribunale,Trapani,Misure di Prevenzione,Revoca Conf. parziale,46/2015
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Revoca Conf. parziale,50/2012
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Revoca Conf. parziale,63/2011
 Sicilia,Tribunale,Trapani,Misure di Prevenzione,Revoca Seq.,10/2018
