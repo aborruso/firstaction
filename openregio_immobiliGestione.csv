@@ -1548,9 +1548,9 @@ I-BS-81984-S,immobili,Lombardia,Brescia,Passirano,Unità immobiliare per uso di 
 I-BS-82983-S,immobili,Lombardia,Brescia,Marone,Altra unità immobiliare,Altro,,0%,Tribunale,Cremona,Misure di Prevenzione
 I-BS-89562-S,immobili,Lombardia,Brescia,Rovato,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-89564-S,immobili,Lombardia,Brescia,Rovato,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-BT-100260-S,immobili,Puglia,Barletta-Andria-Trani,Bisceglie,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
-I-BT-100261-S,immobili,Puglia,Barletta-Andria-Trani,Bisceglie,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
-I-BT-100264-S,immobili,Puglia,Barletta-Andria-Trani,Bisceglie,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
+I-BT-100260-S,immobili,Puglia,Barletta-Andria-Trani,Bisceglie,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
+I-BT-100261-S,immobili,Puglia,Barletta-Andria-Trani,Bisceglie,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
+I-BT-100264-S,immobili,Puglia,Barletta-Andria-Trani,Bisceglie,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 I-BT-12107-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-12108-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-12111-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
@@ -6600,6 +6600,7 @@ I-LE-82141-S,immobili,Puglia,Lecce,Cutrofiano,Terreno,Terreno agricolo,Confisca 
 I-LE-82142-S,immobili,Puglia,Lecce,Cutrofiano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Lecce,Procedimento Penale
 I-LE-82279-S,immobili,Puglia,Lecce,Aradeo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Lecce,Procedimento Penale
 I-LE-82280-S,immobili,Puglia,Lecce,Aradeo,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Procura della Repubblica,Lecce,Procedimento Penale
+I-LE-82281-S,immobili,Puglia,Lecce,Galatina,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Lecce,Procedimento Penale
 I-LE-82304-S,immobili,Puglia,Lecce,Cutrofiano,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Lecce,Procedimento Penale
 I-LE-82306-S,immobili,Puglia,Lecce,Cutrofiano,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Lecce,Procedimento Penale
 I-LE-82307-S,immobili,Puglia,Lecce,Cutrofiano,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Lecce,Procedimento Penale
@@ -8088,7 +8089,7 @@ I-ME-93224-S,immobili,Sicilia,Messina,Messina,Unità immobiliare per uso di abit
 I-ME-94983-S,immobili,Sicilia,Messina,Floresta,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-ME-95021-S,immobili,Sicilia,Messina,Patti,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-ME-95080-S,immobili,Sicilia,Messina,Floresta,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
-I-MI-100262-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-100262-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-100308-S,immobili,Lombardia,Milano,Bollate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-100309-S,immobili,Lombardia,Milano,Bollate,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-100414-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
@@ -8519,9 +8520,6 @@ I-MI-74260-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abit
 I-MI-74261-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Milano,Misure di Prevenzione
 I-MI-74262-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Tribunale,Milano,Misure di Prevenzione
 I-MI-74465-S,immobili,Lombardia,Milano,Trezzano sul Naviglio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Procedimento Penale
-I-MI-74466-S,immobili,Lombardia,Milano,Trezzano sul Naviglio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-74467-S,immobili,Lombardia,Milano,Trezzano sul Naviglio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-74468-S,immobili,Lombardia,Milano,Trezzano sul Naviglio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-75559-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
 I-MI-75561-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
 I-MI-75657-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
@@ -21799,10 +21797,7 @@ I-TP-55963-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno - non definito,Con
 I-TP-590-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-59561-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Procura della Repubblica,Trapani,Procedimento Penale
 I-TP-59562-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,50%,Procura della Repubblica,Trapani,Procedimento Penale
-I-TP-62071-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-62074-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno con fabbricato rurale,Confisca def.,0%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-62075-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-62077-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-62401-S,immobili,Sicilia,Trapani,Castelvetrano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,0%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-62402-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno edificabile,Confisca def.,50%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-62403-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno edificabile,Confisca def.,50%,Procura della Repubblica,Marsala,Procedimento Penale
@@ -22208,8 +22203,6 @@ I-TP-68386-S,immobili,Sicilia,Trapani,Custonaci,Terreno,Terreno agricolo,Confisc
 I-TP-68387-S,immobili,Sicilia,Trapani,Custonaci,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trapani,Procedimento Penale
 I-TP-6870-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-6871-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-6876-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno - non definito,Confisca def.,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-6877-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno - non definito,Confisca def.,0%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-6880-S,immobili,Sicilia,Trapani,Marsala,Terreno,Terreno - non definito,Confisca def.,0%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-69093-S,immobili,Sicilia,Trapani,Mazara del Vallo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-69095-S,immobili,Sicilia,Trapani,Mazara del Vallo,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
@@ -22461,7 +22454,6 @@ I-TP-93337-S,immobili,Sicilia,Trapani,Trapani,Unità immobiliare a destinazione 
 I-TP-93342-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-93343-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-93344-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-93345-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-93346-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-93347-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-93348-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
