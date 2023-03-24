@@ -8118,6 +8118,7 @@ I-MI-13170-S,immobili,Lombardia,Milano,Zibido San Giacomo,Terreno,Terreno agrico
 I-MI-13171-S,immobili,Lombardia,Milano,Zibido San Giacomo,Terreno,Terreno agricolo,Confisca def.,61%,Tribunale,Milano,Misure di Prevenzione
 I-MI-132082-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-132083-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-132085-S,immobili,Lombardia,Milano,Robecchetto con Induno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-13607-S,immobili,Lombardia,Milano,Lainate,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-13608-S,immobili,Lombardia,Milano,Lainate,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-13609-S,immobili,Lombardia,Milano,Lainate,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -8305,7 +8306,7 @@ I-MI-35303-S,immobili,Lombardia,Milano,Paderno Dugnano,Unità immobiliare per us
 I-MI-35476-S,immobili,Lombardia,Milano,Magnago,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-35717-S,immobili,Lombardia,Milano,San Donato Milanese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-35764-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MI-35817-S,immobili,Lombardia,Milano,Cuggiono,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-35817-S,immobili,Lombardia,Milano,Cuggiono,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-40269-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-MI-40759-S,immobili,Lombardia,Milano,Bareggio,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-MI-40849-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
@@ -8488,7 +8489,7 @@ I-MI-78056-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abit
 I-MI-78057-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-78058-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-78059-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-79116-S,immobili,Lombardia,Milano,Cuggiono,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-79116-S,immobili,Lombardia,Milano,Cuggiono,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-79117-S,immobili,Lombardia,Milano,Cuggiono,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-79118-S,immobili,Lombardia,Milano,Cuggiono,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-79120-S,immobili,Lombardia,Milano,Bernate Ticino,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -8500,9 +8501,8 @@ I-MI-79127-S,immobili,Lombardia,Milano,Castano Primo,Terreno,Terreno agricolo,Co
 I-MI-79128-S,immobili,Lombardia,Milano,Castano Primo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-79129-S,immobili,Lombardia,Milano,Robecchetto con Induno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-79132-S,immobili,Lombardia,Milano,Robecchetto con Induno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-79133-S,immobili,Lombardia,Milano,Robecchetto con Induno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-79134-S,immobili,Lombardia,Milano,Robecchetto con Induno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-79135-S,immobili,Lombardia,Milano,Robecchetto con Induno,Terreno,Terreno agricolo,Confisca def.,98%,Tribunale,Milano,Misure di Prevenzione
+I-MI-79133-S,immobili,Lombardia,Milano,Robecchetto con Induno,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-79135-S,immobili,Lombardia,Milano,Robecchetto con Induno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-79627-S,immobili,Lombardia,Milano,Binasco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
 I-MI-79628-S,immobili,Lombardia,Milano,Binasco,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
 I-MI-79930-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
