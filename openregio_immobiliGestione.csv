@@ -2026,6 +2026,8 @@ I-CE-12311-S,immobili,Campania,Caserta,Capua,Terreno,Terreno agricolo,Confisca d
 I-CE-1289-S,immobili,Campania,Caserta,Lusciano,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,33%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-1297-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Corte di Appello,Napoli,Misure di Prevenzione
 I-CE-1302-S,immobili,Campania,Caserta,Castel Volturno,Terreno,Terreno agricolo,Confisca def.,100%,Corte di Appello,Napoli,Misure di Prevenzione
+I-CE-132087-S,immobili,Campania,Caserta,Santa Maria la Fossa,Terreno,Terreno agricolo,Confisca def.,100%,Corte di Appello,Napoli,Procedimento Penale
+I-CE-132088-S,immobili,Campania,Caserta,Santa Maria la Fossa,Terreno,Terreno agricolo,Confisca def.,100%,Corte di Appello,Napoli,Procedimento Penale
 I-CE-18913-S,immobili,Campania,Caserta,San Cipriano d'Aversa,Terreno,Terreno agricolo,Confisca def.,50%,Procura della Repubblica,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-18916-S,immobili,Campania,Caserta,Casapesenna,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-18969-S,immobili,Campania,Caserta,San Cipriano d'Aversa,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -17469,8 +17471,6 @@ I-RC-69774-S,immobili,Calabria,Reggio Calabria,Taurianova,Terreno,Terreno - non 
 I-RC-69784-S,immobili,Calabria,Reggio Calabria,Taurianova,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-69787-S,immobili,Calabria,Reggio Calabria,Taurianova,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-70062-S,immobili,Calabria,Reggio Calabria,Rosarno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-71067-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-71068-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-7123-S,immobili,Calabria,Reggio Calabria,Bovalino,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 I-RC-71337-S,immobili,Calabria,Reggio Calabria,Caulonia,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-RC-71338-S,immobili,Calabria,Reggio Calabria,Caulonia,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
@@ -17510,12 +17510,6 @@ I-RC-71473-S,immobili,Calabria,Reggio Calabria,Melicuccà,Terreno,Terreno agrico
 I-RC-71474-S,immobili,Calabria,Reggio Calabria,Melicuccà,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-71475-S,immobili,Calabria,Reggio Calabria,Melicuccà,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-71476-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-71487-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-71488-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-71489-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-71490-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-71491-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-71492-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-71945-S,immobili,Calabria,Reggio Calabria,Roccella Ionica,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-71947-S,immobili,Calabria,Reggio Calabria,Siderno,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca I,33%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-71948-S,immobili,Calabria,Reggio Calabria,Siderno,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,33%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -17536,12 +17530,6 @@ I-RC-74889-S,immobili,Calabria,Reggio Calabria,San Ferdinando,Terreno,Terreno ag
 I-RC-74890-S,immobili,Calabria,Reggio Calabria,San Ferdinando,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-75240-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Terreno,Terreno edificabile,Confisca def.,50%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-75241-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-75362-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-75363-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-75364-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-75365-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-75366-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-75370-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-75479-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-75987-S,immobili,Calabria,Reggio Calabria,Placanica,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-75993-S,immobili,Calabria,Reggio Calabria,Stignano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
