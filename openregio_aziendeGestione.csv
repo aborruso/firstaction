@@ -116,7 +116,7 @@ A-AV-94140-S,aziende,Campania,Avellino,Taurano,Società a responsabilità limita
 A-AV-94949-S,aziende,Campania,Avellino,Montefusco,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,0%,Procura della Repubblica,Napoli,Procedimento Penale
 A-AV-97542-S,aziende,Campania,Avellino,Cervinara,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-BA-10114-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
-A-BA-101718-S,aziende,Puglia,Bari,Bari,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Tribunale,Bari,Misure di Prevenzione
+A-BA-101718-S,aziende,Puglia,Bari,Bari,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 A-BA-118485-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca II,100%,Tribunale,Lecce,Misure di Prevenzione
 A-BA-118525-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca II,100%,Tribunale,Lecce,Misure di Prevenzione
 A-BA-118798-S,aziende,Puglia,Bari,Molfetta,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
@@ -2134,6 +2134,8 @@ A-RC-12734-S,aziende,Calabria,Reggio Calabria,Rizziconi,Società a responsabilit
 A-RC-12735-S,aziende,Calabria,Reggio Calabria,Gioia Tauro,Consorzio,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,14%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-12870-S,aziende,Calabria,Reggio Calabria,Villa San Giovanni,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 A-RC-130890-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società a responsabilità limitata,Costruzioni,Confisca def.,50%,Tribunale,Reggio Calabria,Misure di Prevenzione
+A-RC-132131-S,aziende,Calabria,Reggio Calabria,Bovalino,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Revoca Seq.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+A-RC-132138-S,aziende,Calabria,Reggio Calabria,Sinopoli,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Sequestro,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-13291-S,aziende,Calabria,Reggio Calabria,Platì,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 A-RC-14043-S,aziende,Calabria,Reggio Calabria,Gioia Tauro,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,20%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-RC-15073-S,aziende,Calabria,Reggio Calabria,Reggio di Calabria,Società in nome collettivo,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
