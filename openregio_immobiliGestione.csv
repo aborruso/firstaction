@@ -6671,8 +6671,8 @@ I-LO-13371-S,immobili,Lombardia,Lodi,Tavazzano con Villavesco,Terreno,Terreno ag
 I-LO-21000-S,immobili,Lombardia,Lodi,Senna Lodigiana,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-LO-21001-S,immobili,Lombardia,Lodi,Ospedaletto Lodigiano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
 I-LO-21002-S,immobili,Lombardia,Lodi,Ospedaletto Lodigiano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Procura della Repubblica,Milano,Procedimento Penale
-I-LO-60504-S,immobili,Lombardia,Lodi,Crespiatica,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Como,Misure di Prevenzione
-I-LO-60505-S,immobili,Lombardia,Lodi,Crespiatica,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Como,Misure di Prevenzione
+I-LO-60504-S,immobili,Lombardia,Lodi,Crespiatica,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Como,Misure di Prevenzione
+I-LO-60505-S,immobili,Lombardia,Lodi,Crespiatica,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Como,Misure di Prevenzione
 I-LO-75950-S,immobili,Lombardia,Lodi,San Rocco al Porto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 I-LO-80043-S,immobili,Lombardia,Lodi,Sant'Angelo Lodigiano,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Lodi,Procedimento Penale
 I-LO-82980-S,immobili,Lombardia,Lodi,San Rocco al Porto,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
@@ -8113,6 +8113,7 @@ I-MI-13171-S,immobili,Lombardia,Milano,Zibido San Giacomo,Terreno,Terreno agrico
 I-MI-132082-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-132083-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-132085-S,immobili,Lombardia,Milano,Robecchetto con Induno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-1330-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Sequ. parziale,0%,Tribunale,Milano,Misure di Prevenzione
 I-MI-13607-S,immobili,Lombardia,Milano,Lainate,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-13608-S,immobili,Lombardia,Milano,Lainate,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-13609-S,immobili,Lombardia,Milano,Lainate,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -8328,6 +8329,7 @@ I-MI-44718-S,immobili,Lombardia,Milano,San Vittore Olona,Unità immobiliare per 
 I-MI-49892-S,immobili,Lombardia,Milano,Bresso,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-49916-S,immobili,Lombardia,Milano,Cinisello Balsamo,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-49924-S,immobili,Lombardia,Milano,Paderno Dugnano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-51350-S,immobili,Lombardia,Milano,Cusago,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-52051-S,immobili,Lombardia,Milano,Pozzo d'Adda,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-52052-S,immobili,Lombardia,Milano,Pozzo d'Adda,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-52053-S,immobili,Lombardia,Milano,Pozzo d'Adda,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -8336,6 +8338,7 @@ I-MI-52055-S,immobili,Lombardia,Milano,Pozzo d'Adda,Unità immobiliare a destina
 I-MI-52059-S,immobili,Lombardia,Milano,Pozzo d'Adda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-52060-S,immobili,Lombardia,Milano,Pozzo d'Adda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-52062-S,immobili,Lombardia,Milano,Pozzo d'Adda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-52078-S,immobili,Lombardia,Milano,Cusago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-52485-S,immobili,Lombardia,Milano,Cusago,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-52486-S,immobili,Lombardia,Milano,Cusago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-52487-S,immobili,Lombardia,Milano,Cusago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -20808,7 +20811,7 @@ I-TO-12284-S,immobili,Piemonte,Torino,Torino,Unità immobiliare a destinazione c
 I-TO-12290-S,immobili,Piemonte,Torino,Venaria Reale,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-131036-S,immobili,Piemonte,Torino,Torino,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
 I-TO-131146-S,immobili,Piemonte,Torino,Settimo Torinese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-I-TO-131147-S,immobili,Piemonte,Torino,Sangano,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Torino,Misure di Prevenzione
+I-TO-131147-S,immobili,Piemonte,Torino,Sangano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-131148-S,immobili,Piemonte,Torino,Sangano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-131149-S,immobili,Piemonte,Torino,Sangano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-131150-S,immobili,Piemonte,Torino,Sangano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
@@ -20855,10 +20858,10 @@ I-TO-16903-S,immobili,Piemonte,Torino,Villafranca Piemonte,Unità immobiliare a 
 I-TO-20444-S,immobili,Piemonte,Torino,Sant'Ambrogio di Torino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-21055-S,immobili,Piemonte,Torino,Chivasso,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Torino,Procedimento Penale
 I-TO-2345-S,immobili,Piemonte,Torino,Montalenghe,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-I-TO-2352-S,immobili,Piemonte,Torino,Montalenghe,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Impugnazione,100%,Tribunale,Torino,Misure di Prevenzione
-I-TO-2353-S,immobili,Piemonte,Torino,Montalenghe,Unità immobiliare per uso di abitazione e assimilabile,Villa,Impugnazione,100%,Tribunale,Torino,Misure di Prevenzione
-I-TO-2354-S,immobili,Piemonte,Torino,Montalenghe,Terreno,Terreno - non definito,Impugnazione,100%,Tribunale,Torino,Misure di Prevenzione
-I-TO-2355-S,immobili,Piemonte,Torino,Montalenghe,Terreno,Terreno agricolo,Impugnazione,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-2352-S,immobili,Piemonte,Torino,Montalenghe,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-2353-S,immobili,Piemonte,Torino,Montalenghe,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-2354-S,immobili,Piemonte,Torino,Montalenghe,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-2355-S,immobili,Piemonte,Torino,Montalenghe,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-24561-S,immobili,Piemonte,Torino,Torino,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
 I-TO-27166-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-27797-S,immobili,Piemonte,Torino,Bruino,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
@@ -20950,7 +20953,7 @@ I-TO-68965-S,immobili,Piemonte,Torino,Orbassano,Unità immobiliare per uso di ab
 I-TO-69106-S,immobili,Piemonte,Torino,San Carlo Canavese,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-69653-S,immobili,Piemonte,Torino,Prascorsano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-69660-S,immobili,Piemonte,Torino,San Giusto Canavese,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Procura della Repubblica,Torino,Procedimento Penale
-I-TO-70370-S,immobili,Piemonte,Torino,Montalenghe,Terreno,Terreno agricolo,Impugnazione,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-70370-S,immobili,Piemonte,Torino,Montalenghe,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-70372-S,immobili,Piemonte,Torino,Rivoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-70373-S,immobili,Piemonte,Torino,Rivoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-71155-S,immobili,Piemonte,Torino,Torino,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,0%,Tribunale,Torino,Misure di Prevenzione
@@ -22453,7 +22456,7 @@ I-VA-68584-S,immobili,Lombardia,Varese,Laveno-Mombello,Unità immobiliare per us
 I-VA-68585-S,immobili,Lombardia,Varese,Laveno-Mombello,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-VA-68586-S,immobili,Lombardia,Varese,Laveno-Mombello,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-VA-68587-S,immobili,Lombardia,Varese,Laveno-Mombello,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-VA-68588-S,immobili,Lombardia,Varese,Laveno-Mombello,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-VA-68588-S,immobili,Lombardia,Varese,Laveno-Mombello,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-VA-68589-S,immobili,Lombardia,Varese,Laveno-Mombello,Terreno,Terreno - non definito,,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-VA-68590-S,immobili,Lombardia,Varese,Laveno-Mombello,Terreno,Terreno - non definito,,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-VA-68591-S,immobili,Lombardia,Varese,Laveno-Mombello,Terreno,Terreno - non definito,,100%,Procura della Repubblica,Milano,Procedimento Penale
