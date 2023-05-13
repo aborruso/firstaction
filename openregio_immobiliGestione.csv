@@ -34,6 +34,10 @@ I-AG-108464-S,immobili,Sicilia,Agrigento,Naro,Unità immobiliare per uso di abit
 I-AG-11-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-12-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-13-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-132181-S,immobili,Sicilia,Agrigento,Agrigento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-132182-S,immobili,Sicilia,Agrigento,Agrigento,Terreno,Terreno agricolo,Confisca def.,99%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-132183-S,immobili,Sicilia,Agrigento,Agrigento,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-132184-S,immobili,Sicilia,Agrigento,Agrigento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-14-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-15-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-16-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
@@ -465,27 +469,27 @@ I-AG-97854-S,immobili,Sicilia,Agrigento,Sciacca,Terreno,Terreno agricolo,Confisc
 I-AG-99901-S,immobili,Sicilia,Agrigento,Raffadali,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-99902-S,immobili,Sicilia,Agrigento,Raffadali,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-99903-S,immobili,Sicilia,Agrigento,Raffadali,Terreno,Terreno - non definito,,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-99904-S,immobili,Sicilia,Agrigento,Agrigento,Altra unità immobiliare,Altro,,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-99905-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare per uso di abitazione e assimilabile,Altro,,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-99906-S,immobili,Sicilia,Agrigento,Agrigento,Terreno,Terreno - non definito,,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-99907-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare per uso di abitazione e assimilabile,Altro,,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-99908-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare per uso di abitazione e assimilabile,Altro,,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-99909-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare per uso di abitazione e assimilabile,Altro,,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-99910-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare per uso di abitazione e assimilabile,Altro,,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-99911-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare per uso di abitazione e assimilabile,Altro,,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-99912-S,immobili,Sicilia,Agrigento,Agrigento,Altra unità immobiliare,Altro,,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-99913-S,immobili,Sicilia,Agrigento,Agrigento,Altra unità immobiliare,Altro,,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-99914-S,immobili,Sicilia,Agrigento,Agrigento,Altra unità immobiliare,Altro,,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-99915-S,immobili,Sicilia,Agrigento,Agrigento,Altra unità immobiliare,Altro,,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-99916-S,immobili,Sicilia,Agrigento,Agrigento,Altra unità immobiliare,Altro,,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-99917-S,immobili,Sicilia,Agrigento,Agrigento,Altra unità immobiliare,Altro,,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-99918-S,immobili,Sicilia,Agrigento,Agrigento,Altra unità immobiliare,Altro,,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-99919-S,immobili,Sicilia,Agrigento,Agrigento,Altra unità immobiliare,Altro,,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-99920-S,immobili,Sicilia,Agrigento,Agrigento,Altra unità immobiliare,Altro,,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-99921-S,immobili,Sicilia,Agrigento,Agrigento,Altra unità immobiliare,Altro,,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-99922-S,immobili,Sicilia,Agrigento,Agrigento,Altra unità immobiliare,Altro,,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-99923-S,immobili,Sicilia,Agrigento,Agrigento,Altra unità immobiliare,Altro,,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-99924-S,immobili,Sicilia,Agrigento,Agrigento,Altra unità immobiliare,Altro,,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-99904-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-99905-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-99906-S,immobili,Sicilia,Agrigento,Agrigento,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-99907-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-99908-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-99909-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-99910-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-99911-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-99912-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-99913-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-99914-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-99915-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-99916-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-99917-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-99918-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-99919-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-99920-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-99921-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-99922-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-99923-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
+I-AG-99924-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-99925-S,immobili,Sicilia,Agrigento,Realmonte,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-99926-S,immobili,Sicilia,Agrigento,Raffadali,Terreno,Terreno edificabile,,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-99927-S,immobili,Sicilia,Agrigento,Raffadali,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
@@ -902,6 +906,7 @@ I-BA-12722-S,immobili,Puglia,Bari,Bitritto,Altra unità immobiliare,Altro,Confis
 I-BA-13074-S,immobili,Puglia,Bari,Bitonto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-131017-S,immobili,Puglia,Bari,Altamura,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-131018-S,immobili,Puglia,Bari,Altamura,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
+I-BA-132185-S,immobili,Puglia,Bari,Terlizzi,Unità immobiliare per uso di abitazione e assimilabile,Villa,Sequestro,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-13965-S,immobili,Puglia,Bari,Gravina in Puglia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-13966-S,immobili,Puglia,Bari,Gravina in Puglia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,20%,Tribunale,Bari,Misure di Prevenzione
 I-BA-14008-S,immobili,Puglia,Bari,Altamura,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
@@ -2947,7 +2952,7 @@ I-CL-100232-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agric
 I-CL-100233-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-100234-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-100236-S,immobili,Sicilia,Caltanissetta,Resuttano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-100237-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-100237-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-100246-S,immobili,Sicilia,Caltanissetta,Resuttano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-100247-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-100248-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -3282,7 +3287,7 @@ I-CL-63286-S,immobili,Sicilia,Caltanissetta,Sutera,Terreno,Terreno - non definit
 I-CL-63843-S,immobili,Sicilia,Caltanissetta,Gela,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-64149-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-64794-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-65163-S,immobili,Sicilia,Caltanissetta,Montedoro,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-65163-S,immobili,Sicilia,Caltanissetta,Montedoro,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-65165-S,immobili,Sicilia,Caltanissetta,Montedoro,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-65226-S,immobili,Sicilia,Caltanissetta,Montedoro,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-65234-S,immobili,Sicilia,Caltanissetta,Montedoro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -3417,7 +3422,7 @@ I-CL-71599-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agrico
 I-CL-71600-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71601-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,99%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71602-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71603-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71603-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71604-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71605-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71606-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -3582,10 +3587,10 @@ I-CL-81092-S,immobili,Sicilia,Caltanissetta,Serradifalco,Terreno,Terreno agricol
 I-CL-82422-S,immobili,Sicilia,Caltanissetta,Riesi,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-85703-S,immobili,Sicilia,Caltanissetta,Serradifalco,Terreno,Terreno con fabbricato rurale,Confisca def.,50%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-91252-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-91545-S,immobili,Sicilia,Caltanissetta,Gela,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-91546-S,immobili,Sicilia,Caltanissetta,Gela,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-91547-S,immobili,Sicilia,Caltanissetta,Gela,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-94728-S,immobili,Sicilia,Caltanissetta,Gela,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-91545-S,immobili,Sicilia,Caltanissetta,Gela,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-91546-S,immobili,Sicilia,Caltanissetta,Gela,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-91547-S,immobili,Sicilia,Caltanissetta,Gela,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-94728-S,immobili,Sicilia,Caltanissetta,Gela,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-96866-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-CL-96867-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-CL-96868-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Agrigento,Misure di Prevenzione
@@ -3922,6 +3927,7 @@ I-CR-78054-S,immobili,Lombardia,Cremona,Palazzo Pignano,Unità immobiliare a des
 I-CR-78061-S,immobili,Lombardia,Cremona,Bagnolo Cremasco,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-CR-78062-S,immobili,Lombardia,Cremona,Bagnolo Cremasco,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-CR-82754-S,immobili,Lombardia,Cremona,Palazzo Pignano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-CS-132207-S,immobili,Calabria,Cosenza,Rende,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CS-16210-S,immobili,Calabria,Cosenza,Mendicino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-CS-22258-S,immobili,Calabria,Cosenza,Rende,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-CS-25294-S,immobili,Calabria,Cosenza,Amantea,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,33%,Corte di Appello,Catanzaro,Misure di Prevenzione
@@ -5055,6 +5061,17 @@ I-CZ-130999-S,immobili,Calabria,Catanzaro,Soveria Mannelli,Altra unità immobili
 I-CZ-131000-S,immobili,Calabria,Catanzaro,Soveria Mannelli,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-131015-S,immobili,Calabria,Catanzaro,Guardavalle,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-131016-S,immobili,Calabria,Catanzaro,Guardavalle,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132198-S,immobili,Calabria,Catanzaro,Sellia Marina,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132199-S,immobili,Calabria,Catanzaro,Catanzaro,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Rinvio,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132200-S,immobili,Calabria,Catanzaro,Catanzaro,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132201-S,immobili,Calabria,Catanzaro,Catanzaro,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132202-S,immobili,Calabria,Catanzaro,Sellia Marina,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132203-S,immobili,Calabria,Catanzaro,Catanzaro,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132204-S,immobili,Calabria,Catanzaro,Catanzaro,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132205-S,immobili,Calabria,Catanzaro,Sellia Marina,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132206-S,immobili,Calabria,Catanzaro,Sellia Marina,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132208-S,immobili,Calabria,Catanzaro,Catanzaro,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,10%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132209-S,immobili,Calabria,Catanzaro,Squillace,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-15253-S,immobili,Calabria,Catanzaro,Guardavalle,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-15532-S,immobili,Calabria,Catanzaro,Lamezia Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-15533-S,immobili,Calabria,Catanzaro,Lamezia Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Tribunale,Catanzaro,Misure di Prevenzione
@@ -8012,7 +8029,7 @@ I-ME-95021-S,immobili,Sicilia,Messina,Patti,Terreno,Terreno agricolo,Confisca de
 I-ME-95080-S,immobili,Sicilia,Messina,Floresta,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-MI-100262-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-100308-S,immobili,Lombardia,Milano,Bollate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-100309-S,immobili,Lombardia,Milano,Bollate,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-100309-S,immobili,Lombardia,Milano,Bollate,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-100414-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-100507-S,immobili,Lombardia,Milano,Sedriano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-100516-S,immobili,Lombardia,Milano,Trezzano sul Naviglio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -13601,7 +13618,7 @@ I-PA-131726-S,immobili,Sicilia,Palermo,Misilmeri,Unità immobiliare per uso di a
 I-PA-131727-S,immobili,Sicilia,Palermo,Misilmeri,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-131840-S,immobili,Sicilia,Palermo,Altavilla Milicia,Altra unità immobiliare,Altro,,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-131841-S,immobili,Sicilia,Palermo,Altavilla Milicia,Terreno,Terreno - non definito,,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-131842-S,immobili,Sicilia,Palermo,Altavilla Milicia,Terreno,Terreno - non definito,,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-131842-S,immobili,Sicilia,Palermo,Altavilla Milicia,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-131919-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per alloggio e usi collettivi,"Scuola, Laboratorio Scientifico",,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-131927-S,immobili,Sicilia,Palermo,Bagheria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-131955-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -19473,6 +19490,8 @@ I-RM-82520-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e
 I-RM-82640-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-82645-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-82650-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-82655-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-82659-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-82672-S,immobili,Lazio,Roma,Anzio,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-82676-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-82686-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -19629,14 +19648,11 @@ I-RM-88870-S,immobili,Lazio,Roma,Cerveteri,Unità immobiliare per uso di abitazi
 I-RM-88872-S,immobili,Lazio,Roma,Cerveteri,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-88958-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-RM-89235-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-RM-89950-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-89964-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-89965-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-89977-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-89979-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-89985-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-89986-S,immobili,Lazio,Roma,Cerveteri,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-89988-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-89965-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-89977-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-89979-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-89985-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-89988-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-90061-S,immobili,Lazio,Roma,San Polo dei Cavalieri,Altra unità immobiliare,Altro,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-90099-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-90113-S,immobili,Lazio,Roma,San Polo dei Cavalieri,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
@@ -21385,8 +21401,6 @@ I-TP-38484-S,immobili,Sicilia,Trapani,Erice,Unità immobiliare a destinazione co
 I-TP-38485-S,immobili,Sicilia,Trapani,Erice,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-38486-S,immobili,Sicilia,Trapani,Erice,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-38487-S,immobili,Sicilia,Trapani,Erice,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38488-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38489-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-38500-S,immobili,Sicilia,Trapani,Custonaci,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-38501-S,immobili,Sicilia,Trapani,Custonaci,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-38502-S,immobili,Sicilia,Trapani,Custonaci,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
@@ -21396,26 +21410,6 @@ I-TP-38505-S,immobili,Sicilia,Trapani,Custonaci,Terreno,Terreno edificabile,Conf
 I-TP-38506-S,immobili,Sicilia,Trapani,Custonaci,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-38507-S,immobili,Sicilia,Trapani,Custonaci,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-38508-S,immobili,Sicilia,Trapani,Custonaci,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38509-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38510-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38511-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38512-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38513-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38514-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38515-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38516-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38517-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38518-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38519-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38520-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38522-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38523-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38525-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38526-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38527-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38528-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38531-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38532-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-38550-S,immobili,Sicilia,Trapani,Custonaci,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-38864-S,immobili,Sicilia,Trapani,San Vito Lo Capo,Terreno,Terreno edificabile,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-38865-S,immobili,Sicilia,Trapani,San Vito Lo Capo,Terreno,Terreno edificabile,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
@@ -21989,7 +21983,6 @@ I-TP-67847-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agric
 I-TP-67848-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-67849-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-67851-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno con fabbricato rurale,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-67852-S,immobili,Sicilia,Trapani,Valderice,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-67853-S,immobili,Sicilia,Trapani,Mazara del Vallo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-67854-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-68315-S,immobili,Sicilia,Trapani,Campobello di Mazara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
