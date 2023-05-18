@@ -1477,7 +1477,7 @@ I-BS-101417-S,immobili,Lombardia,Brescia,Lonato del Garda,Unità immobiliare per
 I-BS-14059-S,immobili,Lombardia,Brescia,Sirmione,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,55%,Tribunale,Verona,Misure di Prevenzione
 I-BS-14060-S,immobili,Lombardia,Brescia,Sirmione,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,54%,Tribunale,Verona,Misure di Prevenzione
 I-BS-22740-S,immobili,Lombardia,Brescia,Chiari,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-BS-22741-S,immobili,Lombardia,Brescia,Chiari,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-BS-22741-S,immobili,Lombardia,Brescia,Chiari,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BS-27451-S,immobili,Lombardia,Brescia,Bovegno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-27809-S,immobili,Lombardia,Brescia,Calcinato,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-29589-S,immobili,Lombardia,Brescia,Torbole Casaglia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Procura della Repubblica,Brescia,Procedimento Penale
@@ -1585,7 +1585,6 @@ I-BT-27207-S,immobili,Puglia,Barletta-Andria-Trani,Barletta,Unità immobiliare p
 I-BT-27208-S,immobili,Puglia,Barletta-Andria-Trani,Barletta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,66%,Corte di Appello,Bari,Misure di Prevenzione
 I-BT-36364-S,immobili,Puglia,Barletta-Andria-Trani,Barletta,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,50%,Procura della Repubblica,Bari,Procedimento Penale
 I-BT-36398-S,immobili,Puglia,Barletta-Andria-Trani,Canosa di Puglia,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Trani,Procedimento Penale
-I-BT-36399-S,immobili,Puglia,Barletta-Andria-Trani,Canosa di Puglia,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Trani,Procedimento Penale
 I-BT-36400-S,immobili,Puglia,Barletta-Andria-Trani,Canosa di Puglia,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-36403-S,immobili,Puglia,Barletta-Andria-Trani,Canosa di Puglia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-36404-S,immobili,Puglia,Barletta-Andria-Trani,Canosa di Puglia,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
@@ -2215,9 +2214,9 @@ I-CE-638-S,immobili,Campania,Caserta,Parete,Unità immobiliare per uso di abitaz
 I-CE-651-S,immobili,Campania,Caserta,Castel Volturno,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
 I-CE-68526-S,immobili,Campania,Caserta,San Nicola la Strada,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-CE-68603-S,immobili,Campania,Caserta,Casagiove,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-CE-68604-S,immobili,Campania,Caserta,San Nicola la Strada,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-CE-68604-S,immobili,Campania,Caserta,San Nicola la Strada,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-CE-68605-S,immobili,Campania,Caserta,San Nicola la Strada,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-CE-68606-S,immobili,Campania,Caserta,San Nicola la Strada,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-CE-68606-S,immobili,Campania,Caserta,San Nicola la Strada,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-CE-68607-S,immobili,Campania,Caserta,San Nicola la Strada,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-CE-68608-S,immobili,Campania,Caserta,San Nicola la Strada,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-CE-68609-S,immobili,Campania,Caserta,San Nicola la Strada,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -3386,16 +3385,16 @@ I-CL-70483-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agrico
 I-CL-70484-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-70485-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-70486-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-70488-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-70489-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-70634-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-70635-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-70636-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-70637-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-70638-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-70639-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-70488-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-70489-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-70634-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-70635-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-70636-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-70637-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-70638-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-70639-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-70640-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-70641-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-70641-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-70643-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-70644-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71533-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -3407,7 +3406,7 @@ I-CL-71547-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agrico
 I-CL-71548-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71549-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71550-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71551-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71551-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71552-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71553-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71554-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -3420,88 +3419,88 @@ I-CL-71580-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agrico
 I-CL-71581-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71582-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71583-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71584-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71584-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71585-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71586-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71587-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71586-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71587-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71588-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71589-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71590-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71591-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71592-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71593-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71594-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71589-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71590-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71591-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71592-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71593-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71594-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71595-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,97%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71596-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71597-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71598-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71599-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71600-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71596-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71597-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71598-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71599-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71600-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71601-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,99%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71602-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71602-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71603-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71604-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71605-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71606-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71607-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71618-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71619-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71620-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71621-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71622-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71623-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71625-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71628-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71629-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71630-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71631-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71634-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71636-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71637-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71638-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71639-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71604-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71605-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71606-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71607-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71618-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71619-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71620-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71621-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71622-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71623-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71625-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71628-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71629-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71630-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71631-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71634-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71636-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71637-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71638-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71639-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71640-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71641-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71641-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71642-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71643-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71644-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71645-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71646-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71647-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71648-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71650-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71651-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71652-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71653-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71654-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71655-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71671-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71672-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71673-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71674-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71675-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71676-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71677-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71643-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71644-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71645-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71646-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71647-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71648-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71650-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71651-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71652-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71653-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71654-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71655-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71671-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71672-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71673-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71674-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71675-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71676-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71677-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71678-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71679-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71680-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71681-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71687-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71688-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71679-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71680-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71681-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71687-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71688-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71689-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,99%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71690-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71690-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71691-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71692-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71692-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71693-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,98%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71694-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71695-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71696-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71697-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71698-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71699-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71700-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71701-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-71702-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71695-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71696-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71697-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71698-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71699-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71700-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71701-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-CL-71702-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71737-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71738-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-71739-S,immobili,Sicilia,Caltanissetta,Caltanissetta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -11271,7 +11270,7 @@ I-PA-119033-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abi
 I-PA-119037-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-119041-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-119042-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-119043-S,immobili,Sicilia,Palermo,Torretta,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-119043-S,immobili,Sicilia,Palermo,Torretta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-119044-S,immobili,Sicilia,Palermo,Torretta,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-119045-S,immobili,Sicilia,Palermo,Torretta,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-119046-S,immobili,Sicilia,Palermo,Torretta,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -13642,11 +13641,14 @@ I-PA-131956-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca
 I-PA-131963-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-131964-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132126-S,immobili,Sicilia,Palermo,Partinico,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-132127-S,immobili,Sicilia,Palermo,Partinico,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-132127-S,immobili,Sicilia,Palermo,Partinico,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132128-S,immobili,Sicilia,Palermo,Partinico,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132213-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132217-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-132225-S,immobili,Sicilia,Palermo,Santa Flavia,Terreno,Terreno agricolo,,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-132225-S,immobili,Sicilia,Palermo,Santa Flavia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-132235-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-132236-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Altro,,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-132237-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-16017-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PA-18053-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-18137-S,immobili,Sicilia,Palermo,Ciminna,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -15595,7 +15597,7 @@ I-PA-87078-S,immobili,Sicilia,Palermo,Bagheria,Unità immobiliare per uso di abi
 I-PA-87079-S,immobili,Sicilia,Palermo,Santa Flavia,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-87080-S,immobili,Sicilia,Palermo,Trabia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-87081-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-87082-S,immobili,Sicilia,Palermo,Bagheria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-87082-S,immobili,Sicilia,Palermo,Bagheria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-87083-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno edificabile,,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-87084-S,immobili,Sicilia,Palermo,Trabia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-87085-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,0%,Tribunale,Palermo,Misure di Prevenzione
@@ -17121,7 +17123,6 @@ I-RC-42181-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Unit�
 I-RC-4219-S,immobili,Calabria,Reggio Calabria,San Lorenzo,Terreno,Terreno agricolo,Confisca def.,100%,Corte di Appello,Messina,Procedimento Penale
 I-RC-4220-S,immobili,Calabria,Reggio Calabria,Condofuri,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Corte di Appello,Messina,Procedimento Penale
 I-RC-42215-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-42235-S,immobili,Calabria,Reggio Calabria,Molochio,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-42291-S,immobili,Calabria,Reggio Calabria,Molochio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-42302-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-42423-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -17329,8 +17330,6 @@ I-RC-43921-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Terre
 I-RC-43924-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43933-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43936-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43941-S,immobili,Calabria,Reggio Calabria,Molochio,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-43945-S,immobili,Calabria,Reggio Calabria,Molochio,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43946-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43950-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-43952-S,immobili,Calabria,Reggio Calabria,Santo Stefano in Aspromonte,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -17701,9 +17700,6 @@ I-RC-97712-S,immobili,Calabria,Reggio Calabria,Roccella Ionica,Unità immobiliar
 I-RC-97714-S,immobili,Calabria,Reggio Calabria,Roccella Ionica,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Sequestro,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-97715-S,immobili,Calabria,Reggio Calabria,Roccella Ionica,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-97718-S,immobili,Calabria,Reggio Calabria,Roccella Ionica,Terreno,Terreno agricolo,Sequestro,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-97873-S,immobili,Calabria,Reggio Calabria,Montebello Ionico,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-97879-S,immobili,Calabria,Reggio Calabria,Montebello Ionico,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-97881-S,immobili,Calabria,Reggio Calabria,Montebello Ionico,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-97992-S,immobili,Calabria,Reggio Calabria,Melicucco,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RC-98021-S,immobili,Calabria,Reggio Calabria,Polistena,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RC-9905-S,immobili,Calabria,Reggio Calabria,Platì,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
