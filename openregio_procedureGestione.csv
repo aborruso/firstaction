@@ -1750,7 +1750,6 @@ Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca I,25/2016
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca I,33/2021
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca II,10/2017
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca II,21/2019
-Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca II,30/2016
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca II,6/2021
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca def.,1/2014
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca def.,10/2018
@@ -1770,6 +1769,7 @@ Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca def.,5/2017
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca def.,7/2017
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca def.,7/2018
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca def.,7/2020
+Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca def. parziale,30/2016
 Liguria,Tribunale,Genova,Misure di Prevenzione,Revoca Conf.,20/2016
 Liguria,Tribunale,Genova,Misure di Prevenzione,Revoca Conf.,22/2016
 Liguria,Tribunale,Genova,Misure di Prevenzione,Revoca Conf.,3/2017
@@ -2374,6 +2374,8 @@ Lombardia,Tribunale,Milano,Misure di Prevenzione,Revoca Sequ. parziale,51/2015
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Rinvio,123/2011
 Lombardia,Tribunale,Milano,Procedimento Penale,Confisca I,51299/2011
 Lombardia,Tribunale,Milano,Procedimento Penale,Confisca def.,1858/1991
+Lombardia,Tribunale,Milano,Procedimento Penale,Confisca def.,29101/2022
+Lombardia,Tribunale,Milano,Procedimento Penale,Confisca def.,29101/2022
 Lombardia,Tribunale,Milano,Procedimento Penale,Confisca def.,41809/2019
 Lombardia,Tribunale,Milano,Procedimento Penale,Confisca def.,50780/2010
 Lombardia,Procura della Repubblica,Monza,Procedimento Penale,Confisca I,11/2015
@@ -3352,7 +3354,6 @@ Sicilia,Procura della Repubblica,Catania,Procedimento Penale,Confisca def.,9997/
 Sicilia,Procura della Repubblica,Catania,Procedimento Penale,Revoca Conf. parziale,13766/2002
 Sicilia,Procura della Repubblica,Catania,Procedimento Penale,Revoca Conf. parziale,3348/2006
 Sicilia,Tribunale,Catania,Misure di Prevenzione,Confisca I,171/2013
-Sicilia,Tribunale,Catania,Misure di Prevenzione,Confisca I,289/2009
 Sicilia,Tribunale,Catania,Misure di Prevenzione,Confisca I,34/2020
 Sicilia,Tribunale,Catania,Misure di Prevenzione,Confisca I,53/2017
 Sicilia,Tribunale,Catania,Misure di Prevenzione,Confisca I,76/2017
@@ -3500,6 +3501,7 @@ Sicilia,Tribunale,Catania,Misure di Prevenzione,Revoca Conf.,15/2016
 Sicilia,Tribunale,Catania,Misure di Prevenzione,Revoca Conf.,232/2000
 Sicilia,Tribunale,Catania,Misure di Prevenzione,Revoca Conf.,26/2015
 Sicilia,Tribunale,Catania,Misure di Prevenzione,Revoca Conf.,284/2013
+Sicilia,Tribunale,Catania,Misure di Prevenzione,Revoca Conf.,289/2009
 Sicilia,Tribunale,Catania,Misure di Prevenzione,Revoca Conf.,4/2013
 Sicilia,Tribunale,Catania,Misure di Prevenzione,Revoca Conf.,40/2018
 Sicilia,Tribunale,Catania,Misure di Prevenzione,Revoca Conf.,61/2015
@@ -4612,10 +4614,10 @@ Toscana,Tribunale,Prato,Misure di Prevenzione,Confisca def.,11/2011
 Toscana,Tribunale,Prato,Misure di Prevenzione,Confisca def.,11/2016
 Toscana,Tribunale,Prato,Misure di Prevenzione,Confisca def.,12/2011
 Toscana,Tribunale,Prato,Misure di Prevenzione,Confisca def.,13/2014
-Toscana,Tribunale,Prato,Misure di Prevenzione,Confisca def.,14/2016
 Toscana,Tribunale,Prato,Misure di Prevenzione,Confisca def.,3/2015
 Toscana,Tribunale,Prato,Misure di Prevenzione,Confisca def.,31/2011
 Toscana,Tribunale,Prato,Misure di Prevenzione,Confisca def.,6/2014
+Toscana,Tribunale,Prato,Misure di Prevenzione,Revoca Conf. parziale,14/2016
 Toscana,Tribunale,Prato,Misure di Prevenzione,Revoca Conf. parziale,8/2011
 Toscana,Tribunale,Siena,Misure di Prevenzione,Confisca def.,2/2013
 Trentino Alto Adige,Corte di Appello,Trento,Misure di Prevenzione,Confisca def.,1/2001
