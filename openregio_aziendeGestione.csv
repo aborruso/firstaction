@@ -120,6 +120,9 @@ A-BA-101718-S,aziende,Puglia,Bari,Bari,Impresa individuale,Alberghi e ristoranti
 A-BA-118485-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca II,100%,Tribunale,Lecce,Misure di Prevenzione
 A-BA-118525-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca II,100%,Tribunale,Lecce,Misure di Prevenzione
 A-BA-118798-S,aziende,Puglia,Bari,Molfetta,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
+A-BA-132308-S,aziende,Puglia,Bari,Bitonto,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
+A-BA-132321-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
+A-BA-132326-S,aziende,Puglia,Bari,Bitonto,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 A-BA-13401-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 A-BA-13414-S,aziende,Puglia,Bari,Triggiano,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 A-BA-13789-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,Sanità e assistenza sociale,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
@@ -1603,18 +1606,18 @@ A-PA-104047-S,aziende,Sicilia,Palermo,Palermo,Società in accomandita semplice,"
 A-PA-104051-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,67%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-104063-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-104565-S,aziende,Sicilia,Palermo,Ficarazzi,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-A-PA-104809-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-A-PA-104810-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-A-PA-104835-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-A-PA-104846-S,aziende,Sicilia,Palermo,Palermo,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-A-PA-104891-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-A-PA-104984-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-A-PA-104990-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-A-PA-104994-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-A-PA-105018-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-A-PA-105077-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-A-PA-105088-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-A-PA-105095-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+A-PA-104809-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Corte di Appello,Palermo,Misure di Prevenzione
+A-PA-104810-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Corte di Appello,Palermo,Misure di Prevenzione
+A-PA-104835-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Corte di Appello,Palermo,Misure di Prevenzione
+A-PA-104846-S,aziende,Sicilia,Palermo,Palermo,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Corte di Appello,Palermo,Misure di Prevenzione
+A-PA-104891-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Corte di Appello,Palermo,Misure di Prevenzione
+A-PA-104984-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Corte di Appello,Palermo,Misure di Prevenzione
+A-PA-104990-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Corte di Appello,Palermo,Misure di Prevenzione
+A-PA-104994-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Corte di Appello,Palermo,Misure di Prevenzione
+A-PA-105018-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Corte di Appello,Palermo,Misure di Prevenzione
+A-PA-105077-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Corte di Appello,Palermo,Misure di Prevenzione
+A-PA-105088-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Corte di Appello,Palermo,Misure di Prevenzione
+A-PA-105095-S,aziende,Sicilia,Palermo,Palermo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Corte di Appello,Palermo,Misure di Prevenzione
 A-PA-105452-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-105453-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 A-PA-106542-S,aziende,Sicilia,Palermo,Palermo,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -2836,6 +2839,7 @@ A-SP-82962-S,aziende,Liguria,La Spezia,La Spezia,Società a responsabilità limi
 A-SP-94468-S,aziende,Liguria,La Spezia,La Spezia,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,99%,Tribunale,La Spezia,Misure di Prevenzione
 A-SP-94501-S,aziende,Liguria,La Spezia,La Spezia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
 A-SR-104409-S,aziende,Sicilia,Siracusa,Augusta,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+A-SR-132306-S,aziende,Sicilia,Siracusa,Siracusa,Società cooperativa a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-SR-24570-S,aziende,Sicilia,Siracusa,Siracusa,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 A-SR-32169-S,aziende,Sicilia,Siracusa,Augusta,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-SR-54429-S,aziende,Sicilia,Siracusa,Augusta,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,45%,Tribunale,Siracusa,Misure di Prevenzione
