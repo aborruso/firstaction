@@ -1499,7 +1499,7 @@ I-BS-68011-S,immobili,Lombardia,Brescia,Pian Camuno,Terreno,Terreno agricolo,Con
 I-BS-68012-S,immobili,Lombardia,Brescia,Pian Camuno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
 I-BS-68013-S,immobili,Lombardia,Brescia,Pian Camuno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
 I-BS-68014-S,immobili,Lombardia,Brescia,Darfo Boario Terme,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
-I-BS-68015-S,immobili,Lombardia,Brescia,Pian Camuno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
+I-BS-68015-S,immobili,Lombardia,Brescia,Darfo Boario Terme,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
 I-BS-68016-S,immobili,Lombardia,Brescia,Pian Camuno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
 I-BS-68017-S,immobili,Lombardia,Brescia,Pian Camuno,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
 I-BS-68018-S,immobili,Lombardia,Brescia,Pian Camuno,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
@@ -2343,8 +2343,8 @@ I-CE-70280-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per us
 I-CE-70281-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70282-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70283-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70284-S,immobili,Campania,Caserta,Villa Literno,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-70288-S,immobili,Campania,Caserta,Villa Literno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-70284-S,immobili,Campania,Caserta,Villa Literno,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-70288-S,immobili,Campania,Caserta,Villa Literno,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70290-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70291-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-70293-S,immobili,Campania,Caserta,Villa Literno,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -2646,7 +2646,7 @@ I-CE-89303-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abi
 I-CE-89315-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,99%,Tribunale,Napoli,Misure di Prevenzione
 I-CE-89351-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,99%,Tribunale,Napoli,Misure di Prevenzione
 I-CE-89379-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,99%,Tribunale,Napoli,Misure di Prevenzione
-I-CE-89518-S,immobili,Campania,Caserta,Mondragone,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-89518-S,immobili,Campania,Caserta,Mondragone,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-90267-S,immobili,Campania,Caserta,Cesa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-CE-90279-S,immobili,Campania,Caserta,Cesa,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-CE-90517-S,immobili,Campania,Caserta,Parete,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -2797,7 +2797,7 @@ I-CE-97568-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare a desti
 I-CE-97569-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-97570-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-97571-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare per alloggio e usi collettivi,Fabbricato annesso a speciali esigenze commerciali,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-97572-S,immobili,Campania,Caserta,San Marcellino,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-97572-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-97575-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-97579-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-97580-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -2808,7 +2808,7 @@ I-CE-97593-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare per uso
 I-CE-97595-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-97596-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Rinvio,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-97598-S,immobili,Campania,Caserta,Trentola-Ducenta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-97600-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-97600-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-97601-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-97602-S,immobili,Campania,Caserta,Gricignano di Aversa,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-97606-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -4184,7 +4184,7 @@ I-CT-23418-S,immobili,Sicilia,Catania,Acireale,Unità immobiliare a destinazione
 I-CT-23419-S,immobili,Sicilia,Catania,Acireale,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Procura della Repubblica,Catania,Procedimento Penale
 I-CT-23420-S,immobili,Sicilia,Catania,Acireale,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Procura della Repubblica,Catania,Procedimento Penale
 I-CT-31302-S,immobili,Sicilia,Catania,Aci Castello,Unità immobiliare a destinazione commerciale e industriale,"Stabilimento balneare, Stabilimento di acque curative",Confisca def.,100%,Tribunale,Catania,Procedimento Penale
-I-CT-31705-S,immobili,Sicilia,Catania,Pedara,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-CT-31705-S,immobili,Sicilia,Catania,Pedara,Altra unità immobiliare,Ex fabbricato rurale,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-CT-32665-S,immobili,Sicilia,Catania,Motta Sant'Anastasia,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Corte di Appello,Palermo,Procedimento Penale
 I-CT-33056-S,immobili,Sicilia,Catania,Belpasso,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
 I-CT-36021-S,immobili,Sicilia,Catania,Catania,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
@@ -6274,7 +6274,7 @@ I-KR-89660-S,immobili,Calabria,Crotone,Mesoraca,Unità immobiliare per uso di ab
 I-KR-89661-S,immobili,Calabria,Crotone,Cutro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Brescia,Misure di Prevenzione
 I-KR-90320-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Terreno,Terreno con fabbricato rurale,Revoca Conf. parziale,0%,Tribunale,Crotone,Misure di Prevenzione
 I-KR-90321-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Terreno,Terreno con fabbricato rurale,,0%,Tribunale,Crotone,Misure di Prevenzione
-I-KR-90322-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,38%,Tribunale,Crotone,Misure di Prevenzione
+I-KR-90322-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Crotone,Misure di Prevenzione
 I-KR-90325-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Crotone,Misure di Prevenzione
 I-KR-90326-S,immobili,Calabria,Crotone,Isola di Capo Rizzuto,Terreno,Terreno con fabbricato rurale,,0%,Tribunale,Crotone,Misure di Prevenzione
 I-KR-94342-S,immobili,Calabria,Crotone,Cirò Marina,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
@@ -6746,8 +6746,8 @@ I-LO-83213-S,immobili,Lombardia,Lodi,Guardamiglio,Unità immobiliare per uso di 
 I-LO-83215-S,immobili,Lombardia,Lodi,Guardamiglio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 I-LO-83218-S,immobili,Lombardia,Lodi,Guardamiglio,Terreno,Terreno agricolo,Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
 I-LO-83220-S,immobili,Lombardia,Lodi,Guardamiglio,Terreno,Terreno - non definito,Sequestro,100%,Procura della Repubblica,Piacenza,Procedimento Penale
-I-LO-97755-S,immobili,Lombardia,Lodi,Lodi,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
-I-LO-97775-S,immobili,Lombardia,Lodi,Lodi,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
+I-LO-97755-S,immobili,Lombardia,Lodi,Lodi,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Bologna,Misure di Prevenzione
+I-LO-97775-S,immobili,Lombardia,Lodi,Lodi,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Bologna,Misure di Prevenzione
 I-LT-101142-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-101143-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-101144-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
@@ -8614,9 +8614,9 @@ I-MI-92434-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abit
 I-MI-92435-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-92436-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-95967-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Rinvio,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-MI-97751-S,immobili,Lombardia,Milano,Assago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
-I-MI-97752-S,immobili,Lombardia,Milano,Assago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
-I-MI-97753-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
+I-MI-97751-S,immobili,Lombardia,Milano,Assago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
+I-MI-97752-S,immobili,Lombardia,Milano,Assago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
+I-MI-97753-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
 I-MI-99772-S,immobili,Lombardia,Milano,Cusago,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-MN-106568-S,immobili,Lombardia,Mantova,Viadana,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
 I-MN-106582-S,immobili,Lombardia,Mantova,Suzzara,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
@@ -10399,14 +10399,14 @@ I-NA-96193-S,immobili,Campania,Napoli,Frattaminore,Unità immobiliare per uso di
 I-NA-96196-S,immobili,Campania,Napoli,Frattaminore,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97188-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97189-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97190-S,immobili,Campania,Napoli,Marano di Napoli,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97189-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97190-S,immobili,Campania,Napoli,Marano di Napoli,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97191-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97192-S,immobili,Campania,Napoli,Marano di Napoli,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97193-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97194-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97195-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97196-S,immobili,Campania,Napoli,Marano di Napoli,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97196-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97197-S,immobili,Campania,Napoli,Marano di Napoli,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97198-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97199-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -10425,13 +10425,13 @@ I-NA-97212-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per us
 I-NA-97213-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97214-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97215-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per alloggio e usi collettivi,Opificio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97217-S,immobili,Campania,Napoli,Marano di Napoli,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97217-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97218-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97219-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97220-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97221-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97222-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97223-S,immobili,Campania,Napoli,Marano di Napoli,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97223-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97224-S,immobili,Campania,Napoli,Marano di Napoli,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97225-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97226-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -10475,18 +10475,18 @@ I-NA-97263-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare a dest
 I-NA-97264-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97265-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97266-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97267-S,immobili,Campania,Napoli,Marano di Napoli,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97267-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97268-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97269-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97270-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97271-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97272-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97272-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97273-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97274-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97275-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97276-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97277-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97278-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97278-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97279-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97280-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97281-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -10501,22 +10501,22 @@ I-NA-97289-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per us
 I-NA-97290-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97291-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97292-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97293-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97293-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97294-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97295-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97296-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97297-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97298-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97299-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97300-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97300-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97301-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97302-S,immobili,Campania,Napoli,Marano di Napoli,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97304-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97305-S,immobili,Campania,Napoli,Napoli,Terreno,Terreno agricolo,Confisca def.,33%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97307-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97308-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97309-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97310-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97309-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97310-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97311-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97312-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97313-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -10553,18 +10553,18 @@ I-NA-97344-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abita
 I-NA-97345-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97346-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97347-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97348-S,immobili,Campania,Napoli,Marano di Napoli,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97348-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97350-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97351-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97352-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97353-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97354-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97355-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97356-S,immobili,Campania,Napoli,Marano di Napoli,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97356-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97357-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97358-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97359-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97360-S,immobili,Campania,Napoli,Marano di Napoli,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97360-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97361-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97362-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97363-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -10572,7 +10572,7 @@ I-NA-97364-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abita
 I-NA-97365-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97366-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97367-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97368-S,immobili,Campania,Napoli,Marano di Napoli,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97368-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97369-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97370-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97371-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -10581,12 +10581,12 @@ I-NA-97373-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abita
 I-NA-97374-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97375-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97376-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97377-S,immobili,Campania,Napoli,Marano di Napoli,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97377-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97378-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97379-S,immobili,Campania,Napoli,Marano di Napoli,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97381-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97382-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97383-S,immobili,Campania,Napoli,Marano di Napoli,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97383-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97386-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97387-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97388-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -10595,9 +10595,9 @@ I-NA-97390-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per us
 I-NA-97391-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97392-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97393-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97394-S,immobili,Campania,Napoli,Marano di Napoli,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97394-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97395-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97396-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97396-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97397-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97398-S,immobili,Campania,Napoli,Marano di Napoli,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97399-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -10606,9 +10606,9 @@ I-NA-97401-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per us
 I-NA-97402-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97403-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97404-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97406-S,immobili,Campania,Napoli,Marano di Napoli,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97406-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97407-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97408-S,immobili,Campania,Napoli,Marano di Napoli,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97408-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97410-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97411-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97412-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -10618,21 +10618,21 @@ I-NA-97417-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per us
 I-NA-97418-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97420-S,immobili,Campania,Napoli,Marano di Napoli,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97421-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97422-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97422-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97424-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97425-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97426-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97427-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97428-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97429-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97430-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97430-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97431-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97432-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97433-S,immobili,Campania,Napoli,Marano di Napoli,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97433-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97434-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97436-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97437-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97439-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97439-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-9744-S,immobili,Campania,Napoli,Trecase,Terreno,Terreno - non definito,Confisca def.,20%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97440-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97441-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -10655,7 +10655,7 @@ I-NA-97457-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per u
 I-NA-97458-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97459-S,immobili,Campania,Napoli,Marano di Napoli,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-9746-S,immobili,Campania,Napoli,Trecase,Terreno,Terreno agricolo,Confisca def.,20%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-97460-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-97460-S,immobili,Campania,Napoli,Mugnano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97461-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97462-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-97463-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -13692,6 +13692,9 @@ I-PA-132329-S,immobili,Sicilia,Palermo,Altavilla Milicia,Altra unità immobiliar
 I-PA-132330-S,immobili,Sicilia,Palermo,Altavilla Milicia,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132365-S,immobili,Sicilia,Palermo,Altofonte,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132366-S,immobili,Sicilia,Palermo,Altofonte,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-132373-S,immobili,Sicilia,Palermo,Monreale,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-132374-S,immobili,Sicilia,Palermo,Monreale,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-132377-S,immobili,Sicilia,Palermo,Monreale,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-16017-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PA-18053-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-18137-S,immobili,Sicilia,Palermo,Ciminna,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -19930,11 +19933,11 @@ I-RN-84824-S,immobili,Emilia Romagna,Rimini,Rimini,Unità immobiliare per uso di
 I-RN-85040-S,immobili,Emilia Romagna,Rimini,Rimini,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Rimini,Misure di Prevenzione
 I-RN-9365-S,immobili,Emilia Romagna,Rimini,Rimini,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-RN-9366-S,immobili,Emilia Romagna,Rimini,Rimini,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
-I-RN-97757-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
-I-RN-97758-S,immobili,Emilia Romagna,Rimini,San Clemente,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
-I-RN-97759-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
-I-RN-97771-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
-I-RN-97777-S,immobili,Emilia Romagna,Rimini,San Clemente,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
+I-RN-97757-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
+I-RN-97758-S,immobili,Emilia Romagna,Rimini,San Clemente,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
+I-RN-97759-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
+I-RN-97771-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
+I-RN-97777-S,immobili,Emilia Romagna,Rimini,San Clemente,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
 I-RO-1367-S,immobili,Veneto,Rovigo,Porto Tolle,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Rovigo,Misure di Prevenzione
 I-RO-86529-S,immobili,Veneto,Rovigo,Occhiobello,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Venezia,Misure di Prevenzione
 I-RO-86731-S,immobili,Veneto,Rovigo,Occhiobello,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Venezia,Misure di Prevenzione
@@ -19949,6 +19952,8 @@ I-SA-108316-S,immobili,Campania,Salerno,Sarno,Unità immobiliare per uso di abit
 I-SA-108317-S,immobili,Campania,Salerno,Sarno,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-119062-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-131928-S,immobili,Campania,Salerno,Nocera Inferiore,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Padova,Misure di Prevenzione
+I-SA-132378-S,immobili,Campania,Salerno,Eboli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-132379-S,immobili,Campania,Salerno,Eboli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-1357-S,immobili,Campania,Salerno,Pellezzano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-1358-S,immobili,Campania,Salerno,Salerno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-18243-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
@@ -19961,10 +19966,10 @@ I-SA-1954-S,immobili,Campania,Salerno,Eboli,Terreno,Terreno edificabile,Confisca
 I-SA-1955-S,immobili,Campania,Salerno,Eboli,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-1959-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,51%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-1963-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
-I-SA-1965-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
-I-SA-1966-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
-I-SA-1967-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
-I-SA-1968-S,immobili,Campania,Salerno,Battipaglia,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-1965-S,immobili,Campania,Salerno,Battipaglia,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-1966-S,immobili,Campania,Salerno,Battipaglia,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-1967-S,immobili,Campania,Salerno,Battipaglia,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-1968-S,immobili,Campania,Salerno,Battipaglia,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-1969-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per alloggio e usi collettivi,"Scuola, Laboratorio Scientifico",,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-1970-S,immobili,Campania,Salerno,Salerno,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-1972-S,immobili,Campania,Salerno,Battipaglia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
