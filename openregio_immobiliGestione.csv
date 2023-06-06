@@ -1310,7 +1310,7 @@ I-BO-132255-S,immobili,Emilia Romagna,Bologna,Granarolo dell'Emilia,Terreno,Terr
 I-BO-132260-S,immobili,Emilia Romagna,Bologna,Castiglione dei Pepoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
 I-BO-132261-S,immobili,Emilia Romagna,Bologna,Granarolo dell'Emilia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
 I-BO-132262-S,immobili,Emilia Romagna,Bologna,Granarolo dell'Emilia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
-I-BO-132263-S,immobili,Emilia Romagna,Bologna,Granarolo dell'Emilia,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
+I-BO-132263-S,immobili,Emilia Romagna,Bologna,Granarolo dell'Emilia,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
 I-BO-132264-S,immobili,Emilia Romagna,Bologna,Granarolo dell'Emilia,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
 I-BO-15718-S,immobili,Emilia Romagna,Bologna,Malalbergo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BO-15719-S,immobili,Emilia Romagna,Bologna,Malalbergo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -8426,7 +8426,7 @@ I-MI-64012-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abit
 I-MI-64015-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-64016-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-68531-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MI-68532-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-68532-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-68981-S,immobili,Lombardia,Milano,Marcallo con Casone,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-68982-S,immobili,Lombardia,Milano,Marcallo con Casone,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-68983-S,immobili,Lombardia,Milano,Marcallo con Casone,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -19273,8 +19273,8 @@ I-RM-4273-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e 
 I-RM-4308-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-4310-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-4311-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-4459-S,immobili,Lazio,Roma,Nettuno,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-4460-S,immobili,Lazio,Roma,Nettuno,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-4459-S,immobili,Lazio,Roma,Nettuno,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-4460-S,immobili,Lazio,Roma,Nettuno,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-4465-S,immobili,Lazio,Roma,Nettuno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-4466-S,immobili,Lazio,Roma,Nettuno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-4469-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -20262,7 +20262,7 @@ I-SA-95620-S,immobili,Campania,Salerno,Baronissi,Unità immobiliare per uso di a
 I-SA-95910-S,immobili,Campania,Salerno,Nocera Inferiore,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,50%,Procura della Repubblica,Salerno,Procedimento Penale
 I-SA-95911-S,immobili,Campania,Salerno,Nocera Inferiore,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Sequestro,50%,Procura della Repubblica,Salerno,Procedimento Penale
 I-SA-97748-S,immobili,Campania,Salerno,Padula,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,50%,Tribunale,Potenza,Misure di Prevenzione
-I-SA-98790-S,immobili,Campania,Salerno,Cava de' Tirreni,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-98790-S,immobili,Campania,Salerno,Cava de' Tirreni,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-98793-S,immobili,Campania,Salerno,Salerno,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-99797-S,immobili,Campania,Salerno,Pagani,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Corte di Appello,Salerno,Misure di Prevenzione
 I-SI-104805-S,immobili,Toscana,Siena,Monteroni d'Arbia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Corte di Appello,Palermo,Misure di Prevenzione
