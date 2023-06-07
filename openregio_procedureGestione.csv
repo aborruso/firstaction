@@ -6,11 +6,11 @@ Abruzzo,Tribunale,Chieti,Misure di Prevenzione,Confisca def.,2/2013
 Abruzzo,Tribunale,Chieti,Misure di Prevenzione,Confisca def.,4/2009
 Abruzzo,Tribunale,Chieti,Misure di Prevenzione,Confisca def.,7/2012
 Abruzzo,Tribunale,L'aquila,Misure di Prevenzione,Confisca I,24/2020
-Abruzzo,Tribunale,L'aquila,Misure di Prevenzione,Confisca II,11/2019
 Abruzzo,Tribunale,L'aquila,Misure di Prevenzione,Confisca II,26/2020
 Abruzzo,Tribunale,L'aquila,Misure di Prevenzione,Confisca def.,13/2020
 Abruzzo,Tribunale,L'aquila,Misure di Prevenzione,Confisca def.,5/2016
 Abruzzo,Tribunale,L'aquila,Misure di Prevenzione,Revoca Conf. parziale,3/2015
+Abruzzo,Tribunale,L'aquila,Misure di Prevenzione,Rinvio,11/2019
 Abruzzo,Procura della Repubblica,Lanciano,Procedimento Penale,Revoca Conf.,1138/2012
 Abruzzo,Procura della Repubblica,Pescara,Procedimento Penale,Confisca def.,10730/2006
 Abruzzo,Procura della Repubblica,Pescara,Procedimento Penale,Confisca def.,1421/2008
@@ -877,7 +877,6 @@ Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,67/2009
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,67/2009
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca I,73/2016
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca II,13/2015
-Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca II,132/2007
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca II,168/2020
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca II,2/2014
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca II,27/2015
@@ -918,6 +917,7 @@ Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,128/2014
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,129/2005
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,130/2004
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,131/2002
+Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,132/2007
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,134/1993
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,134/1999
 Campania,Tribunale,Napoli,Misure di Prevenzione,Confisca def.,134/1999
@@ -3338,7 +3338,6 @@ Sicilia,Corte di Appello,Catania,Misure di Prevenzione,Confisca def.,101/2009
 Sicilia,Corte di Appello,Catania,Procedimento Penale,Confisca def.,151/2009
 Sicilia,Corte di Appello,Catania,Procedimento Penale,Confisca def.,3029/2003
 Sicilia,Corte di Appello,Catania,Procedimento Penale,Rinvio,18/2009
-Sicilia,Procura della Repubblica,Catania,Procedimento Penale,Confisca I,9265/2009
 Sicilia,Procura della Repubblica,Catania,Procedimento Penale,Confisca def.,11319/2006
 Sicilia,Procura della Repubblica,Catania,Procedimento Penale,Confisca def.,12622/2005
 Sicilia,Procura della Repubblica,Catania,Procedimento Penale,Confisca def.,13224/2006
@@ -3357,6 +3356,7 @@ Sicilia,Procura della Repubblica,Catania,Procedimento Penale,Confisca def.,5670/
 Sicilia,Procura della Repubblica,Catania,Procedimento Penale,Confisca def.,6605/2004
 Sicilia,Procura della Repubblica,Catania,Procedimento Penale,Confisca def.,757/2011
 Sicilia,Procura della Repubblica,Catania,Procedimento Penale,Confisca def.,8218/2003
+Sicilia,Procura della Repubblica,Catania,Procedimento Penale,Confisca def.,9265/2009
 Sicilia,Procura della Repubblica,Catania,Procedimento Penale,Confisca def.,9997/2009
 Sicilia,Procura della Repubblica,Catania,Procedimento Penale,Revoca Conf. parziale,13766/2002
 Sicilia,Procura della Repubblica,Catania,Procedimento Penale,Revoca Conf. parziale,3348/2006
