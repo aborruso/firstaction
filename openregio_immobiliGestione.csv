@@ -3815,7 +3815,7 @@ I-CO-13070-S,immobili,Lombardia,Como,Lomazzo,Unità immobiliare per uso di abita
 I-CO-13071-S,immobili,Lombardia,Como,Lomazzo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-CO-13072-S,immobili,Lombardia,Como,Lomazzo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-CO-13073-S,immobili,Lombardia,Como,Lomazzo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-CO-15797-S,immobili,Lombardia,Como,Carlazzo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
+I-CO-15797-S,immobili,Lombardia,Como,Carlazzo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-CO-16146-S,immobili,Lombardia,Como,Mariano Comense,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Como,Misure di Prevenzione
 I-CO-29271-S,immobili,Lombardia,Como,Arosio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-CO-29827-S,immobili,Lombardia,Como,Erba,Terreno,Terreno agricolo,Confisca def.,50%,Procura della Repubblica,Lecco,Procedimento Penale
@@ -5060,6 +5060,10 @@ I-CZ-130999-S,immobili,Calabria,Catanzaro,Soveria Mannelli,Altra unità immobili
 I-CZ-131000-S,immobili,Calabria,Catanzaro,Soveria Mannelli,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-131015-S,immobili,Calabria,Catanzaro,Guardavalle,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-131016-S,immobili,Calabria,Catanzaro,Guardavalle,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132094-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132095-S,immobili,Calabria,Catanzaro,Satriano,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132096-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132099-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-132198-S,immobili,Calabria,Catanzaro,Sellia Marina,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-132199-S,immobili,Calabria,Catanzaro,Catanzaro,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Rinvio,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-132200-S,immobili,Calabria,Catanzaro,Catanzaro,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
@@ -5071,31 +5075,36 @@ I-CZ-132205-S,immobili,Calabria,Catanzaro,Sellia Marina,Unità immobiliare a des
 I-CZ-132206-S,immobili,Calabria,Catanzaro,Sellia Marina,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-132208-S,immobili,Calabria,Catanzaro,Catanzaro,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,10%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-132209-S,immobili,Calabria,Catanzaro,Squillace,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132387-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132388-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132389-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132390-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132391-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132392-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132393-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132394-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132395-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132396-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132397-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132398-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132399-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132400-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132401-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132402-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132403-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132404-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132405-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132406-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132407-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132408-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132409-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132410-S,immobili,Calabria,Catanzaro,Catanzaro,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
-I-CZ-132411-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132387-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132388-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132389-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132390-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132391-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132392-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132393-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132394-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132395-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132396-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132397-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132398-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132399-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132400-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132401-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132402-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132403-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132404-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132405-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132406-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132407-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132408-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132409-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132410-S,immobili,Calabria,Catanzaro,Catanzaro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132411-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132438-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132439-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132440-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132441-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
+I-CZ-132442-S,immobili,Calabria,Catanzaro,Satriano,Terreno,Terreno agricolo,,0%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-15253-S,immobili,Calabria,Catanzaro,Guardavalle,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-15532-S,immobili,Calabria,Catanzaro,Lamezia Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Tribunale,Catanzaro,Misure di Prevenzione
 I-CZ-15533-S,immobili,Calabria,Catanzaro,Lamezia Terme,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Tribunale,Catanzaro,Misure di Prevenzione
@@ -7210,7 +7219,7 @@ I-LU-118895-S,immobili,Toscana,Lucca,Lucca,Unità immobiliare per uso di abitazi
 I-LU-118917-S,immobili,Toscana,Lucca,Lucca,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
 I-LU-118921-S,immobili,Toscana,Lucca,Altopascio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
 I-LU-118925-S,immobili,Toscana,Lucca,Lucca,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
-I-LU-131428-S,immobili,Toscana,Lucca,Pietrasanta,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Venezia,Misure di Prevenzione
+I-LU-131428-S,immobili,Toscana,Lucca,Pietrasanta,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-LU-36226-S,immobili,Toscana,Lucca,Viareggio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Lucca,Misure di Prevenzione
 I-LU-59495-S,immobili,Toscana,Lucca,Viareggio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,32%,Tribunale,Lucca,Misure di Prevenzione
 I-LU-59496-S,immobili,Toscana,Lucca,Viareggio,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Lucca,Misure di Prevenzione
@@ -19149,7 +19158,6 @@ I-RM-15449-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e
 I-RM-17805-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-17806-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-17872-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-17883-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-17884-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-17885-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-17886-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -21396,15 +21404,11 @@ I-TP-21559-S,immobili,Sicilia,Trapani,Partanna,Unità immobiliare per uso di abi
 I-TP-21560-S,immobili,Sicilia,Trapani,Partanna,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-TP-21607-S,immobili,Sicilia,Trapani,Partanna,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-TP-22525-S,immobili,Sicilia,Trapani,Castelvetrano,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-23245-S,immobili,Sicilia,Trapani,Trapani,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-23246-S,immobili,Sicilia,Trapani,Trapani,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-23256-S,immobili,Sicilia,Trapani,Trapani,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-23257-S,immobili,Sicilia,Trapani,Trapani,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-23278-S,immobili,Sicilia,Trapani,Paceco,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-23279-S,immobili,Sicilia,Trapani,Paceco,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-23280-S,immobili,Sicilia,Trapani,Paceco,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-23281-S,immobili,Sicilia,Trapani,Trapani,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-23282-S,immobili,Sicilia,Trapani,Trapani,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-23293-S,immobili,Sicilia,Trapani,Paceco,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-23294-S,immobili,Sicilia,Trapani,Paceco,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-23305-S,immobili,Sicilia,Trapani,Trapani,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
@@ -21881,7 +21885,6 @@ I-TP-67071-S,immobili,Sicilia,Trapani,Mazara del Vallo,Terreno,Terreno - non def
 I-TP-67072-S,immobili,Sicilia,Trapani,Mazara del Vallo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-67073-S,immobili,Sicilia,Trapani,Mazara del Vallo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-67074-S,immobili,Sicilia,Trapani,Mazara del Vallo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-67075-S,immobili,Sicilia,Trapani,Mazara del Vallo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-67076-S,immobili,Sicilia,Trapani,Mazara del Vallo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-67077-S,immobili,Sicilia,Trapani,Mazara del Vallo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-67078-S,immobili,Sicilia,Trapani,Mazara del Vallo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Trapani,Misure di Prevenzione
