@@ -2832,11 +2832,11 @@ I-CE-97596-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare per uso
 I-CE-97598-S,immobili,Campania,Caserta,Trentola-Ducenta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-97600-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-97601-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-97602-S,immobili,Campania,Caserta,Gricignano di Aversa,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-97602-S,immobili,Campania,Caserta,Gricignano di Aversa,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-97606-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-97608-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-97609-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-97610-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-97610-S,immobili,Campania,Caserta,San Marcellino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-97613-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-97615-S,immobili,Campania,Caserta,Villa Literno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-97620-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -4312,6 +4312,9 @@ I-CT-64162-S,immobili,Sicilia,Catania,Aci Sant'Antonio,Altra unità immobiliare,
 I-CT-64163-S,immobili,Sicilia,Catania,Aci Sant'Antonio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-CT-64180-S,immobili,Sicilia,Catania,Aci Sant'Antonio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-CT-67154-S,immobili,Sicilia,Catania,San Pietro Clarenza,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-67169-S,immobili,Sicilia,Catania,Aci Sant'Antonio,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
+I-CT-67174-S,immobili,Sicilia,Catania,Aci Sant'Antonio,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
+I-CT-67185-S,immobili,Sicilia,Catania,Aci Sant'Antonio,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 I-CT-68217-S,immobili,Sicilia,Catania,Ramacca,Terreno,Terreno agricolo,Confisca def.,25%,Procura della Repubblica,Catania,Procedimento Penale
 I-CT-68219-S,immobili,Sicilia,Catania,Ramacca,Terreno,Terreno agricolo,Confisca def.,25%,Procura della Repubblica,Catania,Procedimento Penale
 I-CT-68297-S,immobili,Sicilia,Catania,Ramacca,Terreno,Terreno agricolo,Confisca def.,25%,Procura della Repubblica,Catania,Procedimento Penale
@@ -13765,6 +13768,7 @@ I-PA-132374-S,immobili,Sicilia,Palermo,Monreale,Unità immobiliare per uso di ab
 I-PA-132377-S,immobili,Sicilia,Palermo,Monreale,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132415-S,immobili,Sicilia,Palermo,Misilmeri,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132491-S,immobili,Sicilia,Palermo,Bagheria,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-132492-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-16017-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PA-18053-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-18137-S,immobili,Sicilia,Palermo,Ciminna,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -16285,12 +16289,9 @@ I-PG-75711-S,immobili,Umbria,Perugia,Spoleto,Terreno,Terreno agricolo,Confisca d
 I-PG-75712-S,immobili,Umbria,Perugia,Spoleto,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-PG-75713-S,immobili,Umbria,Perugia,Spoleto,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-PI-103439-S,immobili,Toscana,Pisa,Santa Croce sull'Arno,Unità immobiliare per alloggio e usi collettivi,Opificio,Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
-I-PI-131424-S,immobili,Toscana,Pisa,Santa Croce sull'Arno,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
-I-PI-131426-S,immobili,Toscana,Pisa,Santa Croce sull'Arno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-PI-131429-S,immobili,Toscana,Pisa,Santa Croce sull'Arno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-PI-131430-S,immobili,Toscana,Pisa,Santa Croce sull'Arno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-PI-131431-S,immobili,Toscana,Pisa,Santa Croce sull'Arno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
-I-PI-131432-S,immobili,Toscana,Pisa,Santa Croce sull'Arno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-PI-2599-S,immobili,Toscana,Pisa,Santa Maria a Monte,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
 I-PI-34863-S,immobili,Toscana,Pisa,Cascina,Terreno,Terreno agricolo,Confisca def.,12%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 I-PI-34864-S,immobili,Toscana,Pisa,Cascina,Terreno,Terreno agricolo,Confisca def.,12%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
