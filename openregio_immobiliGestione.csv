@@ -1193,7 +1193,7 @@ I-BI-92047-S,immobili,Piemonte,Biella,Piatto,Terreno,Terreno agricolo,,0%,Procur
 I-BI-92048-S,immobili,Piemonte,Biella,Piatto,Terreno,Terreno agricolo,,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-BI-92049-S,immobili,Piemonte,Biella,Piatto,Terreno,Terreno agricolo,,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-BI-92050-S,immobili,Piemonte,Biella,Piatto,Terreno,Terreno agricolo,,0%,Procura della Repubblica,Milano,Procedimento Penale
-I-BI-92051-S,immobili,Piemonte,Biella,Piatto,Terreno,Terreno agricolo,,0%,Procura della Repubblica,Milano,Procedimento Penale
+I-BI-92051-S,immobili,Piemonte,Biella,Piatto,Terreno,Terreno agricolo,Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-BI-93497-S,immobili,Piemonte,Biella,Masserano,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Novara,Misure di Prevenzione
 I-BI-93498-S,immobili,Piemonte,Biella,Masserano,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Novara,Misure di Prevenzione
 I-BI-93499-S,immobili,Piemonte,Biella,Masserano,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Novara,Misure di Prevenzione
@@ -11289,7 +11289,7 @@ I-PA-108189-S,immobili,Sicilia,Palermo,Castronovo di Sicilia,Terreno,Terreno agr
 I-PA-108190-S,immobili,Sicilia,Palermo,Castronovo di Sicilia,Terreno,Terreno agricolo,Confisca def.,20%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-108194-S,immobili,Sicilia,Palermo,Castronovo di Sicilia,Terreno,Terreno con fabbricato rurale,Confisca def.,20%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-108315-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-108321-S,immobili,Sicilia,Palermo,Bagheria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-108321-S,immobili,Sicilia,Palermo,Bagheria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-108322-S,immobili,Sicilia,Palermo,Bagheria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-108323-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-108324-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,,0%,Tribunale,Palermo,Misure di Prevenzione
@@ -13724,6 +13724,9 @@ I-PA-132377-S,immobili,Sicilia,Palermo,Monreale,Terreno,Terreno con fabbricato r
 I-PA-132415-S,immobili,Sicilia,Palermo,Misilmeri,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132491-S,immobili,Sicilia,Palermo,Bagheria,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132492-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-132500-S,immobili,Sicilia,Palermo,Carini,Terreno,Terreno con fabbricato rurale,,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-132501-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-132502-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-16017-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PA-18053-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-18137-S,immobili,Sicilia,Palermo,Ciminna,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -21441,12 +21444,6 @@ I-TP-38308-S,immobili,Sicilia,Trapani,Erice,Unità immobiliare a destinazione co
 I-TP-38310-S,immobili,Sicilia,Trapani,Erice,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-38415-S,immobili,Sicilia,Trapani,Custonaci,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-38418-S,immobili,Sicilia,Trapani,Custonaci,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38419-S,immobili,Sicilia,Trapani,Custonaci,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38423-S,immobili,Sicilia,Trapani,Custonaci,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38426-S,immobili,Sicilia,Trapani,Custonaci,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38428-S,immobili,Sicilia,Trapani,Custonaci,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38429-S,immobili,Sicilia,Trapani,Custonaci,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-38431-S,immobili,Sicilia,Trapani,Custonaci,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-38433-S,immobili,Sicilia,Trapani,Custonaci,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-38456-S,immobili,Sicilia,Trapani,Custonaci,Altra unità immobiliare,Ex fabbricato rurale,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-38458-S,immobili,Sicilia,Trapani,Custonaci,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
