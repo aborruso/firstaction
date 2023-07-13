@@ -1618,8 +1618,8 @@ I-CA-100986-S,immobili,Sardegna,Cagliari,Sestu,Terreno,Terreno agricolo,Confisca
 I-CA-100987-S,immobili,Sardegna,Cagliari,Sestu,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Cagliari,Misure di Prevenzione
 I-CA-100988-S,immobili,Sardegna,Cagliari,Sestu,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Cagliari,Misure di Prevenzione
 I-CA-100989-S,immobili,Sardegna,Cagliari,Pula,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Cagliari,Misure di Prevenzione
-I-CA-107726-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,0%,Corte di Appello,Cagliari,Misure di Prevenzione
-I-CA-107727-S,immobili,Sardegna,Cagliari,Quartu Sant'Elena,Terreno,Terreno - non definito,Confisca def.,0%,Corte di Appello,Cagliari,Misure di Prevenzione
+I-CA-107726-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Corte di Appello,Cagliari,Misure di Prevenzione
+I-CA-107727-S,immobili,Sardegna,Cagliari,Quartu Sant'Elena,Terreno,Terreno - non definito,Confisca def.,100%,Corte di Appello,Cagliari,Misure di Prevenzione
 I-CA-108466-S,immobili,Sardegna,Cagliari,Villasimius,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Mondovì,Procedimento Penale
 I-CA-108467-S,immobili,Sardegna,Cagliari,Villasimius,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Mondovì,Procedimento Penale
 I-CA-108469-S,immobili,Sardegna,Cagliari,Villasimius,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Mondovì,Procedimento Penale
@@ -5679,7 +5679,7 @@ I-FR-52673-S,immobili,Lazio,Frosinone,Sora,Altra unità immobiliare,Fabbricato i
 I-FR-52701-S,immobili,Lazio,Frosinone,Castrocielo,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Frosinone,Misure di Prevenzione
 I-FR-52753-S,immobili,Lazio,Frosinone,Sora,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Frosinone,Misure di Prevenzione
 I-FR-52755-S,immobili,Lazio,Frosinone,Sora,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Frosinone,Misure di Prevenzione
-I-FR-52758-S,immobili,Lazio,Frosinone,Sora,Terreno,Terreno agricolo,Confisca def.,98%,Tribunale,Frosinone,Misure di Prevenzione
+I-FR-52758-S,immobili,Lazio,Frosinone,Sora,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Frosinone,Misure di Prevenzione
 I-FR-52783-S,immobili,Lazio,Frosinone,Sora,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Frosinone,Misure di Prevenzione
 I-FR-52788-S,immobili,Lazio,Frosinone,Sora,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Frosinone,Misure di Prevenzione
 I-FR-52795-S,immobili,Lazio,Frosinone,Arpino,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Frosinone,Misure di Prevenzione
