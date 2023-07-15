@@ -1688,7 +1688,7 @@ I-CA-94753-S,immobili,Sardegna,Cagliari,Capoterra,Unità immobiliare per uso di 
 I-CA-94754-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Rinvio,100%,Tribunale,Cagliari,Misure di Prevenzione
 I-CA-94755-S,immobili,Sardegna,Cagliari,Cagliari,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Cagliari,Misure di Prevenzione
 I-CB-10842-S,immobili,Molise,Campobasso,Campomarino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-CB-85046-S,immobili,Molise,Campobasso,Tufara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Rimini,Misure di Prevenzione
+I-CB-85046-S,immobili,Molise,Campobasso,Tufara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Rimini,Misure di Prevenzione
 I-CE-101068-S,immobili,Campania,Caserta,Casapulla,Unità immobiliare a destinazione commerciale e industriale,Fabbricato/Locale per esercizi sportivi,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-101069-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-101070-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -8546,10 +8546,10 @@ I-MI-83550-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abit
 I-MI-83551-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-83552-S,immobili,Lombardia,Milano,Milano,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-84822-S,immobili,Lombardia,Milano,Rozzano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MI-85041-S,immobili,Lombardia,Milano,Assago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Rimini,Misure di Prevenzione
-I-MI-85043-S,immobili,Lombardia,Milano,Cesano Boscone,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Rimini,Misure di Prevenzione
-I-MI-85044-S,immobili,Lombardia,Milano,Cesano Boscone,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Rimini,Misure di Prevenzione
-I-MI-85045-S,immobili,Lombardia,Milano,Segrate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Rimini,Misure di Prevenzione
+I-MI-85041-S,immobili,Lombardia,Milano,Assago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Rimini,Misure di Prevenzione
+I-MI-85043-S,immobili,Lombardia,Milano,Cesano Boscone,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Rimini,Misure di Prevenzione
+I-MI-85044-S,immobili,Lombardia,Milano,Cesano Boscone,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,17%,Tribunale,Rimini,Misure di Prevenzione
+I-MI-85045-S,immobili,Lombardia,Milano,Segrate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Rimini,Misure di Prevenzione
 I-MI-85537-S,immobili,Lombardia,Milano,Cormano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-85877-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-86467-S,immobili,Lombardia,Milano,Zelo Surrigone,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -10845,7 +10845,7 @@ I-OT-56326-S,immobili,Sardegna,Sassari,Palau,Unità immobiliare per uso di abita
 I-OT-56327-S,immobili,Sardegna,Sassari,Palau,Altra unità immobiliare,Altro,Confisca II,0%,Tribunale,Roma,Misure di Prevenzione
 I-OT-56328-S,immobili,Sardegna,Sassari,Palau,Altra unità immobiliare,Altro,Confisca II,0%,Tribunale,Roma,Misure di Prevenzione
 I-OT-56329-S,immobili,Sardegna,Sassari,Palau,Altra unità immobiliare,Altro,Confisca II,0%,Tribunale,Roma,Misure di Prevenzione
-I-OT-58338-S,immobili,Sardegna,Sassari,Olbia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Roma,Misure di Prevenzione
+I-OT-58338-S,immobili,Sardegna,Sassari,Olbia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-OT-58873-S,immobili,Sardegna,Sassari,Golfo Aranci,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Taranto,Procedimento Penale
 I-OT-78442-S,immobili,Sardegna,Sassari,Palau,Altra unità immobiliare,Altro,Confisca II,0%,Tribunale,Roma,Misure di Prevenzione
 I-OT-8001-S,immobili,Sardegna,Sassari,Olbia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
@@ -19821,8 +19821,8 @@ I-RN-49886-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso 
 I-RN-49887-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Rimini,Misure di Prevenzione
 I-RN-49909-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,,Tribunale,Rimini,Misure di Prevenzione
 I-RN-77864-S,immobili,Emilia Romagna,Rimini,Bellaria-Igea Marina,Terreno,Terreno - non definito,Confisca def.,50%,Tribunale,Cosenza,Misure di Prevenzione
-I-RN-84824-S,immobili,Emilia Romagna,Rimini,Rimini,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Rimini,Misure di Prevenzione
-I-RN-85040-S,immobili,Emilia Romagna,Rimini,Rimini,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Rimini,Misure di Prevenzione
+I-RN-84824-S,immobili,Emilia Romagna,Rimini,Rimini,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Rimini,Misure di Prevenzione
+I-RN-85040-S,immobili,Emilia Romagna,Rimini,Rimini,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Rimini,Misure di Prevenzione
 I-RN-9365-S,immobili,Emilia Romagna,Rimini,Rimini,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-RN-9366-S,immobili,Emilia Romagna,Rimini,Rimini,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-RN-97757-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
