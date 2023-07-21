@@ -8359,6 +8359,7 @@ I-MI-44718-S,immobili,Lombardia,Milano,San Vittore Olona,Unità immobiliare per 
 I-MI-49892-S,immobili,Lombardia,Milano,Bresso,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-49916-S,immobili,Lombardia,Milano,Cinisello Balsamo,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-49924-S,immobili,Lombardia,Milano,Paderno Dugnano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-50093-S,immobili,Lombardia,Milano,Cusago,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-51350-S,immobili,Lombardia,Milano,Cusago,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-52051-S,immobili,Lombardia,Milano,Pozzo d'Adda,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-52052-S,immobili,Lombardia,Milano,Pozzo d'Adda,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
@@ -8368,7 +8369,17 @@ I-MI-52055-S,immobili,Lombardia,Milano,Pozzo d'Adda,Unità immobiliare a destina
 I-MI-52059-S,immobili,Lombardia,Milano,Pozzo d'Adda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-52060-S,immobili,Lombardia,Milano,Pozzo d'Adda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-52062-S,immobili,Lombardia,Milano,Pozzo d'Adda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-52068-S,immobili,Lombardia,Milano,Cusago,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-52069-S,immobili,Lombardia,Milano,Cusago,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-52078-S,immobili,Lombardia,Milano,Cusago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-52080-S,immobili,Lombardia,Milano,Cusago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-52083-S,immobili,Lombardia,Milano,Cusago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-52084-S,immobili,Lombardia,Milano,Cusago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-52086-S,immobili,Lombardia,Milano,Cusago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-52088-S,immobili,Lombardia,Milano,Cusago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-52091-S,immobili,Lombardia,Milano,Cusago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-52113-S,immobili,Lombardia,Milano,Cusago,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MI-52118-S,immobili,Lombardia,Milano,Cusago,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-52485-S,immobili,Lombardia,Milano,Cusago,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-52486-S,immobili,Lombardia,Milano,Cusago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-52487-S,immobili,Lombardia,Milano,Cusago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -22487,7 +22498,7 @@ I-VV-44634-S,immobili,Calabria,Vibo Valentia,Pizzo,Terreno,Terreno - non definit
 I-VV-44635-S,immobili,Calabria,Vibo Valentia,Pizzo,Terreno,Terreno - non definito,Confisca II,,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-VV-44636-S,immobili,Calabria,Vibo Valentia,Pizzo,Terreno,Terreno - non definito,Confisca II,,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-VV-44637-S,immobili,Calabria,Vibo Valentia,Pizzo,Terreno,Terreno - non definito,Confisca II,,Procura della Repubblica,Catanzaro,Procedimento Penale
-I-VV-44638-S,immobili,Calabria,Vibo Valentia,Pizzo,Terreno,Terreno - non definito,Confisca II,,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-VV-44638-S,immobili,Calabria,Vibo Valentia,Pizzo,Terreno,Terreno - non definito,Confisca II,5%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-VV-44640-S,immobili,Calabria,Vibo Valentia,Pizzo,Terreno,Terreno - non definito,Confisca II,,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-VV-44641-S,immobili,Calabria,Vibo Valentia,Pizzo,Terreno,Terreno - non definito,Confisca II,,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-VV-44642-S,immobili,Calabria,Vibo Valentia,Pizzo,Terreno,Terreno - non definito,Confisca def.,30%,Procura della Repubblica,Catanzaro,Procedimento Penale
