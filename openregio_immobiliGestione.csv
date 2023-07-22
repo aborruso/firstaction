@@ -6800,6 +6800,7 @@ I-LT-131720-S,immobili,Lazio,Latina,Latina,Altra unità immobiliare,Altro,Confis
 I-LT-131724-S,immobili,Lazio,Latina,Latina,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-132360-S,immobili,Lazio,Latina,Formia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
 I-LT-132361-S,immobili,Lazio,Latina,Formia,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
+I-LT-132608-S,immobili,Lazio,Latina,Formia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-LT-13348-S,immobili,Lazio,Latina,Aprilia,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-13349-S,immobili,Lazio,Latina,Aprilia,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-13350-S,immobili,Lazio,Latina,Aprilia,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
@@ -9144,6 +9145,18 @@ I-NA-132383-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abit
 I-NA-132484-S,immobili,Campania,Napoli,Poggiomarino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-132486-S,immobili,Campania,Napoli,Poggiomarino,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-132488-S,immobili,Campania,Napoli,Poggiomarino,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-132588-S,immobili,Campania,Napoli,Afragola,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-132591-S,immobili,Campania,Napoli,Afragola,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-132592-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-132594-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-132596-S,immobili,Campania,Napoli,Afragola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-132598-S,immobili,Campania,Napoli,Afragola,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-132599-S,immobili,Campania,Napoli,Afragola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-132602-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-132604-S,immobili,Campania,Napoli,Afragola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-132606-S,immobili,Campania,Napoli,Afragola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-132607-S,immobili,Campania,Napoli,Casoria,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-132609-S,immobili,Campania,Napoli,Afragola,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-16181-S,immobili,Campania,Napoli,Castellammare di Stabia,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-16273-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-16274-S,immobili,Campania,Napoli,Caivano,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
@@ -16465,7 +16478,7 @@ I-PT-103327-S,immobili,Toscana,Pistoia,Montecatini-Terme,Altra unità immobiliar
 I-PT-103329-S,immobili,Toscana,Pistoia,Montecatini-Terme,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
 I-PT-103338-S,immobili,Toscana,Pistoia,Montecatini-Terme,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
 I-PT-103684-S,immobili,Toscana,Pistoia,Chiesina Uzzanese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
-I-PT-103692-S,immobili,Toscana,Pistoia,Chiesina Uzzanese,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
+I-PT-103692-S,immobili,Toscana,Pistoia,Chiesina Uzzanese,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 I-PT-103694-S,immobili,Toscana,Pistoia,Chiesina Uzzanese,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 I-PT-103696-S,immobili,Toscana,Pistoia,Pistoia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Firenze,Misure di Prevenzione
 I-PT-103697-S,immobili,Toscana,Pistoia,Pistoia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Firenze,Misure di Prevenzione
