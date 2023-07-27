@@ -1527,8 +1527,6 @@ I-BT-92034-S,immobili,Puglia,Barletta-Andria-Trani,Canosa di Puglia,Altra unità
 I-BT-92035-S,immobili,Puglia,Barletta-Andria-Trani,Canosa di Puglia,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-BT-92036-S,immobili,Puglia,Barletta-Andria-Trani,Canosa di Puglia,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-BT-92037-S,immobili,Puglia,Barletta-Andria-Trani,Canosa di Puglia,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,,0%,Procura della Repubblica,Milano,Procedimento Penale
-I-BT-9415-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-9416-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-95270-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per alloggio e usi collettivi,Fabbricato annesso a speciali esigenze commerciali,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-95271-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-95272-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per alloggio e usi collettivi,Opificio,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
@@ -15564,14 +15562,14 @@ I-PA-86632-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca 
 I-PA-86633-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-86976-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PA-87059-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-87078-S,immobili,Sicilia,Palermo,Bagheria,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-87078-S,immobili,Sicilia,Palermo,Bagheria,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-87079-S,immobili,Sicilia,Palermo,Santa Flavia,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-87080-S,immobili,Sicilia,Palermo,Trabia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-87080-S,immobili,Sicilia,Palermo,Trabia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-87081-S,immobili,Sicilia,Palermo,Bagheria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-87082-S,immobili,Sicilia,Palermo,Bagheria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-87083-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno edificabile,,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-87084-S,immobili,Sicilia,Palermo,Trabia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-87085-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-87083-S,immobili,Sicilia,Palermo,Trabia,Terreno,Terreno edificabile,Confisca def.,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-87084-S,immobili,Sicilia,Palermo,Trabia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-87085-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-87408-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-89538-S,immobili,Sicilia,Palermo,Altavilla Milicia,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-89539-S,immobili,Sicilia,Palermo,Altavilla Milicia,Altra unità immobiliare,Altro,Confisca def.,5%,Tribunale,Palermo,Misure di Prevenzione
