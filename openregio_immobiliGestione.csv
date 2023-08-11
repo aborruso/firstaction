@@ -1349,20 +1349,11 @@ I-BS-101394-S,immobili,Lombardia,Brescia,Lonato del Garda,Altra unità immobilia
 I-BS-101399-S,immobili,Lombardia,Brescia,Lonato del Garda,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-BS-101407-S,immobili,Lombardia,Brescia,Lonato del Garda,Altra unità immobiliare,Altro,Confisca II,2%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-BS-101417-S,immobili,Lombardia,Brescia,Lonato del Garda,Unità immobiliare per alloggio e usi collettivi,Opificio,Confisca II,2%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-BS-132352-S,immobili,Lombardia,Brescia,Chiari,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-BS-132353-S,immobili,Lombardia,Brescia,Chiari,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-BS-132354-S,immobili,Lombardia,Brescia,Chiari,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-BS-132355-S,immobili,Lombardia,Brescia,Chiari,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-BS-132356-S,immobili,Lombardia,Brescia,Chiari,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-BS-132357-S,immobili,Lombardia,Brescia,Chiari,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-BS-132358-S,immobili,Lombardia,Brescia,Chiari,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BS-132359-S,immobili,Lombardia,Brescia,Chiari,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BS-132369-S,immobili,Lombardia,Brescia,Pian Camuno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
 I-BS-132370-S,immobili,Lombardia,Brescia,Pian Camuno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
 I-BS-14059-S,immobili,Lombardia,Brescia,Sirmione,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,55%,Tribunale,Verona,Misure di Prevenzione
 I-BS-14060-S,immobili,Lombardia,Brescia,Sirmione,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,54%,Tribunale,Verona,Misure di Prevenzione
-I-BS-22740-S,immobili,Lombardia,Brescia,Chiari,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-BS-22741-S,immobili,Lombardia,Brescia,Chiari,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BS-27451-S,immobili,Lombardia,Brescia,Bovegno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-27809-S,immobili,Lombardia,Brescia,Calcinato,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-29589-S,immobili,Lombardia,Brescia,Torbole Casaglia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Procura della Repubblica,Brescia,Procedimento Penale
@@ -5974,67 +5965,40 @@ I-GE-93149-S,immobili,Liguria,Genova,Lavagna,Unità immobiliare a destinazione c
 I-GE-93150-S,immobili,Liguria,Genova,Lavagna,Terreno,Terreno agricolo,Confisca II,100%,Procura della Repubblica,Genova,Procedimento Penale
 I-GE-93151-S,immobili,Liguria,Genova,Lavagna,Terreno,Terreno agricolo,Confisca II,100%,Procura della Repubblica,Genova,Procedimento Penale
 I-GO-64141-S,immobili,Friuli Venezia Giulia,Gorizia,Gorizia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Gorizia,Procedimento Penale
-I-GR-108243-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108244-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108245-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108246-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108247-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108248-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108249-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108250-S,immobili,Toscana,Grosseto,Semproniano,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108251-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108252-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108253-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108255-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108256-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108257-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108258-S,immobili,Toscana,Grosseto,Semproniano,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108260-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108261-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108262-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108263-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108264-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108265-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108266-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108267-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108268-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108270-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108271-S,immobili,Toscana,Grosseto,Semproniano,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108272-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108273-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108274-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108276-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108277-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108278-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108279-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108280-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108281-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108282-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108283-S,immobili,Toscana,Grosseto,Semproniano,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108284-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108285-S,immobili,Toscana,Grosseto,Semproniano,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108286-S,immobili,Toscana,Grosseto,Semproniano,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108288-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108289-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108290-S,immobili,Toscana,Grosseto,Semproniano,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108292-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108293-S,immobili,Toscana,Grosseto,Semproniano,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108294-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108295-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108296-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108297-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108298-S,immobili,Toscana,Grosseto,Semproniano,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108302-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108304-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108306-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108307-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108308-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108309-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108310-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108311-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-108312-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-108313-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-GR-132331-S,immobili,Toscana,Grosseto,Semproniano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-GR-32764-S,immobili,Toscana,Grosseto,Sorano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-GR-41813-S,immobili,Toscana,Grosseto,Sorano,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-GR-41814-S,immobili,Toscana,Grosseto,Sorano,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
@@ -8003,7 +7967,6 @@ I-MI-100507-S,immobili,Lombardia,Milano,Sedriano,Unità immobiliare per uso di a
 I-MI-100516-S,immobili,Lombardia,Milano,Trezzano sul Naviglio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-100520-S,immobili,Lombardia,Milano,Trezzano sul Naviglio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-100521-S,immobili,Lombardia,Milano,Sedriano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-10059-S,immobili,Lombardia,Milano,Milano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-100710-S,immobili,Lombardia,Milano,Milano,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-100711-S,immobili,Lombardia,Milano,Milano,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-100712-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
@@ -8478,8 +8441,6 @@ I-MI-79121-S,immobili,Lombardia,Milano,Bernate Ticino,Terreno,Terreno agricolo,C
 I-MI-79122-S,immobili,Lombardia,Milano,Bernate Ticino,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-79123-S,immobili,Lombardia,Milano,Boffalora sopra Ticino,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-79124-S,immobili,Lombardia,Milano,Cuggiono,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-79127-S,immobili,Lombardia,Milano,Castano Primo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-79128-S,immobili,Lombardia,Milano,Castano Primo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-79129-S,immobili,Lombardia,Milano,Robecchetto con Induno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-79132-S,immobili,Lombardia,Milano,Robecchetto con Induno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-79133-S,immobili,Lombardia,Milano,Robecchetto con Induno,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -10300,9 +10261,9 @@ I-NA-90303-S,immobili,Campania,Napoli,Torre del Greco,Unità immobiliare per uso
 I-NA-90308-S,immobili,Campania,Napoli,Torre del Greco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Rinvio,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-90309-S,immobili,Campania,Napoli,Torre del Greco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Rinvio,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-90319-S,immobili,Campania,Napoli,Torre del Greco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-90651-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-90652-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-NA-90653-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90651-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90652-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-90653-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-90887-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-NA-90888-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-NA-90889-S,immobili,Campania,Napoli,Giugliano in Campania,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
@@ -16445,7 +16406,7 @@ I-PT-51277-S,immobili,Toscana,Pistoia,Montecatini-Terme,Unità immobiliare per a
 I-PT-51278-S,immobili,Toscana,Pistoia,Montecatini-Terme,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-PT-59416-S,immobili,Toscana,Pistoia,Quarrata,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
 I-PT-6253-S,immobili,Toscana,Pistoia,Montecatini-Terme,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-I-PT-79572-S,immobili,Toscana,Pistoia,Chiesina Uzzanese,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Procura della Repubblica,Pistoia,Procedimento Penale
+I-PT-79572-S,immobili,Toscana,Pistoia,Chiesina Uzzanese,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Pistoia,Procedimento Penale
 I-PT-79573-S,immobili,Toscana,Pistoia,Chiesina Uzzanese,Terreno,Terreno agricolo,Confisca def.,0%,Procura della Repubblica,Pistoia,Procedimento Penale
 I-PT-79574-S,immobili,Toscana,Pistoia,Chiesina Uzzanese,Terreno,Terreno agricolo,Confisca def.,0%,Procura della Repubblica,Pistoia,Procedimento Penale
 I-PT-80232-S,immobili,Toscana,Pistoia,Pistoia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
