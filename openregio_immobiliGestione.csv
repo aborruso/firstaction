@@ -1352,6 +1352,9 @@ I-BS-101417-S,immobili,Lombardia,Brescia,Lonato del Garda,Unità immobiliare per
 I-BS-132359-S,immobili,Lombardia,Brescia,Chiari,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BS-132369-S,immobili,Lombardia,Brescia,Pian Camuno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
 I-BS-132370-S,immobili,Lombardia,Brescia,Pian Camuno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
+I-BS-132754-S,immobili,Lombardia,Brescia,Calcinato,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BS-132756-S,immobili,Lombardia,Brescia,Calcinato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BS-132760-S,immobili,Lombardia,Brescia,Calcinato,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-14059-S,immobili,Lombardia,Brescia,Sirmione,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,55%,Tribunale,Verona,Misure di Prevenzione
 I-BS-14060-S,immobili,Lombardia,Brescia,Sirmione,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,54%,Tribunale,Verona,Misure di Prevenzione
 I-BS-27451-S,immobili,Lombardia,Brescia,Bovegno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Procura della Repubblica,Brescia,Procedimento Penale
@@ -1410,7 +1413,7 @@ I-BS-73988-S,immobili,Lombardia,Brescia,Prestine,Unità immobiliare per uso di a
 I-BS-73989-S,immobili,Lombardia,Brescia,Prestine,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca I,100%,Tribunale,Cremona,Misure di Prevenzione
 I-BS-74016-S,immobili,Lombardia,Brescia,Marone,Altra unità immobiliare,Altro,Confisca I,100%,Tribunale,Cremona,Misure di Prevenzione
 I-BS-81273-S,immobili,Lombardia,Brescia,Calcinato,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-BS-81274-S,immobili,Lombardia,Brescia,Calcinato,Terreno,Terreno agricolo,Confisca def.,0%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BS-81274-S,immobili,Lombardia,Brescia,Calcinato,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-81277-S,immobili,Lombardia,Brescia,Calcinato,Terreno,Terreno agricolo,Confisca I,0%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-81280-S,immobili,Lombardia,Brescia,Calcinato,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-81281-S,immobili,Lombardia,Brescia,Calcinato,Terreno,Terreno agricolo,Confisca I,0%,Procura della Repubblica,Brescia,Procedimento Penale
@@ -1419,7 +1422,7 @@ I-BS-81284-S,immobili,Lombardia,Brescia,Calcinato,Terreno,Terreno agricolo,Confi
 I-BS-81286-S,immobili,Lombardia,Brescia,Calcinato,Terreno,Terreno agricolo,Confisca I,0%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-81969-S,immobili,Lombardia,Brescia,Palazzolo sull'Oglio,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-81971-S,immobili,Lombardia,Brescia,Palazzolo sull'Oglio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-BS-81974-S,immobili,Lombardia,Brescia,Palazzolo sull'Oglio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BS-81974-S,immobili,Lombardia,Brescia,Palazzolo sull'Oglio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-81975-S,immobili,Lombardia,Brescia,Palazzolo sull'Oglio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-81976-S,immobili,Lombardia,Brescia,Erbusco,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-81977-S,immobili,Lombardia,Brescia,Erbusco,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
@@ -22087,48 +22090,48 @@ I-VC-131961-S,immobili,Piemonte,Vercelli,Gattinara,Unità immobiliare per uso di
 I-VC-131962-S,immobili,Piemonte,Vercelli,Gattinara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-VC-16800-S,immobili,Piemonte,Vercelli,Varallo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-VC-33937-S,immobili,Piemonte,Vercelli,Livorno Ferraris,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-I-VC-68485-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68486-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68487-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68488-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68489-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68490-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68491-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68492-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68493-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68494-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68495-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68496-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68497-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68498-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68499-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68500-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68501-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68502-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68503-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68504-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68505-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68506-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68507-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68508-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68509-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68510-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68511-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68512-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68513-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68514-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68515-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68516-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68517-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68518-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68519-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68520-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68521-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68522-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68523-S,immobili,Piemonte,Vercelli,Arborio,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
-I-VC-68524-S,immobili,Piemonte,Vercelli,Arborio,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68485-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68486-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68487-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68488-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68489-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68490-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68491-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68492-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68493-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68494-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68495-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68496-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68497-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68498-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68499-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68500-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68501-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68502-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68503-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68504-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68505-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68506-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68507-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68508-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68509-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68510-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68511-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68512-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68513-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68514-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68515-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68516-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68517-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68518-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68519-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68520-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68521-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68522-S,immobili,Piemonte,Vercelli,Ghislarengo,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68523-S,immobili,Piemonte,Vercelli,Arborio,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-68524-S,immobili,Piemonte,Vercelli,Arborio,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-VC-71990-S,immobili,Piemonte,Vercelli,Livorno Ferraris,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-I-VC-86129-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,,0%,Procura della Repubblica,Brescia,Procedimento Penale
+I-VC-86129-S,immobili,Piemonte,Vercelli,Arborio,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-VC-93508-S,immobili,Piemonte,Vercelli,Vercelli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Novara,Misure di Prevenzione
 I-VE-100399-S,immobili,Veneto,Venezia,Venezia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VE-100400-S,immobili,Veneto,Venezia,Venezia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Venezia,Misure di Prevenzione
