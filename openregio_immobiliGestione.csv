@@ -5456,7 +5456,6 @@ I-FG-43343-S,immobili,Puglia,Foggia,Apricena,Terreno,Terreno - non definito,Conf
 I-FG-43345-S,immobili,Puglia,Foggia,Apricena,Terreno,Terreno - non definito,Confisca def.,50%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-43348-S,immobili,Puglia,Foggia,Apricena,Terreno,Terreno - non definito,Confisca def.,50%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-43541-S,immobili,Puglia,Foggia,Orta Nova,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-43637-S,immobili,Puglia,Foggia,San Nicandro Garganico,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-48137-S,immobili,Puglia,Foggia,San Nicandro Garganico,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-48222-S,immobili,Puglia,Foggia,Lucera,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-48224-S,immobili,Puglia,Foggia,Lucera,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
@@ -17862,6 +17861,8 @@ I-RI-103231-S,immobili,Lazio,Rieti,Scandriglia,Terreno,Terreno agricolo,Confisca
 I-RI-103237-S,immobili,Lazio,Rieti,Scandriglia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RI-103249-S,immobili,Lazio,Rieti,Scandriglia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RI-103267-S,immobili,Lazio,Rieti,Scandriglia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RI-80637-S,immobili,Lazio,Rieti,Antrodoco,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-RI-80638-S,immobili,Lazio,Rieti,Antrodoco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RI-95169-S,immobili,Lazio,Rieti,Leonessa,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-RI-95172-S,immobili,Lazio,Rieti,Leonessa,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-RM-101256-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
@@ -19291,7 +19292,13 @@ I-RM-79434-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerci
 I-RM-79598-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Napoli,Misure di Prevenzione
 I-RM-80569-S,immobili,Lazio,Roma,Roma,Terreno,Terreno - non definito,Confisca def.,25%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-RM-80570-S,immobili,Lazio,Roma,Roma,Terreno,Terreno - non definito,Confisca def.,50%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-RM-80588-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-RM-80589-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-RM-80609-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80610-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-RM-80611-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-RM-80634-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-RM-80636-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80690-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80691-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80692-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
@@ -19333,6 +19340,7 @@ I-RM-8237-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e 
 I-RM-82392-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-82395-S,immobili,Lazio,Roma,Roma,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-82396-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-RM-82404-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-82425-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-82431-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-8249-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -22250,6 +22258,21 @@ I-VT-52101-S,immobili,Lazio,Viterbo,Fabrica di Roma,Unità immobiliare per uso d
 I-VT-52102-S,immobili,Lazio,Viterbo,Fabrica di Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-VT-52104-S,immobili,Lazio,Viterbo,Fabrica di Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-VT-52105-S,immobili,Lazio,Viterbo,Fabrica di Roma,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-VT-80616-S,immobili,Lazio,Viterbo,Capranica,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-VT-80617-S,immobili,Lazio,Viterbo,Capranica,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-VT-80619-S,immobili,Lazio,Viterbo,Capranica,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-VT-80625-S,immobili,Lazio,Viterbo,Capranica,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-VT-80631-S,immobili,Lazio,Viterbo,Capranica,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-VT-80632-S,immobili,Lazio,Viterbo,Sutri,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-VT-80639-S,immobili,Lazio,Viterbo,Capranica,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-VT-80649-S,immobili,Lazio,Viterbo,Capranica,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-VT-80651-S,immobili,Lazio,Viterbo,Capranica,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-VT-80652-S,immobili,Lazio,Viterbo,Capranica,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-VT-80653-S,immobili,Lazio,Viterbo,Capranica,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-VT-80654-S,immobili,Lazio,Viterbo,Capranica,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-VT-80655-S,immobili,Lazio,Viterbo,Capranica,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-VT-80656-S,immobili,Lazio,Viterbo,Capranica,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
+I-VT-80657-S,immobili,Lazio,Viterbo,Capranica,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-VT-80783-S,immobili,Lazio,Viterbo,Monte Romano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-VT-84156-S,immobili,Lazio,Viterbo,Gradoli,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-VT-84157-S,immobili,Lazio,Viterbo,Gradoli,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
