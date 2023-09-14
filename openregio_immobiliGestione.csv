@@ -2399,13 +2399,13 @@ I-CE-76179-S,immobili,Campania,Caserta,Maddaloni,Unità immobiliare a destinazio
 I-CE-76180-S,immobili,Campania,Caserta,Maddaloni,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-76181-S,immobili,Campania,Caserta,Maddaloni,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-76939-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-I-CE-77534-S,immobili,Campania,Caserta,Arienzo,Terreno,Terreno - non definito,Confisca II,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-77544-S,immobili,Campania,Caserta,Arienzo,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-77546-S,immobili,Campania,Caserta,Arienzo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-77547-S,immobili,Campania,Caserta,Arienzo,Terreno,Terreno - non definito,Confisca II,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-77548-S,immobili,Campania,Caserta,San Felice a Cancello,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca II,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-77549-S,immobili,Campania,Caserta,San Felice a Cancello,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca II,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-77550-S,immobili,Campania,Caserta,San Felice a Cancello,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-77534-S,immobili,Campania,Caserta,Arienzo,Terreno,Terreno - non definito,Confisca def.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-77544-S,immobili,Campania,Caserta,Arienzo,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-77546-S,immobili,Campania,Caserta,Arienzo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-77547-S,immobili,Campania,Caserta,Arienzo,Terreno,Terreno - non definito,Confisca def.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-77548-S,immobili,Campania,Caserta,San Felice a Cancello,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-77549-S,immobili,Campania,Caserta,San Felice a Cancello,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-77550-S,immobili,Campania,Caserta,San Felice a Cancello,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-78201-S,immobili,Campania,Caserta,Castel Volturno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-78329-S,immobili,Campania,Caserta,San Felice a Cancello,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-78383-S,immobili,Campania,Caserta,Trentola-Ducenta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -5517,8 +5517,8 @@ I-FG-95615-S,immobili,Puglia,Foggia,Foggia,Unità immobiliare per uso di abitazi
 I-FG-95616-S,immobili,Puglia,Foggia,Foggia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-95617-S,immobili,Puglia,Foggia,Vico del Gargano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-95618-S,immobili,Puglia,Foggia,Foggia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-96647-S,immobili,Puglia,Foggia,Castelluccio dei Sauri,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Rinvio,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-96754-S,immobili,Puglia,Foggia,Castelluccio dei Sauri,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Rinvio,100%,Tribunale,Foggia,Misure di Prevenzione
+I-FG-96647-S,immobili,Puglia,Foggia,Castelluccio dei Sauri,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Foggia,Misure di Prevenzione
+I-FG-96754-S,immobili,Puglia,Foggia,Castelluccio dei Sauri,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FI-131423-S,immobili,Toscana,Firenze,Fucecchio,Altra unità immobiliare,Altro,Confisca def.,90%,Tribunale,Venezia,Misure di Prevenzione
 I-FI-131427-S,immobili,Toscana,Firenze,Fucecchio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,90%,Tribunale,Venezia,Misure di Prevenzione
 I-FI-23139-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
