@@ -1445,6 +1445,16 @@ I-BT-12113-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agrico
 I-BT-12133-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca II,20%,Tribunale,Trani,Misure di Prevenzione
 I-BT-132646-S,immobili,Puglia,Barletta-Andria-Trani,Bisceglie,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Conf.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BT-132647-S,immobili,Puglia,Barletta-Andria-Trani,Bisceglie,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf.,100%,Tribunale,Milano,Misure di Prevenzione
+I-BT-132800-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
+I-BT-132802-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
+I-BT-132803-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
+I-BT-132804-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
+I-BT-132805-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
+I-BT-132807-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
+I-BT-132808-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
+I-BT-132811-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
+I-BT-132812-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
+I-BT-132813-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-15079-S,immobili,Puglia,Barletta-Andria-Trani,Barletta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-15080-S,immobili,Puglia,Barletta-Andria-Trani,Barletta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-15081-S,immobili,Puglia,Barletta-Andria-Trani,Barletta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
@@ -5518,7 +5528,7 @@ I-FG-95618-S,immobili,Puglia,Foggia,Foggia,Terreno,Terreno agricolo,Confisca def
 I-FG-96647-S,immobili,Puglia,Foggia,Castelluccio dei Sauri,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-96754-S,immobili,Puglia,Foggia,Castelluccio dei Sauri,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FI-131423-S,immobili,Toscana,Firenze,Fucecchio,Altra unità immobiliare,Altro,Confisca def.,90%,Tribunale,Venezia,Misure di Prevenzione
-I-FI-131427-S,immobili,Toscana,Firenze,Fucecchio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,90%,Tribunale,Venezia,Misure di Prevenzione
+I-FI-131427-S,immobili,Toscana,Firenze,Fucecchio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,90%,Tribunale,Venezia,Misure di Prevenzione
 I-FI-23139-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 I-FI-23140-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 I-FI-23141-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
@@ -8328,7 +8338,6 @@ I-MI-63970-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abit
 I-MI-63972-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63978-S,immobili,Lombardia,Milano,Arese,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63980-S,immobili,Lombardia,Milano,Arese,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-63984-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63985-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63986-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63991-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -8336,7 +8345,6 @@ I-MI-63992-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abit
 I-MI-63994-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63995-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63997-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-63998-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-63999-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-64000-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-64001-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -22062,7 +22070,7 @@ I-VA-92185-S,immobili,Lombardia,Varese,Fagnano Olona,Unità immobiliare a destin
 I-VA-92186-S,immobili,Lombardia,Varese,Fagnano Olona,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Varese,Misure di Prevenzione
 I-VA-92187-S,immobili,Lombardia,Varese,Fagnano Olona,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Varese,Misure di Prevenzione
 I-VB-105469-S,immobili,Piemonte,Verbano-Cusio-Ossola,Vogogna,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Verbania,Procedimento Penale
-I-VB-105470-S,immobili,Piemonte,Verbano-Cusio-Ossola,Vogogna,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Verbania,Procedimento Penale
+I-VB-105470-S,immobili,Piemonte,Verbano-Cusio-Ossola,Vogogna,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Verbania,Procedimento Penale
 I-VB-105709-S,immobili,Piemonte,Verbano-Cusio-Ossola,Omegna,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Perugia,Misure di Prevenzione
 I-VB-105797-S,immobili,Piemonte,Verbano-Cusio-Ossola,Omegna,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Perugia,Misure di Prevenzione
 I-VB-105828-S,immobili,Piemonte,Verbano-Cusio-Ossola,Omegna,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Perugia,Misure di Prevenzione
