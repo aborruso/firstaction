@@ -113,7 +113,7 @@ A-AV-50056-S,aziende,Campania,Avellino,Lauro,Impresa individuale,Attività manif
 A-AV-6352-S,aziende,Campania,Avellino,Domicella,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-AV-79936-S,aziende,Campania,Avellino,Avellino,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-AV-94140-S,aziende,Campania,Avellino,Taurano,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,100%,Tribunale,Avellino,Misure di Prevenzione
-A-AV-94949-S,aziende,Campania,Avellino,Montefusco,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,0%,Procura della Repubblica,Napoli,Procedimento Penale
+A-AV-94949-S,aziende,Campania,Avellino,Montefusco,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
 A-AV-97542-S,aziende,Campania,Avellino,Cervinara,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-BA-10114-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 A-BA-101718-S,aziende,Puglia,Bari,Bari,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
@@ -826,7 +826,7 @@ A-GO-19389-S,aziende,Friuli Venezia Giulia,Gorizia,Monfalcone,Società a respons
 A-IM-18014-S,aziende,Liguria,Imperia,Sanremo,Società a responsabilità limitata,Costruzioni,Confisca def.,50%,Tribunale,Reggio Calabria,Misure di Prevenzione
 A-IS-132212-S,aziende,Molise,Isernia,Chiauci,Società a responsabilità limitata,Costruzioni,Revoca Seq.,0%,Tribunale,Catanzaro,Misure di Prevenzione
 A-IS-63757-S,aziende,Molise,Isernia,Venafro,Impresa individuale,"Produzione e distribuzione di energia elettrica, gas e acqua",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-A-IS-94948-S,aziende,Molise,Isernia,Venafro,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,0%,Procura della Repubblica,Napoli,Procedimento Penale
+A-IS-94948-S,aziende,Molise,Isernia,Venafro,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-IS-96255-S,aziende,Molise,Isernia,Pettoranello del Molise,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,Latina,Misure di Prevenzione
 A-KR-100015-S,aziende,Calabria,Crotone,Rocca di Neto,Società a responsabilità limitata,Estrazione di minerali,Confisca I,33%,Tribunale,Catanzaro,Misure di Prevenzione
 A-KR-101132-S,aziende,Calabria,Crotone,Isola di Capo Rizzuto,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
@@ -1537,7 +1537,7 @@ A-NA-91450-S,aziende,Campania,Napoli,Casoria,Impresa individuale,"Attività immo
 A-NA-91452-S,aziende,Campania,Napoli,Casoria,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-91454-S,aziende,Campania,Napoli,Afragola,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-93375-S,aziende,Campania,Napoli,Villaricca,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-A-NA-94950-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-94950-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-96254-S,aziende,Campania,Napoli,Quarto,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Latina,Misure di Prevenzione
 A-NA-96409-S,aziende,Campania,Napoli,Napoli,Impresa individuale,Costruzioni,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-9715-S,aziende,Campania,Napoli,Torre Annunziata,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
