@@ -7,10 +7,10 @@ Abruzzo,Tribunale,Chieti,Misure di Prevenzione,Confisca def.,4/2009
 Abruzzo,Tribunale,Chieti,Misure di Prevenzione,Confisca def.,7/2012
 Abruzzo,Tribunale,L'aquila,Misure di Prevenzione,Confisca I,24/2020
 Abruzzo,Tribunale,L'aquila,Misure di Prevenzione,Confisca II,26/2020
-Abruzzo,Tribunale,L'aquila,Misure di Prevenzione,Confisca def.,13/2020
 Abruzzo,Tribunale,L'aquila,Misure di Prevenzione,Confisca def.,5/2016
 Abruzzo,Tribunale,L'aquila,Misure di Prevenzione,Revoca Conf.,11/2019
 Abruzzo,Tribunale,L'aquila,Misure di Prevenzione,Revoca Conf. parziale,3/2015
+Abruzzo,Tribunale,L'aquila,Misure di Prevenzione,Sequestro,13/2020
 Abruzzo,Procura della Repubblica,Lanciano,Procedimento Penale,Revoca Conf.,1138/2012
 Abruzzo,Procura della Repubblica,Pescara,Procedimento Penale,Confisca def.,10730/2006
 Abruzzo,Procura della Repubblica,Pescara,Procedimento Penale,Confisca def.,1421/2008
@@ -1969,7 +1969,6 @@ Lombardia,Corte di Appello,Milano,Procedimento Penale,Confisca def.,224/2018
 Lombardia,Corte di Appello,Milano,Procedimento Penale,Confisca def.,244/2018
 Lombardia,Corte di Appello,Milano,Procedimento Penale,Sequestro,12501/1992
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,,27806/2009
-Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,11705/1997
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,17652/2015
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,35313/2009
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Confisca I,4272/2012
@@ -2083,6 +2082,7 @@ Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Revoca Conf.,33634
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Revoca Conf.,33850/2012
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Revoca Conf.,498/2009
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Revoca Conf.,6473/2013
+Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Revoca Conf. parziale,11705/1997
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Revoca Conf. parziale,12053/2011
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Revoca Conf. parziale,31651/2011
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Revoca Conf. parziale,41275/2007
@@ -3187,7 +3187,6 @@ Sicilia,Procura della Repubblica,Agrigento,Procedimento Penale,Confisca def.,183
 Sicilia,Tribunale,Agrigento,Misure di Prevenzione,Confisca I,21/2013
 Sicilia,Tribunale,Agrigento,Misure di Prevenzione,Confisca I,5/2015
 Sicilia,Tribunale,Agrigento,Misure di Prevenzione,Confisca I,73/2012
-Sicilia,Tribunale,Agrigento,Misure di Prevenzione,Confisca II,46/2014
 Sicilia,Tribunale,Agrigento,Misure di Prevenzione,Confisca II,95/2011
 Sicilia,Tribunale,Agrigento,Misure di Prevenzione,Confisca def.,107/2010
 Sicilia,Tribunale,Agrigento,Misure di Prevenzione,Confisca def.,108/2010
@@ -3232,6 +3231,7 @@ Sicilia,Tribunale,Agrigento,Misure di Prevenzione,Confisca def.,44/2015
 Sicilia,Tribunale,Agrigento,Misure di Prevenzione,Confisca def.,45/1995
 Sicilia,Tribunale,Agrigento,Misure di Prevenzione,Confisca def.,45/2002
 Sicilia,Tribunale,Agrigento,Misure di Prevenzione,Confisca def.,46/2010
+Sicilia,Tribunale,Agrigento,Misure di Prevenzione,Confisca def.,46/2014
 Sicilia,Tribunale,Agrigento,Misure di Prevenzione,Confisca def.,47/2010
 Sicilia,Tribunale,Agrigento,Misure di Prevenzione,Confisca def.,48/1997
 Sicilia,Tribunale,Agrigento,Misure di Prevenzione,Confisca def.,5/2007

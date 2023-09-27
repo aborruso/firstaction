@@ -147,7 +147,7 @@ A-BA-55718-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,Alberg
 A-BA-72724-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 A-BA-72726-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 A-BA-75392-S,aziende,Puglia,Bari,Bari,Società cooperativa,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,8%,Procura della Repubblica,Bari,Procedimento Penale
-A-BA-75649-S,aziende,Puglia,Bari,Bari,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca def.,56%,Procura della Repubblica,Bari,Procedimento Penale
+A-BA-75649-S,aziende,Puglia,Bari,Bari,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Sequestro,56%,Procura della Repubblica,Bari,Procedimento Penale
 A-BA-78003-S,aziende,Puglia,Bari,Gravina in Puglia,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 A-BA-82208-S,aziende,Puglia,Bari,Bari,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca def.,25%,Tribunale,Bari,Misure di Prevenzione
 A-BA-85042-S,aziende,Puglia,Bari,Bari,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
@@ -952,7 +952,6 @@ A-LU-49792-S,aziende,Toscana,Lucca,Lucca,Società a responsabilità limitata,"Al
 A-LU-59539-S,aziende,Toscana,Lucca,Viareggio,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,50%,Tribunale,Lucca,Misure di Prevenzione
 A-LU-7029-S,aziende,Toscana,Lucca,Viareggio,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-LU-86584-S,aziende,Toscana,Lucca,Viareggio,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,0%,Procura della Repubblica,Napoli,Procedimento Penale
-A-LU-90638-S,aziende,Toscana,Lucca,Pietrasanta,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,50%,Procura della Repubblica,Lucca,Procedimento Penale
 A-LU-90639-S,aziende,Toscana,Lucca,Seravezza,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,10%,Procura della Repubblica,Lucca,Procedimento Penale
 A-MB-105726-S,aziende,Lombardia,Monza e Brianza,Lissone,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca II,47%,Tribunale,Perugia,Misure di Prevenzione
 A-MB-1885-S,aziende,Lombardia,Monza e Brianza,Lissone,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -2052,8 +2051,6 @@ A-PO-84673-S,aziende,Toscana,Prato,Prato,Società a responsabilità limitata,"At
 A-PO-90535-S,aziende,Toscana,Prato,Montemurlo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,0%,Tribunale,Pistoia,Misure di Prevenzione
 A-PO-94901-S,aziende,Toscana,Prato,Prato,Società a responsabilità limitata,Attività manifatturiere,Confisca II,80%,Tribunale,Prato,Misure di Prevenzione
 A-PO-94902-S,aziende,Toscana,Prato,Prato,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,67%,Tribunale,Prato,Misure di Prevenzione
-A-PO-95290-S,aziende,Toscana,Prato,Prato,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
-A-PO-95293-S,aziende,Toscana,Prato,Montemurlo,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
 A-PR-103951-S,aziende,Emilia Romagna,Parma,Parma,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Bologna,Misure di Prevenzione
 A-PR-103985-S,aziende,Emilia Romagna,Parma,Salsomaggiore Terme,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,33%,Tribunale,Bologna,Misure di Prevenzione
 A-PR-105276-S,aziende,Emilia Romagna,Parma,Parma,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
@@ -2590,9 +2587,6 @@ A-RM-80728-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attivi
 A-RM-80836-S,aziende,Lazio,Roma,Ariccia,Società a responsabilità limitata,,Confisca I,80%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RM-8150-S,aziende,Lazio,Roma,Nettuno,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-RM-8226-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-82394-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-82397-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-82551-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-82666-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-83103-S,aziende,Lazio,Roma,Santa Marinella,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Sequestro,0%,Procura della Repubblica,Napoli,Procedimento Penale
 A-RM-83104-S,aziende,Lazio,Roma,Santa Marinella,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Sequestro,0%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -2645,7 +2639,6 @@ A-RM-90085-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Albergh
 A-RM-90090-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Attività finanziarie,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-90092-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-90106-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-91268-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-91272-S,aziende,Lazio,Roma,Roma,Società per azioni,Attività manifatturiere,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-92673-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RM-93028-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,95%,Tribunale,Roma,Misure di Prevenzione
@@ -2679,7 +2672,6 @@ A-RM-95229-S,aziende,Lazio,Roma,Roma,Impresa individuale,Alberghi e ristoranti,C
 A-RM-95240-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-95253-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-95261-S,aziende,Lazio,Roma,Civitavecchia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-A-RM-95984-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-RM-96361-S,aziende,Lazio,Roma,Roma,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Reggio Calabria,Procedimento Penale
 A-RM-97476-S,aziende,Lazio,Roma,Ardea,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,19%,Tribunale,Palermo,Misure di Prevenzione
 A-RM-97549-S,aziende,Lazio,Roma,Roma,Società per azioni,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
