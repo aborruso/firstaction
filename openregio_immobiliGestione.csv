@@ -51,6 +51,7 @@ I-AG-132230-S,immobili,Sicilia,Agrigento,Raffadali,Unità immobiliare per uso di
 I-AG-132231-S,immobili,Sicilia,Agrigento,Raffadali,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-132234-S,immobili,Sicilia,Agrigento,Raffadali,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-132333-S,immobili,Sicilia,Agrigento,Santa Margherita di Belice,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-AG-132856-S,immobili,Sicilia,Agrigento,Santa Margherita di Belice,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-AG-14-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-15-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-16-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
@@ -1307,20 +1308,20 @@ I-BR-29162-S,immobili,Puglia,Brindisi,Brindisi,Terreno,Terreno agricolo,Confisca
 I-BR-29163-S,immobili,Puglia,Brindisi,Brindisi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Brindisi,Misure di Prevenzione
 I-BR-29164-S,immobili,Puglia,Brindisi,Brindisi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Brindisi,Misure di Prevenzione
 I-BR-29165-S,immobili,Puglia,Brindisi,Brindisi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Brindisi,Misure di Prevenzione
-I-BR-38159-S,immobili,Puglia,Brindisi,San Vito dei Normanni,Altra unità immobiliare,Altro,Rinvio,100%,Tribunale,Brindisi,Misure di Prevenzione
-I-BR-38162-S,immobili,Puglia,Brindisi,San Vito dei Normanni,Altra unità immobiliare,Altro,Rinvio,50%,Tribunale,Brindisi,Misure di Prevenzione
-I-BR-38164-S,immobili,Puglia,Brindisi,San Vito dei Normanni,Altra unità immobiliare,Altro,Rinvio,51%,Tribunale,Brindisi,Misure di Prevenzione
+I-BR-38159-S,immobili,Puglia,Brindisi,San Vito dei Normanni,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Brindisi,Misure di Prevenzione
+I-BR-38162-S,immobili,Puglia,Brindisi,San Vito dei Normanni,Altra unità immobiliare,Altro,Confisca def.,50%,Tribunale,Brindisi,Misure di Prevenzione
+I-BR-38164-S,immobili,Puglia,Brindisi,San Vito dei Normanni,Altra unità immobiliare,Altro,Confisca def.,51%,Tribunale,Brindisi,Misure di Prevenzione
 I-BR-42737-S,immobili,Puglia,Brindisi,Brindisi,Terreno,Terreno edificabile,Confisca def.,27%,Tribunale,Brindisi,Misure di Prevenzione
 I-BR-42801-S,immobili,Puglia,Brindisi,Brindisi,Terreno,Terreno edificabile,Confisca def.,27%,Tribunale,Brindisi,Misure di Prevenzione
 I-BR-42802-S,immobili,Puglia,Brindisi,Brindisi,Terreno,Terreno edificabile,Confisca def.,27%,Tribunale,Brindisi,Misure di Prevenzione
 I-BR-42809-S,immobili,Puglia,Brindisi,Brindisi,Terreno,Terreno edificabile,Confisca def.,27%,Tribunale,Brindisi,Misure di Prevenzione
 I-BR-42812-S,immobili,Puglia,Brindisi,Brindisi,Terreno,Terreno edificabile,Confisca def.,27%,Tribunale,Brindisi,Misure di Prevenzione
 I-BR-42814-S,immobili,Puglia,Brindisi,Brindisi,Terreno,Terreno edificabile,Confisca def.,27%,Tribunale,Brindisi,Misure di Prevenzione
-I-BR-48022-S,immobili,Puglia,Brindisi,San Vito dei Normanni,Terreno,Terreno agricolo,Rinvio,100%,Tribunale,Brindisi,Misure di Prevenzione
-I-BR-48023-S,immobili,Puglia,Brindisi,San Vito dei Normanni,Terreno,Terreno agricolo,Rinvio,100%,Tribunale,Brindisi,Misure di Prevenzione
-I-BR-48025-S,immobili,Puglia,Brindisi,San Vito dei Normanni,Terreno,Terreno agricolo,Rinvio,100%,Tribunale,Brindisi,Misure di Prevenzione
-I-BR-48026-S,immobili,Puglia,Brindisi,San Vito dei Normanni,Terreno,Terreno agricolo,Rinvio,100%,Tribunale,Brindisi,Misure di Prevenzione
-I-BR-48029-S,immobili,Puglia,Brindisi,San Vito dei Normanni,Terreno,Terreno agricolo,Rinvio,100%,Tribunale,Brindisi,Misure di Prevenzione
+I-BR-48022-S,immobili,Puglia,Brindisi,San Vito dei Normanni,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Brindisi,Misure di Prevenzione
+I-BR-48023-S,immobili,Puglia,Brindisi,San Vito dei Normanni,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Brindisi,Misure di Prevenzione
+I-BR-48025-S,immobili,Puglia,Brindisi,San Vito dei Normanni,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Brindisi,Misure di Prevenzione
+I-BR-48026-S,immobili,Puglia,Brindisi,San Vito dei Normanni,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Brindisi,Misure di Prevenzione
+I-BR-48029-S,immobili,Puglia,Brindisi,San Vito dei Normanni,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Brindisi,Misure di Prevenzione
 I-BR-74263-S,immobili,Puglia,Brindisi,Fasano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Brindisi,Misure di Prevenzione
 I-BR-74289-S,immobili,Puglia,Brindisi,Fasano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Brindisi,Misure di Prevenzione
 I-BR-74299-S,immobili,Puglia,Brindisi,Fasano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Brindisi,Misure di Prevenzione
@@ -1437,12 +1438,6 @@ I-BS-89564-S,immobili,Lombardia,Brescia,Rovato,Unità immobiliare per uso di abi
 I-BT-100260-S,immobili,Puglia,Barletta-Andria-Trani,Bisceglie,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 I-BT-100261-S,immobili,Puglia,Barletta-Andria-Trani,Bisceglie,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
 I-BT-100264-S,immobili,Puglia,Barletta-Andria-Trani,Bisceglie,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Tribunale,Milano,Misure di Prevenzione
-I-BT-12107-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-12108-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-12111-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-12112-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-12113-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-12133-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca II,20%,Tribunale,Trani,Misure di Prevenzione
 I-BT-132646-S,immobili,Puglia,Barletta-Andria-Trani,Bisceglie,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BT-132647-S,immobili,Puglia,Barletta-Andria-Trani,Bisceglie,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BT-132800-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
@@ -1489,18 +1484,13 @@ I-BT-40311-S,immobili,Puglia,Barletta-Andria-Trani,Trani,Unità immobiliare a de
 I-BT-40506-S,immobili,Puglia,Barletta-Andria-Trani,Canosa di Puglia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-40508-S,immobili,Puglia,Barletta-Andria-Trani,Canosa di Puglia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-40510-S,immobili,Puglia,Barletta-Andria-Trani,Canosa di Puglia,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-41302-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-43551-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-48241-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno edificabile,Confisca def.,50%,Tribunale,Trani,Misure di Prevenzione
-I-BT-63367-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca I,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-63377-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-63381-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Trani,Misure di Prevenzione
-I-BT-63391-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Terreno,Terreno agricolo,Confisca I,67%,Tribunale,Trani,Misure di Prevenzione
 I-BT-72989-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,88%,Tribunale,Trani,Misure di Prevenzione
 I-BT-72990-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,88%,Tribunale,Trani,Misure di Prevenzione
 I-BT-72991-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,88%,Tribunale,Trani,Misure di Prevenzione
 I-BT-72992-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,88%,Tribunale,Trani,Misure di Prevenzione
-I-BT-84374-S,immobili,Puglia,Barletta-Andria-Trani,Andria,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Trani,Misure di Prevenzione
 I-BT-90177-S,immobili,Puglia,Barletta-Andria-Trani,Canosa di Puglia,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-BT-92033-S,immobili,Puglia,Barletta-Andria-Trani,Canosa di Puglia,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,,0%,Procura della Repubblica,Milano,Procedimento Penale
 I-BT-92034-S,immobili,Puglia,Barletta-Andria-Trani,Canosa di Puglia,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,,0%,Procura della Repubblica,Milano,Procedimento Penale
@@ -22378,7 +22368,7 @@ I-VV-43622-S,immobili,Calabria,Vibo Valentia,Limbadi,Unità immobiliare per uso 
 I-VV-44382-S,immobili,Calabria,Vibo Valentia,Pizzoni,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-VV-44476-S,immobili,Calabria,Vibo Valentia,Pizzoni,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-VV-44482-S,immobili,Calabria,Vibo Valentia,Pizzoni,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
-I-VV-44501-S,immobili,Calabria,Vibo Valentia,Pizzoni,Terreno,Terreno agricolo,Confisca II,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-VV-44501-S,immobili,Calabria,Vibo Valentia,Pizzoni,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-VV-44564-S,immobili,Calabria,Vibo Valentia,Pizzo,Terreno,Terreno - non definito,Confisca II,,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-VV-44567-S,immobili,Calabria,Vibo Valentia,Pizzo,Terreno,Terreno - non definito,Confisca II,,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-VV-44568-S,immobili,Calabria,Vibo Valentia,Pizzo,Terreno,Terreno - non definito,Confisca II,,Procura della Repubblica,Catanzaro,Procedimento Penale
