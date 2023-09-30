@@ -478,6 +478,7 @@ I-AL-13592-S,immobili,Piemonte,Alessandria,Cassano Spinola,Terreno,Terreno agric
 I-AL-13593-S,immobili,Piemonte,Alessandria,Cassano Spinola,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-AL-13594-S,immobili,Piemonte,Alessandria,Cassano Spinola,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-AL-13595-S,immobili,Piemonte,Alessandria,Cassano Spinola,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-AL-13596-S,immobili,Piemonte,Alessandria,Cassano Spinola,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-AL-13597-S,immobili,Piemonte,Alessandria,Cassano Spinola,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-AL-13598-S,immobili,Piemonte,Alessandria,Cassano Spinola,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-AL-13599-S,immobili,Piemonte,Alessandria,Cassano Spinola,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -1949,6 +1950,32 @@ I-CE-132851-S,immobili,Campania,Caserta,Teano,Terreno,Terreno agricolo,Confisca 
 I-CE-132853-S,immobili,Campania,Caserta,Teano,Terreno,Terreno agricolo,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-132854-S,immobili,Campania,Caserta,San Cipriano d'Aversa,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-132855-S,immobili,Campania,Caserta,Teano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
+I-CE-132858-S,immobili,Campania,Caserta,Villa di Briano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132859-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132860-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132866-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132868-S,immobili,Campania,Caserta,San Tammaro,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132872-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132873-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132884-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132898-S,immobili,Campania,Caserta,Caserta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132899-S,immobili,Campania,Caserta,Caserta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132905-S,immobili,Campania,Caserta,Caserta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132906-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132907-S,immobili,Campania,Caserta,Caserta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132908-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132909-S,immobili,Campania,Caserta,Caserta,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132914-S,immobili,Campania,Caserta,Villa di Briano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132918-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132922-S,immobili,Campania,Caserta,Caserta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132926-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132930-S,immobili,Campania,Caserta,Caserta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132936-S,immobili,Campania,Caserta,Caserta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132940-S,immobili,Campania,Caserta,Caserta,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132942-S,immobili,Campania,Caserta,Caserta,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132945-S,immobili,Campania,Caserta,Bellona,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132947-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-132955-S,immobili,Campania,Caserta,Caserta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-18913-S,immobili,Campania,Caserta,San Cipriano d'Aversa,Terreno,Terreno agricolo,Confisca def.,50%,Procura della Repubblica,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-18916-S,immobili,Campania,Caserta,Casapesenna,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-18969-S,immobili,Campania,Caserta,San Cipriano d'Aversa,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -5426,6 +5453,38 @@ I-FG-118738-S,immobili,Puglia,Foggia,Foggia,Unità immobiliare per uso di abitaz
 I-FG-118739-S,immobili,Puglia,Foggia,Foggia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Bari,Misure di Prevenzione
 I-FG-118741-S,immobili,Puglia,Foggia,Foggia,Terreno,Terreno con fabbricato rurale,Confisca II,100%,Tribunale,Bari,Misure di Prevenzione
 I-FG-132371-S,immobili,Puglia,Foggia,Carapelle,Terreno,Terreno agricolo,Confisca def.,0%,Procura della Repubblica,Bari,Procedimento Penale
+I-FG-132862-S,immobili,Puglia,Foggia,Rodi Garganico,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132867-S,immobili,Puglia,Foggia,Rodi Garganico,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132869-S,immobili,Puglia,Foggia,Rodi Garganico,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132877-S,immobili,Puglia,Foggia,Rodi Garganico,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132879-S,immobili,Puglia,Foggia,Rodi Garganico,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132880-S,immobili,Puglia,Foggia,Rodi Garganico,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132881-S,immobili,Puglia,Foggia,Rodi Garganico,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132886-S,immobili,Puglia,Foggia,Rodi Garganico,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132890-S,immobili,Puglia,Foggia,Rodi Garganico,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132891-S,immobili,Puglia,Foggia,Rodi Garganico,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132894-S,immobili,Puglia,Foggia,Rodi Garganico,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132895-S,immobili,Puglia,Foggia,Rodi Garganico,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132902-S,immobili,Puglia,Foggia,Rodi Garganico,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132903-S,immobili,Puglia,Foggia,Rodi Garganico,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132910-S,immobili,Puglia,Foggia,Rodi Garganico,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132912-S,immobili,Puglia,Foggia,Rodi Garganico,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132915-S,immobili,Puglia,Foggia,Rodi Garganico,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132919-S,immobili,Puglia,Foggia,Rodi Garganico,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132920-S,immobili,Puglia,Foggia,Rodi Garganico,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132921-S,immobili,Puglia,Foggia,Rodi Garganico,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132923-S,immobili,Puglia,Foggia,Rodi Garganico,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132927-S,immobili,Puglia,Foggia,Rodi Garganico,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132929-S,immobili,Puglia,Foggia,Rodi Garganico,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132931-S,immobili,Puglia,Foggia,Rodi Garganico,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132937-S,immobili,Puglia,Foggia,Rodi Garganico,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132939-S,immobili,Puglia,Foggia,Rodi Garganico,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132944-S,immobili,Puglia,Foggia,Rodi Garganico,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132949-S,immobili,Puglia,Foggia,Rodi Garganico,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132951-S,immobili,Puglia,Foggia,Rodi Garganico,Terreno,Terreno agricolo,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132954-S,immobili,Puglia,Foggia,Rodi Garganico,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132957-S,immobili,Puglia,Foggia,Rodi Garganico,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-FG-132958-S,immobili,Puglia,Foggia,Rodi Garganico,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-FG-17324-S,immobili,Puglia,Foggia,Manfredonia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,33%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-17325-S,immobili,Puglia,Foggia,Manfredonia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-17442-S,immobili,Puglia,Foggia,Lucera,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Foggia,Misure di Prevenzione
@@ -11212,12 +11271,12 @@ I-PA-108189-S,immobili,Sicilia,Palermo,Castronovo di Sicilia,Terreno,Terreno agr
 I-PA-108190-S,immobili,Sicilia,Palermo,Castronovo di Sicilia,Terreno,Terreno agricolo,Confisca def.,20%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-108194-S,immobili,Sicilia,Palermo,Castronovo di Sicilia,Terreno,Terreno con fabbricato rurale,Confisca def.,20%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-108321-S,immobili,Sicilia,Palermo,Bagheria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-108322-S,immobili,Sicilia,Palermo,Bagheria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-108323-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-108324-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-108325-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-108326-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-108327-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Ex fabbricato rurale,,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-108322-S,immobili,Sicilia,Palermo,Bagheria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-108323-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-108324-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-108325-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-108326-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-108327-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Ex fabbricato rurale,Confisca def.,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-108347-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-108348-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-108355-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -17694,6 +17753,12 @@ I-RE-12506-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Unità immobiliare 
 I-RE-12507-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-RE-12508-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-RE-12509-S,immobili,Emilia Romagna,Reggio Emilia,Brescello,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-RE-132861-S,immobili,Emilia Romagna,Reggio Emilia,Fabbrico,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-RE-132897-S,immobili,Emilia Romagna,Reggio Emilia,Fabbrico,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-RE-132900-S,immobili,Emilia Romagna,Reggio Emilia,Fabbrico,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-RE-132901-S,immobili,Emilia Romagna,Reggio Emilia,Fabbrico,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-RE-132935-S,immobili,Emilia Romagna,Reggio Emilia,Fabbrico,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-RE-132938-S,immobili,Emilia Romagna,Reggio Emilia,Fabbrico,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-RE-36476-S,immobili,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-36478-S,immobili,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 I-RE-36479-S,immobili,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
@@ -19332,13 +19397,6 @@ I-RM-80610-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e
 I-RM-80611-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80634-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80636-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
-I-RM-80690-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
-I-RM-80691-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
-I-RM-80692-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
-I-RM-80693-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
-I-RM-80694-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
-I-RM-80695-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
-I-RM-80696-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80697-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80698-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
 I-RM-80699-S,immobili,Lazio,Roma,Ardea,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Roma,Procedimento Penale
@@ -20233,7 +20291,6 @@ I-SP-94423-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare per uso di 
 I-SP-94445-S,immobili,Liguria,La Spezia,La Spezia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-SP-99742-S,immobili,Liguria,La Spezia,Arcola,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
 I-SR-101360-S,immobili,Sicilia,Siracusa,Siracusa,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-I-SR-20757-S,immobili,Sicilia,Siracusa,Siracusa,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Siracusa,Procedimento Penale
 I-SR-24571-S,immobili,Sicilia,Siracusa,Siracusa,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SR-34794-S,immobili,Sicilia,Siracusa,Augusta,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-SR-35540-S,immobili,Sicilia,Siracusa,Augusta,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
@@ -20301,7 +20358,6 @@ I-SR-75394-S,immobili,Sicilia,Siracusa,Noto,Terreno,Terreno agricolo,Confisca de
 I-SR-75395-S,immobili,Sicilia,Siracusa,Noto,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Catania,Misure di Prevenzione
 I-SR-75396-S,immobili,Sicilia,Siracusa,Noto,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Catania,Misure di Prevenzione
 I-SR-75397-S,immobili,Sicilia,Siracusa,Noto,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Catania,Misure di Prevenzione
-I-SR-83539-S,immobili,Sicilia,Siracusa,Melilli,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 I-SS-25345-S,immobili,Sardegna,Sassari,Sassari,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Cagliari,Procedimento Penale
 I-SS-72812-S,immobili,Sardegna,Sassari,Stintino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-SS-8845-S,immobili,Sardegna,Sassari,Stintino,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -22257,6 +22313,8 @@ I-VR-12610-S,immobili,Veneto,Verona,Selva di Progno,Terreno,Terreno agricolo,Con
 I-VR-12611-S,immobili,Veneto,Verona,Selva di Progno,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Brindisi,Misure di Prevenzione
 I-VR-131407-S,immobili,Veneto,Verona,Nogarole Rocca,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VR-131408-S,immobili,Veneto,Verona,Nogarole Rocca,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Venezia,Misure di Prevenzione
+I-VR-132934-S,immobili,Veneto,Verona,Peschiera del Garda,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-VR-132941-S,immobili,Veneto,Verona,Peschiera del Garda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-VR-14055-S,immobili,Veneto,Verona,Peschiera del Garda,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,68%,Tribunale,Verona,Misure di Prevenzione
 I-VR-14056-S,immobili,Veneto,Verona,Peschiera del Garda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,68%,Tribunale,Verona,Misure di Prevenzione
 I-VR-14057-S,immobili,Veneto,Verona,Peschiera del Garda,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,68%,Tribunale,Verona,Misure di Prevenzione
