@@ -69,7 +69,7 @@ A-AG-72896-S,aziende,Sicilia,Agrigento,Ravanusa,Società a responsabilità limit
 A-AG-72899-S,aziende,Sicilia,Agrigento,Licata,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 A-AG-72900-S,aziende,Sicilia,Agrigento,Licata,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 A-AG-73239-S,aziende,Sicilia,Agrigento,Favara,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
-A-AG-74700-S,aziende,Sicilia,Agrigento,Racalmuto,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,100%,Tribunale,Agrigento,Misure di Prevenzione
+A-AG-74700-S,aziende,Sicilia,Agrigento,Racalmuto,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 A-AG-76164-S,aziende,Sicilia,Agrigento,Canicattì,Società a responsabilità limitata,Costruzioni,Confisca def.,25%,Tribunale,Agrigento,Misure di Prevenzione
 A-AG-76221-S,aziende,Sicilia,Agrigento,Canicattì,Società a responsabilità limitata,Costruzioni,Confisca def.,25%,Tribunale,Agrigento,Misure di Prevenzione
 A-AG-77197-S,aziende,Sicilia,Agrigento,Canicattì,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
@@ -683,7 +683,7 @@ A-CT-80702-S,aziende,Sicilia,Catania,Catania,Impresa individuale,Alberghi e rist
 A-CT-80705-S,aziende,Sicilia,Catania,Catania,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-80706-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-81326-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca II,51%,Tribunale,Siracusa,Misure di Prevenzione
-A-CT-83451-S,aziende,Sicilia,Catania,Fiumefreddo di Sicilia,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,50%,Procura della Repubblica,Catania,Procedimento Penale
+A-CT-83451-S,aziende,Sicilia,Catania,Fiumefreddo di Sicilia,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca I,50%,Tribunale,Catania,Misure di Prevenzione
 A-CT-83452-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-CT-83453-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,50%,Procura della Repubblica,Catania,Procedimento Penale
 A-CT-83466-S,aziende,Sicilia,Catania,Misterbianco,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,50%,Procura della Repubblica,Catania,Procedimento Penale
@@ -696,7 +696,6 @@ A-CT-84851-S,aziende,Sicilia,Catania,Belpasso,Società a responsabilità limitat
 A-CT-8521-S,aziende,Sicilia,Catania,Militello in Val di Catania,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-8522-S,aziende,Sicilia,Catania,Militello in Val di Catania,Consorzio,"Altri servizi pubblici, sociali e personali",Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
 A-CT-8523-S,aziende,Sicilia,Catania,Militello in Val di Catania,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
-A-CT-86303-S,aziende,Sicilia,Catania,Fiumefreddo di Sicilia,Società a responsabilità limitata,"Pesca, piscicoltura e servizi connessi",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-86305-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-87675-S,aziende,Sicilia,Catania,Gravina di Catania,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-CT-90031-S,aziende,Sicilia,Catania,Mascali,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,30%,Procura della Repubblica,Siracusa,Procedimento Penale
@@ -3085,6 +3084,8 @@ A-VE-132633-S,aziende,Veneto,Venezia,San Donà di Piave,Società a responsabilit
 A-VI-105273-S,aziende,Veneto,Vicenza,Bassano del Grappa,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 A-VI-131054-S,aziende,Veneto,Vicenza,Montecchio Maggiore,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Vicenza,Misure di Prevenzione
 A-VR-101861-S,aziende,Veneto,Verona,Arcole,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,95%,Tribunale,Reggio Emilia,Misure di Prevenzione
+A-VR-133000-S,aziende,Veneto,Verona,San Pietro in Cariano,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
+A-VR-133008-S,aziende,Veneto,Verona,Verona,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 A-VR-17076-S,aziende,Veneto,Verona,Verona,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,25%,Tribunale,Brescia,Misure di Prevenzione
 A-VR-50354-S,aziende,Veneto,Verona,Roverchiara,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Bologna,Procedimento Penale
 A-VT-20692-S,aziende,Lazio,Viterbo,Tarquinia,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
