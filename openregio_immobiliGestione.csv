@@ -682,6 +682,21 @@ I-AT-105314-S,immobili,Piemonte,Asti,Asti,Unità immobiliare per uso di abitazio
 I-AT-106606-S,immobili,Piemonte,Asti,Asti,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
 I-AT-106608-S,immobili,Piemonte,Asti,Asti,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
 I-AT-131940-S,immobili,Piemonte,Asti,Asti,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-AT-133121-S,immobili,Piemonte,Asti,Sessame,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,La Spezia,Procedimento Penale
+I-AT-133122-S,immobili,Piemonte,Asti,Sessame,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,La Spezia,Procedimento Penale
+I-AT-133126-S,immobili,Piemonte,Asti,Sessame,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,La Spezia,Procedimento Penale
+I-AT-133128-S,immobili,Piemonte,Asti,Sessame,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,La Spezia,Procedimento Penale
+I-AT-133129-S,immobili,Piemonte,Asti,Sessame,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,La Spezia,Procedimento Penale
+I-AT-133130-S,immobili,Piemonte,Asti,Sessame,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,La Spezia,Procedimento Penale
+I-AT-133133-S,immobili,Piemonte,Asti,Sessame,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,La Spezia,Procedimento Penale
+I-AT-133135-S,immobili,Piemonte,Asti,Sessame,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,La Spezia,Procedimento Penale
+I-AT-133139-S,immobili,Piemonte,Asti,Sessame,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,La Spezia,Procedimento Penale
+I-AT-133141-S,immobili,Piemonte,Asti,Sessame,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,La Spezia,Procedimento Penale
+I-AT-133142-S,immobili,Piemonte,Asti,Sessame,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,La Spezia,Procedimento Penale
+I-AT-133179-S,immobili,Piemonte,Asti,Valfenera,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
+I-AT-133180-S,immobili,Piemonte,Asti,Valfenera,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
+I-AT-133182-S,immobili,Piemonte,Asti,Valfenera,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
+I-AT-133183-S,immobili,Piemonte,Asti,Valfenera,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
 I-AT-34154-S,immobili,Piemonte,Asti,Asti,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-AT-35534-S,immobili,Piemonte,Asti,Asti,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Genova,Procedimento Penale
 I-AT-35748-S,immobili,Piemonte,Asti,Asti,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -3595,119 +3610,119 @@ I-CL-97726-S,immobili,Sicilia,Caltanissetta,Gela,Unità immobiliare per uso di a
 I-CL-97730-S,immobili,Sicilia,Caltanissetta,Gela,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-97731-S,immobili,Sicilia,Caltanissetta,Gela,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-97734-S,immobili,Sicilia,Caltanissetta,Gela,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CN-101928-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101929-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101930-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101931-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101932-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101933-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101934-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101935-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101936-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101937-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101938-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101939-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101940-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101941-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101942-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101943-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101944-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101945-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101946-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101947-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101948-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101949-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101950-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101951-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101952-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101953-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101954-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101955-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101956-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101957-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101958-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,0%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101959-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101960-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101961-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101962-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101963-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101964-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101965-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101966-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101967-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101968-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101969-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101970-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101971-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101972-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101973-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101974-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101975-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101976-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101977-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101978-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101979-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101980-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101981-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101982-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101983-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101984-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101985-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101986-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101987-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101988-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101989-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101990-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101991-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101992-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101993-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101994-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101995-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101996-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101997-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101998-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-101999-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102000-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102001-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102002-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102003-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102004-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102005-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102006-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102007-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102008-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102009-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102010-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102011-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102012-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno con fabbricato rurale,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102013-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102014-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102015-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102016-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102017-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102018-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102019-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102020-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102021-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102022-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102023-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102024-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102025-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102026-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102027-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102028-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102029-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102030-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102031-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102032-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102033-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102034-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102035-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102036-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102037-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102038-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno con fabbricato rurale,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102039-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-CN-102040-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101928-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101929-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101930-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101931-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101932-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101933-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101934-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101935-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101936-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101937-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101938-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101939-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101940-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101941-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101942-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101943-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101944-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101945-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101946-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101947-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101948-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101949-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101950-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101951-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101952-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101953-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101954-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101955-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101956-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101957-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101958-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101959-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101960-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101961-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101962-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101963-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101964-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101965-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101966-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101967-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101968-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101969-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101970-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101971-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101972-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101973-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101974-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101975-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101976-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101977-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101978-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101979-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101980-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101981-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101982-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101983-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101984-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101985-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101986-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101987-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101988-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101989-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101990-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101991-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101992-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101993-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101994-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101995-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101996-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101997-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101998-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-101999-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102000-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102001-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102002-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102003-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102004-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102005-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102006-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102007-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102008-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102009-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102010-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102011-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102012-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102013-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102014-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102015-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102016-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102017-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102018-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102019-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102020-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102021-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102022-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102023-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102024-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102025-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102026-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102027-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102028-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102029-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102030-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102031-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102032-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102033-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102034-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102035-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102036-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102037-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102038-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102039-S,immobili,Piemonte,Cuneo,Albaretto della Torre,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-CN-102040-S,immobili,Piemonte,Cuneo,Arguello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-CN-108465-S,immobili,Piemonte,Cuneo,Monastero di Vasco,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Mondovì,Procedimento Penale
 I-CN-108468-S,immobili,Piemonte,Cuneo,Monastero di Vasco,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Mondovì,Procedimento Penale
 I-CN-108471-S,immobili,Piemonte,Cuneo,Monastero di Vasco,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Mondovì,Procedimento Penale
@@ -4114,6 +4129,8 @@ I-CT-131009-S,immobili,Sicilia,Catania,Adrano,Terreno,Terreno agricolo,Confisca 
 I-CT-131011-S,immobili,Sicilia,Catania,Adrano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-131013-S,immobili,Sicilia,Catania,Adrano,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-131014-S,immobili,Sicilia,Catania,Adrano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Catania,Misure di Prevenzione
+I-CT-133174-S,immobili,Sicilia,Catania,Bronte,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
+I-CT-20872-S,immobili,Sicilia,Catania,Belpasso,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-20882-S,immobili,Sicilia,Catania,San Pietro Clarenza,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-CT-20893-S,immobili,Sicilia,Catania,Ramacca,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Catania,Misure di Prevenzione
 I-CT-20899-S,immobili,Sicilia,Catania,Pedara,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
@@ -7209,10 +7226,10 @@ I-MB-100412-S,immobili,Lombardia,Monza e Brianza,Brugherio,Unità immobiliare pe
 I-MB-100413-S,immobili,Lombardia,Monza e Brianza,Brugherio,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,33%,Tribunale,Milano,Misure di Prevenzione
 I-MB-100624-S,immobili,Lombardia,Monza e Brianza,Correzzana,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Monza,Procedimento Penale
 I-MB-101603-S,immobili,Lombardia,Monza e Brianza,Monza,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MB-103736-S,immobili,Lombardia,Monza e Brianza,Barlassina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Procura della Repubblica,Monza,Procedimento Penale
-I-MB-103737-S,immobili,Lombardia,Monza e Brianza,Barlassina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Monza,Procedimento Penale
-I-MB-103738-S,immobili,Lombardia,Monza e Brianza,Barlassina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Monza,Procedimento Penale
-I-MB-103739-S,immobili,Lombardia,Monza e Brianza,Barlassina,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Monza,Procedimento Penale
+I-MB-103736-S,immobili,Lombardia,Monza e Brianza,Barlassina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
+I-MB-103737-S,immobili,Lombardia,Monza e Brianza,Barlassina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
+I-MB-103738-S,immobili,Lombardia,Monza e Brianza,Barlassina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
+I-MB-103739-S,immobili,Lombardia,Monza e Brianza,Barlassina,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
 I-MB-10571-S,immobili,Lombardia,Monza e Brianza,Agrate Brianza,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,33%,Tribunale,Monza,Misure di Prevenzione
 I-MB-10572-S,immobili,Lombardia,Monza e Brianza,Agrate Brianza,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,33%,Tribunale,Monza,Misure di Prevenzione
 I-MB-10573-S,immobili,Lombardia,Monza e Brianza,Agrate Brianza,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
@@ -7224,6 +7241,7 @@ I-MB-131718-S,immobili,Lombardia,Monza e Brianza,Vedano al Lambro,Unità immobil
 I-MB-132650-S,immobili,Lombardia,Monza e Brianza,Bellusco,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MB-132782-S,immobili,Lombardia,Monza e Brianza,Seregno,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-132827-S,immobili,Lombardia,Monza e Brianza,Desio,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-MB-133178-S,immobili,Lombardia,Monza e Brianza,Barlassina,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
 I-MB-16566-S,immobili,Lombardia,Monza e Brianza,Busnago,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Milano,Misure di Prevenzione
 I-MB-16567-S,immobili,Lombardia,Monza e Brianza,Busnago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,50%,Tribunale,Milano,Misure di Prevenzione
 I-MB-1790-S,immobili,Lombardia,Monza e Brianza,Muggiò,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -8772,6 +8790,8 @@ I-MS-108408-S,immobili,Toscana,Massa-Carrara,Massa,Unità immobiliare a destinaz
 I-MS-108409-S,immobili,Toscana,Massa-Carrara,Massa,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,21%,Tribunale,Massa Carrara,Misure di Prevenzione
 I-MS-108410-S,immobili,Toscana,Massa-Carrara,Massa,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,56%,Tribunale,Massa Carrara,Misure di Prevenzione
 I-MS-108417-S,immobili,Toscana,Massa-Carrara,Massa,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,22%,Tribunale,Massa Carrara,Misure di Prevenzione
+I-MS-133123-S,immobili,Toscana,Massa-Carrara,Podenzana,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,0%,Procura della Repubblica,La Spezia,Procedimento Penale
+I-MS-133137-S,immobili,Toscana,Massa-Carrara,Podenzana,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,0%,Procura della Repubblica,La Spezia,Procedimento Penale
 I-MS-16006-S,immobili,Toscana,Massa-Carrara,Massa,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MS-90768-S,immobili,Toscana,Massa-Carrara,Carrara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,La Spezia,Misure di Prevenzione
 I-MS-90769-S,immobili,Toscana,Massa-Carrara,Fivizzano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,La Spezia,Misure di Prevenzione
@@ -13572,9 +13592,9 @@ I-PA-131704-S,immobili,Sicilia,Palermo,Villafrati,Terreno,Terreno agricolo,Confi
 I-PA-131705-S,immobili,Sicilia,Palermo,Villafrati,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-131713-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-131714-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-131840-S,immobili,Sicilia,Palermo,Altavilla Milicia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-131841-S,immobili,Sicilia,Palermo,Altavilla Milicia,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-131842-S,immobili,Sicilia,Palermo,Altavilla Milicia,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-131840-S,immobili,Sicilia,Palermo,Altavilla Milicia,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-131841-S,immobili,Sicilia,Palermo,Altavilla Milicia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-131842-S,immobili,Sicilia,Palermo,Altavilla Milicia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-131955-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-131956-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-131963-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -13612,7 +13632,7 @@ I-PA-132298-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abi
 I-PA-132299-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132327-S,immobili,Sicilia,Palermo,Altavilla Milicia,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132328-S,immobili,Sicilia,Palermo,Altavilla Milicia,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-132329-S,immobili,Sicilia,Palermo,Altavilla Milicia,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-132329-S,immobili,Sicilia,Palermo,Altavilla Milicia,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132330-S,immobili,Sicilia,Palermo,Altavilla Milicia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132365-S,immobili,Sicilia,Palermo,Altofonte,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132366-S,immobili,Sicilia,Palermo,Altofonte,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -13629,6 +13649,24 @@ I-PA-132506-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abit
 I-PA-132507-S,immobili,Sicilia,Palermo,Carini,Altra unità immobiliare,Altro,,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132825-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132826-S,immobili,Sicilia,Palermo,Carini,Terreno,Terreno agricolo,,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-133144-S,immobili,Sicilia,Palermo,Altavilla Milicia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-133149-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-133151-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-133155-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-133156-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-133158-S,immobili,Sicilia,Palermo,Altavilla Milicia,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-133163-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-133171-S,immobili,Sicilia,Palermo,Altavilla Milicia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-133172-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-133197-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-133198-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-133203-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-133204-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-133205-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-133206-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-133208-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-133213-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-133230-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-16017-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PA-18053-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-18137-S,immobili,Sicilia,Palermo,Ciminna,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -15454,7 +15492,7 @@ I-PA-86113-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione 
 I-PA-86123-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-86124-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-86130-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-86446-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-86446-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-86514-S,immobili,Sicilia,Palermo,Campofelice di Roccella,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-86622-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-86623-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -15517,143 +15555,134 @@ I-PA-91534-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abit
 I-PA-91535-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-92150-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PA-92151-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PA-92480-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92481-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92482-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92483-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92484-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92485-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92486-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92487-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92488-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92489-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92490-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92491-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92492-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92493-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92494-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92495-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92496-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92497-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92498-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92499-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92500-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92501-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92502-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92503-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92504-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92505-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92506-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92507-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92508-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92509-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92510-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92511-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92512-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92513-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92514-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92515-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92516-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92517-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92518-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92519-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92520-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92521-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92522-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92523-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92524-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92525-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92526-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92527-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92528-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92529-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92530-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92531-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92532-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92533-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92534-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92535-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92536-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92537-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92538-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92539-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92540-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92541-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92542-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92543-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92544-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92545-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92546-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92547-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92548-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92549-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92550-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92551-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92552-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92553-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92554-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92555-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92556-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92557-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92558-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92559-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92560-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92561-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92562-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92563-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92564-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92565-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92566-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92567-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,Altro,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92568-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92569-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92570-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92571-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92572-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92573-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92574-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92575-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92576-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Altro,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92577-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92578-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92579-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92580-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92587-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92588-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92589-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92590-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92591-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92592-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92593-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92594-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92595-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92597-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92598-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92599-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92600-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92601-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92602-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92603-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92604-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92605-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92607-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92608-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92609-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92610-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92611-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92612-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92613-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92614-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92615-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92616-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92617-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92618-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92619-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92620-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92621-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92622-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92623-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-92624-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92480-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92481-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92482-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92483-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92484-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92485-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92486-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92487-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92488-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92489-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92490-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92491-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92492-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92493-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92494-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92495-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92496-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92497-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92498-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92499-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92500-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92501-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92502-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92503-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92504-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92505-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92506-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92507-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92508-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92509-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92510-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92512-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92513-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92514-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92515-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92516-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92517-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92518-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92519-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92520-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92521-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92522-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92523-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92524-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92525-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92526-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92527-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92528-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92529-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92530-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92531-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92532-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92533-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92534-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92535-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92536-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92537-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92538-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92539-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92540-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92541-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92542-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92543-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92544-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92545-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92546-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92547-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92548-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92549-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92550-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92551-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92552-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92553-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92554-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92555-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92556-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92557-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92558-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92559-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92560-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92561-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92562-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92563-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92564-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92565-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92566-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92567-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92568-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92569-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92570-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92571-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92572-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92573-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92574-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92575-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92576-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92577-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92578-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92579-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92580-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92587-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92588-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92589-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92590-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92591-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92592-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92593-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92594-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92595-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92597-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92598-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92599-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92600-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92609-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92610-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92611-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92612-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92614-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92615-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92616-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92617-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92618-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92619-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92620-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92621-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92622-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92623-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-92624-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-93199-S,immobili,Sicilia,Palermo,San Cipirello,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-93201-S,immobili,Sicilia,Palermo,San Cipirello,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-93214-S,immobili,Sicilia,Palermo,San Cipirello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -16101,11 +16130,38 @@ I-PI-75786-S,immobili,Toscana,Pisa,Santa Croce sull'Arno,Terreno,Terreno - non d
 I-PI-75787-S,immobili,Toscana,Pisa,Santa Croce sull'Arno,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Venezia,Misure di Prevenzione
 I-PI-75788-S,immobili,Toscana,Pisa,Santa Croce sull'Arno,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Venezia,Misure di Prevenzione
 I-PI-75789-S,immobili,Toscana,Pisa,Santa Croce sull'Arno,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Venezia,Misure di Prevenzione
+I-PN-133145-S,immobili,Friuli Venezia Giulia,Pordenone,Aviano,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-133146-S,immobili,Friuli Venezia Giulia,Pordenone,Pordenone,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-133147-S,immobili,Friuli Venezia Giulia,Pordenone,Pordenone,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-133148-S,immobili,Friuli Venezia Giulia,Pordenone,Pordenone,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-133150-S,immobili,Friuli Venezia Giulia,Pordenone,Pordenone,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-133152-S,immobili,Friuli Venezia Giulia,Pordenone,Aviano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-133153-S,immobili,Friuli Venezia Giulia,Pordenone,Pordenone,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-133154-S,immobili,Friuli Venezia Giulia,Pordenone,Pordenone,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-133157-S,immobili,Friuli Venezia Giulia,Pordenone,Pordenone,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-133159-S,immobili,Friuli Venezia Giulia,Pordenone,Pordenone,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-133160-S,immobili,Friuli Venezia Giulia,Pordenone,Pordenone,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-133161-S,immobili,Friuli Venezia Giulia,Pordenone,Pordenone,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-133162-S,immobili,Friuli Venezia Giulia,Pordenone,Aviano,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-133164-S,immobili,Friuli Venezia Giulia,Pordenone,Pordenone,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-133165-S,immobili,Friuli Venezia Giulia,Pordenone,Pordenone,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-133166-S,immobili,Friuli Venezia Giulia,Pordenone,Aviano,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-133167-S,immobili,Friuli Venezia Giulia,Pordenone,Pordenone,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-133168-S,immobili,Friuli Venezia Giulia,Pordenone,Pordenone,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-133169-S,immobili,Friuli Venezia Giulia,Pordenone,Pordenone,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-133170-S,immobili,Friuli Venezia Giulia,Pordenone,Pordenone,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-133173-S,immobili,Friuli Venezia Giulia,Pordenone,Aviano,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PN-90654-S,immobili,Friuli Venezia Giulia,Pordenone,Casarsa della Delizia,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Pordenone,Procedimento Penale
 I-PN-90656-S,immobili,Friuli Venezia Giulia,Pordenone,Casarsa della Delizia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Procura della Repubblica,Pordenone,Procedimento Penale
 I-PN-90657-S,immobili,Friuli Venezia Giulia,Pordenone,Casarsa della Delizia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Procura della Repubblica,Pordenone,Procedimento Penale
 I-PN-90658-S,immobili,Friuli Venezia Giulia,Pordenone,Casarsa della Delizia,Terreno,Terreno agricolo,Confisca I,100%,Procura della Repubblica,Pordenone,Procedimento Penale
-I-PN-92606-S,immobili,Friuli Venezia Giulia,Pordenone,Aviano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-92601-S,immobili,Friuli Venezia Giulia,Pordenone,Aviano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-92602-S,immobili,Friuli Venezia Giulia,Pordenone,Aviano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-92603-S,immobili,Friuli Venezia Giulia,Pordenone,Aviano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-92604-S,immobili,Friuli Venezia Giulia,Pordenone,Aviano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-92605-S,immobili,Friuli Venezia Giulia,Pordenone,Aviano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-92607-S,immobili,Friuli Venezia Giulia,Pordenone,Aviano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PN-92608-S,immobili,Friuli Venezia Giulia,Pordenone,Aviano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PO-59358-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
 I-PO-59359-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
 I-PO-59360-S,immobili,Toscana,Prato,Prato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
@@ -16792,6 +16848,7 @@ I-RC-132994-S,immobili,Calabria,Reggio Calabria,Seminara,Terreno,Terreno agricol
 I-RC-132995-S,immobili,Calabria,Reggio Calabria,Seminara,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 I-RC-132996-S,immobili,Calabria,Reggio Calabria,Seminara,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 I-RC-132997-S,immobili,Calabria,Reggio Calabria,Seminara,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
+I-RC-133190-S,immobili,Calabria,Reggio Calabria,Marina di Gioiosa Ionica,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-13342-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-RC-13343-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-RC-13344-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
@@ -18958,6 +19015,26 @@ I-RM-13292-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e
 I-RM-13293-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-133083-S,immobili,Lazio,Roma,Rocca Priora,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-133084-S,immobili,Lazio,Roma,Rocca Priora,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-133241-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-133242-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-133243-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-133244-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-133245-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-133246-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-133247-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-133248-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-133249-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-133250-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-133251-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-133252-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-133253-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-133254-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-133255-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-133256-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-133257-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-133258-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-133259-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-133261-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-13391-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Collegio e Convitto,Educandato,Ricovero, Orfanotrofio,Ospizio,Convento,Seminario",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-RM-13392-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-RM-13393-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
@@ -20975,6 +21052,7 @@ I-TP-106555-S,immobili,Sicilia,Trapani,Erice,Unità immobiliare per uso di abita
 I-TP-106562-S,immobili,Sicilia,Trapani,San Vito Lo Capo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",,0%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-131950-S,immobili,Sicilia,Trapani,Castellammare del Golfo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-131967-S,immobili,Sicilia,Trapani,Mazara del Vallo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,50%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-133192-S,immobili,Sicilia,Trapani,Mazara del Vallo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-TP-18956-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno agricolo,,100%,Tribunale,Palermo,Misure di Prevenzione
 I-TP-19059-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
 I-TP-19060-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Marsala,Procedimento Penale
