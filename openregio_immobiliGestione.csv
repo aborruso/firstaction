@@ -4064,12 +4064,12 @@ I-CS-76829-S,immobili,Calabria,Cosenza,Bonifati,Terreno,Terreno edificabile,Conf
 I-CS-77028-S,immobili,Calabria,Cosenza,Cosenza,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Sequestro,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CS-77029-S,immobili,Calabria,Cosenza,Cosenza,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Sequestro,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CS-78679-S,immobili,Calabria,Cosenza,Bonifati,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
-I-CS-78680-S,immobili,Calabria,Cosenza,Bonifati,Terreno,Terreno - non definito,Confisca def.,33%,Tribunale,Cosenza,Misure di Prevenzione
-I-CS-78681-S,immobili,Calabria,Cosenza,Bonifati,Terreno,Terreno - non definito,Confisca def.,33%,Tribunale,Cosenza,Misure di Prevenzione
-I-CS-78682-S,immobili,Calabria,Cosenza,Bonifati,Terreno,Terreno - non definito,Confisca def.,50%,Tribunale,Cosenza,Misure di Prevenzione
+I-CS-78680-S,immobili,Calabria,Cosenza,Bonifati,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Cosenza,Misure di Prevenzione
+I-CS-78681-S,immobili,Calabria,Cosenza,Bonifati,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Cosenza,Misure di Prevenzione
+I-CS-78682-S,immobili,Calabria,Cosenza,Bonifati,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Cosenza,Misure di Prevenzione
 I-CS-78685-S,immobili,Calabria,Cosenza,Bonifati,Altra unità immobiliare,Altro,Confisca def.,33%,Tribunale,Cosenza,Misure di Prevenzione
 I-CS-78686-S,immobili,Calabria,Cosenza,Bonifati,Altra unità immobiliare,Altro,Confisca def.,33%,Tribunale,Cosenza,Misure di Prevenzione
-I-CS-78687-S,immobili,Calabria,Cosenza,Bonifati,Terreno,Terreno - non definito,Confisca def.,33%,Tribunale,Cosenza,Misure di Prevenzione
+I-CS-78687-S,immobili,Calabria,Cosenza,Bonifati,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Cosenza,Misure di Prevenzione
 I-CS-79111-S,immobili,Calabria,Cosenza,Cassano all'Ionio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
 I-CS-79469-S,immobili,Calabria,Cosenza,Cassano all'Ionio,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
 I-CS-79470-S,immobili,Calabria,Cosenza,Cassano all'Ionio,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Cosenza,Misure di Prevenzione
@@ -5201,8 +5201,8 @@ I-CZ-90251-S,immobili,Calabria,Catanzaro,Santa Caterina dello Ionio,Unità immob
 I-CZ-90854-S,immobili,Calabria,Catanzaro,San Sostene,Terreno,Terreno edificabile,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CZ-90855-S,immobili,Calabria,Catanzaro,San Sostene,Terreno,Terreno edificabile,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CZ-90856-S,immobili,Calabria,Catanzaro,San Sostene,Terreno,Terreno edificabile,,0%,Procura della Repubblica,Catanzaro,Procedimento Penale
-I-CZ-95905-S,immobili,Calabria,Catanzaro,Davoli,Terreno,Terreno con fabbricato rurale,Confisca II,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
-I-CZ-95906-S,immobili,Calabria,Catanzaro,Davoli,Terreno,Terreno con fabbricato rurale,Confisca II,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-CZ-95905-S,immobili,Calabria,Catanzaro,Davoli,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
+I-CZ-95906-S,immobili,Calabria,Catanzaro,Davoli,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Procura della Repubblica,Catanzaro,Procedimento Penale
 I-CZ-97468-S,immobili,Calabria,Catanzaro,Martirano Lombardo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
 I-CZ-97469-S,immobili,Calabria,Catanzaro,Martirano Lombardo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
 I-CZ-97470-S,immobili,Calabria,Catanzaro,Martirano Lombardo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
@@ -6909,6 +6909,10 @@ I-LT-73886-S,immobili,Lazio,Latina,Formia,Unità immobiliare a destinazione comm
 I-LT-73887-S,immobili,Lazio,Latina,Formia,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,40%,Tribunale,Latina,Misure di Prevenzione
 I-LT-75248-S,immobili,Lazio,Latina,Latina,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-75249-S,immobili,Lazio,Latina,Latina,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-75532-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-75533-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-75534-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-75535-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-7609-S,immobili,Lazio,Latina,Sabaudia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-7610-S,immobili,Lazio,Latina,Sabaudia,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-7671-S,immobili,Lazio,Latina,Sabaudia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
@@ -6961,6 +6965,10 @@ I-LT-80099-S,immobili,Lazio,Latina,Latina,Unità immobiliare per uso di abitazio
 I-LT-80103-S,immobili,Lazio,Latina,Latina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-80104-S,immobili,Lazio,Latina,Latina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-80167-S,immobili,Lazio,Latina,Latina,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-80273-S,immobili,Lazio,Latina,Fondi,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,33%,Tribunale,Latina,Misure di Prevenzione
+I-LT-80281-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-80284-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-80286-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-80336-S,immobili,Lazio,Latina,Latina,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-8036-S,immobili,Lazio,Latina,Cisterna di Latina,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-8037-S,immobili,Lazio,Latina,Cisterna di Latina,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
@@ -7040,7 +7048,6 @@ I-LT-8133-S,immobili,Lazio,Latina,Cisterna di Latina,Terreno,Terreno agricolo,Co
 I-LT-8134-S,immobili,Lazio,Latina,Cisterna di Latina,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-8135-S,immobili,Lazio,Latina,Latina,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-8143-S,immobili,Lazio,Latina,Cisterna di Latina,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
-I-LT-82045-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,2%,Tribunale,Latina,Misure di Prevenzione
 I-LT-82892-S,immobili,Lazio,Latina,Latina,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-83755-S,immobili,Lazio,Latina,Formia,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Frosinone,Misure di Prevenzione
 I-LT-85764-S,immobili,Lazio,Latina,Aprilia,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -7050,8 +7057,48 @@ I-LT-85793-S,immobili,Lazio,Latina,Aprilia,Terreno,Terreno agricolo,Confisca def
 I-LT-86625-S,immobili,Lazio,Latina,Cisterna di Latina,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-LT-86635-S,immobili,Lazio,Latina,Cisterna di Latina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-LT-86636-S,immobili,Lazio,Latina,Cisterna di Latina,Unità immobiliare per alloggio e usi collettivi,Fabbricato annesso a speciali esigenze commerciali,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
+I-LT-8731-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8732-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8733-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8734-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8735-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8736-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8737-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8738-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8739-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8740-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8741-S,immobili,Lazio,Latina,Fondi,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8742-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8743-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8744-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8745-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8746-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8747-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8748-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8749-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8750-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8751-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-87511-S,immobili,Lazio,Latina,San Felice Circeo,Terreno,Terreno - non definito,,0%,Tribunale,Roma,Misure di Prevenzione
+I-LT-8752-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8753-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8754-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8755-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8756-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8757-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8758-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8759-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-87593-S,immobili,Lazio,Latina,San Felice Circeo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Roma,Misure di Prevenzione
+I-LT-8760-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8761-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8762-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8763-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8764-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8765-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8766-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8767-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8768-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8769-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-8770-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-8790-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Latina,Misure di Prevenzione
 I-LT-8791-S,immobili,Lazio,Latina,Fondi,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Latina,Misure di Prevenzione
 I-LT-89063-S,immobili,Lazio,Latina,San Felice Circeo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
@@ -13828,6 +13875,19 @@ I-PA-2341-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abita
 I-PA-2342-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-23440-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-23442-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-23450-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-23451-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-23452-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-23453-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-23454-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-23455-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-23456-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-23457-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-23458-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-23459-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-23460-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-23461-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-23462-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-23463-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-23465-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-23604-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -16041,29 +16101,29 @@ I-PG-55768-S,immobili,Umbria,Perugia,Torgiano,Terreno,Terreno - non definito,Con
 I-PG-55770-S,immobili,Umbria,Perugia,Perugia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Firenze,Procedimento Penale
 I-PG-59415-S,immobili,Umbria,Perugia,Città di Castello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
 I-PG-69055-S,immobili,Umbria,Perugia,Umbertide,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PG-69056-S,immobili,Umbria,Perugia,Umbertide,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PG-69065-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PG-69070-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PG-69071-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PG-69072-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PG-69073-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PG-69078-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PG-69079-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PG-69080-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PG-69081-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PG-69082-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PG-69083-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PG-69084-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PG-69101-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PG-69102-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PG-69103-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PG-69105-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PG-69120-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PG-69557-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PG-69559-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PG-69560-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PG-69561-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-PG-69562-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PG-69056-S,immobili,Umbria,Perugia,Umbertide,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PG-69065-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PG-69070-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PG-69071-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PG-69072-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PG-69073-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PG-69078-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PG-69079-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PG-69080-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PG-69081-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PG-69082-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PG-69083-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PG-69084-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PG-69101-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PG-69102-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PG-69103-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PG-69105-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PG-69120-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PG-69557-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PG-69559-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PG-69560-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PG-69561-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
+I-PG-69562-S,immobili,Umbria,Perugia,Umbertide,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PG-75698-S,immobili,Umbria,Perugia,Spoleto,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-PG-75699-S,immobili,Umbria,Perugia,Spoleto,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-PG-75701-S,immobili,Umbria,Perugia,Spoleto,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
@@ -19858,7 +19918,7 @@ I-RN-49883-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso 
 I-RN-49886-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,,Tribunale,Rimini,Misure di Prevenzione
 I-RN-49887-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Rimini,Misure di Prevenzione
 I-RN-49909-S,immobili,Emilia Romagna,Rimini,Riccione,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,,Tribunale,Rimini,Misure di Prevenzione
-I-RN-77864-S,immobili,Emilia Romagna,Rimini,Bellaria-Igea Marina,Terreno,Terreno - non definito,Confisca def.,50%,Tribunale,Cosenza,Misure di Prevenzione
+I-RN-77864-S,immobili,Emilia Romagna,Rimini,Bellaria-Igea Marina,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Cosenza,Misure di Prevenzione
 I-RN-84824-S,immobili,Emilia Romagna,Rimini,Rimini,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Rimini,Misure di Prevenzione
 I-RN-85040-S,immobili,Emilia Romagna,Rimini,Rimini,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Rimini,Misure di Prevenzione
 I-RN-9365-S,immobili,Emilia Romagna,Rimini,Rimini,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
@@ -20720,7 +20780,6 @@ I-TO-12282-S,immobili,Piemonte,Torino,Torino,Unità immobiliare a destinazione c
 I-TO-12284-S,immobili,Piemonte,Torino,Torino,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-12290-S,immobili,Piemonte,Torino,Venaria Reale,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-131036-S,immobili,Piemonte,Torino,Torino,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
-I-TO-131146-S,immobili,Piemonte,Torino,Settimo Torinese,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-131147-S,immobili,Piemonte,Torino,Sangano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-131148-S,immobili,Piemonte,Torino,Sangano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-131149-S,immobili,Piemonte,Torino,Sangano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
