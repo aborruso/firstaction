@@ -8066,8 +8066,6 @@ I-ME-86993-S,immobili,Sicilia,Messina,Milazzo,Terreno,Terreno agricolo,Confisca 
 I-ME-86994-S,immobili,Sicilia,Messina,Milazzo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-86995-S,immobili,Sicilia,Messina,Milazzo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-86998-S,immobili,Sicilia,Messina,Milazzo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-87671-S,immobili,Sicilia,Messina,Messina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-I-ME-87673-S,immobili,Sicilia,Messina,Messina,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-90756-S,immobili,Sicilia,Messina,Messina,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-91528-S,immobili,Sicilia,Messina,Rometta,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Messina,Procedimento Penale
 I-ME-91529-S,immobili,Sicilia,Messina,Rometta,Altra unità immobiliare,Ex fabbricato rurale,Confisca def.,100%,Procura della Repubblica,Messina,Procedimento Penale
@@ -16885,6 +16883,7 @@ I-RC-133268-S,immobili,Calabria,Reggio Calabria,Candidoni,Altra unità immobilia
 I-RC-133269-S,immobili,Calabria,Reggio Calabria,Candidoni,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-133270-S,immobili,Calabria,Reggio Calabria,Candidoni,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-133271-S,immobili,Calabria,Reggio Calabria,Candidoni,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-133291-S,immobili,Calabria,Reggio Calabria,Monasterace,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-13342-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-RC-13343-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-RC-13344-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
@@ -21474,7 +21473,7 @@ I-TP-43064-S,immobili,Sicilia,Trapani,Castelvetrano,Unità immobiliare a destina
 I-TP-43066-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-43067-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-43068-S,immobili,Sicilia,Trapani,Campobello di Mazara,Terreno,Terreno - non definito,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
-I-TP-43069-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno - non definito,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
+I-TP-43069-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-43070-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno - non definito,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-43071-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno - non definito,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
 I-TP-43072-S,immobili,Sicilia,Trapani,Castelvetrano,Terreno,Terreno - non definito,Confisca I,0%,Tribunale,Trapani,Misure di Prevenzione
