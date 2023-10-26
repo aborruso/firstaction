@@ -1,6 +1,4 @@
 s_bene,genere,nome_regione,nome_provincia,nome_comune,categoria,sottocategoria,provvedimento,quota_confiscata,ufficio_giudiziario,distretto,tipologia_procedura
-I-AG-1-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-10-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno con fabbricato rurale,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-100317-S,immobili,Sicilia,Agrigento,Campobello di Licata,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-100318-S,immobili,Sicilia,Agrigento,Campobello di Licata,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-100756-S,immobili,Sicilia,Agrigento,Porto Empedocle,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
@@ -31,9 +29,6 @@ I-AG-108461-S,immobili,Sicilia,Agrigento,Favara,Unità immobiliare per uso di ab
 I-AG-108462-S,immobili,Sicilia,Agrigento,Favara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-108463-S,immobili,Sicilia,Agrigento,Favara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-108464-S,immobili,Sicilia,Agrigento,Naro,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,33%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-11-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-12-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-13-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-132214-S,immobili,Sicilia,Agrigento,Raffadali,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-132215-S,immobili,Sicilia,Agrigento,Raffadali,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-132216-S,immobili,Sicilia,Agrigento,Raffadali,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
@@ -52,12 +47,7 @@ I-AG-132231-S,immobili,Sicilia,Agrigento,Raffadali,Unità immobiliare per uso di
 I-AG-132234-S,immobili,Sicilia,Agrigento,Raffadali,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-132333-S,immobili,Sicilia,Agrigento,Santa Margherita di Belice,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-AG-132856-S,immobili,Sicilia,Agrigento,Santa Margherita di Belice,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-AG-14-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-15-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-16-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-16643-S,immobili,Sicilia,Agrigento,Agrigento,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-I-AG-17-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-18-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-18110-S,immobili,Sicilia,Agrigento,Agrigento,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-18111-S,immobili,Sicilia,Agrigento,Agrigento,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-18112-S,immobili,Sicilia,Agrigento,Agrigento,Terreno,Terreno agricolo,Confisca def.,16%,Tribunale,Agrigento,Misure di Prevenzione
@@ -81,7 +71,6 @@ I-AG-1837-S,immobili,Sicilia,Agrigento,Campobello di Licata,Terreno,Terreno - no
 I-AG-1864-S,immobili,Sicilia,Agrigento,Ravanusa,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-AG-1865-S,immobili,Sicilia,Agrigento,Ravanusa,Terreno,Terreno - non definito,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-AG-19-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-2-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-20-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-20977-S,immobili,Sicilia,Agrigento,Campobello di Licata,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-20978-S,immobili,Sicilia,Agrigento,Campobello di Licata,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
@@ -102,7 +91,6 @@ I-AG-21520-S,immobili,Sicilia,Agrigento,Santa Margherita di Belice,Terreno,Terre
 I-AG-21521-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-21522-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-21538-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-22-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-23-S,immobili,Sicilia,Agrigento,Menfi,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-24-S,immobili,Sicilia,Agrigento,Menfi,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-24406-S,immobili,Sicilia,Agrigento,Aragona,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
@@ -113,7 +101,6 @@ I-AG-24888-S,immobili,Sicilia,Agrigento,Porto Empedocle,Terreno,Terreno agricolo
 I-AG-24889-S,immobili,Sicilia,Agrigento,Porto Empedocle,Terreno,Terreno con fabbricato rurale,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-28650-S,immobili,Sicilia,Agrigento,Porto Empedocle,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-28797-S,immobili,Sicilia,Agrigento,Cattolica Eraclea,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-3-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-36933-S,immobili,Sicilia,Agrigento,Agrigento,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-36934-S,immobili,Sicilia,Agrigento,Agrigento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-36935-S,immobili,Sicilia,Agrigento,Agrigento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
@@ -173,11 +160,9 @@ I-AG-38047-S,immobili,Sicilia,Agrigento,Agrigento,Terreno,Terreno - non definito
 I-AG-38048-S,immobili,Sicilia,Agrigento,Agrigento,Terreno,Terreno - non definito,Confisca def.,60%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-38049-S,immobili,Sicilia,Agrigento,Agrigento,Terreno,Terreno con fabbricato rurale,Confisca def.,60%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-38909-S,immobili,Sicilia,Agrigento,Naro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-38910-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-38998-S,immobili,Sicilia,Agrigento,Ribera,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-39469-S,immobili,Sicilia,Agrigento,Ribera,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-39549-S,immobili,Sicilia,Agrigento,Campobello di Licata,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-4-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-40229-S,immobili,Sicilia,Agrigento,Casteltermini,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-40230-S,immobili,Sicilia,Agrigento,Casteltermini,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-40245-S,immobili,Sicilia,Agrigento,Montallegro,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
@@ -279,22 +264,6 @@ I-AG-61123-S,immobili,Sicilia,Agrigento,Ribera,Unità immobiliare per uso di abi
 I-AG-61124-S,immobili,Sicilia,Agrigento,Campobello di Licata,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-61125-S,immobili,Sicilia,Agrigento,Campobello di Licata,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-61126-S,immobili,Sicilia,Agrigento,Campobello di Licata,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-61220-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-61221-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-61222-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-61223-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-61224-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-61225-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-61227-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno con fabbricato rurale,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-61228-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-61229-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-61230-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-61231-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-61232-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-61233-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-61234-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-61236-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
-I-AG-61240-S,immobili,Sicilia,Agrigento,Menfi,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-61244-S,immobili,Sicilia,Agrigento,Cammarata,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-61258-S,immobili,Sicilia,Agrigento,Cammarata,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Agrigento,Misure di Prevenzione
 I-AG-61340-S,immobili,Sicilia,Agrigento,Canicattì,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,33%,Tribunale,Agrigento,Misure di Prevenzione
@@ -10970,6 +10939,7 @@ I-PA-101800-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abi
 I-PA-101805-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-101806-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-101807-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-103301-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-103309-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno edificabile,Confisca def.,50%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-103311-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-103998-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
