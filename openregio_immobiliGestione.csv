@@ -10942,7 +10942,7 @@ I-PA-101807-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione
 I-PA-103301-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-103309-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno edificabile,Confisca def.,50%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-103311-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-103998-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-103998-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-104033-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-104034-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-104036-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno edificabile,Confisca II,50%,Tribunale,Palermo,Misure di Prevenzione
@@ -16854,6 +16854,17 @@ I-RC-133269-S,immobili,Calabria,Reggio Calabria,Candidoni,Altra unità immobilia
 I-RC-133270-S,immobili,Calabria,Reggio Calabria,Candidoni,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-133271-S,immobili,Calabria,Reggio Calabria,Candidoni,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-133291-S,immobili,Calabria,Reggio Calabria,Monasterace,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-133300-S,immobili,Calabria,Reggio Calabria,Monasterace,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-133301-S,immobili,Calabria,Reggio Calabria,Monasterace,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-133302-S,immobili,Calabria,Reggio Calabria,Monasterace,Altra unità immobiliare,Altro,Confisca def.,0%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-133303-S,immobili,Calabria,Reggio Calabria,Monasterace,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-133304-S,immobili,Calabria,Reggio Calabria,Monasterace,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-133305-S,immobili,Calabria,Reggio Calabria,Monasterace,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-133306-S,immobili,Calabria,Reggio Calabria,Stilo,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-133307-S,immobili,Calabria,Reggio Calabria,Stilo,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-133308-S,immobili,Calabria,Reggio Calabria,Stilo,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-133309-S,immobili,Calabria,Reggio Calabria,Stilo,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-133310-S,immobili,Calabria,Reggio Calabria,Stilo,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-13342-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-RC-13343-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-RC-13344-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
