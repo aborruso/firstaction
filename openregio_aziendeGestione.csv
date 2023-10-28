@@ -605,8 +605,8 @@ A-CT-49349-S,aziende,Sicilia,Catania,Mascalucia,Società in accomandita semplice
 A-CT-49382-S,aziende,Sicilia,Catania,Caltagirone,Società in nome collettivo,Costruzioni,Confisca def.,25%,Corte di Appello,Catania,Procedimento Penale
 A-CT-55100-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,40%,Tribunale,Catania,Misure di Prevenzione
 A-CT-55871-S,aziende,Sicilia,Catania,Acireale,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
-A-CT-56308-S,aziende,Sicilia,Catania,Aci Sant'Antonio,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
-A-CT-56309-S,aziende,Sicilia,Catania,Aci Catena,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
+A-CT-56308-S,aziende,Sicilia,Catania,Aci Sant'Antonio,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
+A-CT-56309-S,aziende,Sicilia,Catania,Aci Catena,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-CT-56311-S,aziende,Sicilia,Catania,Acireale,Consorzio,Costruzioni,Confisca def.,10%,Tribunale,Messina,Misure di Prevenzione
 A-CT-57394-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca def.,50%,Tribunale,Catania,Misure di Prevenzione
 A-CT-57873-S,aziende,Sicilia,Catania,Motta Sant'Anastasia,Società cooperativa a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
@@ -628,11 +628,9 @@ A-CT-64701-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata
 A-CT-64702-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-64834-S,aziende,Sicilia,Catania,Belpasso,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-64841-S,aziende,Sicilia,Catania,Castel di Iudica,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
-A-CT-67167-S,aziende,Sicilia,Catania,Aci Sant'Antonio,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-CT-67273-S,aziende,Sicilia,Catania,Catania,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-CT-67293-S,aziende,Sicilia,Catania,Catania,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,33%,Procura della Repubblica,Catania,Procedimento Penale
 A-CT-68216-S,aziende,Sicilia,Catania,Catania,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
-A-CT-68432-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-CT-69565-S,aziende,Sicilia,Catania,Bronte,Società in nome collettivo,Estrazione di minerali,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
 A-CT-69566-S,aziende,Sicilia,Catania,Bronte,Società a responsabilità limitata,Estrazione di minerali,Confisca def.,24%,Tribunale,Catania,Misure di Prevenzione
 A-CT-69567-S,aziende,Sicilia,Catania,Bronte,Società a responsabilità limitata,Estrazione di minerali,Confisca def.,80%,Tribunale,Catania,Misure di Prevenzione
@@ -652,12 +650,11 @@ A-CT-73914-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata
 A-CT-73915-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-CT-73917-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,Costruzioni,Confisca def.,65%,Procura della Repubblica,Catania,Procedimento Penale
 A-CT-73918-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,30%,Procura della Repubblica,Catania,Procedimento Penale
-A-CT-73920-S,aziende,Sicilia,Catania,Palagonia,Società in accomandita semplice,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-CT-74057-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,50%,Tribunale,Siracusa,Misure di Prevenzione
 A-CT-74158-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-74159-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-74619-S,aziende,Sicilia,Catania,Paternò,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
-A-CT-75316-S,aziende,Sicilia,Catania,Palagonia,Società in accomandita semplice,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+A-CT-75316-S,aziende,Sicilia,Catania,Palagonia,Società in accomandita semplice,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-CT-75344-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-CT-75570-S,aziende,Sicilia,Catania,Catania,Società in accomandita semplice,Sanità e assistenza sociale,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-CT-75571-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
@@ -696,9 +693,9 @@ A-CT-8523-S,aziende,Sicilia,Catania,Militello in Val di Catania,Società a respo
 A-CT-86305-S,aziende,Sicilia,Catania,Catania,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-87675-S,aziende,Sicilia,Catania,Gravina di Catania,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-CT-90031-S,aziende,Sicilia,Catania,Mascali,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,30%,Procura della Repubblica,Siracusa,Procedimento Penale
-A-CT-92716-S,aziende,Sicilia,Catania,Catania,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,0%,Procura della Repubblica,Catania,Procedimento Penale
-A-CT-92717-S,aziende,Sicilia,Catania,Ramacca,Impresa individuale,Costruzioni,Confisca def.,0%,Procura della Repubblica,Catania,Procedimento Penale
-A-CT-92718-S,aziende,Sicilia,Catania,Ramacca,Impresa individuale,Costruzioni,Confisca def.,0%,Procura della Repubblica,Catania,Procedimento Penale
+A-CT-92716-S,aziende,Sicilia,Catania,Catania,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
+A-CT-92717-S,aziende,Sicilia,Catania,Ramacca,Impresa individuale,Costruzioni,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
+A-CT-92718-S,aziende,Sicilia,Catania,Ramacca,Impresa individuale,Costruzioni,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-CT-93154-S,aziende,Sicilia,Catania,Catania,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-95033-S,aziende,Sicilia,Catania,Paternò,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-CT-95091-S,aziende,Sicilia,Catania,Paternò,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
@@ -2094,7 +2091,7 @@ A-PV-32382-S,aziende,Lombardia,Pavia,Sannazzaro de' Burgondi,Società a responsa
 A-PV-70301-S,aziende,Lombardia,Pavia,Pavia,Società in accomandita semplice,"Altri servizi pubblici, sociali e personali",Confisca def.,99%,Procura della Repubblica,Milano,Procedimento Penale
 A-PV-72082-S,aziende,Lombardia,Pavia,Pavia,Società a responsabilità limitata,Attività finanziarie,Rinvio,50%,Procura della Repubblica,Milano,Procedimento Penale
 A-PV-80202-S,aziende,Lombardia,Pavia,Mortara,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Procedimento Penale
-A-RA-70660-S,aziende,Emilia Romagna,Ravenna,Russi,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
+A-RA-70660-S,aziende,Emilia Romagna,Ravenna,Russi,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Catania,Procedimento Penale
 A-RA-96237-S,aziende,Emilia Romagna,Ravenna,Ravenna,Società a responsabilità limitata,"Agricoltura, caccia e silvicoltura",Confisca def.,0%,Tribunale,Bologna,Misure di Prevenzione
 A-RC-100080-S,aziende,Calabria,Reggio Calabria,Stilo,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 A-RC-100123-S,aziende,Calabria,Reggio Calabria,Melito di Porto Salvo,Società in nome collettivo,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
