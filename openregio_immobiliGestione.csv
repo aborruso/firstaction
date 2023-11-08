@@ -6619,7 +6619,7 @@ I-LE-96489-S,immobili,Puglia,Lecce,Lecce,Unità immobiliare per uso di abitazion
 I-LE-96490-S,immobili,Puglia,Lecce,Lecce,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
 I-LI-106093-S,immobili,Toscana,Livorno,Livorno,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
 I-LI-106104-S,immobili,Toscana,Livorno,Livorno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
-I-LI-132478-S,immobili,Toscana,Livorno,Portoferraio,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+I-LI-132478-S,immobili,Toscana,Livorno,Portoferraio,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-LI-40544-S,immobili,Toscana,Livorno,Campiglia Marittima,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Livorno,Misure di Prevenzione
 I-LI-40545-S,immobili,Toscana,Livorno,Campiglia Marittima,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Livorno,Misure di Prevenzione
 I-LI-40546-S,immobili,Toscana,Livorno,Campiglia Marittima,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Livorno,Misure di Prevenzione
@@ -9170,9 +9170,9 @@ I-NA-132347-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione 
 I-NA-132367-S,immobili,Campania,Napoli,Acerra,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-132368-S,immobili,Campania,Napoli,Acerra,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-132383-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-132484-S,immobili,Campania,Napoli,Poggiomarino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-132486-S,immobili,Campania,Napoli,Poggiomarino,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-132488-S,immobili,Campania,Napoli,Poggiomarino,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-132484-S,immobili,Campania,Napoli,Poggiomarino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-132486-S,immobili,Campania,Napoli,Poggiomarino,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-132488-S,immobili,Campania,Napoli,Poggiomarino,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-132588-S,immobili,Campania,Napoli,Afragola,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-132591-S,immobili,Campania,Napoli,Afragola,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-132592-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
@@ -16857,7 +16857,7 @@ I-RC-133271-S,immobili,Calabria,Reggio Calabria,Candidoni,Terreno,Terreno agrico
 I-RC-133291-S,immobili,Calabria,Reggio Calabria,Monasterace,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-133300-S,immobili,Calabria,Reggio Calabria,Monasterace,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-133301-S,immobili,Calabria,Reggio Calabria,Monasterace,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-133302-S,immobili,Calabria,Reggio Calabria,Monasterace,Altra unità immobiliare,Altro,Confisca def.,0%,Tribunale,Reggio Calabria,Misure di Prevenzione
+I-RC-133302-S,immobili,Calabria,Reggio Calabria,Monasterace,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-133303-S,immobili,Calabria,Reggio Calabria,Monasterace,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-133304-S,immobili,Calabria,Reggio Calabria,Monasterace,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-133305-S,immobili,Calabria,Reggio Calabria,Monasterace,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
@@ -19929,13 +19929,13 @@ I-SA-132474-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno agricolo,Confisca 
 I-SA-132475-S,immobili,Campania,Salerno,Sarno,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-SA-132476-S,immobili,Campania,Salerno,Sarno,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-SA-132477-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-SA-132479-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-SA-132480-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-SA-132481-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-SA-132482-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+I-SA-132479-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-SA-132480-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-SA-132481-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-SA-132482-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-SA-132483-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-SA-132485-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-SA-132487-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+I-SA-132485-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-SA-132487-S,immobili,Campania,Salerno,Sarno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-SA-132544-S,immobili,Campania,Salerno,Capaccio,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-132546-S,immobili,Campania,Salerno,Capaccio,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-132552-S,immobili,Campania,Salerno,Capaccio,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Salerno,Misure di Prevenzione
