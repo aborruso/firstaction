@@ -540,9 +540,9 @@ I-AQ-101879-S,immobili,Abruzzo,L'Aquila,Oricola,Terreno,Terreno agricolo,Confisc
 I-AQ-101907-S,immobili,Abruzzo,L'Aquila,Oricola,Unità immobiliare per alloggio e usi collettivi,Opificio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-AQ-118915-S,immobili,Abruzzo,L'Aquila,Rivisondoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Firenze,Misure di Prevenzione
 I-AQ-18924-S,immobili,Abruzzo,L'Aquila,Rivisondoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Misure di Prevenzione
-I-AQ-2696-S,immobili,Abruzzo,L'Aquila,Castel di Sangro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+I-AQ-2696-S,immobili,Abruzzo,L'Aquila,Castel di Sangro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-AQ-3565-S,immobili,Abruzzo,L'Aquila,Carsoli,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-AQ-43949-S,immobili,Abruzzo,L'Aquila,Castel di Sangro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+I-AQ-43949-S,immobili,Abruzzo,L'Aquila,Castel di Sangro,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-AQ-58676-S,immobili,Abruzzo,L'Aquila,L'Aquila,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Roma,Misure di Prevenzione
 I-AQ-58677-S,immobili,Abruzzo,L'Aquila,L'Aquila,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-AQ-58678-S,immobili,Abruzzo,L'Aquila,L'Aquila,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
@@ -1971,7 +1971,7 @@ I-CE-18916-S,immobili,Campania,Caserta,Casapesenna,Unità immobiliare per uso di
 I-CE-18969-S,immobili,Campania,Caserta,San Cipriano d'Aversa,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-18971-S,immobili,Campania,Caserta,Cancello ed Arnone,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-18997-S,immobili,Campania,Caserta,Santa Maria a Vico,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Corte di Appello,Napoli,Procedimento Penale
-I-CE-2676-S,immobili,Campania,Caserta,Sessa Aurunca,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+I-CE-2676-S,immobili,Campania,Caserta,Sessa Aurunca,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-35188-S,immobili,Campania,Caserta,Frignano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,17%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-35190-S,immobili,Campania,Caserta,Frignano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,83%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-35191-S,immobili,Campania,Caserta,Frignano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,83%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -6348,7 +6348,6 @@ I-KR-98924-S,immobili,Calabria,Crotone,Crotone,Terreno,Terreno agricolo,Confisca
 I-LC-30242-S,immobili,Lombardia,Lecco,Galbiate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Corte di Cassazione,Roma,Procedimento Penale
 I-LC-30243-S,immobili,Lombardia,Lecco,Galbiate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Corte di Cassazione,Roma,Procedimento Penale
 I-LC-57250-S,immobili,Lombardia,Lecco,Bosisio Parini,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-LC-57252-S,immobili,Lombardia,Lecco,Bosisio Parini,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-LC-70313-S,immobili,Lombardia,Lecco,Primaluna,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
 I-LC-71046-S,immobili,Lombardia,Lecco,Annone di Brianza,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Lecco,Misure di Prevenzione
 I-LC-71047-S,immobili,Lombardia,Lecco,Annone di Brianza,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Lecco,Misure di Prevenzione
@@ -6356,7 +6355,6 @@ I-LC-71048-S,immobili,Lombardia,Lecco,Annone di Brianza,Unità immobiliare a des
 I-LC-71049-S,immobili,Lombardia,Lecco,Annone di Brianza,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Lecco,Misure di Prevenzione
 I-LC-71054-S,immobili,Lombardia,Lecco,Cassina Valsassina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Milano,Misure di Prevenzione
 I-LC-72224-S,immobili,Lombardia,Lecco,Bosisio Parini,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-LC-72225-S,immobili,Lombardia,Lecco,Bosisio Parini,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-LC-74092-S,immobili,Lombardia,Lecco,Calolziocorte,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Lecco,Misure di Prevenzione
 I-LC-74093-S,immobili,Lombardia,Lecco,Calolziocorte,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Lecco,Misure di Prevenzione
 I-LC-76529-S,immobili,Lombardia,Lecco,Cremella,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -6507,9 +6505,9 @@ I-LE-81661-S,immobili,Puglia,Lecce,Uggiano la Chiesa,Unità immobiliare per uso 
 I-LE-81662-S,immobili,Puglia,Lecce,Uggiano la Chiesa,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
 I-LE-81663-S,immobili,Puglia,Lecce,Uggiano la Chiesa,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
 I-LE-81666-S,immobili,Puglia,Lecce,Uggiano la Chiesa,Terreno,Terreno - non definito,Confisca def.,0%,Tribunale,Lecce,Misure di Prevenzione
-I-LE-81668-S,immobili,Puglia,Lecce,Otranto,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
+I-LE-81668-S,immobili,Puglia,Lecce,Otranto,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
 I-LE-81669-S,immobili,Puglia,Lecce,Otranto,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
-I-LE-81670-S,immobili,Puglia,Lecce,Otranto,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
+I-LE-81670-S,immobili,Puglia,Lecce,Otranto,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
 I-LE-81673-S,immobili,Puglia,Lecce,Otranto,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
 I-LE-81866-S,immobili,Puglia,Lecce,Aradeo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Lecce,Procedimento Penale
 I-LE-82131-S,immobili,Puglia,Lecce,Aradeo,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Lecce,Procedimento Penale
@@ -9250,59 +9248,59 @@ I-NA-26402-S,immobili,Campania,Napoli,Casamicciola Terme,Unità immobiliare per 
 I-NA-26404-S,immobili,Campania,Napoli,Casamicciola Terme,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-2644-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-2645-S,immobili,Campania,Napoli,Afragola,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2655-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2656-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2657-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2658-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2659-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2660-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2661-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2662-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2663-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2664-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2665-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2666-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2667-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2668-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2669-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2670-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2671-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2672-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2673-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2674-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2675-S,immobili,Campania,Napoli,Casoria,Terreno,Terreno - non definito,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2677-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2678-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2679-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2680-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2681-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2682-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2683-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2684-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2685-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2686-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2687-S,immobili,Campania,Napoli,Casoria,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2688-S,immobili,Campania,Napoli,Casoria,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2689-S,immobili,Campania,Napoli,Casoria,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2690-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2691-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2692-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2693-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2694-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2695-S,immobili,Campania,Napoli,Portici,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2697-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2698-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2699-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2700-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2701-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2702-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2703-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2704-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2705-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2706-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2707-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2708-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-2710-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per alloggio e usi collettivi,Unità  per allog. e usi coll. - non definito,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-2655-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2656-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2657-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2658-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2659-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2660-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2661-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2662-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2663-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2664-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2665-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2666-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2667-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2668-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2669-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2670-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2671-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2672-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2673-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2674-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2675-S,immobili,Campania,Napoli,Casoria,Terreno,Terreno agricolo,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2677-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2678-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2679-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2680-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2681-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,10%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2682-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2683-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2684-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2685-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2686-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2687-S,immobili,Campania,Napoli,Casoria,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2688-S,immobili,Campania,Napoli,Casoria,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2689-S,immobili,Campania,Napoli,Casoria,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2690-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2691-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2692-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2693-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2694-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2695-S,immobili,Campania,Napoli,Portici,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2697-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2698-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2699-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2700-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2701-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2702-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2703-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2704-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2705-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2706-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2707-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2708-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-NA-2710-S,immobili,Campania,Napoli,Casoria,Unità immobiliare per alloggio e usi collettivi,"Collegio e Convitto,Educandato,Ricovero, Orfanotrofio,Ospizio,Convento,Seminario",Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-2726-S,immobili,Campania,Napoli,Torre Annunziata,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-2758-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-30252-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -14311,6 +14309,7 @@ I-PA-42941-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno - non definito,Con
 I-PA-43056-S,immobili,Sicilia,Palermo,Partinico,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-43117-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca def.,9%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-43119-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno con fabbricato rurale,Confisca def.,11%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-43126-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-43166-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,12%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-43167-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,50%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-43172-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,12%,Tribunale,Palermo,Misure di Prevenzione
