@@ -572,6 +572,8 @@ I-AQ-91690-S,immobili,Abruzzo,L'Aquila,Roccaraso,Unità immobiliare a destinazio
 I-AQ-91725-S,immobili,Abruzzo,L'Aquila,Pescocostanzo,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-AQ-91726-S,immobili,Abruzzo,L'Aquila,Roccaraso,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-AQ-95238-S,immobili,Abruzzo,L'Aquila,Capistrello,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-AQ-96612-S,immobili,Abruzzo,L'Aquila,Barisciano,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-AQ-96629-S,immobili,Abruzzo,L'Aquila,Barisciano,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-AR-105686-S,immobili,Toscana,Arezzo,Arezzo,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Perugia,Misure di Prevenzione
 I-AR-105691-S,immobili,Toscana,Arezzo,Arezzo,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Perugia,Misure di Prevenzione
 I-AR-105696-S,immobili,Toscana,Arezzo,Arezzo,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Perugia,Misure di Prevenzione
@@ -2427,8 +2429,8 @@ I-CE-76181-S,immobili,Campania,Caserta,Maddaloni,Unità immobiliare a destinazio
 I-CE-76939-S,immobili,Campania,Caserta,Capodrise,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-CE-77534-S,immobili,Campania,Caserta,Arienzo,Terreno,Terreno - non definito,Confisca def.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-77544-S,immobili,Campania,Caserta,Arienzo,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-77546-S,immobili,Campania,Caserta,Arienzo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
-I-CE-77547-S,immobili,Campania,Caserta,Arienzo,Terreno,Terreno - non definito,Confisca def.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-77546-S,immobili,Campania,Caserta,Arienzo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
+I-CE-77547-S,immobili,Campania,Caserta,Arienzo,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-77548-S,immobili,Campania,Caserta,San Felice a Cancello,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-77549-S,immobili,Campania,Caserta,San Felice a Cancello,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-CE-77550-S,immobili,Campania,Caserta,San Felice a Cancello,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -5437,6 +5439,9 @@ I-FE-93191-S,immobili,Emilia Romagna,Ferrara,Cento,Unità immobiliare a destinaz
 I-FE-93192-S,immobili,Emilia Romagna,Ferrara,Cento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-FE-93193-S,immobili,Emilia Romagna,Ferrara,Cento,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-FE-93194-S,immobili,Emilia Romagna,Ferrara,Cento,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
+I-FE-96630-S,immobili,Emilia Romagna,Ferrara,Mirabello,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-FE-96953-S,immobili,Emilia Romagna,Ferrara,Mirabello,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-FE-96954-S,immobili,Emilia Romagna,Ferrara,Mirabello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-FG-100274-S,immobili,Puglia,Foggia,Orta Nova,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-118736-S,immobili,Puglia,Foggia,Foggia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Bari,Misure di Prevenzione
 I-FG-118737-S,immobili,Puglia,Foggia,Foggia,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Bari,Misure di Prevenzione
@@ -7116,6 +7121,8 @@ I-LT-96219-S,immobili,Lazio,Latina,Sperlonga,Unità immobiliare a destinazione c
 I-LT-96220-S,immobili,Lazio,Latina,Formia,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-LT-96223-S,immobili,Lazio,Latina,Sperlonga,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-LT-96224-S,immobili,Lazio,Latina,Sperlonga,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+I-LT-96231-S,immobili,Lazio,Latina,Latina,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-96244-S,immobili,Lazio,Latina,Latina,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,50%,Tribunale,Latina,Misure di Prevenzione
 I-LT-96299-S,immobili,Lazio,Latina,Formia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,20%,Tribunale,Latina,Misure di Prevenzione
 I-LT-96300-S,immobili,Lazio,Latina,Formia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
 I-LT-96301-S,immobili,Lazio,Latina,Formia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
@@ -7175,6 +7182,8 @@ I-LT-97017-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Conf
 I-LT-97018-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
 I-LT-97019-S,immobili,Lazio,Latina,Spigno Saturnia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
 I-LT-97022-S,immobili,Lazio,Latina,Formia,Terreno,Terreno agricolo,Confisca II,0%,Tribunale,Latina,Misure di Prevenzione
+I-LT-97180-S,immobili,Lazio,Latina,Latina,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-LT-97181-S,immobili,Lazio,Latina,Roccasecca dei Volsci,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-LT-97527-S,immobili,Lazio,Latina,Minturno,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-LT-97529-S,immobili,Lazio,Latina,Minturno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-LT-97539-S,immobili,Lazio,Latina,Minturno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
@@ -7355,13 +7364,6 @@ I-MB-52074-S,immobili,Lombardia,Monza e Brianza,Giussano,Unità immobiliare per 
 I-MB-52085-S,immobili,Lombardia,Monza e Brianza,Giussano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-52087-S,immobili,Lombardia,Monza e Brianza,Giussano,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-52089-S,immobili,Lombardia,Monza e Brianza,Giussano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-52114-S,immobili,Lombardia,Monza e Brianza,Bovisio-Masciago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-52115-S,immobili,Lombardia,Monza e Brianza,Bovisio-Masciago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-52116-S,immobili,Lombardia,Monza e Brianza,Bovisio-Masciago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-52117-S,immobili,Lombardia,Monza e Brianza,Bovisio-Masciago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-52119-S,immobili,Lombardia,Monza e Brianza,Bovisio-Masciago,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-52120-S,immobili,Lombardia,Monza e Brianza,Bovisio-Masciago,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
-I-MB-52121-S,immobili,Lombardia,Monza e Brianza,Bovisio-Masciago,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-52122-S,immobili,Lombardia,Monza e Brianza,Desio,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-52123-S,immobili,Lombardia,Monza e Brianza,Desio,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MB-52133-S,immobili,Lombardia,Monza e Brianza,Seregno,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -17625,7 +17627,7 @@ I-RC-90351-S,immobili,Calabria,Reggio Calabria,Reggio di Calabria,Terreno,Terren
 I-RC-9309-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Terreno,Terreno edificabile,Confisca def.,33%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-93173-S,immobili,Calabria,Reggio Calabria,Gioiosa Ionica,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 I-RC-93174-S,immobili,Calabria,Reggio Calabria,Gioiosa Ionica,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
-I-RC-93175-S,immobili,Calabria,Reggio Calabria,Gioiosa Ionica,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
+I-RC-93175-S,immobili,Calabria,Reggio Calabria,Gioiosa Ionica,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Reggio Calabria,Procedimento Penale
 I-RC-9342-S,immobili,Calabria,Reggio Calabria,Gioia Tauro,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,33%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-9505-S,immobili,Calabria,Reggio Calabria,Sant'Eufemia d'Aspromonte,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-96356-S,immobili,Calabria,Reggio Calabria,Palmi,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Tribunale,Reggio Calabria,Procedimento Penale
@@ -22323,6 +22325,7 @@ I-VE-90883-S,immobili,Veneto,Venezia,Jesolo,Unità immobiliare per uso di abitaz
 I-VE-93514-S,immobili,Veneto,Venezia,San Michele al Tagliamento,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Novara,Misure di Prevenzione
 I-VE-93515-S,immobili,Veneto,Venezia,San Michele al Tagliamento,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Novara,Misure di Prevenzione
 I-VE-93516-S,immobili,Veneto,Venezia,San Michele al Tagliamento,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Novara,Misure di Prevenzione
+I-VE-97058-S,immobili,Veneto,Venezia,Venezia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Sequestro,100%,Tribunale,Latina,Misure di Prevenzione
 I-VI-131081-S,immobili,Veneto,Vicenza,Asigliano Veneto,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Vicenza,Misure di Prevenzione
 I-VI-132660-S,immobili,Veneto,Vicenza,Caltrano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VI-133020-S,immobili,Veneto,Vicenza,Thiene,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
@@ -22356,6 +22359,10 @@ I-VI-70368-S,immobili,Veneto,Vicenza,Malo,Unità immobiliare per uso di abitazio
 I-VI-75673-S,immobili,Veneto,Vicenza,Chiampo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Vicenza,Procedimento Penale
 I-VI-81685-S,immobili,Veneto,Vicenza,Caldogno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Padova,Procedimento Penale
 I-VI-81686-S,immobili,Veneto,Vicenza,Caldogno,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Padova,Procedimento Penale
+I-VI-96249-S,immobili,Veneto,Vicenza,Vicenza,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-VI-96250-S,immobili,Veneto,Vicenza,Vicenza,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-VI-96251-S,immobili,Veneto,Vicenza,Vicenza,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
+I-VI-96252-S,immobili,Veneto,Vicenza,Vicenza,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-VR-101865-S,immobili,Veneto,Verona,Arcole,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-VR-101866-S,immobili,Veneto,Verona,Arcole,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-VR-12608-S,immobili,Veneto,Verona,Selva di Progno,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Brindisi,Misure di Prevenzione
@@ -22367,16 +22374,16 @@ I-VR-131408-S,immobili,Veneto,Verona,Nogarole Rocca,Unità immobiliare per uso d
 I-VR-132934-S,immobili,Veneto,Verona,Peschiera del Garda,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-VR-132941-S,immobili,Veneto,Verona,Peschiera del Garda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 I-VR-132999-S,immobili,Veneto,Verona,Sant'Ambrogio di Valpolicella,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
-I-VR-133001-S,immobili,Veneto,Verona,Verona,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
+I-VR-133001-S,immobili,Veneto,Verona,Sant'Ambrogio di Valpolicella,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VR-133003-S,immobili,Veneto,Verona,Sant'Ambrogio di Valpolicella,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VR-133005-S,immobili,Veneto,Verona,Verona,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VR-133006-S,immobili,Veneto,Verona,Trevenzuolo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VR-133007-S,immobili,Veneto,Verona,Sant'Ambrogio di Valpolicella,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VR-133011-S,immobili,Veneto,Verona,Sant'Ambrogio di Valpolicella,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
-I-VR-133012-S,immobili,Veneto,Verona,Verona,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
+I-VR-133012-S,immobili,Veneto,Verona,Sant'Ambrogio di Valpolicella,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VR-133013-S,immobili,Veneto,Verona,Verona,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VR-133014-S,immobili,Veneto,Verona,Verona,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
-I-VR-133015-S,immobili,Veneto,Verona,Verona,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
+I-VR-133015-S,immobili,Veneto,Verona,Sant'Ambrogio di Valpolicella,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VR-133017-S,immobili,Veneto,Verona,Bussolengo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VR-133018-S,immobili,Veneto,Verona,Verona,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VR-133019-S,immobili,Veneto,Verona,Sant'Ambrogio di Valpolicella,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
@@ -22399,7 +22406,7 @@ I-VR-133040-S,immobili,Veneto,Verona,Verona,Unità immobiliare per uso di abitaz
 I-VR-133041-S,immobili,Veneto,Verona,Verona,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VR-133044-S,immobili,Veneto,Verona,Sant'Ambrogio di Valpolicella,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VR-133045-S,immobili,Veneto,Verona,Trevenzuolo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
-I-VR-133047-S,immobili,Veneto,Verona,Verona,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
+I-VR-133047-S,immobili,Veneto,Verona,Sant'Ambrogio di Valpolicella,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VR-133048-S,immobili,Veneto,Verona,Verona,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VR-133049-S,immobili,Veneto,Verona,Verona,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-VR-133050-S,immobili,Veneto,Verona,Trevenzuolo,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
