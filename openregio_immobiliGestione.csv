@@ -1028,6 +1028,16 @@ I-BG-95971-S,immobili,Lombardia,Bergamo,Misano di Gera d'Adda,Unità immobiliare
 I-BG-95972-S,immobili,Lombardia,Bergamo,Grassobbio,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BG-95973-S,immobili,Lombardia,Bergamo,Misano di Gera d'Adda,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,50%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BG-95975-S,immobili,Lombardia,Bergamo,Scanzorosciate,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Rinvio,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BI-133736-S,immobili,Piemonte,Biella,Dorzano,Terreno,Terreno edificabile,Confisca II,100%,Procura della Repubblica,Biella,Procedimento Penale
+I-BI-133737-S,immobili,Piemonte,Biella,Dorzano,Terreno,Terreno edificabile,Confisca II,100%,Procura della Repubblica,Biella,Procedimento Penale
+I-BI-133738-S,immobili,Piemonte,Biella,Dorzano,Terreno,Terreno edificabile,Confisca II,100%,Procura della Repubblica,Biella,Procedimento Penale
+I-BI-133739-S,immobili,Piemonte,Biella,Biella,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Procura della Repubblica,Biella,Procedimento Penale
+I-BI-133740-S,immobili,Piemonte,Biella,Dorzano,Terreno,Terreno edificabile,Confisca II,100%,Procura della Repubblica,Biella,Procedimento Penale
+I-BI-133741-S,immobili,Piemonte,Biella,Dorzano,Terreno,Terreno edificabile,Confisca II,100%,Procura della Repubblica,Biella,Procedimento Penale
+I-BI-133742-S,immobili,Piemonte,Biella,Dorzano,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca II,100%,Procura della Repubblica,Biella,Procedimento Penale
+I-BI-133743-S,immobili,Piemonte,Biella,Dorzano,Terreno,Terreno edificabile,Confisca II,100%,Procura della Repubblica,Biella,Procedimento Penale
+I-BI-133744-S,immobili,Piemonte,Biella,Dorzano,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,100%,Procura della Repubblica,Biella,Procedimento Penale
+I-BI-133745-S,immobili,Piemonte,Biella,Dorzano,Terreno,Terreno edificabile,Confisca II,100%,Procura della Repubblica,Biella,Procedimento Penale
 I-BI-16475-S,immobili,Piemonte,Biella,Valle Mosso,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BI-16476-S,immobili,Piemonte,Biella,Valle Mosso,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-BI-16477-S,immobili,Piemonte,Biella,Valle Mosso,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -1347,7 +1357,7 @@ I-BS-101417-S,immobili,Lombardia,Brescia,Lonato del Garda,Unità immobiliare per
 I-BS-132359-S,immobili,Lombardia,Brescia,Chiari,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-BS-132369-S,immobili,Lombardia,Brescia,Pian Camuno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
 I-BS-132370-S,immobili,Lombardia,Brescia,Pian Camuno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Brescia,Misure di Prevenzione
-I-BS-132754-S,immobili,Lombardia,Brescia,Calcinato,Altra unità immobiliare,Fabbricato in corso di costruzione indivisibile,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
+I-BS-132754-S,immobili,Lombardia,Brescia,Calcinato,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-132756-S,immobili,Lombardia,Brescia,Calcinato,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-132760-S,immobili,Lombardia,Brescia,Calcinato,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Procura della Repubblica,Brescia,Procedimento Penale
 I-BS-132998-S,immobili,Lombardia,Brescia,Desenzano del Garda,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
@@ -19349,7 +19359,6 @@ I-RM-4465-S,immobili,Lazio,Roma,Nettuno,Terreno,Terreno agricolo,Confisca def.,1
 I-RM-4466-S,immobili,Lazio,Roma,Nettuno,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-4469-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-4470-S,immobili,Lazio,Roma,Nettuno,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-48176-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-48977-S,immobili,Lazio,Roma,Moricone,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-RM-48981-S,immobili,Lazio,Roma,Moricone,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-RM-48986-S,immobili,Lazio,Roma,Moricone,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -19667,7 +19676,6 @@ I-RM-86660-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e
 I-RM-86661-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-86696-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-86698-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-8688-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-87512-S,immobili,Lazio,Roma,Roma,Terreno,Terreno - non definito,,0%,Tribunale,Roma,Misure di Prevenzione
 I-RM-87513-S,immobili,Lazio,Roma,Roma,Terreno,Terreno - non definito,,0%,Tribunale,Roma,Misure di Prevenzione
 I-RM-87514-S,immobili,Lazio,Roma,Roma,Altra unità immobiliare,Altro,,0%,Tribunale,Roma,Misure di Prevenzione
