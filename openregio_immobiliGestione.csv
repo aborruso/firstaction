@@ -5647,9 +5647,9 @@ I-FG-80730-S,immobili,Puglia,Foggia,Poggio Imperiale,Unità immobiliare per uso 
 I-FG-80858-S,immobili,Puglia,Foggia,Foggia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-83203-S,immobili,Puglia,Foggia,Stornara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Bari,Procedimento Penale
 I-FG-84334-S,immobili,Puglia,Foggia,Stornara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-86713-S,immobili,Puglia,Foggia,Stornara,Unità immobiliare per uso di abitazione e assimilabile,Villa,,0%,Procura della Repubblica,Bari,Procedimento Penale
-I-FG-86714-S,immobili,Puglia,Foggia,Stornara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",,0%,Procura della Repubblica,Bari,Procedimento Penale
-I-FG-86715-S,immobili,Puglia,Foggia,Stornara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Procura della Repubblica,Bari,Procedimento Penale
+I-FG-86713-S,immobili,Puglia,Foggia,Stornara,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Bari,Procedimento Penale
+I-FG-86714-S,immobili,Puglia,Foggia,Stornara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bari,Procedimento Penale
+I-FG-86715-S,immobili,Puglia,Foggia,Stornara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bari,Procedimento Penale
 I-FG-86745-S,immobili,Puglia,Foggia,Cerignola,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Corte di Appello,Milano,Procedimento Penale
 I-FG-86746-S,immobili,Puglia,Foggia,Cerignola,Altra unità immobiliare,Altro,Confisca def.,100%,Corte di Appello,Milano,Procedimento Penale
 I-FG-94661-S,immobili,Puglia,Foggia,Orta Nova,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
@@ -10771,7 +10771,7 @@ I-NA-97467-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare per us
 I-NA-97632-S,immobili,Campania,Napoli,Qualiano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-97642-S,immobili,Campania,Napoli,Caivano,Unità immobiliare per uso di abitazione e assimilabile,Tettoia chiusa o aperta,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-97643-S,immobili,Campania,Napoli,Caivano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-97644-S,immobili,Campania,Napoli,Caivano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-97644-S,immobili,Campania,Napoli,Caivano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-97871-S,immobili,Campania,Napoli,Marano di Napoli,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-98-S,immobili,Campania,Napoli,Melito di Napoli,Terreno,Terreno edificabile,Confisca def.,50%,Procura della Repubblica,Napoli,Procedimento Penale
 I-NA-98283-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,Altro,,0%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -19168,6 +19168,7 @@ I-RM-133257-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare per uso di abitazio
 I-RM-133258-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-133259-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-133261-S,immobili,Lazio,Roma,Nettuno,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-133748-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-13391-S,immobili,Lazio,Roma,Roma,Unità immobiliare per alloggio e usi collettivi,"Collegio e Convitto,Educandato,Ricovero, Orfanotrofio,Ospizio,Convento,Seminario",Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-RM-13392-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-RM-13393-S,immobili,Lazio,Roma,Roma,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
@@ -19233,7 +19234,7 @@ I-RM-36983-S,immobili,Lazio,Roma,Pomezia,Unità immobiliare per uso di abitazion
 I-RM-36984-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-36985-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-36986-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
-I-RM-36987-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
+I-RM-36987-S,immobili,Lazio,Roma,Roma,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Sequestro,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-36988-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-36989-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 I-RM-36990-S,immobili,Lazio,Roma,Fiumicino,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
