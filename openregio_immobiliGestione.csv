@@ -1558,6 +1558,7 @@ I-CA-108467-S,immobili,Sardegna,Cagliari,Villasimius,Unità immobiliare per uso 
 I-CA-108469-S,immobili,Sardegna,Cagliari,Villasimius,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Procura della Repubblica,Mondovì,Procedimento Penale
 I-CA-108470-S,immobili,Sardegna,Cagliari,Villasimius,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Mondovì,Procedimento Penale
 I-CA-124273-S,immobili,Sardegna,Cagliari,Assemini,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Cagliari,Procedimento Penale
+I-CA-133804-S,immobili,Sardegna,Cagliari,Domus de Maria,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,50%,Procura della Repubblica,Vicenza,Procedimento Penale
 I-CA-13443-S,immobili,Sardegna,Cagliari,Sestu,Unità immobiliare per uso di abitazione e assimilabile,Villa,Rinvio,100%,Procura della Repubblica,Cagliari,Procedimento Penale
 I-CA-13449-S,immobili,Sardegna,Cagliari,Settimo San Pietro,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Cagliari,Procedimento Penale
 I-CA-13450-S,immobili,Sardegna,Cagliari,Settimo San Pietro,Terreno,Terreno edificabile,Confisca def.,100%,Procura della Repubblica,Cagliari,Procedimento Penale
@@ -5628,8 +5629,6 @@ I-FI-131423-S,immobili,Toscana,Firenze,Fucecchio,Altra unità immobiliare,Altro,
 I-FI-131427-S,immobili,Toscana,Firenze,Fucecchio,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,90%,Tribunale,Venezia,Misure di Prevenzione
 I-FI-23139-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 I-FI-23140-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
-I-FI-23141-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
-I-FI-23142-S,immobili,Toscana,Firenze,Firenze,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 I-FI-75942-S,immobili,Toscana,Firenze,Campi Bisenzio,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Firenze,Misure di Prevenzione
 I-FI-84642-S,immobili,Toscana,Firenze,Signa,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Prato,Misure di Prevenzione
 I-FM-103575-S,immobili,Marche,Fermo,Fermo,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Tribunale,Ancona,Misure di Prevenzione
@@ -8183,6 +8182,12 @@ I-MI-133481-S,immobili,Lombardia,Milano,Peschiera Borromeo,Unità immobiliare pe
 I-MI-133491-S,immobili,Lombardia,Milano,Peschiera Borromeo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
 I-MI-133614-S,immobili,Lombardia,Milano,Bubbiano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-133615-S,immobili,Lombardia,Milano,Bubbiano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-133792-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-133794-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-133795-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-133797-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-133798-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
+I-MI-133800-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-13607-S,immobili,Lombardia,Milano,Lainate,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-13608-S,immobili,Lombardia,Milano,Lainate,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-13609-S,immobili,Lombardia,Milano,Lainate,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
@@ -13606,7 +13611,6 @@ I-PA-131956-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca
 I-PA-131963-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-131964-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132127-S,immobili,Sicilia,Palermo,Partinico,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-132236-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132237-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132241-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132242-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
