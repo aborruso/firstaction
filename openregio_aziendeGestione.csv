@@ -755,6 +755,10 @@ A-EN-100385-S,aziende,Sicilia,Enna,Leonforte,Società a responsabilità limitata
 A-EN-100387-S,aziende,Sicilia,Enna,Leonforte,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,51%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-EN-118679-S,aziende,Sicilia,Enna,Piazza Armerina,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
 A-EN-133684-S,aziende,Sicilia,Enna,Piazza Armerina,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-EN-133820-S,aziende,Sicilia,Enna,Piazza Armerina,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
+A-EN-133822-S,aziende,Sicilia,Enna,Assoro,Impresa individuale,"Agricoltura, caccia e silvicoltura",Revoca Seq.,0%,Tribunale,Enna,Misure di Prevenzione
+A-EN-133824-S,aziende,Sicilia,Enna,Aidone,Società semplice,"Agricoltura, caccia e silvicoltura",Revoca Conf.,0%,Tribunale,Enna,Misure di Prevenzione
+A-EN-133826-S,aziende,Sicilia,Enna,Valguarnera Caropepe,Società semplice,"Agricoltura, caccia e silvicoltura",Revoca Seq.,0%,Tribunale,Enna,Misure di Prevenzione
 A-EN-23317-S,aziende,Sicilia,Enna,Valguarnera Caropepe,Impresa individuale,Costruzioni,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
 A-EN-61556-S,aziende,Sicilia,Enna,Regalbuto,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-EN-61557-S,aziende,Sicilia,Enna,Regalbuto,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
@@ -984,6 +988,7 @@ A-ME-105391-S,aziende,Sicilia,Messina,Santa Lucia del Mela,Società in accomandi
 A-ME-105409-S,aziende,Sicilia,Messina,Santa Lucia del Mela,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Tribunale,Messina,Misure di Prevenzione
 A-ME-132494-S,aziende,Sicilia,Messina,Messina,Altro,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 A-ME-133288-S,aziende,Sicilia,Messina,Sant'Alessio Siculo,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,70%,Tribunale,Venezia,Misure di Prevenzione
+A-ME-133825-S,aziende,Sicilia,Messina,Santo Stefano di Camastra,Società semplice,"Agricoltura, caccia e silvicoltura",Revoca Conf.,0%,Tribunale,Enna,Misure di Prevenzione
 A-ME-18473-S,aziende,Sicilia,Messina,Alì Terme,Altro,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 A-ME-20194-S,aziende,Sicilia,Messina,Giardini-Naxos,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,50%,Procura della Repubblica,Catania,Procedimento Penale
 A-ME-33575-S,aziende,Sicilia,Messina,Barcellona Pozzo di Gotto,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
@@ -1227,7 +1232,7 @@ A-NA-105203-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata
 A-NA-105227-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Attività finanziarie,Sequestro,39%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-105239-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-105269-S,aziende,Campania,Napoli,Marano di Napoli,Società in accomandita semplice,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Sequestro,100%,Tribunale,Napoli,Procedimento Penale
-A-NA-105629-S,aziende,Campania,Napoli,Afragola,Impresa individuale,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
+A-NA-105629-S,aziende,Campania,Napoli,Afragola,Impresa individuale,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-108137-S,aziende,Campania,Napoli,Roccarainola,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Napoli,Procedimento Penale
 A-NA-108138-S,aziende,Campania,Napoli,Qualiano,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Napoli,Procedimento Penale
 A-NA-108235-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca II,100%,Tribunale,Napoli,Misure di Prevenzione
@@ -2833,7 +2838,7 @@ A-SV-105875-S,aziende,Liguria,Savona,Loano,Società a responsabilità limitata,"
 A-SV-59912-S,aziende,Liguria,Savona,Ceriale,Società a responsabilità limitata,Costruzioni,Confisca def.,52%,Tribunale,Savona,Misure di Prevenzione
 A-SV-60212-S,aziende,Liguria,Savona,Alassio,Società a responsabilità limitata,Attività finanziarie,Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
 A-SV-93486-S,aziende,Liguria,Savona,Loano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,0%,Tribunale,Savona,Misure di Prevenzione
-A-SV-94878-S,aziende,Liguria,Savona,Albenga,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",,100%,Tribunale,Savona,Misure di Prevenzione
+A-SV-94878-S,aziende,Liguria,Savona,Albenga,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Savona,Misure di Prevenzione
 A-TA-101725-S,aziende,Puglia,Taranto,Taranto,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 A-TA-115273-S,aziende,Puglia,Taranto,Fragagnano,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
 A-TA-118509-S,aziende,Puglia,Taranto,Taranto,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Sequestro,100%,Tribunale,Lecce,Misure di Prevenzione

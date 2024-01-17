@@ -777,6 +777,8 @@ I-BA-133273-S,immobili,Puglia,Bari,Modugno,Terreno,Terreno agricolo,Confisca def
 I-BA-133274-S,immobili,Puglia,Bari,Modugno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Bari,Procedimento Penale
 I-BA-133275-S,immobili,Puglia,Bari,Modugno,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Bari,Procedimento Penale
 I-BA-133276-S,immobili,Puglia,Bari,Modugno,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Procura della Repubblica,Bari,Procedimento Penale
+I-BA-133809-S,immobili,Puglia,Bari,Bari,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
+I-BA-133811-S,immobili,Puglia,Bari,Bari,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Revoca Seq.,0%,Tribunale,Bari,Misure di Prevenzione
 I-BA-13965-S,immobili,Puglia,Bari,Gravina in Puglia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-13966-S,immobili,Puglia,Bari,Gravina in Puglia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,20%,Tribunale,Bari,Misure di Prevenzione
 I-BA-14008-S,immobili,Puglia,Bari,Altamura,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
@@ -3013,7 +3015,6 @@ I-CL-22823-S,immobili,Sicilia,Caltanissetta,Resuttano,Terreno,Terreno - non defi
 I-CL-22824-S,immobili,Sicilia,Caltanissetta,Resuttano,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-22825-S,immobili,Sicilia,Caltanissetta,Resuttano,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-22826-S,immobili,Sicilia,Caltanissetta,Resuttano,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-22912-S,immobili,Sicilia,Caltanissetta,Gela,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-25410-S,immobili,Sicilia,Caltanissetta,Mussomeli,Terreno,Terreno con fabbricato rurale,Confisca def.,50%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-25411-S,immobili,Sicilia,Caltanissetta,Mussomeli,Terreno,Terreno agricolo,Confisca def.,12%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-25422-S,immobili,Sicilia,Caltanissetta,Mussomeli,Terreno,Terreno agricolo,Confisca def.,20%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -3027,7 +3028,6 @@ I-CL-34828-S,immobili,Sicilia,Caltanissetta,Gela,Terreno,Terreno con fabbricato 
 I-CL-34829-S,immobili,Sicilia,Caltanissetta,Gela,Terreno,Terreno agricolo,Confisca def.,12%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-36106-S,immobili,Sicilia,Caltanissetta,Gela,Terreno,Terreno agricolo,Confisca def.,33%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-36110-S,immobili,Sicilia,Caltanissetta,Gela,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,50%,Tribunale,Caltanissetta,Misure di Prevenzione
-I-CL-39966-S,immobili,Sicilia,Caltanissetta,Gela,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-40999-S,immobili,Sicilia,Caltanissetta,Gela,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,7%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-41000-S,immobili,Sicilia,Caltanissetta,Gela,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,7%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-CL-41001-S,immobili,Sicilia,Caltanissetta,Gela,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,7%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -5273,6 +5273,8 @@ I-EN-133723-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,Con
 I-EN-133724-S,immobili,Sicilia,Enna,Piazza Armerina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-EN-133726-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-EN-133727-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+I-EN-133818-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
+I-EN-133823-S,immobili,Sicilia,Enna,Aidone,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
 I-EN-22827-S,immobili,Sicilia,Enna,Calascibetta,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-EN-22828-S,immobili,Sicilia,Enna,Calascibetta,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-EN-22829-S,immobili,Sicilia,Enna,Calascibetta,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -5480,7 +5482,6 @@ I-FE-93194-S,immobili,Emilia Romagna,Ferrara,Cento,Terreno,Terreno agricolo,Conf
 I-FE-96630-S,immobili,Emilia Romagna,Ferrara,Mirabello,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-FE-96953-S,immobili,Emilia Romagna,Ferrara,Mirabello,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 I-FE-96954-S,immobili,Emilia Romagna,Ferrara,Mirabello,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
-I-FG-100274-S,immobili,Puglia,Foggia,Orta Nova,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-118736-S,immobili,Puglia,Foggia,Foggia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Bari,Misure di Prevenzione
 I-FG-118737-S,immobili,Puglia,Foggia,Foggia,Terreno,Terreno agricolo,Confisca II,100%,Tribunale,Bari,Misure di Prevenzione
 I-FG-118738-S,immobili,Puglia,Foggia,Foggia,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Bari,Misure di Prevenzione
@@ -6134,9 +6135,6 @@ I-KR-104554-S,immobili,Calabria,Crotone,Cutro,Terreno,Terreno agricolo,Confisca 
 I-KR-104555-S,immobili,Calabria,Crotone,Cutro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-KR-106573-S,immobili,Calabria,Crotone,Crotone,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
 I-KR-106583-S,immobili,Calabria,Crotone,Crotone,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Bologna,Misure di Prevenzione
-I-KR-130830-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
-I-KR-132121-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
-I-KR-132122-S,immobili,Calabria,Crotone,Cirò Marina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 I-KR-133325-S,immobili,Calabria,Crotone,Cutro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-KR-133333-S,immobili,Calabria,Crotone,Cutro,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 I-KR-133339-S,immobili,Calabria,Crotone,Cutro,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
@@ -6423,6 +6421,7 @@ I-LE-16878-S,immobili,Puglia,Lecce,Gallipoli,Unità immobiliare per uso di abita
 I-LE-16879-S,immobili,Puglia,Lecce,Gallipoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
 I-LE-17378-S,immobili,Puglia,Lecce,Campi Salentina,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
 I-LE-17379-S,immobili,Puglia,Lecce,Campi Salentina,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
+I-LE-17380-S,immobili,Puglia,Lecce,Lecce,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Lecce,Misure di Prevenzione
 I-LE-17476-S,immobili,Puglia,Lecce,Nardò,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
 I-LE-17477-S,immobili,Puglia,Lecce,Nardò,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
 I-LE-17478-S,immobili,Puglia,Lecce,Nardò,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
@@ -8587,7 +8586,6 @@ I-MI-81521-S,immobili,Lombardia,Milano,Pioltello,Unità immobiliare per uso di a
 I-MI-81561-S,immobili,Lombardia,Milano,Milano,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Corte di Appello,Milano,Procedimento Penale
 I-MI-81615-S,immobili,Lombardia,Milano,Garbagnate Milanese,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-81617-S,immobili,Lombardia,Milano,Garbagnate Milanese,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-MI-81978-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-MI-82746-S,immobili,Lombardia,Milano,Cerro Maggiore,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Monza,Misure di Prevenzione
 I-MI-83550-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-MI-83551-S,immobili,Lombardia,Milano,Milano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
@@ -9193,8 +9191,6 @@ I-NA-132065-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abit
 I-NA-132072-S,immobili,Campania,Napoli,San Sebastiano al Vesuvio,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-1323-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-132347-S,immobili,Campania,Napoli,Napoli,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-132367-S,immobili,Campania,Napoli,Acerra,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-NA-132368-S,immobili,Campania,Napoli,Acerra,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-132383-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-132484-S,immobili,Campania,Napoli,Poggiomarino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-132486-S,immobili,Campania,Napoli,Poggiomarino,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
