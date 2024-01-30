@@ -9233,6 +9233,8 @@ I-NA-132607-S,immobili,Campania,Napoli,Casoria,Altra unità immobiliare,Altro,Co
 I-NA-132609-S,immobili,Campania,Napoli,Afragola,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-133010-S,immobili,Campania,Napoli,Lacco Ameno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 I-NA-133042-S,immobili,Campania,Napoli,Lacco Ameno,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
+I-NA-133890-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
+I-NA-133891-S,immobili,Campania,Napoli,Napoli,Unità immobiliare per alloggio e usi collettivi,"Albergo, Pensione",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-16181-S,immobili,Campania,Napoli,Castellammare di Stabia,Terreno,Terreno edificabile,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-16273-S,immobili,Campania,Napoli,Casoria,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 I-NA-16274-S,immobili,Campania,Napoli,Caivano,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
@@ -20126,13 +20128,13 @@ I-SA-85827-S,immobili,Campania,Salerno,Scafati,Terreno,Terreno agricolo,Sequestr
 I-SA-85829-S,immobili,Campania,Salerno,Scafati,Terreno,Terreno agricolo,Sequestro,100%,Procura della Repubblica,Napoli,Procedimento Penale
 I-SA-87314-S,immobili,Campania,Salerno,Mercato San Severino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-87809-S,immobili,Campania,Salerno,Nocera Inferiore,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
-I-SA-87819-S,immobili,Campania,Salerno,Campagna,Altra unità immobiliare,Altro,Confisca II,75%,Tribunale,Salerno,Misure di Prevenzione
-I-SA-87827-S,immobili,Campania,Salerno,Campagna,Terreno,Terreno agricolo,Confisca II,75%,Tribunale,Salerno,Misure di Prevenzione
-I-SA-87830-S,immobili,Campania,Salerno,Campagna,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,75%,Tribunale,Salerno,Misure di Prevenzione
-I-SA-87834-S,immobili,Campania,Salerno,Campagna,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,75%,Tribunale,Salerno,Misure di Prevenzione
-I-SA-87836-S,immobili,Campania,Salerno,Campagna,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca II,75%,Tribunale,Salerno,Misure di Prevenzione
-I-SA-87840-S,immobili,Campania,Salerno,Campagna,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,100%,Tribunale,Salerno,Misure di Prevenzione
-I-SA-87842-S,immobili,Campania,Salerno,Campagna,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca II,75%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-87819-S,immobili,Campania,Salerno,Campagna,Altra unità immobiliare,Altro,Confisca def.,75%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-87827-S,immobili,Campania,Salerno,Campagna,Terreno,Terreno agricolo,Confisca def.,75%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-87830-S,immobili,Campania,Salerno,Campagna,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,75%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-87834-S,immobili,Campania,Salerno,Campagna,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,75%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-87836-S,immobili,Campania,Salerno,Campagna,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,75%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-87840-S,immobili,Campania,Salerno,Campagna,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,50%,Tribunale,Salerno,Misure di Prevenzione
+I-SA-87842-S,immobili,Campania,Salerno,Campagna,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,75%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-87934-S,immobili,Campania,Salerno,Salerno,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-88160-S,immobili,Campania,Salerno,Cava de' Tirreni,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 I-SA-89114-S,immobili,Campania,Salerno,Agropoli,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Napoli,Misure di Prevenzione
