@@ -837,12 +837,6 @@ I-BA-38393-S,immobili,Puglia,Bari,Bitonto,Terreno,Terreno agricolo,Confisca def.
 I-BA-38394-S,immobili,Puglia,Bari,Bitonto,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
 I-BA-38395-S,immobili,Puglia,Bari,Bitonto,Terreno,Terreno agricolo,Confisca def.,25%,Tribunale,Bari,Misure di Prevenzione
 I-BA-38396-S,immobili,Puglia,Bari,Bitonto,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Bari,Misure di Prevenzione
-I-BA-38398-S,immobili,Puglia,Bari,Bitonto,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
-I-BA-38402-S,immobili,Puglia,Bari,Bitonto,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
-I-BA-38404-S,immobili,Puglia,Bari,Bitonto,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
-I-BA-38406-S,immobili,Puglia,Bari,Bitonto,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
-I-BA-38407-S,immobili,Puglia,Bari,Bitonto,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
-I-BA-38408-S,immobili,Puglia,Bari,Bitonto,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Bari,Misure di Prevenzione
 I-BA-38409-S,immobili,Puglia,Bari,Bitonto,Terreno,Terreno agricolo,Confisca def.,16%,Tribunale,Bari,Misure di Prevenzione
 I-BA-38411-S,immobili,Puglia,Bari,Bitonto,Terreno,Terreno agricolo,Confisca def.,15%,Tribunale,Bari,Misure di Prevenzione
 I-BA-38412-S,immobili,Puglia,Bari,Bitonto,Terreno,Terreno agricolo,Confisca def.,15%,Tribunale,Bari,Misure di Prevenzione
@@ -6023,8 +6017,8 @@ I-GE-60000-S,immobili,Liguria,Genova,San Colombano Certenoli,Terreno,Terreno - n
 I-GE-60003-S,immobili,Liguria,Genova,San Colombano Certenoli,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-60006-S,immobili,Liguria,Genova,San Colombano Certenoli,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-60008-S,immobili,Liguria,Genova,San Colombano Certenoli,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Genova,Misure di Prevenzione
-I-GE-70940-S,immobili,Liguria,Genova,Genova,Altra unità immobiliare,Altro,Confisca def.,100%,Tribunale,Cremona,Misure di Prevenzione
-I-GE-70942-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Cremona,Misure di Prevenzione
+I-GE-70940-S,immobili,Liguria,Genova,Genova,Altra unità immobiliare,Altro,Revoca Conf. parziale,100%,Tribunale,Cremona,Misure di Prevenzione
+I-GE-70942-S,immobili,Liguria,Genova,Genova,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Revoca Conf. parziale,100%,Tribunale,Cremona,Misure di Prevenzione
 I-GE-72291-S,immobili,Liguria,Genova,Sant'Olcese,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-72300-S,immobili,Liguria,Genova,Serra Riccò,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
 I-GE-72543-S,immobili,Liguria,Genova,Serra Riccò,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Genova,Misure di Prevenzione
@@ -14138,7 +14132,6 @@ I-PA-33027-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca 
 I-PA-33053-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,50%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-33054-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-33069-S,immobili,Sicilia,Palermo,Monreale,Terreno,Terreno agricolo,Confisca def.,75%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-33134-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-33138-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-33139-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-33140-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
