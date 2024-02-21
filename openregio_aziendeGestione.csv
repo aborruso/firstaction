@@ -889,7 +889,7 @@ A-LT-101145-S,aziende,Lazio,Latina,Fondi,Società cooperativa,"Altri servizi pub
 A-LT-101149-S,aziende,Lazio,Latina,Fondi,Società cooperativa a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-101165-S,aziende,Lazio,Latina,Fondi,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca I,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-102318-S,aziende,Lazio,Latina,Aprilia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
-A-LT-103358-S,aziende,Lazio,Latina,Santi Cosma e Damiano,Società a responsabilità limitata,Costruzioni,Confisca II,100%,Tribunale,Latina,Misure di Prevenzione
+A-LT-103358-S,aziende,Lazio,Latina,Santi Cosma e Damiano,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Latina,Misure di Prevenzione
 A-LT-105540-S,aziende,Lazio,Latina,Aprilia,Società a responsabilità limitata,Costruzioni,Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 A-LT-105549-S,aziende,Lazio,Latina,Latina,Società per azioni,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
 A-LT-105614-S,aziende,Lazio,Latina,Latina,Società a responsabilità limitata,"Produzione e distribuzione di energia elettrica, gas e acqua",Confisca I,100%,Tribunale,Roma,Misure di Prevenzione
@@ -1578,7 +1578,6 @@ A-NO-87411-S,aziende,Piemonte,Novara,Borgomanero,Società a responsabilità limi
 A-NO-87412-S,aziende,Piemonte,Novara,Ghemme,Società a responsabilità limitata,Costruzioni,Confisca II,100%,Tribunale,Novara,Misure di Prevenzione
 A-NO-87413-S,aziende,Piemonte,Novara,Ghemme,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca II,100%,Tribunale,Novara,Misure di Prevenzione
 A-NO-87693-S,aziende,Piemonte,Novara,Sizzano,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca II,100%,Tribunale,Novara,Misure di Prevenzione
-A-NO-93495-S,aziende,Piemonte,Novara,Sizzano,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",,100%,Tribunale,Novara,Misure di Prevenzione
 A-NO-93496-S,aziende,Piemonte,Novara,Prato Sesia,Società in accomandita semplice,"Trasporti, magazzinaggio e comunicazioni",Confisca II,100%,Tribunale,Novara,Misure di Prevenzione
 A-NU-92730-S,aziende,Sardegna,Nuoro,Nuoro,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,90%,Tribunale,Nuoro,Misure di Prevenzione
 A-OG-72646-S,aziende,Sardegna,Ogliastra,Cardedu,Società a responsabilità limitata,Alberghi e ristoranti,Sequestro,75%,Procura della Repubblica,Cagliari,Procedimento Penale
@@ -2825,6 +2824,7 @@ A-SP-75951-S,aziende,Liguria,La Spezia,La Spezia,Società a responsabilità limi
 A-SP-76121-S,aziende,Liguria,La Spezia,Sarzana,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Genova,Procedimento Penale
 A-SP-82885-S,aziende,Liguria,La Spezia,La Spezia,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Sequestro,95%,Procura della Repubblica,Piacenza,Procedimento Penale
 A-SP-82962-S,aziende,Liguria,La Spezia,La Spezia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Sequestro,45%,Procura della Repubblica,Piacenza,Procedimento Penale
+A-SP-93495-S,aziende,Liguria,La Spezia,Bolano,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca I,48%,Tribunale,Novara,Misure di Prevenzione
 A-SP-94468-S,aziende,Liguria,La Spezia,La Spezia,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,99%,Tribunale,La Spezia,Misure di Prevenzione
 A-SP-94501-S,aziende,Liguria,La Spezia,La Spezia,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca II,100%,Tribunale,La Spezia,Misure di Prevenzione
 A-SR-104409-S,aziende,Sicilia,Siracusa,Augusta,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
