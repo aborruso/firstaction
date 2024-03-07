@@ -5125,7 +5125,7 @@ I-EN-118678-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,Con
 I-EN-130861-S,immobili,Sicilia,Enna,Regalbuto,Altra unità immobiliare,Ex fabbricato rurale,Confisca def.,100%,Tribunale,Catania,Misure di Prevenzione
 I-EN-131024-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
 I-EN-131025-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
-I-EN-132511-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,,0%,Tribunale,Enna,Misure di Prevenzione
+I-EN-132511-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Enna,Misure di Prevenzione
 I-EN-132512-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Enna,Misure di Prevenzione
 I-EN-132513-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,,0%,Tribunale,Enna,Misure di Prevenzione
 I-EN-132514-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,,0%,Tribunale,Enna,Misure di Prevenzione
@@ -5140,12 +5140,12 @@ I-EN-132522-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,,0%
 I-EN-132523-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,,0%,Tribunale,Enna,Misure di Prevenzione
 I-EN-132524-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,,0%,Tribunale,Enna,Misure di Prevenzione
 I-EN-132525-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,,0%,Tribunale,Enna,Misure di Prevenzione
-I-EN-132526-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,,0%,Tribunale,Enna,Misure di Prevenzione
+I-EN-132526-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Enna,Misure di Prevenzione
 I-EN-132527-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Enna,Misure di Prevenzione
 I-EN-132528-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Enna,Misure di Prevenzione
-I-EN-132529-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,,0%,Tribunale,Enna,Misure di Prevenzione
+I-EN-132529-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Enna,Misure di Prevenzione
 I-EN-132530-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Enna,Misure di Prevenzione
-I-EN-132531-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,,0%,Tribunale,Enna,Misure di Prevenzione
+I-EN-132531-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,Confisca def.,0%,Tribunale,Enna,Misure di Prevenzione
 I-EN-133650-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-EN-133651-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 I-EN-133652-S,immobili,Sicilia,Enna,Piazza Armerina,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -5486,7 +5486,6 @@ I-FG-17499-S,immobili,Puglia,Foggia,Foggia,Altra unità immobiliare,Altra unità
 I-FG-18041-S,immobili,Puglia,Foggia,Foggia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-18042-S,immobili,Puglia,Foggia,San Nicandro Garganico,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-18043-S,immobili,Puglia,Foggia,Apricena,Terreno,Terreno - non definito,Confisca def.,25%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-28712-S,immobili,Puglia,Foggia,Orta Nova,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-28953-S,immobili,Puglia,Foggia,Carapelle,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,33%,Tribunale,Bari,Misure di Prevenzione
 I-FG-28954-S,immobili,Puglia,Foggia,Carapelle,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,33%,Tribunale,Bari,Misure di Prevenzione
 I-FG-29046-S,immobili,Puglia,Foggia,Carapelle,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Procura della Repubblica,Bari,Procedimento Penale
@@ -5506,7 +5505,6 @@ I-FG-43342-S,immobili,Puglia,Foggia,Apricena,Terreno,Terreno - non definito,Conf
 I-FG-43343-S,immobili,Puglia,Foggia,Apricena,Terreno,Terreno - non definito,Confisca def.,50%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-43345-S,immobili,Puglia,Foggia,Apricena,Terreno,Terreno - non definito,Confisca def.,50%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-43348-S,immobili,Puglia,Foggia,Apricena,Terreno,Terreno - non definito,Confisca def.,50%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-43541-S,immobili,Puglia,Foggia,Orta Nova,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-48222-S,immobili,Puglia,Foggia,Lucera,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-48224-S,immobili,Puglia,Foggia,Lucera,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-48227-S,immobili,Puglia,Foggia,Lucera,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
@@ -6620,10 +6618,8 @@ I-LI-74122-S,immobili,Toscana,Livorno,Cecina,Unità immobiliare per uso di abita
 I-LI-74123-S,immobili,Toscana,Livorno,Cecina,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca II,100%,Tribunale,Bergamo,Misure di Prevenzione
 I-LO-10106-S,immobili,Lombardia,Lodi,Mulazzano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,0%,Tribunale,Milano,Misure di Prevenzione
 I-LO-10107-S,immobili,Lombardia,Lodi,Mulazzano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,0%,Tribunale,Milano,Misure di Prevenzione
-I-LO-101602-S,immobili,Lombardia,Lodi,Corno Giovine,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-LO-101606-S,immobili,Lombardia,Lodi,Pieve Fissiraga,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-LO-101609-S,immobili,Lombardia,Lodi,Pieve Fissiraga,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
-I-LO-101612-S,immobili,Lombardia,Lodi,Corno Giovine,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-LO-131031-S,immobili,Lombardia,Lodi,Casaletto Lodigiano,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-LO-131032-S,immobili,Lombardia,Lodi,Casaletto Lodigiano,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 I-LO-131559-S,immobili,Lombardia,Lodi,Senna Lodigiana,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
