@@ -669,8 +669,8 @@ Calabria,Tribunale,Vibo Valentia,Misure di Prevenzione,Confisca def.,5/2010
 Calabria,Tribunale,Vibo Valentia,Misure di Prevenzione,Confisca def.,62/2008
 Calabria,Tribunale,Vibo Valentia,Misure di Prevenzione,Confisca def.,7/2009
 Calabria,Tribunale,Vibo Valentia,Misure di Prevenzione,Confisca def.,76/2009
-Calabria,Tribunale,Vibo Valentia,Misure di Prevenzione,Confisca def.,9/2014
 Calabria,Tribunale,Vibo Valentia,Misure di Prevenzione,Revoca Conf.,16/2013
+Calabria,Tribunale,Vibo Valentia,Misure di Prevenzione,Revoca Conf.,9/2014
 Calabria,Tribunale,Vibo Valentia,Misure di Prevenzione,Revoca Conf. parziale,2/2011
 Campania,Procura della Repubblica,Avellino,Procedimento Penale,Sequestro,3474/2013
 Campania,Tribunale,Avellino,Misure di Prevenzione,Confisca I,12/2005
@@ -780,6 +780,7 @@ Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca def.,34058
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca def.,35419/2006
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca def.,36019/2010
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca def.,36044/2014
+Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca def.,36534/2014
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca def.,367291/2008
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca def.,36864/2001
 Campania,Procura della Repubblica,Napoli,Procedimento Penale,Confisca def.,36872/2011
@@ -1773,6 +1774,7 @@ Liguria,Procura della Repubblica,Genova,Procedimento Penale,Revoca Conf.,10639/2
 Liguria,Procura della Repubblica,Genova,Procedimento Penale,Revoca Conf.,718/2006
 Liguria,Procura della Repubblica,Genova,Procedimento Penale,Revoca Conf. parziale,13541/2007
 Liguria,Procura della Repubblica,Genova,Procedimento Penale,Revoca Conf. parziale,16232/2012
+Liguria,Tribunale,Genova,Misure di Prevenzione,,11/2023
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca I,25/2016
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca I,33/2021
 Liguria,Tribunale,Genova,Misure di Prevenzione,Confisca II,10/2017
@@ -2119,6 +2121,7 @@ Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Revoca Seq.,56557/
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Revoca Seq.,9506/2011
 Lombardia,Procura della Repubblica,Milano,Procedimento Penale,Sequestro,4366/2012
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,103/2022
+Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,114/2020
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,122/2017
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,202/2001
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca I,21/2012
@@ -2375,6 +2378,7 @@ Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,9/2015
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,92/2018
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,93/2009
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,93/2012
+Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,93/2020
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,94/2013
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,95/2017
 Lombardia,Tribunale,Milano,Misure di Prevenzione,Confisca def.,95/2018
@@ -2431,6 +2435,7 @@ Lombardia,Tribunale,Milano,Procedimento Penale,Confisca def.,29101/2022
 Lombardia,Tribunale,Milano,Procedimento Penale,Confisca def.,41809/2019
 Lombardia,Tribunale,Milano,Procedimento Penale,Confisca def.,50780/2010
 Lombardia,Tribunale,Milano,Procedimento Penale,Confisca def.,5601/1998
+Lombardia,Tribunale,Milano,Procedimento Penale,Confisca def.,6085/2017
 Lombardia,Procura della Repubblica,Monza,Procedimento Penale,Confisca I,11/2015
 Lombardia,Procura della Repubblica,Monza,Procedimento Penale,Confisca def.,11208/2014
 Lombardia,Procura della Repubblica,Monza,Procedimento Penale,Confisca def.,217/1999
@@ -2488,6 +2493,7 @@ Marche,Tribunale,Pesaro,Misure di Prevenzione,Confisca def.,4/2011
 Marche,Tribunale,Pesaro,Misure di Prevenzione,Confisca def.,6/2017
 Molise,Tribunale,Isernia,Misure di Prevenzione,Confisca def.,3/2014
 Piemonte,Procura della Repubblica,Alba,Procedimento Penale,Confisca II,654321/2013
+Piemonte,Procura della Repubblica,Alessandria,Procedimento Penale,Confisca def.,2319/2020
 Piemonte,Procura della Repubblica,Alessandria,Procedimento Penale,Confisca def.,4912/2016
 Piemonte,Tribunale,Alessandria,Misure di Prevenzione,Confisca def.,1/2012
 Piemonte,Tribunale,Alessandria,Misure di Prevenzione,Confisca def.,3/2011
@@ -2518,6 +2524,7 @@ Piemonte,Procura della Repubblica,Pinerolo,Procedimento Penale,Confisca def.,142
 Piemonte,Corte di Appello,Torino,Misure di Prevenzione,Confisca def.,01/2018
 Piemonte,Corte di Appello,Torino,Procedimento Penale,Confisca def.,1/2004
 Piemonte,Procura della Repubblica,Torino,Misure di Prevenzione,Confisca def.,32197/2009
+Piemonte,Procura della Repubblica,Torino,Procedimento Penale,,5108/2016
 Piemonte,Procura della Repubblica,Torino,Procedimento Penale,Confisca I,13831/2015
 Piemonte,Procura della Repubblica,Torino,Procedimento Penale,Confisca I,23806/2013
 Piemonte,Procura della Repubblica,Torino,Procedimento Penale,Confisca I,29052/2010
@@ -2625,6 +2632,7 @@ Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,1/2000
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,1/2007
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,10/1992
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,10/2015
+Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,101/2021
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,104/2019
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,11/2010
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Confisca def.,11/2012
@@ -2815,6 +2823,7 @@ Piemonte,Tribunale,Torino,Misure di Prevenzione,Revoca Seq.,20/2015
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Revoca Seq.,27/2015
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Revoca Seq.,35/2014
 Piemonte,Tribunale,Torino,Misure di Prevenzione,Rinvio,84/2019
+Piemonte,Tribunale,Torino,Procedimento Penale,,1956/2020
 Piemonte,Tribunale,Torino,Procedimento Penale,Confisca II,26238/2013
 Piemonte,Tribunale,Torino,Procedimento Penale,Confisca def.,14147/2021
 Piemonte,Tribunale,Torino,Procedimento Penale,Confisca def.,14354/2008
