@@ -7978,7 +7978,7 @@ I-ME-86752-S,immobili,Sicilia,Messina,Messina,Unità immobiliare per uso di abit
 I-ME-86753-S,immobili,Sicilia,Messina,Messina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-86754-S,immobili,Sicilia,Messina,Messina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,14%,Tribunale,Messina,Misure di Prevenzione
 I-ME-86757-S,immobili,Sicilia,Messina,Messina,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,14%,Tribunale,Messina,Misure di Prevenzione
-I-ME-86758-S,immobili,Sicilia,Messina,Messina,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,14%,Tribunale,Messina,Misure di Prevenzione
+I-ME-86758-S,immobili,Sicilia,Messina,Messina,Unità immobiliare a destinazione commerciale e industriale,Laboratorio per arti e mestieri,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-86902-S,immobili,Sicilia,Messina,Milazzo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-86904-S,immobili,Sicilia,Messina,Milazzo,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
 I-ME-86905-S,immobili,Sicilia,Messina,Milazzo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Messina,Misure di Prevenzione
@@ -13374,11 +13374,8 @@ I-PA-133206-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abi
 I-PA-133208-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-133213-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-133230-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-133516-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-133648-S,immobili,Sicilia,Palermo,Santa Flavia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-133649-S,immobili,Sicilia,Palermo,Santa Flavia,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca I,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-133749-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-133750-S,immobili,Sicilia,Palermo,Palermo,Altra unità immobiliare,Altra unità  immobil. - non definito,Confisca II,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-133763-S,immobili,Sicilia,Palermo,Cinisi,Terreno,Terreno con fabbricato rurale,,0%,Procura della Repubblica,Palermo,Procedimento Penale
 I-PA-133870-S,immobili,Sicilia,Palermo,Cinisi,Terreno,Terreno - non definito,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-133871-S,immobili,Sicilia,Palermo,Monreale,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
@@ -13398,6 +13395,8 @@ I-PA-133884-S,immobili,Sicilia,Palermo,Monreale,Unità immobiliare per uso di ab
 I-PA-133885-S,immobili,Sicilia,Palermo,Monreale,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-133886-S,immobili,Sicilia,Palermo,Monreale,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-133887-S,immobili,Sicilia,Palermo,Monreale,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-134849-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-134850-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca II,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-16017-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare a destinazione commerciale e industriale,"Negozio, Bottega",Confisca def.,100%,Tribunale,Milano,Misure di Prevenzione
 I-PA-18053-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-18137-S,immobili,Sicilia,Palermo,Ciminna,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
