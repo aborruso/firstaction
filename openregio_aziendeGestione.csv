@@ -493,6 +493,11 @@ A-CL-100242-S,aziende,Sicilia,Caltanissetta,Mussomeli,Società a responsabilità
 A-CL-101411-S,aziende,Sicilia,Caltanissetta,Gela,Impresa individuale,"Trasporti, magazzinaggio e comunicazioni",Confisca II,0%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-101689-S,aziende,Sicilia,Caltanissetta,Gela,Società a responsabilità limitata,Alberghi e ristoranti,Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-101742-S,aziende,Sicilia,Caltanissetta,Gela,Impresa individuale,Alberghi e ristoranti,Confisca II,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-CL-134929-S,aziende,Sicilia,Caltanissetta,Gela,Società a responsabilità limitata,Costruzioni,Confisca def.,50%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-CL-134930-S,aziende,Sicilia,Caltanissetta,Gela,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-CL-134932-S,aziende,Sicilia,Caltanissetta,Gela,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-CL-134935-S,aziende,Sicilia,Caltanissetta,Gela,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-CL-134936-S,aziende,Sicilia,Caltanissetta,Gela,Società a responsabilità limitata,Costruzioni,Confisca def.,23000%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-18784-S,aziende,Sicilia,Caltanissetta,Mussomeli,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-CL-1893-S,aziende,Sicilia,Caltanissetta,Delia,Società cooperativa,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Procura della Repubblica,Milano,Procedimento Penale
 A-CL-22787-S,aziende,Sicilia,Caltanissetta,Resuttano,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
@@ -2308,6 +2313,9 @@ A-RE-74780-S,aziende,Emilia Romagna,Reggio Emilia,Montecchio Emilia,Società a r
 A-RE-95614-S,aziende,Emilia Romagna,Reggio Emilia,Albinea,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 A-RE-98855-S,aziende,Emilia Romagna,Reggio Emilia,Gualtieri,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-RG-102354-S,aziende,Sicilia,Ragusa,Comiso,Società a responsabilità limitata,Costruzioni,Confisca def.,25%,Tribunale,Catania,Misure di Prevenzione
+A-RG-134931-S,aziende,Sicilia,Ragusa,Acate,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-RG-134933-S,aziende,Sicilia,Ragusa,Acate,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
+A-RG-134934-S,aziende,Sicilia,Ragusa,Vittoria,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-RG-35488-S,aziende,Sicilia,Ragusa,Vittoria,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Ragusa,Misure di Prevenzione
 A-RG-77224-S,aziende,Sicilia,Ragusa,Ispica,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
 A-RG-77225-S,aziende,Sicilia,Ragusa,Ispica,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Siracusa,Misure di Prevenzione
@@ -2975,7 +2983,6 @@ A-TO-76761-S,aziende,Piemonte,Torino,Torino,Società cooperativa,"Trasporti, mag
 A-TO-79466-S,aziende,Piemonte,Torino,Torino,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-82173-S,aziende,Piemonte,Torino,Orbassano,Società in nome collettivo,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-83712-S,aziende,Piemonte,Torino,Torino,Impresa individuale,Attività manifatturiere,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
-A-TO-92355-S,aziende,Piemonte,Torino,Pinerolo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-92451-S,aziende,Piemonte,Torino,Torino,Società in accomandita semplice,Alberghi e ristoranti,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-95625-S,aziende,Piemonte,Torino,Torino,Società in accomandita semplice,Alberghi e ristoranti,Confisca II,90%,Procura della Repubblica,Torino,Procedimento Penale
 A-TO-95845-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,"Produzione e distribuzione di energia elettrica, gas e acqua",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
@@ -3149,6 +3156,7 @@ A-VI-133285-S,aziende,Veneto,Vicenza,Vicenza,Società in nome collettivo,"Traspo
 A-VI-133286-S,aziende,Veneto,Vicenza,Vicenza,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,0%,Tribunale,Venezia,Misure di Prevenzione
 A-VI-133287-S,aziende,Veneto,Vicenza,Torri di Quartesolo,Impresa individuale,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 A-VI-133289-S,aziende,Veneto,Vicenza,Vicenza,Società in accomandita semplice,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,50%,Tribunale,Venezia,Misure di Prevenzione
+A-VI-134928-S,aziende,Veneto,Vicenza,Montecchio Maggiore,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Caltanissetta,Misure di Prevenzione
 A-VR-101861-S,aziende,Veneto,Verona,Arcole,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,95%,Tribunale,Reggio Emilia,Misure di Prevenzione
 A-VR-133000-S,aziende,Veneto,Verona,San Pietro in Cariano,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione
 A-VR-133008-S,aziende,Veneto,Verona,Verona,Società a responsabilità limitata,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Venezia,Misure di Prevenzione

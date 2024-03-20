@@ -5539,7 +5539,7 @@ I-FG-77309-S,immobili,Puglia,Foggia,San Severo,Terreno,Terreno - non definito,Co
 I-FG-80729-S,immobili,Puglia,Foggia,Poggio Imperiale,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-80730-S,immobili,Puglia,Foggia,Poggio Imperiale,Unità immobiliare per uso di abitazione e assimilabile,Unità  uso abit. e assimil. - non definito,Confisca def.,100%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-80858-S,immobili,Puglia,Foggia,Foggia,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Foggia,Misure di Prevenzione
-I-FG-83203-S,immobili,Puglia,Foggia,Stornara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Procura della Repubblica,Bari,Procedimento Penale
+I-FG-83203-S,immobili,Puglia,Foggia,Stornara,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Bari,Procedimento Penale
 I-FG-84334-S,immobili,Puglia,Foggia,Stornara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,0%,Tribunale,Foggia,Misure di Prevenzione
 I-FG-86713-S,immobili,Puglia,Foggia,Stornara,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Bari,Procedimento Penale
 I-FG-86714-S,immobili,Puglia,Foggia,Stornara,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,100%,Procura della Repubblica,Bari,Procedimento Penale
@@ -20101,6 +20101,25 @@ I-TA-133519-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare per uso di abit
 I-TA-133520-S,immobili,Puglia,Taranto,San Giorgio Ionico,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Lecce,Misure di Prevenzione
 I-TA-134819-S,immobili,Puglia,Taranto,Palagiano,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 I-TA-134820-S,immobili,Puglia,Taranto,Taranto,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-134937-S,immobili,Puglia,Taranto,Martina Franca,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-134938-S,immobili,Puglia,Taranto,Martina Franca,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-134939-S,immobili,Puglia,Taranto,Martina Franca,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-134940-S,immobili,Puglia,Taranto,Martina Franca,Terreno,Terreno agricolo,Confisca def.,75%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-134941-S,immobili,Puglia,Taranto,Martina Franca,Terreno,Terreno con fabbricato rurale,Revoca Conf.,0%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-134942-S,immobili,Puglia,Taranto,Martina Franca,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-134943-S,immobili,Puglia,Taranto,Martina Franca,Unità immobiliare a destinazione commerciale e industriale,"Magazzino, Locale di deposito",Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-134944-S,immobili,Puglia,Taranto,Martina Franca,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-134945-S,immobili,Puglia,Taranto,Martina Franca,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-134946-S,immobili,Puglia,Taranto,Martina Franca,Terreno,Terreno agricolo,Confisca def.,63%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-134947-S,immobili,Puglia,Taranto,Martina Franca,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-134948-S,immobili,Puglia,Taranto,Martina Franca,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-134949-S,immobili,Puglia,Taranto,Martina Franca,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-134950-S,immobili,Puglia,Taranto,Martina Franca,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-134951-S,immobili,Puglia,Taranto,Martina Franca,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-134952-S,immobili,Puglia,Taranto,Martina Franca,Terreno,Terreno con fabbricato rurale,Revoca Conf.,0%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-134953-S,immobili,Puglia,Taranto,Martina Franca,Unità immobiliare per alloggio e usi collettivi,"Scuola, Laboratorio Scientifico",Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-134954-S,immobili,Puglia,Taranto,Martina Franca,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
+I-TA-134955-S,immobili,Puglia,Taranto,Martina Franca,Terreno,Terreno con fabbricato rurale,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
 I-TA-13851-S,immobili,Puglia,Taranto,Pulsano,Unità immobiliare a destinazione commerciale e industriale,Altro,Confisca def.,33%,Tribunale,Taranto,Misure di Prevenzione
 I-TA-17504-S,immobili,Puglia,Taranto,Pulsano,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Procura della Repubblica,Taranto,Procedimento Penale
 I-TA-19385-S,immobili,Puglia,Taranto,Grottaglie,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Taranto,Misure di Prevenzione
@@ -20254,11 +20273,6 @@ I-TN-95126-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno 
 I-TN-95127-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
 I-TN-95128-S,immobili,Trentino Alto Adige,Trento,Roncegno Terme,Terreno,Terreno agricolo,Confisca def.,100%,Procura della Repubblica,Trento,Procedimento Penale
 I-TO-100032-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
-I-TO-100390-S,immobili,Piemonte,Torino,Gravere,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
-I-TO-100391-S,immobili,Piemonte,Torino,Gravere,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,50%,Tribunale,Torino,Misure di Prevenzione
-I-TO-100392-S,immobili,Piemonte,Torino,Gravere,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,50%,Tribunale,Torino,Misure di Prevenzione
-I-TO-100393-S,immobili,Piemonte,Torino,Gravere,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,50%,Tribunale,Torino,Misure di Prevenzione
-I-TO-100394-S,immobili,Piemonte,Torino,Gravere,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,50%,Tribunale,Torino,Misure di Prevenzione
 I-TO-100524-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca I,45%,Tribunale,Torino,Misure di Prevenzione
 I-TO-100525-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,45%,Tribunale,Torino,Misure di Prevenzione
 I-TO-100526-S,immobili,Piemonte,Torino,Torino,Terreno,Terreno agricolo,Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
@@ -20412,6 +20426,8 @@ I-TO-134711-S,immobili,Piemonte,Torino,Carmagnola,Unità immobiliare per uso di 
 I-TO-134714-S,immobili,Piemonte,Torino,Carmagnola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-134718-S,immobili,Piemonte,Torino,Carmagnola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-134727-S,immobili,Piemonte,Torino,Carmagnola,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca I,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-134957-S,immobili,Piemonte,Torino,Caselle Torinese,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-134961-S,immobili,Piemonte,Torino,Borgaro Torinese,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-1364-S,immobili,Piemonte,Torino,Salassa,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-1365-S,immobili,Piemonte,Torino,Salassa,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-1366-S,immobili,Piemonte,Torino,Salassa,Terreno,Terreno agricolo,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
@@ -20622,7 +20638,7 @@ I-TO-86460-S,immobili,Piemonte,Torino,Prascorsano,Altra unità immobiliare,Altro
 I-TO-86461-S,immobili,Piemonte,Torino,Prascorsano,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
 I-TO-86462-S,immobili,Piemonte,Torino,Prascorsano,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
 I-TO-86463-S,immobili,Piemonte,Torino,Prascorsano,Altra unità immobiliare,Altro,Confisca def.,100%,Procura della Repubblica,Torino,Procedimento Penale
-I-TO-86464-S,immobili,Piemonte,Torino,Pinerolo,Unità immobiliare a destinazione commerciale e industriale,Unità  a dest. comm. e ind. - non definito,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+I-TO-86464-S,immobili,Piemonte,Torino,Pinerolo,Unità immobiliare a destinazione commerciale e industriale,Fabbricato industriale,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-86511-S,immobili,Piemonte,Torino,Torino,Unità immobiliare per uso di abitazione e assimilabile,"Box, garage, autorimessa, posto auto",Confisca def.,82%,Tribunale,Torino,Misure di Prevenzione
 I-TO-86542-S,immobili,Piemonte,Torino,Cuorgnè,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 I-TO-86543-S,immobili,Piemonte,Torino,Cuorgnè,Unità immobiliare per uso di abitazione e assimilabile,Abitazione indipendente,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
