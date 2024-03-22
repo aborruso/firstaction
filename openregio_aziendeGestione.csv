@@ -2809,7 +2809,7 @@ A-SA-2297-S,aziende,Campania,Salerno,Salerno,Impresa individuale,"Commercio ingr
 A-SA-30033-S,aziende,Campania,Salerno,Sala Consilina,Società a responsabilità limitata,Attività manifatturiere,Confisca def.,1%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-30054-S,aziende,Campania,Salerno,Cava de' Tirreni,Altro,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,29%,Corte di Appello,Salerno,Misure di Prevenzione
 A-SA-30152-S,aziende,Campania,Salerno,Campagna,Impresa individuale,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Corte di Appello,Salerno,Misure di Prevenzione
-A-SA-30392-S,aziende,Campania,Salerno,Nocera Inferiore,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Corte di Appello,Salerno,Misure di Prevenzione
+A-SA-30392-S,aziende,Campania,Salerno,Nocera Inferiore,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
 A-SA-32331-S,aziende,Campania,Salerno,Angri,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,100%,Corte di Appello,Salerno,Misure di Prevenzione
 A-SA-33723-S,aziende,Campania,Salerno,Baronissi,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Salerno,Procedimento Penale
 A-SA-34481-S,aziende,Campania,Salerno,Campagna,Altro,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Salerno,Misure di Prevenzione
@@ -2983,6 +2983,7 @@ A-TO-76761-S,aziende,Piemonte,Torino,Torino,Società cooperativa,"Trasporti, mag
 A-TO-79466-S,aziende,Piemonte,Torino,Torino,Società in accomandita semplice,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-82173-S,aziende,Piemonte,Torino,Orbassano,Società in nome collettivo,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-83712-S,aziende,Piemonte,Torino,Torino,Impresa individuale,Attività manifatturiere,Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
+A-TO-92355-S,aziende,Piemonte,Torino,Pinerolo,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-92451-S,aziende,Piemonte,Torino,Torino,Società in accomandita semplice,Alberghi e ristoranti,Confisca II,100%,Tribunale,Torino,Misure di Prevenzione
 A-TO-95625-S,aziende,Piemonte,Torino,Torino,Società in accomandita semplice,Alberghi e ristoranti,Confisca II,90%,Procura della Repubblica,Torino,Procedimento Penale
 A-TO-95845-S,aziende,Piemonte,Torino,Torino,Società a responsabilità limitata,"Produzione e distribuzione di energia elettrica, gas e acqua",Confisca def.,100%,Tribunale,Torino,Misure di Prevenzione
@@ -3168,7 +3169,7 @@ A-VT-35860-S,aziende,Lazio,Viterbo,Soriano nel Cimino,Società a responsabilità
 A-VT-6621-S,aziende,Lazio,Viterbo,Tarquinia,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Roma,Misure di Prevenzione
 A-VT-93136-S,aziende,Lazio,Viterbo,Fabrica di Roma,Società a responsabilità limitata,"Commercio ingrosso-dettaglio, riparazione veicoli, beni personali, casa",Confisca def.,25%,Tribunale,Roma,Misure di Prevenzione
 A-VV-135001-S,aziende,Calabria,Vibo Valentia,Limbadi,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
-A-VV-135022-S,aziende,Calabria,Vibo Valentia,Limbadi,Impresa individuale,"Agricoltura, caccia e silvicoltura",Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
+A-VV-135022-S,aziende,Calabria,Vibo Valentia,Limbadi,Impresa individuale,"Agricoltura, caccia e silvicoltura",Revoca Conf.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 A-VV-135041-S,aziende,Calabria,Vibo Valentia,Filandari,Impresa individuale,"Altri servizi pubblici, sociali e personali",Confisca def.,100%,Tribunale,Catanzaro,Misure di Prevenzione
 A-VV-15321-S,aziende,Calabria,Vibo Valentia,Tropea,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Vibo Valentia,Misure di Prevenzione
 A-VV-15421-S,aziende,Calabria,Vibo Valentia,Vibo Valentia,Società a responsabilità limitata,"Trasporti, magazzinaggio e comunicazioni",Confisca def.,50%,Tribunale,Vibo Valentia,Misure di Prevenzione
