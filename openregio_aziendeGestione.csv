@@ -1267,7 +1267,7 @@ A-NA-132068-S,aziende,Campania,Napoli,Giugliano in Campania,Società a responsab
 A-NA-132933-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Costruzioni,Confisca def.,33%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-NA-132943-S,aziende,Campania,Napoli,Somma Vesuviana,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Revoca Seq.,0%,Tribunale,Santa Maria Capua Vetere,Misure di Prevenzione
 A-NA-133290-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Alberghi e ristoranti,,0%,Procura della Repubblica,Napoli,Procedimento Penale
-A-NA-133761-S,aziende,Campania,Napoli,Giugliano in Campania,Società a responsabilità limitata,Alberghi e ristoranti,,0%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-133761-S,aziende,Campania,Napoli,Giugliano in Campania,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,0%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-18911-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Costruzioni,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Misure di Prevenzione
 A-NA-18912-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Costruzioni,Confisca def.,100%,Procura della Repubblica,Santa Maria Capua Vetere,Misure di Prevenzione
 A-NA-2463-S,aziende,Campania,Napoli,Casavatore,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
@@ -1566,10 +1566,10 @@ A-NA-98115-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,
 A-NA-9852-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Attività finanziarie,Confisca def.,10%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-9853-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Attività finanziarie,Confisca def.,45%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-9857-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Attività finanziarie,Confisca def.,60%,Procura della Repubblica,Napoli,Procedimento Penale
-A-NA-98573-S,aziende,Campania,Napoli,Giugliano in Campania,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,0%,Procura della Repubblica,Napoli,Procedimento Penale
-A-NA-98581-S,aziende,Campania,Napoli,Giugliano in Campania,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Confisca def.,0%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-98573-S,aziende,Campania,Napoli,Giugliano in Campania,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Conf.,100%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-98581-S,aziende,Campania,Napoli,Giugliano in Campania,Società a responsabilità limitata,"Altri servizi pubblici, sociali e personali",Revoca Conf.,100%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-9864-S,aziende,Campania,Napoli,Quarto,Impresa individuale,"Attività immobiliari, noleggio, informatica, ricerca, servizi alle imprese",Confisca def.,100%,Procura della Repubblica,Napoli,Procedimento Penale
-A-NA-98727-S,aziende,Campania,Napoli,Giugliano in Campania,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,0%,Procura della Repubblica,Napoli,Procedimento Penale
+A-NA-98727-S,aziende,Campania,Napoli,Giugliano in Campania,Società a responsabilità limitata,Alberghi e ristoranti,Revoca Conf.,0%,Procura della Repubblica,Napoli,Procedimento Penale
 A-NA-99836-S,aziende,Campania,Napoli,Napoli,Società in accomandita semplice,Alberghi e ristoranti,Confisca def.,50%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-99843-S,aziende,Campania,Napoli,Napoli,Impresa individuale,Alberghi e ristoranti,Confisca def.,100%,Tribunale,Napoli,Misure di Prevenzione
 A-NA-99851-S,aziende,Campania,Napoli,Napoli,Società a responsabilità limitata,Alberghi e ristoranti,Confisca def.,50%,Tribunale,Napoli,Misure di Prevenzione
