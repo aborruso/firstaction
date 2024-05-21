@@ -13251,7 +13251,7 @@ I-PA-132492-S,immobili,Sicilia,Palermo,Palermo,Terreno,Terreno agricolo,Confisca
 I-PA-132500-S,immobili,Sicilia,Palermo,Carini,Terreno,Terreno con fabbricato rurale,,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132501-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132502-S,immobili,Sicilia,Palermo,Palermo,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Palermo,Misure di Prevenzione
-I-PA-132506-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,,0%,Tribunale,Palermo,Misure di Prevenzione
+I-PA-132506-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132507-S,immobili,Sicilia,Palermo,Carini,Altra unità immobiliare,Altro,,0%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132825-S,immobili,Sicilia,Palermo,Carini,Unità immobiliare a destinazione commerciale e industriale,"Stalla, scuderia",Confisca def.,100%,Tribunale,Palermo,Misure di Prevenzione
 I-PA-132826-S,immobili,Sicilia,Palermo,Carini,Terreno,Terreno agricolo,,0%,Tribunale,Palermo,Misure di Prevenzione
@@ -14715,8 +14715,8 @@ I-PA-75095-S,immobili,Sicilia,Palermo,Campofelice di Roccella,Unità immobiliare
 I-PA-75096-S,immobili,Sicilia,Palermo,Campofelice di Roccella,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
 I-PA-75097-S,immobili,Sicilia,Palermo,Villabate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
 I-PA-75098-S,immobili,Sicilia,Palermo,Villabate,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
-I-PA-75099-S,immobili,Sicilia,Palermo,Campofelice di Roccella,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
-I-PA-75100-S,immobili,Sicilia,Palermo,Campofelice di Roccella,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-75099-S,immobili,Sicilia,Palermo,Campofelice di Roccella,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
+I-PA-75100-S,immobili,Sicilia,Palermo,Campofelice di Roccella,Unità immobiliare per uso di abitazione e assimilabile,Altro,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
 I-PA-75101-S,immobili,Sicilia,Palermo,Campofelice di Roccella,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
 I-PA-75102-S,immobili,Sicilia,Palermo,Campofelice di Roccella,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
 I-PA-75103-S,immobili,Sicilia,Palermo,Campofelice di Roccella,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Procura della Repubblica,Palermo,Procedimento Penale
@@ -16370,7 +16370,6 @@ I-RC-131741-S,immobili,Calabria,Reggio Calabria,Siderno,Unità immobiliare per u
 I-RC-131744-S,immobili,Calabria,Reggio Calabria,Siderno,Unità immobiliare per uso di abitazione e assimilabile,Villa,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-131745-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-131746-S,immobili,Calabria,Reggio Calabria,Siderno,Terreno,Terreno agricolo,Confisca def.,3%,Tribunale,Reggio Calabria,Misure di Prevenzione
-I-RC-132134-S,immobili,Calabria,Reggio Calabria,Benestare,Unità immobiliare per uso di abitazione e assimilabile,Appartamento in condominio,Confisca def.,100%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-132137-S,immobili,Calabria,Reggio Calabria,Sinopoli,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-132142-S,immobili,Calabria,Reggio Calabria,Sinopoli,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Reggio Calabria,Misure di Prevenzione
 I-RC-132146-S,immobili,Calabria,Reggio Calabria,Sinopoli,Terreno,Terreno agricolo,Confisca def.,50%,Tribunale,Reggio Calabria,Misure di Prevenzione
